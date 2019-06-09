@@ -1,7 +1,7 @@
 ---
 title: Account based Marketing and Dynamics CRM
 author: Julian
-type: syn_worknote
+type: note
 date: 2017-02-09T09:31:52+00:00
 url: /worknotes/account-based-marketing-and-dynamics-crm/
 

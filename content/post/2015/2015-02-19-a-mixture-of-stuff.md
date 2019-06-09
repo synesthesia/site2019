@@ -1,7 +1,7 @@
 ---
 title: A mixture of stuff
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-02-19T09:24:49+00:00
 excerpt: |
   |

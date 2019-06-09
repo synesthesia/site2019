@@ -1,7 +1,7 @@
 ---
 title: Some notes for today
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-02-23T09:42:35+00:00
 excerpt: |
   |

@@ -1,7 +1,7 @@
 ---
 title: Techie day today
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-03-04T14:54:58+00:00
 excerpt: |
   |

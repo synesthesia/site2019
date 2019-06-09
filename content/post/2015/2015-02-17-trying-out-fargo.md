@@ -1,7 +1,7 @@
 ---
 title: Trying out Fargo
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-02-17T09:18:39+00:00
 excerpt: Fargo is an outliner in the cloud, uses Dropbox for data persistence. I'm using FeedPress to insert the RSS feed of the published site as custom post types in my WordPress site
 url: /worknotes/trying-out-fargo/

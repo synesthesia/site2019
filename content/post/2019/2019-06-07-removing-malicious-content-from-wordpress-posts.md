@@ -1,7 +1,7 @@
 ---
 title: Removing malicious content from WordPress posts
 author: Julian
-type: syn_worknote
+type: note
 date: 2019-06-07T10:43:49+00:00
 url: /worknotes/removing-malicious-content-from-wordpress-posts/
 

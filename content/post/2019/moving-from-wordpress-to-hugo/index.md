@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \;

@@ -1,7 +1,7 @@
 ---
 title: Dynamics CRM entity status weirdness
 author: Julian
-type: syn_worknote
+type: note
 date: 2017-02-03T11:46:33+00:00
 url: /worknotes/dynamics-crm-entity-status-weirdness/
 

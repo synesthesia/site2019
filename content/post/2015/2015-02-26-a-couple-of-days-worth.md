@@ -1,7 +1,7 @@
 ---
 title: a couple of days worth
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-02-26T08:03:54+00:00
 excerpt: |
   |

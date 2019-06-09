@@ -1,7 +1,7 @@
 ---
 title: CRM plugin hard won learnings
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-06-18T10:25:57+00:00
 excerpt: If you need to use ILMerge, you must use an unencrypted string name key for your assembly If you change the strong name key for your assembly, CRM thinks it's a whole new assembly, so it might pay to create new ones explicitly
 url: /worknotes/crm-plugin-hard-won-learnings/

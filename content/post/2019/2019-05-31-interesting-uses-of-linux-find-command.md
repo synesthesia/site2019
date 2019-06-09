@@ -1,7 +1,7 @@
 ---
 title: Interesting uses of Linux “find” command
 author: Julian
-type: syn_worknote
+type: note
 date: 2019-05-31T08:36:37+00:00
 url: /worknotes/interesting-uses-of-linux-find-command/
 

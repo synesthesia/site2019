@@ -1,7 +1,7 @@
 ---
 title: Whole new month!
 author: Julian
-type: syn_worknote
+type: note
 date: 2015-03-02T07:23:00+00:00
 excerpt: |
   |
