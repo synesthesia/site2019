@@ -82,3 +82,5 @@ I take a proactive and commercially astute approach to applying innovative techn
 During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses.
 
 I also have experience of board-level engagement with a social enterprise delivering housing to persons in need.
+
+I completely blame [Euan Semple](http://euansemple.com/theobvious) for introducing me to this strange idea of blogging back in 2001. As you can see from this site it has been an on-off-on-off-on sort of thing since then. I'm rather amused that the web has gone full circle in a lot of cases to simple files served by a lightweight server, even though these days we have lots of tools to build as complex a site as we like from those files.
