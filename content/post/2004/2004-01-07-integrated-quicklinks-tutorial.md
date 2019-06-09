@@ -7,4 +7,4 @@ excerpt: A brief tutorial for MoveableType on combining regular weblog entries w
 url: /2004/01/07/integrated-quicklinks-tutorial/
 
 ---
-&#8220;Integrated Quicklinks Tutorial&#8221;:http://www.hitormiss.org/archives/2004/01/integrated-quicklinks-tutorial for Moveable Type
+&#8220;Integrated Quicklinks Tutorial&#8221;:https://www.hitormiss.org/archives/2004/01/integrated-quicklinks-tutorial for Moveable Type

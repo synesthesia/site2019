@@ -128,13 +128,13 @@ I’m in the middle of a review cycle with a group of stakeholders who are used 
 
 What approaches have you used to document project benefits in a graphical format? Please leave a comment…
 
- [1]: http://www.pmis.co.uk/benefits_realisation.htm
- [2]: http://www.amazon.co.uk/gp/product/1409400948?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=1409400948
- [3]: http://www.amazon.co.uk/gp/product/047009463X?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=047009463X
- [4]: http://www.sigma-uk.com/about/history.html
- [5]: http://www.changedirector.com/Solutions/Benefits-%20Management
+ [1]: https://www.pmis.co.uk/benefits_realisation.htm
+ [2]: https://www.amazon.co.uk/gp/product/1409400948?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=1409400948
+ [3]: https://www.amazon.co.uk/gp/product/047009463X?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=047009463X
+ [4]: https://www.sigma-uk.com/about/history.html
+ [5]: https://www.changedirector.com/Solutions/Benefits-%20Management
  [6]: https://www.synesthesia.co.uk/blog/archives/2009/12/14/lean-programme-shaping-models/
- [7]: http://www.sparxsystems.com/
+ [7]: https://www.sparxsystems.com/
  [8]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/sample-ben-map.gif
- [9]: http://www.uml-diagrams.org/profile-diagrams.html#profile
+ [9]: https://www.uml-diagrams.org/profile-diagrams.html#profile
  [10]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/simple-ben-map.gif

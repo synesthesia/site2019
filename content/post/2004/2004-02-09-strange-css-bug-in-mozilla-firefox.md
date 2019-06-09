@@ -21,4 +21,4 @@ has worked around it&#8230;
 
 Anyone know how to report bugs to Mozilla?
 
- [1]: http://www.mozilla.org/products/firefox/
+ [1]: https://www.mozilla.org/products/firefox/

@@ -49,19 +49,19 @@ Links to annotated versions of the sources via [my Diigo library][14]:
   * [Twenty-two power laws of the emerging social economy][20] – Dion Hinchcliffe for ZdNet
   * [Let the Network do the work][21] – Dion Hinchcliffe
 
- [1]: http://www.mckinsey.com/Insights/High_Tech_Telecoms_Internet/Transforming_the_business_through_social_tools
- [2]: http://www.mckinsey.com/Insights/High_Tech_Telecoms_Internet/'/~/media/McKinsey/dotcom/Insights/High%20Tech%20Internet/Transforming%20the%20business%20through%20social%20tools/SVGWeb20srvyex2.ashx
+ [1]: https://www.mckinsey.com/Insights/High_Tech_Telecoms_Internet/Transforming_the_business_through_social_tools
+ [2]: https://www.mckinsey.com/Insights/High_Tech_Telecoms_Internet/'/~/media/McKinsey/dotcom/Insights/High%20Tech%20Internet/Transforming%20the%20business%20through%20social%20tools/SVGWeb20srvyex2.ashx
  [3]: https://plus.google.com/+WalterAdamson?prsrc=5
- [4]: http://www.kinshipenterprise.com/_blog/Blog/post/how-fully-networked-companies-get-better-roi-from-social-technologies
- [5]: http://dionhinchcliffe.com/
- [6]: http://dionhinchcliffe.com/2015/02/05/the-strategic-value-of-social-business-what-weve-learned/
+ [4]: https://www.kinshipenterprise.com/_blog/Blog/post/how-fully-networked-companies-get-better-roi-from-social-technologies
+ [5]: https://dionhinchcliffe.com/
+ [6]: https://dionhinchcliffe.com/2015/02/05/the-strategic-value-of-social-business-what-weve-learned/
  [7]: https://twitter.com/stoweboyd
- [8]: http://research.gigaom.com/2015/02/understanding-the-failed-promise-of-social-collaboration/
- [9]: http://calnewport.com/blog/2012/11/21/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/
+ [8]: https://research.gigaom.com/2015/02/understanding-the-failed-promise-of-social-collaboration/
+ [9]: https://calnewport.com/blog/2012/11/21/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/
  [10]: https://twitter.com/hjarche
- [11]: http://jarche.com/category/pkm/
- [12]: http://www.zdnet.com/article/twenty-two-power-laws-of-the-emerging-social-economy/
- [13]: http://dionhinchcliffe.com/2014/08/04/let-the-network-do-the-work/
+ [11]: https://jarche.com/category/pkm/
+ [12]: https://www.zdnet.com/article/twenty-two-power-laws-of-the-emerging-social-economy/
+ [13]: https://dionhinchcliffe.com/2014/08/04/let-the-network-do-the-work/
  [14]: https://www.diigo.com/user/synesthesia
  [15]: https://diigo.com/07h9dc
  [16]: https://diigo.com/07h9f1

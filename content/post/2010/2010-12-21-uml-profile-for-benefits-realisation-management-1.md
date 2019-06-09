@@ -41,14 +41,14 @@ The profile also includes a redefinition of [Association][12], which I will use 
 As always, I welcome comments!
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2010/12/20/modelling-benefits-in-uml/
- [2]: http://www.sparxsystems.com/enterprise_architect_user_guide/8.0/modeling_languages/umlprofiles_2.html
- [3]: http://www.sparxsystems.com/enterprise_architect_user_guide/8.0/modeling_languages/extending_uml.html
- [4]: http://www.uml-diagrams.org/profile-diagrams.html#stereotype
- [5]: http://www.uml-diagrams.org/profile-diagrams.html#metaclass
- [6]: http://publib.boulder.ibm.com/infocenter/rtnlhelp/v6r0m0/index.jsp?topic=/com.ibm.xtools.modeler.doc/topics/cenum.html
- [7]: http://www.uml-diagrams.org/profile-diagrams.html#tagged-value
- [8]: http://books.google.com/books?id=2IfFQY_XrfAC&lpg=PA113&ots=r5fdUWFy3k&pg=PA113#v=onepage&q=sigma%20benefit%20value%20types&f=false
- [9]: http://www.uml-diagrams.org/class-diagrams.html#abstraction
- [10]: http://www.uml-diagrams.org/class-diagrams.html#dependency
+ [2]: https://www.sparxsystems.com/enterprise_architect_user_guide/8.0/modeling_languages/umlprofiles_2.html
+ [3]: https://www.sparxsystems.com/enterprise_architect_user_guide/8.0/modeling_languages/extending_uml.html
+ [4]: https://www.uml-diagrams.org/profile-diagrams.html#stereotype
+ [5]: https://www.uml-diagrams.org/profile-diagrams.html#metaclass
+ [6]: https://publib.boulder.ibm.com/infocenter/rtnlhelp/v6r0m0/index.jsp?topic=/com.ibm.xtools.modeler.doc/topics/cenum.html
+ [7]: https://www.uml-diagrams.org/profile-diagrams.html#tagged-value
+ [8]: https://books.google.com/books?id=2IfFQY_XrfAC&lpg=PA113&ots=r5fdUWFy3k&pg=PA113#v=onepage&q=sigma%20benefit%20value%20types&f=false
+ [9]: https://www.uml-diagrams.org/class-diagrams.html#abstraction
+ [10]: https://www.uml-diagrams.org/class-diagrams.html#dependency
  [11]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/brm-profile-02.gif
- [12]: http://www.uml-diagrams.org/class-diagrams.html#association
+ [12]: https://www.uml-diagrams.org/class-diagrams.html#association

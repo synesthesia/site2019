@@ -11,7 +11,7 @@ url: /2004/05/25/free-culture/
 
 The article quotes Lessig
 
-<blockquote cite="http://chocnvodka.blogware.com/blog/_archives/2004/5/24/75489.html">
+<blockquote cite="https://chocnvodka.blogware.com/blog/_archives/2004/5/24/75489.html">
   <p>
     &#8220;Economists, of course, will tell you that this is the efficient way to sell, to make the content available, because where a marginal cost is zero the price is zero, where the marginal cost is positive you should charge a positive price.&#8221;
   </p>
@@ -65,13 +65,13 @@ If you&#8217;re an economist and can help turn this into a tighter argument plea
   
 Standard disclaimer: my opinion, no-one else&#8217;s. <acronym title="Your Mileage May Vary!">YMMV</acronym>.
 
- [1]: http://chocnvodka.blogware.com/blog
- [2]: http://chocnvodka.blogware.com/blog/_archives/2004/5/24/75489.html
- [3]: http://www.lessig.org/blog/
- [4]: http://www.free-culture.cc/
- [5]: http://www.creativecommons.org/
- [6]: http://www.zoetrope.com/
- [7]: http://observer.guardian.co.uk/business/story/0,6903,1168763,00.html
- [8]: http://www.riaa.com/
- [9]: http://creativecommons.org/learn/aboutus/
- [10]: http://www.bbccharterreview.org.uk/
+ [1]: https://chocnvodka.blogware.com/blog
+ [2]: https://chocnvodka.blogware.com/blog/_archives/2004/5/24/75489.html
+ [3]: https://www.lessig.org/blog/
+ [4]: https://www.free-culture.cc/
+ [5]: https://www.creativecommons.org/
+ [6]: https://www.zoetrope.com/
+ [7]: https://observer.guardian.co.uk/business/story/0,6903,1168763,00.html
+ [8]: https://www.riaa.com/
+ [9]: https://creativecommons.org/learn/aboutus/
+ [10]: https://www.bbccharterreview.org.uk/

@@ -7,6 +7,6 @@ excerpt: Collection of papers by John Boyd (of OODA fame)
 url: /2003/11/10/boyd-military-strategy/
 
 ---
-&#8220;Boyd & Military Strategy&#8221;:http://www.d-n-i.net/second\_level/boyd\_military.htm Collection of papers by John Boyd (of OODA(Observe, Orient, Decide, Act) ) fame) via [s.norrie][1]
+&#8220;Boyd & Military Strategy&#8221;:https://www.d-n-i.net/second\_level/boyd\_military.htm Collection of papers by John Boyd (of OODA(Observe, Orient, Decide, Act) ) fame) via [s.norrie][1]
 
- [1]: http://members.rogers.com/snorrie/weblog/
+ [1]: https://members.rogers.com/snorrie/weblog/

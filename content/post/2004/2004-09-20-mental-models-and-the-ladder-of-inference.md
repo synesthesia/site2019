@@ -11,5 +11,5 @@ url: /2004/09/20/mental-models-and-the-ladder-of-inference/
 
 This reminded me of the work published by Chris Argyris, Peter Senge and others on the [bliki]LadderOfInference[/bliki] . I wonder how we could encapsulate this thinking into the world of the blog?
 
- [1]: http://www.johnniemoore.com/blog/
- [2]: http://www.johnniemoore.com/blog/archives/000467.php
+ [1]: https://www.johnniemoore.com/blog/
+ [2]: https://www.johnniemoore.com/blog/archives/000467.php

@@ -7,4 +7,4 @@ excerpt: XML-based RSS parser in PHP
 url: /2003/12/30/magpie-rss-parser/
 
 ---
-&#8220;Magpie RSS Parser&#8221;:http://magpierss.sourceforge.net/ XML-based RSS parser in PHP
+&#8220;Magpie RSS Parser&#8221;:https://magpierss.sourceforge.net/ XML-based RSS parser in PHP

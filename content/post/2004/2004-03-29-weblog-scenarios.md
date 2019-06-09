@@ -9,4 +9,4 @@ url: /2004/03/29/weblog-scenarios/
 ---
 [Weblog Scenarios][1]. Dale Pike identifies seven useful scenarios for weblogs in a professional knowledge context.
 
- [1]: http://itc.uncc.edu/dale/su8/archives/002975.html
+ [1]: https://itc.uncc.edu/dale/su8/archives/002975.html

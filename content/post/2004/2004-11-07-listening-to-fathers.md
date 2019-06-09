@@ -21,8 +21,8 @@ The authors conclude with a call to all family support services not only to reco
 
 Thought-provoking stuff.
 
- [1]: http://news.bbc.co.uk/1/hi/uk/3653986.stm
- [2]: http://news.bbc.co.uk/1/hi/england/london/3646948.stm
- [3]: http://news.bbc.co.uk/1/hi/uk_politics/3728617.stm
- [4]: http://www.parentlineplus.org.uk/
- [5]: http://www.parentlineplus.org.uk/uploads/tx_policyreports/Fathers_report_2004_01.doc ""
+ [1]: https://news.bbc.co.uk/1/hi/uk/3653986.stm
+ [2]: https://news.bbc.co.uk/1/hi/england/london/3646948.stm
+ [3]: https://news.bbc.co.uk/1/hi/uk_politics/3728617.stm
+ [4]: https://www.parentlineplus.org.uk/
+ [5]: https://www.parentlineplus.org.uk/uploads/tx_policyreports/Fathers_report_2004_01.doc ""

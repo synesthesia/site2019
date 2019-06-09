@@ -33,8 +33,8 @@ John Davies, [Next Generation Web Research Group, BT][2]
   * SemanticWiki &#8211; currently only keyword search, no consistency checking. Experiment &#8211; extend Wikipedia by adding type tags to links.
   * Project [ACTIVE][5]
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.btplc.com/Innovation/Index.cfm
- [3]: http://hubbub.labs.bt.com/
- [4]: http://domino.watson.ibm.com/cambridge/research.nsf/0/1c181ee5fbcf59fb852570fc0052ad75
- [5]: http://www.active-project.eu/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.btplc.com/Innovation/Index.cfm
+ [3]: https://hubbub.labs.bt.com/
+ [4]: https://domino.watson.ibm.com/cambridge/research.nsf/0/1c181ee5fbcf59fb852570fc0052ad75
+ [5]: https://www.active-project.eu/

@@ -14,4 +14,4 @@ Been having problems with the [Wiki][1]. I&#8217;ve upgraded the [Twiki][2] scri
 Did line by line check of the twiki.cfg file and now it _seems_ to be working OK. Hmmm don&#8217;t have the satisfying feeling of knowing exactly what made the difference&#8230;.
 
  [1]: https://www.synesthesia.co.uk/cgi-bin/view.cgi
- [2]: http://www.twiki.org
+ [2]: https://www.twiki.org

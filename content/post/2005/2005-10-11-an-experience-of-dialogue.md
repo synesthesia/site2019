@@ -3,7 +3,7 @@ title: An experience of Dialogue
 author: Julian
 type: post
 date: 2005-10-11T20:43:12+00:00
-excerpt: 'I describe an experimental evening of Bohmian Dialogue, co-hosted by <a href="http://www.johnniemoore.com/blog">Johnnie Moore</a>, Alok Singh and Mark Hodge.'
+excerpt: 'I describe an experimental evening of Bohmian Dialogue, co-hosted by <a href="https://www.johnniemoore.com/blog">Johnnie Moore</a>, Alok Singh and Mark Hodge.'
 url: /2005/10/11/an-experience-of-dialogue/
 ttaglist:
   - dialogue, David+Bohm, group facilitation, action+learning, trance, action+research, collective+intelligence
@@ -39,11 +39,11 @@ I think many of us would want to repeat the experiment. Some of the questions th
   * What difference would it make if the group membership were a little bit (or a lot) different?
   * What else could we do to encourage the rapid forming of group flow?
 
- [1]: http://www.johnniemoore.com/blog/archives/001110.php
- [2]: http://www.johnniemoore.com/blog
- [3]: http://www.the-hub.net/
- [4]: http://purpleslurple.net/ps.php?theurl=http://www.haweracyclingclub.co.nz/cycling_jargon.htm#purp689
- [5]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0415149126%2526location=/o/ASIN/0415149126%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
- [6]: http://www.infed.org/archives/e-texts/bohm_dialogue.htm
- [7]: http://www.johnniemoore.com/blog/archives/synthesis.pdf
- [8]: http://www.syntonyquest.org/elcTree/resourcesPDFs/ThrivingConversations.pdf
+ [1]: https://www.johnniemoore.com/blog/archives/001110.php
+ [2]: https://www.johnniemoore.com/blog
+ [3]: https://www.the-hub.net/
+ [4]: https://purpleslurple.net/ps.php?theurl=https://www.haweracyclingclub.co.nz/cycling_jargon.htm#purp689
+ [5]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=0415149126%2526location=/o/ASIN/0415149126%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [6]: https://www.infed.org/archives/e-texts/bohm_dialogue.htm
+ [7]: https://www.johnniemoore.com/blog/archives/synthesis.pdf
+ [8]: https://www.syntonyquest.org/elcTree/resourcesPDFs/ThrivingConversations.pdf

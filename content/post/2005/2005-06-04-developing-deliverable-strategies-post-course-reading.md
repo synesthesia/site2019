@@ -25,11 +25,11 @@ and then popularised by by Brandenburger and Nalebuff:
 [![Co-opetition][8]][9]
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2005/04/22/developing-deliverable-strategies/
- [2]: http://images.amazon.com/images/P/0743260872.01._SCMZZZZZZZ_.jpg
- [3]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0743260872%2526location=/o/ASIN/0743260872%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
- [4]: http://images.amazon.com/images/P/0875847161.02._SCMZZZZZZZ_.jpg
- [5]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0875847161%2526location=/o/ASIN/0875847161%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
- [6]: http://images.amazon.com/images/P/0393310353.01._SCMZZZZZZZ_.jpg
- [7]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0393310353%2526location=/o/ASIN/0393310353%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
- [8]: http://images.amazon.com/images/P/1861975074.02._SCMZZZZZZZ_.jpg
- [9]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1861975074%2526location=/o/ASIN/1861975074%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
+ [2]: https://images.amazon.com/images/P/0743260872.01._SCMZZZZZZZ_.jpg
+ [3]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=0743260872%2526location=/o/ASIN/0743260872%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
+ [4]: https://images.amazon.com/images/P/0875847161.02._SCMZZZZZZZ_.jpg
+ [5]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=0875847161%2526location=/o/ASIN/0875847161%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
+ [6]: https://images.amazon.com/images/P/0393310353.01._SCMZZZZZZZ_.jpg
+ [7]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=0393310353%2526location=/o/ASIN/0393310353%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
+ [8]: https://images.amazon.com/images/P/1861975074.02._SCMZZZZZZZ_.jpg
+ [9]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1861975074%2526location=/o/ASIN/1861975074%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"

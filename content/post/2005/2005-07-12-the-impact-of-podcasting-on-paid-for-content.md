@@ -4,7 +4,7 @@ author: Julian
 type: post
 date: 2005-07-12T13:35:39+00:00
 excerpt: |
-  A <a href="http://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3">podcast</a> and related <a href="http://archive.scripting.com/2005/07/02">blog post</a> from <a href="http://archive.scripting.com/">Dave Winer</a>  [via <a href="http://doc.weblogs.com/2005/07/03#whyDrmIsEbwuPartN">Doc Searls</a>] makes some important points about the true impact of <abbr title="Digital Rights Management">DRM</abbr> on the media industry, and led me to start thinking about the strategic forces at play in the current "Internet will eat the Media" debate. 
+  A <a href="https://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3">podcast</a> and related <a href="https://archive.scripting.com/2005/07/02">blog post</a> from <a href="https://archive.scripting.com/">Dave Winer</a>  [via <a href="https://doc.weblogs.com/2005/07/03#whyDrmIsEbwuPartN">Doc Searls</a>] makes some important points about the true impact of <abbr title="Digital Rights Management">DRM</abbr> on the media industry, and led me to start thinking about the strategic forces at play in the current "Internet will eat the Media" debate. 
   
   In this post I summarise his key points, and then build on them to produce a <a href="/blog/wiki/Value+Net">value net</a> analysis of the media industry from the perspective of the current incumbents. In later posts I will look at the analysis from the perspective of the people who create the content and devlop some thinking on the strategies open to both parties.
 url: /2005/07/12/the-impact-of-podcasting-on-paid-for-content/
@@ -13,7 +13,7 @@ ttaglist:
 enclosure:
   - |
     |
-        http://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3
+        https://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3
         15628632
         audio/mpeg
         
@@ -43,7 +43,7 @@ Further, he suggests that because of the inconveniences of protected material, t
   
 Of course the latest big change in the podcasting world has been Apple&#8217;s [entry][7] (podcast modifications to iTunes, combined with the addition of a podcast directory to the [ITMS][8]). Dave references [this New York times article][9] by Randall Stross that speculates about why Apple would make easier for users to access free content that competed with the paid-for audio content (e.g. that by [Audible.com][10]) on ITMS. 
 
-The answer in the article comes in the form of an analyst&#8217;s view <cite title="http://www.nytimes.com/2005/07/03/business/yourmoney/03digi.html?ei=5088&#038;en=d4c35012b853c2db&#038;ex=1278043200&#038;partner=rssnyt&#038;emc=rss&#038;pagewanted=all">that the podcasting phenomenon had simply become too large for Apple to ignore &#8211; it had to embrace it or resist it</cite>. 
+The answer in the article comes in the form of an analyst&#8217;s view <cite title="https://www.nytimes.com/2005/07/03/business/yourmoney/03digi.html?ei=5088&#038;en=d4c35012b853c2db&#038;ex=1278043200&#038;partner=rssnyt&#038;emc=rss&#038;pagewanted=all">that the podcasting phenomenon had simply become too large for Apple to ignore &#8211; it had to embrace it or resist it</cite>. 
 
 I think it&#8217;s more straightforward than that &#8211; lots of available content is a very clear [complement][11] to sales of iPods, so I&#8217;d guess that Apple believes that what it might lose on lost content margin will be surpassed by increased hardware sales. 
 
@@ -83,21 +83,21 @@ In the paragraphs above I&#8217;ve (briefly) outlined the strategic position of 
   
 As a footnote &#8211; listening to (and making notes on) [DW][3]&#8216;s 40+ minute podcast reminded me of [Euan][17]&#8216;s post [Less is More][18] &#8211; the essential argument about the true market impact of DRM could have been made in a few hundred words of text &#8211; perhaps more labour to produce but easier to analyse!
 
- [1]: http://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3
- [2]: http://archive.scripting.com/2005/07/02
- [3]: http://archive.scripting.com/
- [4]: http://doc.weblogs.com/2005/07/03#whyDrmIsEbwuPartN
+ [1]: https://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3
+ [2]: https://archive.scripting.com/2005/07/02
+ [3]: https://archive.scripting.com/
+ [4]: https://doc.weblogs.com/2005/07/03#whyDrmIsEbwuPartN
  [5]: /blog/wiki/Value+Net
- [6]: http://www.findarticles.com/p/articles/mi_m3563/is_n8_v10/ai_15416673
- [7]: http://www.apple.com/podcasting/
- [8]: http://www.apple.com/itunes/store/
- [9]: http://www.nytimes.com/2005/07/03/business/yourmoney/03digi.html?ei=5088&en=d4c35012b853c2db&ex=1278043200&partner=rssnyt&emc=rss&pagewanted=all
- [10]: http://www.audible.com/
+ [6]: https://www.findarticles.com/p/articles/mi_m3563/is_n8_v10/ai_15416673
+ [7]: https://www.apple.com/podcasting/
+ [8]: https://www.apple.com/itunes/store/
+ [9]: https://www.nytimes.com/2005/07/03/business/yourmoney/03digi.html?ei=5088&en=d4c35012b853c2db&ex=1278043200&partner=rssnyt&emc=rss&pagewanted=all
+ [10]: https://www.audible.com/
  [11]: https://www.synesthesia.co.uk/blog/wiki/value+net#CompleMentors
  [12]: /blog/wiki/Content+Aggregator
  [13]: /blog/wiki/Audience+Aggregator
  [14]: /blog/wiki/Funding Aggregator
  [15]: /blog/wiki/Cost+Of+Entry
  [16]: https://www.synesthesia.co.uk/blog/wiki/Allocentric+Thinking
- [17]: http://theobvious.typepad.com/blog/
- [18]: http://theobvious.typepad.com/blog/2005/06/more_is_less.html
+ [17]: https://theobvious.typepad.com/blog/
+ [18]: https://theobvious.typepad.com/blog/2005/06/more_is_less.html

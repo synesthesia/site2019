@@ -20,5 +20,5 @@ Host clip of a BBC story, &#8220;About Arena&#8221; video, Show the team, shows 
 
 Backend systems are all web-based, faster to change, cheaper to deploy.
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.arenaflowers.com/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.arenaflowers.com/

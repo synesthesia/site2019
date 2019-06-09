@@ -12,4 +12,4 @@ Latest updates to the [blogroll][1]
   * [Echo Generation][2]
 
  [1]: /blog/sources/
- [2]: http://www.echogeneration.com/blog/
+ [2]: https://www.echogeneration.com/blog/

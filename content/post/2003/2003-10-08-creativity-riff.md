@@ -45,14 +45,14 @@ Also this week I see [Gary Murphy][8] is [pointing][9] to [this][10] that sugges
 
 So maybe the old saying &#8220;you need to be a little mad to be creative&#8221; has some truth in it after all&#8230; 🙂
 
- [1]: http://www.themindgym.com/
+ [1]: https://www.themindgym.com/
  [2]: /blog/archives/creativity_tools/000122.php
- [3]: http://radio.weblogs.com/0121664/
- [4]: http://radio.weblogs.com/0121664/categories/creativity/
- [5]: http://radio.weblogs.com/0121664/categories/creativity/2003/08/09.html#a207
- [6]: http://www.mycoted.com/creativity/techniques/index.php
- [7]: http://www.innovationtools.com/
- [8]: http://www.teledyn.com/mt/
- [9]: http://www.teledyn.com/mt/archives/001361.html "TeledyN: Demarking the Line"
- [10]: http://www.newsandevents.utoronto.ca/bin5/030930b.asp "News@UofT -- Biological basis for creativity linked to mental illness -- September 30, 2003"
- [11]: http://www.google.com/search?q=latent.inhibition
+ [3]: https://radio.weblogs.com/0121664/
+ [4]: https://radio.weblogs.com/0121664/categories/creativity/
+ [5]: https://radio.weblogs.com/0121664/categories/creativity/2003/08/09.html#a207
+ [6]: https://www.mycoted.com/creativity/techniques/index.php
+ [7]: https://www.innovationtools.com/
+ [8]: https://www.teledyn.com/mt/
+ [9]: https://www.teledyn.com/mt/archives/001361.html "TeledyN: Demarking the Line"
+ [10]: https://www.newsandevents.utoronto.ca/bin5/030930b.asp "News@UofT -- Biological basis for creativity linked to mental illness -- September 30, 2003"
+ [11]: https://www.google.com/search?q=latent.inhibition

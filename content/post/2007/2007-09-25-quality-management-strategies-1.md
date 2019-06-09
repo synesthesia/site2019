@@ -94,4 +94,4 @@ The MSP Manual says:
   All of which will be very useful to describe the headings, but which doesn’t ask the fundamental question – why are we doing this? A later post…
 </p>
 
- [1]: http://synesthesia.co.uk/msp/wiki/QualityManagementStrategy
+ [1]: https://synesthesia.co.uk/msp/wiki/QualityManagementStrategy

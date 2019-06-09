@@ -7,4 +7,4 @@ excerpt: "If you had your Christmas party in the local pub and found the jukebox
 url: /2004/01/05/new-pub-entertainment/
 
 ---
-&#8220;New pub entertainment&#8221;:http://www.guardian.co.uk/online/story/0,3605,1108992,00.html
+&#8220;New pub entertainment&#8221;:https://www.guardian.co.uk/online/story/0,3605,1108992,00.html

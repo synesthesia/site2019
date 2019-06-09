@@ -17,10 +17,10 @@ Another insight was the importance of considering quality as a series of “nest
 <img src="https://www.synesthesia.co.uk/msp/wp-content/uploads/nested-loops-of-quality.png" alt="nested loops of quality" border="0" />
 
  [1]: https://www.synesthesia.co.uk/msp/
- [2]: http://synesthesia.co.uk/msp/wiki/QualityManagementStrategy
+ [2]: https://synesthesia.co.uk/msp/wiki/QualityManagementStrategy
  [3]: https://www.synesthesia.co.uk/msp/2007/09/25/quality-management-strategies-1/
  [4]: https://www.synesthesia.co.uk/msp/2007/09/25/quality-management-strategies-2/
  [5]: https://www.synesthesia.co.uk/msp/2007/09/25/quality-management-strategies-3/
  [6]: https://www.synesthesia.co.uk/msp/2007/09/25/quality-management-strategies-4/
  [7]: https://www.synesthesia.co.uk/msp/2007/09/26/quality-management-strategies-5/
- [8]: http://synesthesia.co.uk/msp/wiki/MSP
+ [8]: https://synesthesia.co.uk/msp/wiki/MSP

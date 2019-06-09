@@ -24,5 +24,5 @@ Here&#8217;s a generic example of the sort of thing I mean:
 
 Of course this also relies on segmenting the areas you work with into sufficiently small and de-coupled chunks that one person can hold the key links in their head. This is an aspect of technological architecture that is (I believe) often missed in the quest for &#8220;economies of scale&#8221; &#8211; but that&#8217;s another post!
 
- [1]: http://purpleslurple.net/ps.php?theurl=http://www.gutenberg.org/dirs/etext91/lglass18h.htm#purp2487
+ [1]: https://purpleslurple.net/ps.php?theurl=https://www.gutenberg.org/dirs/etext91/lglass18h.htm#purp2487
  [2]: https://www.synesthesia.co.uk/blog/images/genericentarch.gif

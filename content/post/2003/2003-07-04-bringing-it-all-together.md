@@ -7,4 +7,4 @@ excerpt: Most web services projects are missing out on choreography, a vital ext
 url: /2003/07/04/bringing-it-all-together/
 
 ---
-&#8220;Choreography &#8211; Bringing it all together&#8221;:http://www.looselycoupled.com/stories/2003/choreo-bp0702.html
+&#8220;Choreography &#8211; Bringing it all together&#8221;:https://www.looselycoupled.com/stories/2003/choreo-bp0702.html

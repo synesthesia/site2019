@@ -35,7 +35,7 @@ If it was a conversation I can imagine talking very quickly, with an amount of g
 
 Any people with preferences for the other styles care to comment?
 
- [1]: http://weblog.burningbird.net/fires/000968.htm
- [2]: http://weblog.burningbird.net/fires/000968.htm "Burningbird: We Be Three: Intellect, Spirit, and Heart"
- [3]: http://weblog.burningbird.net/fires/000968.htm#comment5215
- [4]: http://www.tomgraves.com.au/
+ [1]: https://weblog.burningbird.net/fires/000968.htm
+ [2]: https://weblog.burningbird.net/fires/000968.htm "Burningbird: We Be Three: Intellect, Spirit, and Heart"
+ [3]: https://weblog.burningbird.net/fires/000968.htm#comment5215
+ [4]: https://www.tomgraves.com.au/

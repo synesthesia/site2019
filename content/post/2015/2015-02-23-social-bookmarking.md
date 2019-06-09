@@ -57,16 +57,16 @@ Social Bookmarking is a key part of **Seeking** – &#8220;finding things out an
 
 [My public links on Diigo][13]
 
- [1]: http://scripting.com/stories/2009/08/09/narrateYourWork.html
- [2]: http://windows.microsoft.com/en-gb/internet-explorer/add-view-organize-favorites
+ [1]: https://scripting.com/stories/2009/08/09/narrateYourWork.html
+ [2]: https://windows.microsoft.com/en-gb/internet-explorer/add-view-organize-favorites
  [3]: https://support.google.com/chrome/answer/95739
- [4]: http://www.wikihow.com/Add-a-Bookmark-in-Safari
+ [4]: https://www.wikihow.com/Add-a-Bookmark-in-Safari
  [5]: https://support.mozilla.org/en-US/kb/create-bookmarks-save-your-favorite-webpages
  [6]: https://www.diigo.com/
  [7]: https://delicious.com/
- [8]: http://jarche.com/about/
- [9]: http://jarche.com/2014/02/the-seek-sense-share-framework/
+ [8]: https://jarche.com/about/
+ [9]: https://jarche.com/2014/02/the-seek-sense-share-framework/
  [10]: https://www.diigo.com/about
  [11]: https://delicious.com/help
- [12]: http://en.wikipedia.org/wiki/Social_bookmarking
+ [12]: https://en.wikipedia.org/wiki/Social_bookmarking
  [13]: https://www.diigo.com/user/synesthesia

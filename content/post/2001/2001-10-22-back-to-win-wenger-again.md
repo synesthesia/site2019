@@ -16,7 +16,7 @@ I was struck by the parallel with something [Rebecca Blood][3] wrote in [weblogs
 
 > _Shortly after I began producing Rebecca&#8217;s Pocket I noticed two side effects I had not expected. First, I discovered my own interests. I thought I knew what I was interested in, but after linking stories for a few months I could see that I was much more interested in science, archaeology, and issues of injustice than I had realized. More importantly, I began to value more highly my own point of view. In composing my link text every day I carefully considered my own opinions and ideas, and I began to feel that my perspective was unique and important._
 
- [1]: http://www.anakin.com/brighter/bright2.html
- [2]: http://www.winwenger.com/imstream.htm
- [3]: http://www.rebeccablood.net/index.html
- [4]: http://www.rebeccablood.net/essays/weblog_history.html
+ [1]: https://www.anakin.com/brighter/bright2.html
+ [2]: https://www.winwenger.com/imstream.htm
+ [3]: https://www.rebeccablood.net/index.html
+ [4]: https://www.rebeccablood.net/essays/weblog_history.html

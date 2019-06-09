@@ -63,4 +63,4 @@ Covered three main tools:
   
 * <amazonlink asin="0140296662">Six Thinking Hats</amazonlink>
 
- [1]: http://www.themindgym.com/
+ [1]: https://www.themindgym.com/

@@ -12,9 +12,9 @@ D-Link have published a [workaround][5], but the answer seems to be to [install 
 
 <ins datetime="2005-09-24T22:32:49+00:00">Update: It seems that even with 5.01 of iTunes installed you still need to put in the ISP DNS server address in the Windows network config to keep Windows working</ins>
 
- [1]: http://www.expansys.fr/forumthread.asp?code=110551&thread=603
- [2]: http://forums.broadbandbuyer.co.uk/forum_posts.asp?TID=3611&get=last
- [3]: http://bbs.adslguide.org.uk/showflat.php?Cat=&Board=dslrouter&Number=2025896&page=0&view=expanded&sb=5&o=0&fpart
- [4]: http://www.apple.com/macosx/features/bonjour/
+ [1]: https://www.expansys.fr/forumthread.asp?code=110551&thread=603
+ [2]: https://forums.broadbandbuyer.co.uk/forum_posts.asp?TID=3611&get=last
+ [3]: https://bbs.adslguide.org.uk/showflat.php?Cat=&Board=dslrouter&Number=2025896&page=0&view=expanded&sb=5&o=0&fpart
+ [4]: https://www.apple.com/macosx/features/bonjour/
  [5]: ftp://ftp.dlink.co.uk/dsl_routers_modems/dsl-g604t/DSL-G604T-Setup_For_Itunes_v5.pdf
- [6]: http://www.apple.com/itunes/download/
+ [6]: https://www.apple.com/itunes/download/

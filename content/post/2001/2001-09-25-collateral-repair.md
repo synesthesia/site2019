@@ -6,7 +6,7 @@ date: 2001-09-25T23:18:25+00:00
 url: /2001/09/25/collateral-repair/
 
 ---
-&#8230;is the title of a thought provoking <a href = "http://www.monbiot.com/dsp\_article.cfm?article\_id=456">article</a> by George Monbiot (who characterises himself as an &#8220;objector&#8221;) For him objecting to war is not about appeasing terrorists, nor does he view the events of 11th September as anything other than _&#8220;a crime against humanity&#8221;_, but he does argue strongly that if we forgo justice then the terrorists have already won.
+&#8230;is the title of a thought provoking <a href = "https://www.monbiot.com/dsp\_article.cfm?article\_id=456">article</a> by George Monbiot (who characterises himself as an &#8220;objector&#8221;) For him objecting to war is not about appeasing terrorists, nor does he view the events of 11th September as anything other than _&#8220;a crime against humanity&#8221;_, but he does argue strongly that if we forgo justice then the terrorists have already won.
 
 His approach to resolving this situation, <u>if</u> evidence can be assembled that points to Bin Laden is to _&#8220;cut out the world war and go straight to Nuremburg&#8221;_. To encourage the Afghani people to drive out the Taliban and Bin Laden so that they can be brought before the courts he advocates massive humanitarian aid to these starving millions to _&#8220;show the people that, unlike the Taliban, the West is on their side&#8221;_.
 

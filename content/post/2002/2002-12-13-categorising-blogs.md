@@ -59,16 +59,16 @@ Azeem envisages:
 
 There are further useful ideas in the comments to [Ben&#8217;s post][10], including contributions from [Burningbird][11], [Phil Ringnalda][12] and [Sam Ruby][13]
 
- [1]: http://www.benhammersley.com/
- [2]: http://azeem.azhar.co.uk/
- [3]: http://www.benhammersley.com/archives/003379.html#003379
- [4]: http://azeem.azhar.co.uk/archives/000261.php
- [5]: http://www.monkeyx.com/archives/www_semantic_web/categorisation_server.html
- [6]: http://www.iaslash.org/
- [7]: http://www.boxesandarrows.com/archives/all_about_facets_controlled_vocabularies.php
- [8]: http://www.benhammersley.com/archives/003371.html#003371 "Ben Hammersley.com: Trackback, RDF, and the LazyWeb"
- [9]: http://azeem.azhar.co.uk/archives/000261.php "azeem.azhar.co.uk: Auto trackback and categorising blogs"
- [10]: http://www.benhammersley.com/archives/003371.html#003371
- [11]: http://weblog.burningbird.net/
- [12]: http://philringnalda.com/
- [13]: http://www.intertwingly.net/blog/
+ [1]: https://www.benhammersley.com/
+ [2]: https://azeem.azhar.co.uk/
+ [3]: https://www.benhammersley.com/archives/003379.html#003379
+ [4]: https://azeem.azhar.co.uk/archives/000261.php
+ [5]: https://www.monkeyx.com/archives/www_semantic_web/categorisation_server.html
+ [6]: https://www.iaslash.org/
+ [7]: https://www.boxesandarrows.com/archives/all_about_facets_controlled_vocabularies.php
+ [8]: https://www.benhammersley.com/archives/003371.html#003371 "Ben Hammersley.com: Trackback, RDF, and the LazyWeb"
+ [9]: https://azeem.azhar.co.uk/archives/000261.php "azeem.azhar.co.uk: Auto trackback and categorising blogs"
+ [10]: https://www.benhammersley.com/archives/003371.html#003371
+ [11]: https://weblog.burningbird.net/
+ [12]: https://philringnalda.com/
+ [13]: https://www.intertwingly.net/blog/

@@ -13,5 +13,5 @@ The entire CRT(Current Reality Tree) so far can be seen in this [PDF][4]
 
  [1]: https://www.synesthesia.co.uk/cgi-bin/mt-comments.cgi?entry_id=158
  [2]: https://www.synesthesia.co.uk/blog/archives/constraints/000158.php
- [3]: http://www.focusedperformance.com/blogger.html
+ [3]: https://www.focusedperformance.com/blogger.html
  [4]: /blog/docs/ood-wip-20030706.pdf

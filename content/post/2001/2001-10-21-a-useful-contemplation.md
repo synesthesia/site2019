@@ -30,6 +30,6 @@ While you&#8217;re &#8220;over that way&#8221; why not check out his May 2001 ar
 > > 
 > > </i></blockquote>
 
- [1]: http://www.winwenger.com/part54.htm
- [2]: http://www.winwenger.com/part50.htm
- [3]: http://www.winwenger.com/message.htm
+ [1]: https://www.winwenger.com/part54.htm
+ [2]: https://www.winwenger.com/part50.htm
+ [3]: https://www.winwenger.com/message.htm

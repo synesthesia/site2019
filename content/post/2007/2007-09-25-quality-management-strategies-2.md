@@ -30,7 +30,7 @@ Linking of Outcomes to measurable Benefits is a critical part of [defining the 
 
 That&#8217;s why [Benefit Reviews][6] are important.
 
- [1]: http://synesthesia.co.uk/wikka/QualityManagementStrategy
+ [1]: https://synesthesia.co.uk/wikka/QualityManagementStrategy
  [2]: https://www.synesthesia.co.uk/blog/archives/2007/09/25/quality-management-strategies-1
  [3]: https://www.synesthesia.co.uk/blog/archives/2007/09/25/programme-value-chain/
  [4]: /wikka/Outcome

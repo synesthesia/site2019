@@ -7,6 +7,6 @@ excerpt: 'OpenOffice.org XML Essentials�Using OpenOffice.org�s XML Data Form
 url: /2004/01/05/openofficeorg-xml-essentials/
 
 ---
-&#8220;OpenOffice.org XML Essentials&#8221;:http://books.evc-cit.info/ [via [WebMink][1]]
+&#8220;OpenOffice.org XML Essentials&#8221;:https://books.evc-cit.info/ [via [WebMink][1]]
 
- [1]: http://www.webmink.net/
+ [1]: https://www.webmink.net/

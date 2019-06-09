@@ -25,6 +25,6 @@ He says that the lessons learned were:
   
 > **Ensure senior participation.** I tend to believe that grass-roots KM is the most difficult to achieve. When a program like this is supported from the top down, people are more likely going to appreciate the importance of the project &#8211; and appreciate the connection between the project and the company&#8217;s overall success. If we are to increase the k-log&#8217;s success, we will need to involve more of the senior management team..
 
- [1]: http://www.rklau.com/tins/
- [2]: http://www.rklau.com/tins/stories/2002/11/11/klogPilotRecap.html "K-Log Pilot Recap"
- [3]: http://dijest.com/aka/
+ [1]: https://www.rklau.com/tins/
+ [2]: https://www.rklau.com/tins/stories/2002/11/11/klogPilotRecap.html "K-Log Pilot Recap"
+ [3]: https://dijest.com/aka/

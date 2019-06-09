@@ -7,7 +7,7 @@ url: /2015/02/27/email-makes-you-stupid-so-what-can-we-do-about-it/
 
 ---
 <p style="text-align: justify;">
-  <a href="http://www.elsua.net/">Luis Suarez</a> (<a href="https://twitter.com/elsua">@elsua</a>), curator of the <a href="https://plus.google.com/communities/112379942033795190661">Life without eMail</a> G+ community, has posted a Vodcast co-presented with <a href="http://claireburge.com/">Claire Burge</a> (<a href="https://twitter.com/claireburge">@claireburge</a>)
+  <a href="https://www.elsua.net/">Luis Suarez</a> (<a href="https://twitter.com/elsua">@elsua</a>), curator of the <a href="https://plus.google.com/communities/112379942033795190661">Life without eMail</a> G+ community, has posted a Vodcast co-presented with <a href="https://claireburge.com/">Claire Burge</a> (<a href="https://twitter.com/claireburge">@claireburge</a>)
 </p>
 
 Here&#8217;s the full video:
@@ -46,36 +46,36 @@ Deep parallel between closed inbox mindset and static fixed job descriptions. Wh
 
 Collaborative environment [exposes the blocks][30], ([27:56][30]) but this leads to enquiry into the root causes of blockages, making it [about the flow of work rather than about the person][31] ([28:24][31])
 
-<span style="font-size: 12pt;">But, <a href="http://youtu.be/cWJ_kiD2dUc?t=29m08s">if you keep evolving the process to make the work better, then the job descriptions have to keep evolving too</a> (<a href="http://youtu.be/cWJ_kiD2dUc?t=29m08s">29:08</a>)<br /> </span>
+<span style="font-size: 12pt;">But, <a href="https://youtu.be/cWJ_kiD2dUc?t=29m08s">if you keep evolving the process to make the work better, then the job descriptions have to keep evolving too</a> (<a href="https://youtu.be/cWJ_kiD2dUc?t=29m08s">29:08</a>)<br /> </span>
 
  [1]: https://www.youtube.com/watch?v=cWJ_kiD2dUc&feature=youtu.be&t=3m02s
- [2]: http://youtu.be/cWJ_kiD2dUc?t=3m02s
- [3]: http://youtu.be/cWJ_kiD2dUc?t=4m02s
- [4]: http://youtu.be/cWJ_kiD2dUc?t=4m59s
- [5]: http://youtu.be/cWJ_kiD2dUc?t=7m20s
- [6]: http://youtu.be/cWJ_kiD2dUc?t=7m45s
- [7]: http://youtu.be/cWJ_kiD2dUc?t=8m10s
- [8]: http://youtu.be/cWJ_kiD2dUc?t=8m58s
- [9]: http://youtu.be/cWJ_kiD2dUc?t=9m22s
- [10]: http://youtu.be/cWJ_kiD2dUc?t=10m27s
- [11]: http://youtu.be/cWJ_kiD2dUc?t=10m45s
- [12]: http://youtu.be/cWJ_kiD2dUc?t=11m25s
- [13]: http://youtu.be/cWJ_kiD2dUc?t=12m09s
- [14]: http://youtu.be/cWJ_kiD2dUc?t=12m48s
- [15]: http://youtu.be/cWJ_kiD2dUc?t=13m36s
- [16]: http://youtu.be/cWJ_kiD2dUc?t=13m50s
- [17]: http://youtu.be/cWJ_kiD2dUc?t=15m08s
- [18]: http://youtu.be/cWJ_kiD2dUc?t=15m27s
- [19]: http://youtu.be/cWJ_kiD2dUc?t=15m40s
- [20]: http://youtu.be/cWJ_kiD2dUc?t=17m38s
+ [2]: https://youtu.be/cWJ_kiD2dUc?t=3m02s
+ [3]: https://youtu.be/cWJ_kiD2dUc?t=4m02s
+ [4]: https://youtu.be/cWJ_kiD2dUc?t=4m59s
+ [5]: https://youtu.be/cWJ_kiD2dUc?t=7m20s
+ [6]: https://youtu.be/cWJ_kiD2dUc?t=7m45s
+ [7]: https://youtu.be/cWJ_kiD2dUc?t=8m10s
+ [8]: https://youtu.be/cWJ_kiD2dUc?t=8m58s
+ [9]: https://youtu.be/cWJ_kiD2dUc?t=9m22s
+ [10]: https://youtu.be/cWJ_kiD2dUc?t=10m27s
+ [11]: https://youtu.be/cWJ_kiD2dUc?t=10m45s
+ [12]: https://youtu.be/cWJ_kiD2dUc?t=11m25s
+ [13]: https://youtu.be/cWJ_kiD2dUc?t=12m09s
+ [14]: https://youtu.be/cWJ_kiD2dUc?t=12m48s
+ [15]: https://youtu.be/cWJ_kiD2dUc?t=13m36s
+ [16]: https://youtu.be/cWJ_kiD2dUc?t=13m50s
+ [17]: https://youtu.be/cWJ_kiD2dUc?t=15m08s
+ [18]: https://youtu.be/cWJ_kiD2dUc?t=15m27s
+ [19]: https://youtu.be/cWJ_kiD2dUc?t=15m40s
+ [20]: https://youtu.be/cWJ_kiD2dUc?t=17m38s
  [21]: https://twitter.com/hjarche/status/567769267501006848
- [22]: http://youtu.be/cWJ_kiD2dUc?t=18m15s
- [23]: http://youtu.be/cWJ_kiD2dUc?t=20m34s
- [24]: http://youtu.be/cWJ_kiD2dUc?t=21m34s
- [25]: http://youtu.be/cWJ_kiD2dUc?t=22m40s
- [26]: http://youtu.be/cWJ_kiD2dUc?t=24m25s
- [27]: http://youtu.be/cWJ_kiD2dUc?t=26m10s
- [28]: http://youtu.be/cWJ_kiD2dUc?t=26m26s
- [29]: http://youtu.be/cWJ_kiD2dUc?t=27m30s
- [30]: http://youtu.be/cWJ_kiD2dUc?t=27m56s
- [31]: http://youtu.be/cWJ_kiD2dUc?t=28m24s
+ [22]: https://youtu.be/cWJ_kiD2dUc?t=18m15s
+ [23]: https://youtu.be/cWJ_kiD2dUc?t=20m34s
+ [24]: https://youtu.be/cWJ_kiD2dUc?t=21m34s
+ [25]: https://youtu.be/cWJ_kiD2dUc?t=22m40s
+ [26]: https://youtu.be/cWJ_kiD2dUc?t=24m25s
+ [27]: https://youtu.be/cWJ_kiD2dUc?t=26m10s
+ [28]: https://youtu.be/cWJ_kiD2dUc?t=26m26s
+ [29]: https://youtu.be/cWJ_kiD2dUc?t=27m30s
+ [30]: https://youtu.be/cWJ_kiD2dUc?t=27m56s
+ [31]: https://youtu.be/cWJ_kiD2dUc?t=28m24s

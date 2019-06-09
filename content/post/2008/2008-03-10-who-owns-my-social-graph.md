@@ -6,7 +6,7 @@ date: 2008-03-10T14:00:56+00:00
 url: /2008/03/10/who-owns-my-social-graph/
 
 ---
-In a [comment][1], Neil Burton of <a href="http://enterprise.snockles.com/" rel="external nofollow">Web Spiders</a> picks up on my rhetorical question [_why would I want my employer to own my social graph?_][2] __by asking
+In a [comment][1], Neil Burton of <a href="https://enterprise.snockles.com/" rel="external nofollow">Web Spiders</a> picks up on my rhetorical question [_why would I want my employer to own my social graph?_][2] __by asking
 
 <blockquote cite="https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-social-is-good-for-business/#comment-221143">
   <p>
@@ -30,9 +30,9 @@ There’s a lot to develop here, and some people have already been paying attent
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-social-is-good-for-business/#comment-221143
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-social-is-good-for-business/
- [3]: http://www.linkedin.com/in/julianelve
- [4]: http://www.facebook.com/profile.php?id=524112789
- [5]: http://en.wikipedia.org/wiki/Fungibility
- [6]: http://www.readwriteweb.com/archives/social_graph_concepts_and_issues.php
- [7]: http://www.readwriteweb.com/about_alex.php
- [8]: http://bradfitz.com/social-graph-problem/
+ [3]: https://www.linkedin.com/in/julianelve
+ [4]: https://www.facebook.com/profile.php?id=524112789
+ [5]: https://en.wikipedia.org/wiki/Fungibility
+ [6]: https://www.readwriteweb.com/archives/social_graph_concepts_and_issues.php
+ [7]: https://www.readwriteweb.com/about_alex.php
+ [8]: https://bradfitz.com/social-graph-problem/

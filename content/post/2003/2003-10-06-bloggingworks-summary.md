@@ -7,4 +7,4 @@ excerpt: Series of posts by Jack Vinson summarising Bloggingworks workshops abou
 url: /2003/10/06/bloggingworks-summary/
 
 ---
-&#8220;Bloggingworks Summary&#8221;:http://jackvinson.com/archives/002252.html Series of posts by Jack Vinson summarising Bloggingworks workshops about blogging in business
+&#8220;Bloggingworks Summary&#8221;:https://jackvinson.com/archives/002252.html Series of posts by Jack Vinson summarising Bloggingworks workshops about blogging in business

@@ -25,6 +25,6 @@ In the [next post][5] I will explore the concept of “[waste][3]” in our cont
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2009/10/25/agile-programme-shaping-first-thoughts/
  [2]: https://www.synesthesia.co.uk/blog/archives/2009/11/03/lean-programme-shaping-finding-the-value-stream/
- [3]: http://en.wikipedia.org/wiki/Muda_%28Japanese_term%29
- [4]: http://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
+ [3]: https://en.wikipedia.org/wiki/Muda_%28Japanese_term%29
+ [4]: https://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
  [5]: https://www.synesthesia.co.uk/blog/archives/2009/11/05/lean-programme-shaping-exploring-waste/

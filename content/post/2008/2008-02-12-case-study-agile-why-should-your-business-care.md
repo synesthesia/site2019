@@ -59,5 +59,5 @@ Some basic internal measures:
 
 More to do… especially level of support for teams that want to adopt Agile methods. Looking again at measurement set to provide business case for further investment in capability and leadership. Encouraging and supporting experiments, involving the business more – agile business cases etc.
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.linkedin.com/in/olivierlafontan
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.linkedin.com/in/olivierlafontan

@@ -29,4 +29,4 @@ Apologies in advance to all the experts out there, but I think the gist of what 
 
 Seems logical, I’ll see how it goes – and if this is something you specialise in let me know if I’m missing something!
 
- [1]: http://www.opengroup.org/architecture/togaf8-doc/arch/ "The Open Group Architecture Framework"
+ [1]: https://www.opengroup.org/architecture/togaf8-doc/arch/ "The Open Group Architecture Framework"

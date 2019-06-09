@@ -7,6 +7,6 @@ excerpt: 'Mandalas are circular designs that can be used in meditation or used a
 url: /2004/01/06/mandala-art-psychotherapy/
 
 ---
-&#8220;Mandala &#8211; Art Psychotherapy&#8221;:http://www.geocities.com/plansze/mandala.html [via [The Occupational Adventure]][1]
+&#8220;Mandala &#8211; Art Psychotherapy&#8221;:https://www.geocities.com/plansze/mandala.html [via [The Occupational Adventure]][1]
 
- [1]: http://curtrosengren.typepad.com/occupationaladventure/2004/01/creative_selfex.html
+ [1]: https://curtrosengren.typepad.com/occupationaladventure/2004/01/creative_selfex.html

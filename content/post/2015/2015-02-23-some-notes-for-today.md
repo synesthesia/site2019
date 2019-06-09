@@ -17,15 +17,15 @@ enclosure:
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - http://synesthesiaworknotes.smallpict.com/2015/02/23/someNotesForToday.html
+  - https://synesthesiaworknotes.smallpict.com/2015/02/23/someNotesForToday.html
 syndication_item_hash:
   - 386084a151078b9bc0baf109e39a3bdf
   - 386084a151078b9bc0baf109e39a3bdf
@@ -36,4 +36,4 @@ syndication_item_hash:
 ---
 Definitely haven&#8217;t gripped the cross-posting to my blog via RSS &#8211; the content should be more like [this][1]
 
- [1]: http://synesthesiaworknotes.smallpict.com/
+ [1]: https://synesthesiaworknotes.smallpict.com/

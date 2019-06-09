@@ -21,6 +21,6 @@ Old (1998) but good [article][1] interviewing Richard Leider about living life o
  11. Get advice from within-and from without
  12. Make your decisions the way senior citizens wish they had.
 
-Again, thanks to <a href="http://www.rebeccablood.net/" target=_blank>Rebecca&#8217;s Pocket</a>
+Again, thanks to <a href="https://www.rebeccablood.net/" target=_blank>Rebecca&#8217;s Pocket</a>
 
- [1]: http://www.fastcompany.com/online/13/ldrplus.html
+ [1]: https://www.fastcompany.com/online/13/ldrplus.html

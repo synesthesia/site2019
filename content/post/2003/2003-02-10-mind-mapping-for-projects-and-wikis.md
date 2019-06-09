@@ -22,9 +22,9 @@ The other idea that&#8217;s nagging me tonight is a need for a MMToWiki tool. I&
 
 Hmmm&#8230; and when, I wonder, is tool-building a displacement activity from the writing? 🙂
 
-<ins>[update 2003-02-13] Have found <a href="http://www.bluebridge.de/products/mind2xml/">Mind2XML</a> an add-in for MindManager that does &#8220;exactly what it says on the tin&#8221;. So now the gap in my knowledge that comes into focus is how little I know about <acronym title="eXtensible Stylesheet Language">XSL</acronym></ins>
+<ins>[update 2003-02-13] Have found <a href="https://www.bluebridge.de/products/mind2xml/">Mind2XML</a> an add-in for MindManager that does &#8220;exactly what it says on the tin&#8221;. So now the gap in my knowledge that comes into focus is how little I know about <acronym title="eXtensible Stylesheet Language">XSL</acronym></ins>
 
-<ins>[update 2007&#8211;4-11] And almost exactly 4 years after I wrote this post, a <a href="http://www.activityowner.com/2007/04/09/map2wiki/">very similar idea</a> about the combined use of wiki and mindmaps emerges over at <a href="http://www.activityowner.com/">Activityowner.Com</a> &#8211; with the big difference that he has actually produced a first draft of a conversion tool&#8230; </ins>
+<ins>[update 2007&#8211;4-11] And almost exactly 4 years after I wrote this post, a <a href="https://www.activityowner.com/2007/04/09/map2wiki/">very similar idea</a> about the combined use of wiki and mindmaps emerges over at <a href="https://www.activityowner.com/">Activityowner.Com</a> &#8211; with the big difference that he has actually produced a first draft of a conversion tool&#8230; </ins>
 
- [1]: http://www.mindjet.co.uk/ "Mindmanager"
- [2]: http://www.mind-map.com/mindmaps_definition.htm
+ [1]: https://www.mindjet.co.uk/ "Mindmanager"
+ [2]: https://www.mind-map.com/mindmaps_definition.htm

@@ -7,4 +7,4 @@ excerpt: new way of doing tabbed nav in CSS
 url: /2003/11/25/sliding-doors-of-css/
 
 ---
-&#8220;Sliding Doors of CSS&#8221;:http://www.alistapart.com/articles/slidingdoors/ new way of doing tabbed nav in CSS
+&#8220;Sliding Doors of CSS&#8221;:https://www.alistapart.com/articles/slidingdoors/ new way of doing tabbed nav in CSS

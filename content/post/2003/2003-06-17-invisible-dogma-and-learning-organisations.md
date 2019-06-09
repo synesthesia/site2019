@@ -33,8 +33,8 @@ On the way to answering that I suspect we will have to answer some other questio
   * What are the factors that prevent an honest examination of them?
   * What approaches to defining a business process/systems issue are likely to be most productive?
 
- [1]: http://www.ratcliffe.com/bizblog/2003/04/11.html#a983
- [2]: http://www.focusedperformance.com/2003_04_01_blarch.html#200187875
- [3]: http://www.onepine.info/pargy.htm
- [4]: http://www.ratcliffe.com/bizblog/
+ [1]: https://www.ratcliffe.com/bizblog/2003/04/11.html#a983
+ [2]: https://www.focusedperformance.com/2003_04_01_blarch.html#200187875
+ [3]: https://www.onepine.info/pargy.htm
+ [4]: https://www.ratcliffe.com/bizblog/
  [5]: https://www.synesthesia.co.uk/library/archives/000150.php

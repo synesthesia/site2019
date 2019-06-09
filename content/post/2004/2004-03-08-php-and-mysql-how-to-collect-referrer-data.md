@@ -9,4 +9,4 @@ url: /2004/03/08/php-and-mysql-how-to-collect-referrer-data/
 ---
 [PHP and MySQL: How to collect referrer data][1]
 
- [1]: http://www.tbotcotw.com/archives/001159.php
+ [1]: https://www.tbotcotw.com/archives/001159.php

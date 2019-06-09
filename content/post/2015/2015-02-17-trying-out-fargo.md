@@ -9,15 +9,15 @@ url: /worknotes/trying-out-fargo/
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - http://synesthesiaworknotes.smallpict.com/2015/02/17/tryingOutFargo.html
+  - https://synesthesiaworknotes.smallpict.com/2015/02/17/tryingOutFargo.html
 syndication_item_hash:
   - 2b913ce9907a45a6e68008c90786ad74
   - 61fe9dab284be96a3e4cfb9b2a21fa55
@@ -37,6 +37,6 @@ TODO investigate [Fargo Publisher][2] &#8211; does this potentially let me run t
 
 See [this][3]
 
- [1]: http://synesthesiaworknotes.smallpict.com/2015/02/17/smallpict.com
+ [1]: https://synesthesiaworknotes.smallpict.com/2015/02/17/smallpict.com
  [2]: https://github.com/scripting/fargoPublisher
- [3]: http://fargo.io/docs/contentManagement/runningYourOwnServer.html
+ [3]: https://fargo.io/docs/contentManagement/runningYourOwnServer.html

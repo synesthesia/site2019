@@ -8,4 +8,4 @@ url: /2004/06/02/blockbuster-conspiracy/
 ---
 [Oligopoly Watch][1] on the economic pressures that are creating endless boring &#8220;Blockbuster&#8221; movies
 
- [1]: http://www.oligopolywatch.com/2004/05/29.html#a365
+ [1]: https://www.oligopolywatch.com/2004/05/29.html#a365

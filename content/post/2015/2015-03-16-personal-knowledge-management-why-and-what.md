@@ -34,11 +34,11 @@ Sensing is about internalisation and action
 
 Sharing is the giving back, the act that establishes you as a valuable member of the network in your own right.
 
- [1]: http://en.wikipedia.org/wiki/Personal_knowledge_management
- [2]: http://jarche.com/pkm-in-40-days/
+ [1]: https://en.wikipedia.org/wiki/Personal_knowledge_management
+ [2]: https://jarche.com/pkm-in-40-days/
  [3]: https://diigo.com/07fhir
  [4]: https://www.linkedin.com/profile/view?id=30448454
  [5]: https://diigo.com/07fh4n
- [6]: http://jarche.com/2014/02/the-seek-sense-share-framework/
- [7]: http://jarche.com/2012/06/in-networks-cooperation-trumps-collaboration/
- [8]: http://jarche.com/2009/06/co-operation-for-networks/
+ [6]: https://jarche.com/2014/02/the-seek-sense-share-framework/
+ [7]: https://jarche.com/2012/06/in-networks-cooperation-trumps-collaboration/
+ [8]: https://jarche.com/2009/06/co-operation-for-networks/

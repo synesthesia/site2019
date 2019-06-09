@@ -31,6 +31,6 @@ In the next post I will document the first of these being added to Iceberg
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg/
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg-workflow-automation-platform-installation/
- [3]: http://www.learniceberg.com/1_Getting_Started
- [4]: http://www.apmgroup.co.uk/PRINCE2/PRINCE2Home.asp
+ [3]: https://www.learniceberg.com/1_Getting_Started
+ [4]: https://www.apmgroup.co.uk/PRINCE2/PRINCE2Home.asp
  [5]: https://www.synesthesia.co.uk/wikka/IssueTracker

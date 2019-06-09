@@ -7,4 +7,4 @@ excerpt: Useful collection of links on FOAFy things
 url: /2003/07/03/jay-fienberg-says-foaf-gets-my-ok-vote/
 
 ---
-Jay Fienberg says &#8220;FOAF gets my OK vote&#8221;:http://icite.net/blog/200307/foaf_ok.html
+Jay Fienberg says &#8220;FOAF gets my OK vote&#8221;:https://icite.net/blog/200307/foaf_ok.html

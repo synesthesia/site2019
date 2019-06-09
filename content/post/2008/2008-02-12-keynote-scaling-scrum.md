@@ -92,6 +92,6 @@ Cross-functional team v. Specialists
 
 **A:** Have to keep up strict discipline. Product Showcase on each sprint helps. Sprint Review of completion against velocity.
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.agilexp.com/rachel.php
- [3]: http://www.agilexp.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.agilexp.com/rachel.php
+ [3]: https://www.agilexp.com/

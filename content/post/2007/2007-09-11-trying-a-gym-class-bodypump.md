@@ -57,6 +57,6 @@ Clearly my knees are still an area of vulnerability – I need to target exercis
 Probably not in the short term – will see how my knees feel after another month of training.
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2007/09/09/new-gym-new-start/
- [2]: http://www.lesmills.com/global/en/members/bodypump/bodypump-group-fitness-program.aspx
- [3]: http://www.lesmills.com/global/en/members/bodypump/a-typical-class.aspx
- [4]: http://www.britmilfit.com/
+ [2]: https://www.lesmills.com/global/en/members/bodypump/bodypump-group-fitness-program.aspx
+ [3]: https://www.lesmills.com/global/en/members/bodypump/a-typical-class.aspx
+ [4]: https://www.britmilfit.com/

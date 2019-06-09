@@ -10,6 +10,6 @@ url: /2004/12/13/the-importance-of-knowing-what-you-want/
 
 This reminded me strongly of the concept of [well-formed outcomes][3] &#8211; one of the foundation stones of <abbrev title="Neuro-Linguistic Programming">NLP</abbrev>. I find that often one of the most powerful coaching interventions is simply helping someone gain a clear view of what they want to happen and the nature of the first few steps. Something very powerful gets triggered in the unconscious mind by a clear view of what you want and many people report that change begins to happen shortly afterwards.
 
- [1]: http://joeelylean.blogspot.com/
- [2]: http://joeelylean.blogspot.com/2004_12_12_joeelylean_archive.html#110295495297195774
+ [1]: https://joeelylean.blogspot.com/
+ [2]: https://joeelylean.blogspot.com/2004_12_12_joeelylean_archive.html#110295495297195774
  [3]: https://www.synesthesia.co.uk/wiki/WellFormedOutcome

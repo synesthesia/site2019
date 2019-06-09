@@ -8,7 +8,7 @@ url: /2005/09/20/a-synchronicity-of-km/
 ---
 [Dave Pollard][1] has written about [the psychology of information, or why we don&#8217;t share stuff][2], the organisational and human factors that impede knowledge-sharing:
 
-<blockquote cite="http://blogs.salon.com/0002007/2005/09/19.html#a1278">
+<blockquote cite="https://blogs.salon.com/0002007/2005/09/19.html#a1278">
   <ol>
     <li>
       Bad news rarely travels upwards in organizations
@@ -67,9 +67,9 @@ At almost the same time, [David Weinberger][3] has published an [article][4] in 
 
 Interesting juxtaposition.
 
- [1]: http://blogs.salon.com/0002007/
- [2]: http://blogs.salon.com/0002007/2005/09/19.html#a1278
- [3]: http://www.hyperorg.com/blogger/
- [4]: http://www.kmworld.com/publications/magazine/index.cfm?action=readarticle&article_id=2224&publication_id=142
- [5]: http://www.kmworld.com/
- [6]: http://theobvious.typepad.com/blog/
+ [1]: https://blogs.salon.com/0002007/
+ [2]: https://blogs.salon.com/0002007/2005/09/19.html#a1278
+ [3]: https://www.hyperorg.com/blogger/
+ [4]: https://www.kmworld.com/publications/magazine/index.cfm?action=readarticle&article_id=2224&publication_id=142
+ [5]: https://www.kmworld.com/
+ [6]: https://theobvious.typepad.com/blog/

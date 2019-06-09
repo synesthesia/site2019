@@ -25,7 +25,7 @@ The last area of consideration is the ability of the market to supply a particul
 
 Once all three areas have been analysed, it&#8217;s likely that further iteration will be required to converge the  solution.
 
- [1]: http://www.ogc.gov.uk/documents/RiskAllocationModel.pdf
- [2]: http://synesthesia.co.uk/msp/wiki/Input
- [3]: http://synesthesia.co.uk/msp/wiki/Output
- [4]: http://synesthesia.co.uk/msp/wiki/Outcome
+ [1]: https://www.ogc.gov.uk/documents/RiskAllocationModel.pdf
+ [2]: https://synesthesia.co.uk/msp/wiki/Input
+ [3]: https://synesthesia.co.uk/msp/wiki/Output
+ [4]: https://synesthesia.co.uk/msp/wiki/Outcome

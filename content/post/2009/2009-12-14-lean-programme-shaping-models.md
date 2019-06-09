@@ -26,7 +26,7 @@ I’ve found two sorts of model useful when pulling together a programme – mod
 
 **Modelling the Programme Shaping Process**
 
-<img class="floatleftmargin" src="http://farm4.static.flickr.com/3043/2740704314_baa5d86c44.jpg" border="0" alt="Kanban Board" width="200" height="150" />
+<img class="floatleftmargin" src="https://farm4.static.flickr.com/3043/2740704314_baa5d86c44.jpg" border="0" alt="Kanban Board" width="200" height="150" />
 
 In previous posts I’ve talked about looking for flow in the programme shaping process. Every organisation, and to some extent every programme, will have a different flow for the shaping process.
 
@@ -42,14 +42,14 @@ Many traditional programme documents are heavy on words and light on diagrams. W
 
 I’m suggesting that as programme managers we can usefully make more use of visual models to augment our programme documentation, and to model the relationships between different parts of the documentation.
 
-There are specialist tools (e.g. [ChangeDirector][7]) which make extensive use of graphical techniques, however not every organisation will have access to these. I have had some success in using [general purpose UML modelling tools][8] to support programme shaping work, and it’s an area I am actively exploring further. One background project that I hope to blog more on later is the creation of a UML Profile for <a class="zem_slink" title="Program management" rel="wikipedia" href="http://en.wikipedia.org/wiki/Program_management">Programme Management</a>
+There are specialist tools (e.g. [ChangeDirector][7]) which make extensive use of graphical techniques, however not every organisation will have access to these. I have had some success in using [general purpose UML modelling tools][8] to support programme shaping work, and it’s an area I am actively exploring further. One background project that I hope to blog more on later is the creation of a UML Profile for <a class="zem_slink" title="Program management" rel="wikipedia" href="https://en.wikipedia.org/wiki/Program_management">Programme Management</a>
 
 I&#8217;d like to hear from other programme managers about their experience with visual modelling.
 
-Picture credit: <a href="http://www.flickr.com/photos/laribee/2740704314/" target="_blank">David Larabee</a>
+Picture credit: <a href="https://www.flickr.com/photos/laribee/2740704314/" target="_blank">David Larabee</a>
 
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=a70f78d1-6218-4838-b71f-3c1b82286049" alt="" /><span class="zem-script more-info pretty-attribution"></span>
+  <img class="zemanta-pixie-img" style="border: none; float: right;" src="https://img.zemanta.com/pixy.gif?x-id=a70f78d1-6218-4838-b71f-3c1b82286049" alt="" /><span class="zem-script more-info pretty-attribution"></span>
 </div>
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2009/10/25/agile-programme-shaping-first-thoughts/
@@ -57,6 +57,6 @@ Picture credit: <a href="http://www.flickr.com/photos/laribee/2740704314/" targe
  [3]: https://www.synesthesia.co.uk/blog/archives/2009/11/05/lean-programme-shaping-more-on-flow/
  [4]: https://www.synesthesia.co.uk/blog/archives/2009/11/03/lean-programme-shaping-finding-the-value-stream/
  [5]: https://www.synesthesia.co.uk/blog/archives/2009/11/05/lean-programme-shaping-exploring-waste/
- [6]: http://www.infoq.com/articles/agile-kanban-boards
- [7]: http://www.changedirector.com/Solutions
- [8]: http://www.sparxsystems.com.au/
+ [6]: https://www.infoq.com/articles/agile-kanban-boards
+ [7]: https://www.changedirector.com/Solutions
+ [8]: https://www.sparxsystems.com.au/

@@ -23,5 +23,5 @@ This will probably suffice for an initial look at how easy it is to use the basi
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg/
  [2]: https://www.synesthesia.co.uk/wikka/IssueTracker
  [3]: https://www.synesthesia.co.uk/wikka/IssueTrackerStory0001
- [4]: http://en.wikipedia.org/wiki/You_Ain't_Gonna_Need_It
+ [4]: https://en.wikipedia.org/wiki/You_Ain't_Gonna_Need_It
  [5]: https://www.synesthesia.co.uk/wikka/IssueTrackerStory0002?time=2008-09-24+11%3A41%3A47

@@ -78,11 +78,11 @@ We&#8217;re using an approach based on the _Theory of Constraints_. Lots of peop
             
             <u>Email List</u>
             
-            * <http://www.apics.org/lists/joining.asp#CMSIG>
+            * <https://www.apics.org/lists/joining.asp#CMSIG>
 
- [1]: http://pespmc1.vub.ac.be/ASC/HAWTHO_EFFEC.html
- [2]: http://www.goldratt.com/
- [3]: http://www.rogo.com/cac/
- [4]: http://www.tocforme.com/
- [5]: http://dmoz.org/Business/Management/Theory_of_Constraints/
- [6]: http://www.google.com/search?sourceid=navclient&ie=UTF-8&oe=UTF-8&q=constraints+toc
+ [1]: https://pespmc1.vub.ac.be/ASC/HAWTHO_EFFEC.html
+ [2]: https://www.goldratt.com/
+ [3]: https://www.rogo.com/cac/
+ [4]: https://www.tocforme.com/
+ [5]: https://dmoz.org/Business/Management/Theory_of_Constraints/
+ [6]: https://www.google.com/search?sourceid=navclient&ie=UTF-8&oe=UTF-8&q=constraints+toc

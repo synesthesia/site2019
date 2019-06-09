@@ -35,15 +35,15 @@ I think there are at least two areas worthy of further exploration:
 
 &nbsp;Ideas for later posts&hellip;
 
- [1]: http://www.jpaarons.net/dubbings/2006/02/28/olkc2006-paper
- [2]: http://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf
+ [1]: https://www.jpaarons.net/dubbings/2006/02/28/olkc2006-paper
+ [2]: https://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf
  [3]: https://www.synesthesia.co.uk/blog/archives/2006/03/21/integrating-thinking-and-doing/
  [4]: https://www.synesthesia.co.uk/blog/archives/2006/03/06/i-prefer-conversation-but-you-need-process/
- [5]: http://www.kn.com.au/networks/2006/03/information_arc.html#comments
- [6]: http://www.awasu.com/weblog/?p=291
- [7]: http://blog.wirearchy.com/blog/
- [8]: http://www.zylstra.org/blog
- [9]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1591394236%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591394236%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [5]: https://www.kn.com.au/networks/2006/03/information_arc.html#comments
+ [6]: https://www.awasu.com/weblog/?p=291
+ [7]: https://blog.wirearchy.com/blog/
+ [8]: https://www.zylstra.org/blog
+ [9]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1591394236%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591394236%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
  [10]: https://www.synesthesia.co.uk/blog/archives/2006/03/06/i-prefer-conversation-but-you-need-process/#comment-1021
- [11]: http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library
+ [11]: https://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library
  [12]: https://www.synesthesia.co.uk/blog/archives/2006/03/06/i-prefer-conversation-but-you-need-process/#comment-1024

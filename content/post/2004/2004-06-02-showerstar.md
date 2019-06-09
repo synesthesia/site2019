@@ -8,4 +8,4 @@ url: /2004/06/02/showerstar/
 ---
 [Showerstar][1] &#8211; pointless but amusing
 
- [1]: http://www.showerstar.net/energy.html
+ [1]: https://www.showerstar.net/energy.html

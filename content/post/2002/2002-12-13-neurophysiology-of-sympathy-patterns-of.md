@@ -9,4 +9,4 @@ url: /?p=92
 ---
 [neurophysiology of sympathy: patterns of brain activity][1]
 
- [1]: http://straddle3.net/context/02/021210.en.html "neurophysiology of sympathy: patterns of brain activity"
+ [1]: https://straddle3.net/context/02/021210.en.html "neurophysiology of sympathy: patterns of brain activity"

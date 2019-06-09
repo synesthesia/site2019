@@ -23,10 +23,10 @@ Sadly CIMA don’t seem to get it – to comment on the blog you have to be regi
 
 ([cross-posted][7] from my professional blog)
 
- [1]: http://community.cimaglobal.com/node/196
- [2]: http://community.cimaglobal.com/blogs/louise-rosss-blog/more-enthusiasm-web-20
- [3]: http://www.cimaglobal.com/web2.0
- [4]: http://billives.typepad.com/portals_and_km/2009/11/making-the-business-case-for-enterprise-20-an-london-accountants-advice-.html
- [5]: http://www.euansemple.com/theobvious/2008/6/10/most-companies-who-try-to-do-enterprise-20-will-fail.html
- [6]: http://blog.wirearchy.com/2009/11/14/looking-to-the-past-for-enterprise-2-0-adoption-principles/
- [7]: http://www.elve.co.uk/2009/11/16/the-roi-of-enterprise-2-0-an-accountants-view/
+ [1]: https://community.cimaglobal.com/node/196
+ [2]: https://community.cimaglobal.com/blogs/louise-rosss-blog/more-enthusiasm-web-20
+ [3]: https://www.cimaglobal.com/web2.0
+ [4]: https://billives.typepad.com/portals_and_km/2009/11/making-the-business-case-for-enterprise-20-an-london-accountants-advice-.html
+ [5]: https://www.euansemple.com/theobvious/2008/6/10/most-companies-who-try-to-do-enterprise-20-will-fail.html
+ [6]: https://blog.wirearchy.com/2009/11/14/looking-to-the-past-for-enterprise-2-0-adoption-principles/
+ [7]: https://www.elve.co.uk/2009/11/16/the-roi-of-enterprise-2-0-an-accountants-view/

@@ -16,7 +16,7 @@ Some times I want to know what those I respect think (blogs I read)&#8230;.
 
 &#8230; and backs it up with code&#8230;
 
-[ via &#8220;The Shifted Librarian&#8221;:http://www.theshiftedlibrarian.com/]
+[ via &#8220;The Shifted Librarian&#8221;:https://www.theshiftedlibrarian.com/]
 
- [1]: http://www.alpern.org/weblog/
- [2]: http://www.alpern.org/weblog/php/blogsearch/writeup.html "Searching the BlogSphere"
+ [1]: https://www.alpern.org/weblog/
+ [2]: https://www.alpern.org/weblog/php/blogsearch/writeup.html "Searching the BlogSphere"

@@ -7,4 +7,4 @@ excerpt: "Pat Holt says 'Like many editorial consultants, I've been concerned ab
 url: /2004/01/26/ten-mistakes-writers-dont-see/
 
 ---
-&#8220;Ten Mistakes Writers Don&#8217;t See&#8221;:http://www.holtuncensored.com/ten_mistakes.html
+&#8220;Ten Mistakes Writers Don&#8217;t See&#8221;:https://www.holtuncensored.com/ten_mistakes.html

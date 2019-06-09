@@ -22,5 +22,5 @@ But people make decisions about us based on our web status&#8230;
 
 And then the talk ended &#8211; mostly a &#8220;here we are&#8221; pitch for Garlik without actually saying anything about what they do&#8230;
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
  [2]: https://www.garlik.com/

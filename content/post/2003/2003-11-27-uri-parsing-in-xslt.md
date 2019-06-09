@@ -7,4 +7,4 @@ excerpt: some named templates, which recursively call themselves to process the 
 url: /2003/11/27/uri-parsing-in-xslt/
 
 ---
-&#8220;URI Parsing in XSLT&#8221;:http://lojjic.net/blog/20031127-211048.rdf.html Some named templates, which recursively call themselves to process the URI piece-by-piece
+&#8220;URI Parsing in XSLT&#8221;:https://lojjic.net/blog/20031127-211048.rdf.html Some named templates, which recursively call themselves to process the URI piece-by-piece

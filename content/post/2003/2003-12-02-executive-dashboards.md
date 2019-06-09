@@ -7,6 +7,6 @@ excerpt: "Boxes and Arrows article by Alex Kirtland on putting together 'Executi
 url: /2003/12/02/executive-dashboards/
 
 ---
-Boxes and Arrows article by Alex Kirtland on putting together &#8220;Executive Dashboards&#8221;:http://www.boxesandarrows.com/archives/executive_dashboards.php [via [paranoidfish.org][1]]
+Boxes and Arrows article by Alex Kirtland on putting together &#8220;Executive Dashboards&#8221;:https://www.boxesandarrows.com/archives/executive_dashboards.php [via [paranoidfish.org][1]]
 
- [1]: http://www.paranoidfish.org/
+ [1]: https://www.paranoidfish.org/

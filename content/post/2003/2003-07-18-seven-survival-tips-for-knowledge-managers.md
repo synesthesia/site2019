@@ -3,13 +3,13 @@ title: Seven Survival Tips for Knowledge Managers
 author: Julian
 type: post
 date: 2003-07-18T17:30:15+00:00
-excerpt: '<a href="http://blogs.salon.com/0002007/">Dave Pollard</a> offers <a href="http://blogs.salon.com/0002007/2003/07/16.html#a312" title="How to Save the World">Seven Survival Tips for Knowledge Managers</a>'
+excerpt: '<a href="https://blogs.salon.com/0002007/">Dave Pollard</a> offers <a href="https://blogs.salon.com/0002007/2003/07/16.html#a312" title="How to Save the World">Seven Survival Tips for Knowledge Managers</a>'
 url: /2003/07/18/seven-survival-tips-for-knowledge-managers/
 
 ---
 [Dave Pollard][1] offers [Seven Survival Tips for Knowledge Managers][2]
 
-<blockquote cite="http://blogs.salon.com/0002007/2003/07/16.html#a312">
+<blockquote cite="https://blogs.salon.com/0002007/2003/07/16.html#a312">
   <ol>
     <li>
       Focus knowledge and learning systems on &#8216;know-who&#8217;, not &#8216;know-how&#8217;
@@ -35,5 +35,5 @@ url: /2003/07/18/seven-survival-tips-for-knowledge-managers/
   </ol>
 </blockquote>
 
- [1]: http://blogs.salon.com/0002007/
- [2]: http://blogs.salon.com/0002007/2003/07/16.html#a312 "How to Save the World"
+ [1]: https://blogs.salon.com/0002007/
+ [2]: https://blogs.salon.com/0002007/2003/07/16.html#a312 "How to Save the World"

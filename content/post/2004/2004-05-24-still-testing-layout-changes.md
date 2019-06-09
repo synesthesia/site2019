@@ -47,4 +47,4 @@ if ($quicklinks) : foreach ($quicklinks as $post) : start_wp();<br />
  endif;<br />
 `
 
- [1]: http://photomatt.net/archives/2004/05/19/asides/
+ [1]: https://photomatt.net/archives/2004/05/19/asides/

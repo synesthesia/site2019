@@ -7,7 +7,7 @@ excerpt: "'common pitfalls that can keep you you from reaching your perfect new 
 url: /2004/05/10/ten-pitfalls-keeping-you-from-your-career-goals/
 
 ---
-<a href=""http://www.improvingme.com/article1078.shtml">Ten Pitfalls Keeping You From Your Career Goals
+<a href=""https://www.improvingme.com/article1078.shtml">Ten Pitfalls Keeping You From Your Career Goals
   
 <!--more-->
 
@@ -15,4 +15,4 @@ url: /2004/05/10/ten-pitfalls-keeping-you-from-your-career-goals/
   
 [via [The Occupational Adventure][1]]
 
- [1]: http://curtrosengren.typepad.com/occupationaladventure/
+ [1]: https://curtrosengren.typepad.com/occupationaladventure/

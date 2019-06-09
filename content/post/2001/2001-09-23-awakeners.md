@@ -134,7 +134,7 @@ he calls on us all to be awakeners, and says:
 
 So I wonder what we believe is possible?
 
- [1]: http://scriptingnews.userland.com/backissues/2001/09/22
- [2]: http://www.sunday-times.co.uk/news/pages/sti/2001/09/23/stiusausa01024.html
- [3]: http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1557000/1557828.stm
- [4]: http://www.nlpu.com/Sept_11.html
+ [1]: https://scriptingnews.userland.com/backissues/2001/09/22
+ [2]: https://www.sunday-times.co.uk/news/pages/sti/2001/09/23/stiusausa01024.html
+ [3]: https://news.bbc.co.uk/hi/english/world/middle_east/newsid_1557000/1557828.stm
+ [4]: https://www.nlpu.com/Sept_11.html

@@ -11,5 +11,5 @@ url: /?p=154
 
 [via [Stephen Norrie][2]]
 
- [1]: http://www.poppendieck.com/pdfs/Predictability_Paradox.pdf
- [2]: http://members.rogers.com/snorrie/weblog/
+ [1]: https://www.poppendieck.com/pdfs/Predictability_Paradox.pdf
+ [2]: https://members.rogers.com/snorrie/weblog/

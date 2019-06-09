@@ -24,6 +24,6 @@ Philosophy / Principles / Process / People / Products / Practices
 
 Presentation was a run through material that can be found on the website…
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.keithrichardsconsulting.co.uk/site/home/
- [3]: http://www.dsdm.org/atern/introduction/what-is-dsdm-atern/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.keithrichardsconsulting.co.uk/site/home/
+ [3]: https://www.dsdm.org/atern/introduction/what-is-dsdm-atern/

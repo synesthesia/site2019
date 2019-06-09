@@ -15,5 +15,5 @@ url: /2004/05/18/the-trap-of-overwhelming-demands/
   
 [ via [Esther Derby][2]]
 
- [1]: http://hbswk.hbs.edu/item.jhtml?id=4128&t=career_effectiveness
- [2]: http://www.estherderby.com/weblog/blogger.html
+ [1]: https://hbswk.hbs.edu/item.jhtml?id=4128&t=career_effectiveness
+ [2]: https://www.estherderby.com/weblog/blogger.html

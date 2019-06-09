@@ -30,6 +30,6 @@ url: /2003/07/07/zempt-multi-platform-posting-for-moveable-type/
 
 And if you can see this it works!
 
- [1]: http://www.theshiftedlibrarian.com/
- [2]: http://www.zempt.com/ "Zempt :: Multi-platform posting for Movable Type :: Zempt"
- [3]: http://www.moveabletype.org/
+ [1]: https://www.theshiftedlibrarian.com/
+ [2]: https://www.zempt.com/ "Zempt :: Multi-platform posting for Movable Type :: Zempt"
+ [3]: https://www.moveabletype.org/

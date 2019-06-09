@@ -7,4 +7,4 @@ excerpt: 'Useful summary from  Johanna Rothman on choosing a project lifecycle'
 url: /2003/12/30/selecting-a-lifecycle/
 
 ---
-&#8220;Selecting a Lifecycle&#8221;:http://www.jrothman.com/weblog/archive/2003\_12\_01_mpdarchive.html#107175699965592377 Useful summary from Johanna Rothman on choosing a project lifecycle
+&#8220;Selecting a Lifecycle&#8221;:https://www.jrothman.com/weblog/archive/2003\_12\_01_mpdarchive.html#107175699965592377 Useful summary from Johanna Rothman on choosing a project lifecycle

@@ -19,7 +19,7 @@ Blog posts by their nature are a snapshot at a point in time and therefore imply
 
 I&#8217;ve found the writing style that has started to evolve since I had this combination of tools is to scatter thoughts around the wiki-spaces until some juxtaposition forms that is sufficiently clear to create a blog-entry. The blog-entry becomes a picture of my thinking at a point in time and therefore essential to mapping out some kind of path. The state of the wiki pages continues to evolve &#8211; by looking where there is activity you can see which parts of my mental associations are currently to the forefront of attention.
 
- [1]: http://www.johnniemoore.com/blog/archives/000467.php
+ [1]: https://www.johnniemoore.com/blog/archives/000467.php
  [2]: https://www.synesthesia.co.uk/blog/archives/2004/09/20/mental-models-and-the-ladder-of-inference/
  [3]: https://www.synesthesia.co.uk/blog/wiki/
  [4]: https://www.synesthesia.co.uk/wiki/

@@ -12,4 +12,4 @@ aktt_tweeted:
 ---
 It appears my [RSS feed][1] has been broken since March. This was due to a missing file on the site which has now been replaced, all should work correctly now. Apologies for the break in service 🙂
 
- [1]: http://feeds.feedburner.com/Synesthesia
+ [1]: https://feeds.feedburner.com/Synesthesia

@@ -12,10 +12,10 @@ url: /2006/03/06/i-prefer-conversation-but-you-need-process/
 </p>
 
 <p align="left">
-  <a href="http://www.kn.com.au/networks/">Earl Mardle</a> posted about <a href="http://www.kn.com.au/networks/2006/03/information_arc.html">Information Architecture as Scaffold</a> based on a <a href="http://www.kn.com.au/networks/2006/03/blogs_as_social.html#comment-14522322">conversation</a> with <a href="http://www.zylstra.org/blog">Ton</a>&nbsp;(More on Ton&rsquo;s position <a href="http://www.zylstra.org/blog/archives/2006/03/relationships_a.html">here</a>). The gist of the view expressed by Earl and Ton is that all this &ldquo;knowledge&rdquo; that companies are seeking to &ldquo;manage&rdquo; is really only accessible through relationships, and once the relationship is established then the information that was part of the initial exchange is no longer relevant:
+  <a href="https://www.kn.com.au/networks/">Earl Mardle</a> posted about <a href="https://www.kn.com.au/networks/2006/03/information_arc.html">Information Architecture as Scaffold</a> based on a <a href="https://www.kn.com.au/networks/2006/03/blogs_as_social.html#comment-14522322">conversation</a> with <a href="https://www.zylstra.org/blog">Ton</a>&nbsp;(More on Ton&rsquo;s position <a href="https://www.zylstra.org/blog/archives/2006/03/relationships_a.html">here</a>). The gist of the view expressed by Earl and Ton is that all this &ldquo;knowledge&rdquo; that companies are seeking to &ldquo;manage&rdquo; is really only accessible through relationships, and once the relationship is established then the information that was part of the initial exchange is no longer relevant:
 </p>
 
-<blockquote cite="http://www.kn.com.au/networks/2006/03/information_arc.html">
+<blockquote cite="https://www.kn.com.au/networks/2006/03/information_arc.html">
   <p>
     And that, my friends is what information does; it provides the scaffold that bridges the gap between people. A bridge that we call a conversation. And once you have built the bridge, you can take away the scaffold and it doesn&#8217;t make any difference, the conversation can continue because it no longer has any need for the information on which it was built, it has its own information; a history of itself, on which to draw and whenever the relationship is invoked, it uses any old bits of information lying around to propagate itself.
   </p>
@@ -27,19 +27,19 @@ Earl then expands his view that&nbsp;in the real world of work, when you need to
 
 As a good counter to all this virulent agreement, [Taka][5] [disagrees][6] strongly with the concept of information as scaffolding around conversations &ndash; in his view the information _is_ the conversation, the scaffolding is the network of relationships that enable the conversation. That&rsquo;s probably a [difference of opinion][7] over the meaning of words, where it gets interesting is what Taka goes on to say:
 
-<blockquote cite="http://www.awasu.com/weblog/?p=291">
+<blockquote cite="https://www.awasu.com/weblog/?p=291">
   <p>
     This is what I call the McDonalds question: how do you get low-skilled, inexperienced trainees to consistently produce hamburgers and fries to an acceptable level of quality? Process. And it&rsquo;s the same thing in a corporate environment: how do you get people, who generally don&rsquo;t really give a toss about what they&rsquo;re doing, to write proposals and reports and all the other guff to an acceptable level? Document templates and guidelines.
   </p>
   
   <p>
-    Coporate KM and other such initiatives are our typically short-sighted attempt to find technical solutions to what is actually a people problem. There are plenty of people selling solutions and processes and methodologies to &ldquo;fix&rdquo; the information management issues that exist within companies because it&rsquo;s an easier problem to tackle than the real underlying issue: how do you get people to actually <a href="http://www.awasu.com/weblog/?p=232">give a damn</a> about what they&rsquo;re doing?
+    Coporate KM and other such initiatives are our typically short-sighted attempt to find technical solutions to what is actually a people problem. There are plenty of people selling solutions and processes and methodologies to &ldquo;fix&rdquo; the information management issues that exist within companies because it&rsquo;s an easier problem to tackle than the real underlying issue: how do you get people to actually <a href="https://www.awasu.com/weblog/?p=232">give a damn</a> about what they&rsquo;re doing?
   </p>
 </blockquote>
 
 Which Earl extends and restates;
 
-<blockquote cite="http://www.kn.com.au/networks/2006/03/more_scaffoldin.html">
+<blockquote cite="https://www.kn.com.au/networks/2006/03/more_scaffoldin.html">
   <p dir="ltr">
     Underlying what I was talking about in the other post is to make explicit that very fact; organisations that think of their people as fungible will be lead inexorably down the path of document management and &#8220;knowledge capture&#8221; solutions that will not help them survive, and they don&#8217;t deserve to.
   </p>
@@ -73,12 +73,12 @@ I think there are several conflicts at work here:
 
 The simple answer to all of this seems to be &ldquo;work in small teams&rdquo; and only use small suppliers, but it&rsquo;s not clear to me how that scales. When I think about small teams, I can see how a _wirearchical_ approach works when there are several companies involved (in the limit, several individuals), but again, I feel various mental blocks when I think about scaling that. I&rsquo;m still struggling with these, and other dichotomies, which is probably a good sign that it&rsquo;s time to draw the [CRT][9]! Food for a later post I suspect.
 
- [1]: http://blog.wirearchy.com/blog/
- [2]: http://www.zylstra.org/blog
+ [1]: https://blog.wirearchy.com/blog/
+ [2]: https://www.zylstra.org/blog
  [3]: https://www.synesthesia.co.uk/blog/
- [4]: http://www.kn.com.au/networks/2006/03/information_arc.html#comments
- [5]: http://www.awasu.com/weblog/
- [6]: http://www.awasu.com/weblog/?p=291
- [7]: http://www.kn.com.au/networks/2006/03/more_scaffoldin.html
- [8]: http://en.wikipedia.org/wiki/Frederick_Winslow_Taylor
- [9]: http://www.dbrmfg.co.nz/Thinking%20Process%20CRT.htm
+ [4]: https://www.kn.com.au/networks/2006/03/information_arc.html#comments
+ [5]: https://www.awasu.com/weblog/
+ [6]: https://www.awasu.com/weblog/?p=291
+ [7]: https://www.kn.com.au/networks/2006/03/more_scaffoldin.html
+ [8]: https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor
+ [9]: https://www.dbrmfg.co.nz/Thinking%20Process%20CRT.htm

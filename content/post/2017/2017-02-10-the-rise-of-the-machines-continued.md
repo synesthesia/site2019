@@ -81,18 +81,18 @@ I see that the [Science and Technology Select Committee][15] [reported in Octobe
 </p>
 
  [1]: https://www.synesthesia.co.uk/2017/02/07/machines-will-eat-your-job/
- [2]: http://www.joannejacobs.com/about
- [3]: http://www.joannejacobs.com/archives/62221
+ [2]: https://www.joannejacobs.com/about
+ [3]: https://www.joannejacobs.com/archives/62221
  [4]: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
- [5]: http://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf
- [6]: http://uk.businessinsider.com/author/andrew-yang
+ [5]: https://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf
+ [6]: https://uk.businessinsider.com/author/andrew-yang
  [7]: https://qz.com/895681/silicon-valley-is-right-our-jobs-are-already-disappearing-due-to-automation/
- [8]: http://www.vox.com/2015/7/27/9038829/automation-myth
- [9]: http://www.economicshelp.org/trade/benefits_free_trade/
+ [8]: https://www.vox.com/2015/7/27/9038829/automation-myth
+ [9]: https://www.economicshelp.org/trade/benefits_free_trade/
  [10]: https://en.wikipedia.org/wiki/Progressive_tax
  [11]: https://www.theguardian.com/education/2016/dec/14/ministers-have-failed-to-explain-where-schools-will-find-savings-watchdog-says
  [12]: https://www.theguardian.com/education/2017/jan/17/cuts-headteachers-schools-funding-crisis
- [13]: http://www.bbc.co.uk/news/education-37680090
- [14]: http://www.bbc.co.uk/news/education-38854271
- [15]: http://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/publications/
+ [13]: https://www.bbc.co.uk/news/education-37680090
+ [14]: https://www.bbc.co.uk/news/education-38854271
+ [15]: https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/publications/
  [16]: https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2015/robotics-ai-report-published-16-17/

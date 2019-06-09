@@ -8,4 +8,4 @@ draft: true
 url: /?p=254
 
 ---
-http://www.alistapart.com/articles/slashdot/
+https://www.alistapart.com/articles/slashdot/

@@ -27,7 +27,7 @@ OK, time to get thoroughly stuck&#8230; (see the [next post][7])
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg/
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg-building-the-first-application/
  [3]: https://www.synesthesia.co.uk/wikka/IssueTracker
- [4]: http://www.learniceberg.com/1_Getting_Started
+ [4]: https://www.learniceberg.com/1_Getting_Started
  [5]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/09/issuetracker-classdiag01.png
- [6]: http://www.learniceberg.com/support/comments.php?DiscussionID=43
+ [6]: https://www.learniceberg.com/support/comments.php?DiscussionID=43
  [7]: https://www.synesthesia.co.uk/blog/archives/2008/09/25/iceberg-creati…t-user-story-2iceberg-creating-the-first-user-story-2/

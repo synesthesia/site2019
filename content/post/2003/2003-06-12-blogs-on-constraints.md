@@ -24,18 +24,18 @@ Further to the [last article][1] here are a few blogs that make frequent referen
 * [Down and Dirty with TOC and Lean][16]
 
  [1]: https://www.synesthesia.co.uk/blog/archives/constraints/000162.php
- [2]: http://www.focusedperformance.com/blogger.html
- [3]: http://www.focusedperformance.com/2003_04_01_blarch.html#200142061
- [4]: http://www.focusedperformance.com/2003_04_01_blarch.html#200147100
- [5]: http://www.focusedperformance.com/2003_04_01_blarch.html#200153001
- [6]: http://www.focusedperformance.com/2003_04_01_blarch.html#200158350
- [7]: http://www.focusedperformance.com/2003_04_01_blarch.html#200163678
- [8]: http://weblog.halmacomber.com/
- [9]: http://halmacomber.com/jammin/2003_04_13_archive.html#200141919
- [10]: http://weblog.halmacomber.com/2003_04_13_archive.html#200146916
- [11]: http://weblog.halmacomber.com/2003_04_13_archive.html#200152502
- [12]: http://weblog.halmacomber.com/2003_04_13_archive.html#200157736
- [13]: http://weblog.halmacomber.com/2003_04_13_archive.html#200163600
- [14]: http://weblog.halmacomber.com/2003_04_13_archive.html#200167764
- [15]: http://joeelylean.blogspot.com/
- [16]: http://joeelylean.blogspot.com/2003_04_13_joeelylean_archive.html#200142178
+ [2]: https://www.focusedperformance.com/blogger.html
+ [3]: https://www.focusedperformance.com/2003_04_01_blarch.html#200142061
+ [4]: https://www.focusedperformance.com/2003_04_01_blarch.html#200147100
+ [5]: https://www.focusedperformance.com/2003_04_01_blarch.html#200153001
+ [6]: https://www.focusedperformance.com/2003_04_01_blarch.html#200158350
+ [7]: https://www.focusedperformance.com/2003_04_01_blarch.html#200163678
+ [8]: https://weblog.halmacomber.com/
+ [9]: https://halmacomber.com/jammin/2003_04_13_archive.html#200141919
+ [10]: https://weblog.halmacomber.com/2003_04_13_archive.html#200146916
+ [11]: https://weblog.halmacomber.com/2003_04_13_archive.html#200152502
+ [12]: https://weblog.halmacomber.com/2003_04_13_archive.html#200157736
+ [13]: https://weblog.halmacomber.com/2003_04_13_archive.html#200163600
+ [14]: https://weblog.halmacomber.com/2003_04_13_archive.html#200167764
+ [15]: https://joeelylean.blogspot.com/
+ [16]: https://joeelylean.blogspot.com/2003_04_13_joeelylean_archive.html#200142178

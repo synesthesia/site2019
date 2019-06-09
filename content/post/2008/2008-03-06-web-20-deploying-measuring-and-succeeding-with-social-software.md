@@ -22,5 +22,5 @@ Pitfalls to avoid &#8211; don&#8217;t decide on metrics without thinking about c
 
 Deployment tricks to increase success &#8211; pre-populate with content, engage the members in interaction, on-demand in-context help, make enrollment easy, reward contributions by example.
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.ibm.com/software/lotus/products/connections
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.ibm.com/software/lotus/products/connections

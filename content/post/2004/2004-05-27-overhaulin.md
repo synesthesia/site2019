@@ -8,4 +8,4 @@ url: /2004/05/27/overhaulin/
 ---
 [This][1] is very very funny, and deeply scary at the same time! (these people have nukes!)
 
- [1]: http://blog.noetech.com/archives/2004/04/13/overhaulin.shtml
+ [1]: https://blog.noetech.com/archives/2004/04/13/overhaulin.shtml

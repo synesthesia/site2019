@@ -22,5 +22,5 @@ Inclusion and empowerment &#8211; for example, use of videos to support staff th
 
 JE thought &#8211; how is this &#8220;Web 2.0&#8221;? &#8211; feels just like broadcasting to me&#8230;
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.ecs.soton.ac.uk/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.ecs.soton.ac.uk/

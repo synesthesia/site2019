@@ -31,12 +31,12 @@ Ben Hammersley&#8217;s [Content Syndication with XML and RSS Blog][8]
   
 Ian Davis&#8217;s [FOAF Buttons][9]
 
- [1]: http://www-106.ibm.com/developerworks/xml/library/x-foaf.html
- [2]: http://rdfweb.org/foaf/
- [3]: http://xmlns.com/foaf/0.1/
- [4]: http://www.ldodds.com/foaf/foaf-a-matic.html
- [5]: http://www-106.ibm.com/developerworks/library/w-rdf/
- [6]: http://www-106.ibm.com/developerworks/xml/library/x-think4/index.html
- [7]: http://dmoz.org/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/
- [8]: http://rss.benhammersley.com/
- [9]: http://internetalchemy.org/2002/11/tinyFOAFImage.html
+ [1]: https://www-106.ibm.com/developerworks/xml/library/x-foaf.html
+ [2]: https://rdfweb.org/foaf/
+ [3]: https://xmlns.com/foaf/0.1/
+ [4]: https://www.ldodds.com/foaf/foaf-a-matic.html
+ [5]: https://www-106.ibm.com/developerworks/library/w-rdf/
+ [6]: https://www-106.ibm.com/developerworks/xml/library/x-think4/index.html
+ [7]: https://dmoz.org/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/
+ [8]: https://rss.benhammersley.com/
+ [9]: https://internetalchemy.org/2002/11/tinyFOAFImage.html

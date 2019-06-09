@@ -7,4 +7,4 @@ excerpt: Website about solution-focused coaching
 url: /2003/11/09/the-solutions-focus/
 
 ---
-&#8220;The Solutions Focus&#8221;:http://www.thesolutionsfocus.com/ Website about solution-focused coaching
+&#8220;The Solutions Focus&#8221;:https://www.thesolutionsfocus.com/ Website about solution-focused coaching

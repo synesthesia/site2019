@@ -19,15 +19,15 @@ enclosure:
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - http://synesthesiaworknotes.smallpict.com/2015/03/04/techieDayToday.html
+  - https://synesthesiaworknotes.smallpict.com/2015/03/04/techieDayToday.html
 syndication_item_hash:
   - cea622adc0f07820566dffcc26835b0c
   - 49f55affb3975a90306ed066aee91b38

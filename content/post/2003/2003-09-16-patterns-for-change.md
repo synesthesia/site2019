@@ -35,7 +35,7 @@ The patterns are grouped into the following categories:
 
 I&#8217;m sure this will be a great resource for coaching &#8211; an inherent assumption of the NLP approach is that if you can identifiy the patterns under a successful piece of behaviour you can teach it to others.
 
- [1]: http://blog.mathemagenic.com/
- [2]: http://blog.mathemagenic.com/2003/08/31.html#a733
- [3]: http://www.cs.unca.edu/~manns/intropatterns.html
- [4]: http://www.cs.unca.edu/~manns/PDFVersionOnWeb.pdf
+ [1]: https://blog.mathemagenic.com/
+ [2]: https://blog.mathemagenic.com/2003/08/31.html#a733
+ [3]: https://www.cs.unca.edu/~manns/intropatterns.html
+ [4]: https://www.cs.unca.edu/~manns/PDFVersionOnWeb.pdf

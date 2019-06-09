@@ -12,7 +12,7 @@ She&#8217;s taken on the challenge of documenting &#8220;Which personal developm
 
 She says:
 
-<blockquote cite="http://doesitworkdiary.blogspot.com/2005_01_24_doesitworkdiary_archive.html">
+<blockquote cite="https://doesitworkdiary.blogspot.com/2005_01_24_doesitworkdiary_archive.html">
   <p>
     I&#8217;m not certain why this may work, but suspect that:
   </p>
@@ -40,8 +40,8 @@ She says:
 
 Try it for yourself!
 
-<ins datetime="2005-1-11T9:51:19-0:00">Updated link to Clare&#8217;s new location at <a href="http://www.selfworks.net/blog/doesitworkdiary/">http://www.selfworks.net/blog/doesitworkdiary/</a></ins>
+<ins datetime="2005-1-11T9:51:19-0:00">Updated link to Clare&#8217;s new location at <a href="https://www.selfworks.net/blog/doesitworkdiary/">https://www.selfworks.net/blog/doesitworkdiary/</a></ins>
 
  [1]: /blog/sources/
- [2]: http://www.selfworks.net/blog/doesitworkdiary/
- [3]: http://doesitworkdiary.blogspot.com/2005_01_24_doesitworkdiary_archive.html
+ [2]: https://www.selfworks.net/blog/doesitworkdiary/
+ [3]: https://doesitworkdiary.blogspot.com/2005_01_24_doesitworkdiary_archive.html

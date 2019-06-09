@@ -7,4 +7,4 @@ excerpt: Using Treemap to visualise blogs
 url: /2004/01/02/visualizing-blogs/
 
 ---
-Using Treemap to &#8220;visualise blogs&#8221;:http://www.furrygoat.com/archives/000812.html
+Using Treemap to &#8220;visualise blogs&#8221;:https://www.furrygoat.com/archives/000812.html

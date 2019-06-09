@@ -38,13 +38,13 @@ Some questions come to mind:
 
 Lots more to do, and I&#8217;m sure others out there are further down the path. In the meantime perhaps we are, as Gary says, &#8220;back to clicking on pure blind faith&#8221;!
 
- [1]: http://www.teledyn.com/mt/
- [2]: http://www.teledyn.com/mt/archives/000487.html "TeledyN: Bridges and Bubbles"
- [3]: http://www.blackbeltjones.com/work/mt/archives/000484.html
- [4]: http://www.ecademy.com/
- [5]: http://www.teledyn.com/mt/archives/000271.html#000271
- [6]: http://www.knowledgeboard.com/cgi-bin/item.cgi?id=86659&d=pnd#neuroeffects
- [7]: http://www.knowledgeboard.com/index.html
- [8]: http://interdependent.blogspot.com/2002_11_03_interdependent_archive.html#84051056
- [9]: http://www.neurosemantics.com/
- [10]: http://www.neurosemantics.com/Techniques/Mind-To-Muscle.htm
+ [1]: https://www.teledyn.com/mt/
+ [2]: https://www.teledyn.com/mt/archives/000487.html "TeledyN: Bridges and Bubbles"
+ [3]: https://www.blackbeltjones.com/work/mt/archives/000484.html
+ [4]: https://www.ecademy.com/
+ [5]: https://www.teledyn.com/mt/archives/000271.html#000271
+ [6]: https://www.knowledgeboard.com/cgi-bin/item.cgi?id=86659&d=pnd#neuroeffects
+ [7]: https://www.knowledgeboard.com/index.html
+ [8]: https://interdependent.blogspot.com/2002_11_03_interdependent_archive.html#84051056
+ [9]: https://www.neurosemantics.com/
+ [10]: https://www.neurosemantics.com/Techniques/Mind-To-Muscle.htm

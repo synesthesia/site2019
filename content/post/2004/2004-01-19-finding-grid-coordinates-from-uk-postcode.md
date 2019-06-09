@@ -7,6 +7,6 @@ excerpt: With no guarantees to its accuracy, here you can download a list of UK 
 url: /2004/01/19/finding-grid-coordinates-from-uk-postcode/
 
 ---
-&#8220;Finding grid coordinates from UK Postcode&#8221;:http://www.jibble.org/ukpostcodes/ [via [paranoidfish][1]]
+&#8220;Finding grid coordinates from UK Postcode&#8221;:https://www.jibble.org/ukpostcodes/ [via [paranoidfish][1]]
 
- [1]: http://www.paranoidfish.org/
+ [1]: https://www.paranoidfish.org/

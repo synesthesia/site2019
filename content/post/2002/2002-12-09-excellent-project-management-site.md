@@ -11,14 +11,14 @@ Just found Hal Macomber&#8217;s excellent [Reforming Project Management][1] blog
   
 [via [GeoDog][11] ]
 
- [1]: http://weblog.halmacomber.com/ "Reforming Project Management"
- [2]: http://weblog.halmacomber.com/2002_10_13_archive.html#85563484
- [3]: http://weblog.halmacomber.com/2002_10_27_archive.html#85609223
- [4]: http://weblog.halmacomber.com/2002_10_27_archive.html#85611709
- [5]: http://weblog.halmacomber.com/2002_10_27_archive.html#85615556
- [6]: http://weblog.halmacomber.com/2002_10_27_archive.html#85619607
- [7]: http://weblog.halmacomber.com/2002_10_27_archive.html#85623288
- [8]: http://weblog.halmacomber.com/2002_10_27_archive.html#85630799
- [9]: http://weblog.halmacomber.com/2002_11_03_archive.html#85639874
- [10]: http://www.leanconstruction.org/pdf/ObsoleteTheory.pdf
- [11]: http://geodog.thebishop.net/
+ [1]: https://weblog.halmacomber.com/ "Reforming Project Management"
+ [2]: https://weblog.halmacomber.com/2002_10_13_archive.html#85563484
+ [3]: https://weblog.halmacomber.com/2002_10_27_archive.html#85609223
+ [4]: https://weblog.halmacomber.com/2002_10_27_archive.html#85611709
+ [5]: https://weblog.halmacomber.com/2002_10_27_archive.html#85615556
+ [6]: https://weblog.halmacomber.com/2002_10_27_archive.html#85619607
+ [7]: https://weblog.halmacomber.com/2002_10_27_archive.html#85623288
+ [8]: https://weblog.halmacomber.com/2002_10_27_archive.html#85630799
+ [9]: https://weblog.halmacomber.com/2002_11_03_archive.html#85639874
+ [10]: https://www.leanconstruction.org/pdf/ObsoleteTheory.pdf
+ [11]: https://geodog.thebishop.net/

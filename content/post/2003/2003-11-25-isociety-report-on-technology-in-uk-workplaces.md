@@ -11,7 +11,7 @@ url: /2003/11/25/isociety-report-on-technology-in-uk-workplaces/
 
 From the abstract:
 
-<blockquote title="Abstract of  'Getting by, not getting on: Technology in UK workplaces'" cite="http://www.theworkfoundation.com/research/isociety/gettingby_main.jsp">
+<blockquote title="Abstract of  'Getting by, not getting on: Technology in UK workplaces'" cite="https://www.theworkfoundation.com/research/isociety/gettingby_main.jsp">
   <p>
     Three quarters of British workers now use a PC or other ICT at work. Over the past decade, new technology has swept across Britains workplaces. It has been the most dramatic change in British companies for a decade. But workplaces across the UK are suffering from a low tech equilibrium: they are getting by, not getting on. This report draws on original research in eight very different British workplaces to provide a wart[s]-and-all look at how technology really works, how it is really used and what people really think about it. It shows how we are not getting the most out of ICT in the workplace, and sets out practical steps for Government, managers and the technology industry to help us move forward.
   </p>
@@ -21,7 +21,7 @@ The report itself is quite thick, so it&#8217;s worth starting with the [executi
 
 These two items from the summary go to the heart of the matter:
 
-<blockquote cite="http://www.theworkfoundation.com/research/isociety/gettingby_summary.jsp">
+<blockquote cite="https://www.theworkfoundation.com/research/isociety/gettingby_summary.jsp">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr valign="top" class="text">
       <td>
@@ -61,9 +61,9 @@ These two items from the summary go to the heart of the matter:
 
 [via [VNUNet][5], via [Tim Strafford-Taylor][6]]
 
- [1]: http://theworkfoundation.com/research/isociety/index.jsp "The Work Foundation - iSociety"
- [2]: http://www.theworkfoundation.com/index.jsp "The Work Foundation - research, consultancy and advocacy"
- [3]: http://www.theworkfoundation.com/research/isociety/gettingby_main.jsp "The Work Foundation - iSociety, Getting by, not getting on"
- [4]: http://www.theworkfoundation.com/research/isociety/gettingby_summary.jsp "Go to executive summary of the report"
- [5]: http://www.computing.co.uk/News/1149574
- [6]: http://www.ecademy.com/module.php?mod=blog&uid=2084
+ [1]: https://theworkfoundation.com/research/isociety/index.jsp "The Work Foundation - iSociety"
+ [2]: https://www.theworkfoundation.com/index.jsp "The Work Foundation - research, consultancy and advocacy"
+ [3]: https://www.theworkfoundation.com/research/isociety/gettingby_main.jsp "The Work Foundation - iSociety, Getting by, not getting on"
+ [4]: https://www.theworkfoundation.com/research/isociety/gettingby_summary.jsp "Go to executive summary of the report"
+ [5]: https://www.computing.co.uk/News/1149574
+ [6]: https://www.ecademy.com/module.php?mod=blog&uid=2084

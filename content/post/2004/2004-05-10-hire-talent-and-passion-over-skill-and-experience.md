@@ -17,5 +17,5 @@ url: /2004/05/10/hire-talent-and-passion-over-skill-and-experience/
   
 Note to self &#8211; probably root of a full post on here discussing meta-programs and their use in recruitment&#8230;
 
- [1]: http://news.zdnet.co.uk/business/employment/0,39020648,2125761,00.htm
- [2]: http://curtrosengren.typepad.com/occupationaladventure/
+ [1]: https://news.zdnet.co.uk/business/employment/0,39020648,2125761,00.htm
+ [2]: https://curtrosengren.typepad.com/occupationaladventure/

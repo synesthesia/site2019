@@ -75,6 +75,6 @@ Fine-grained estimation can yield more accurate results – breaking requirement
   Agile can cope better with changing requirements from the client. Cheaper cost of change.Implication is that you can sometimes profit from changing requirements.
 </p>
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://duncanpierce.org/
- [3]: http://amarinda.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://duncanpierce.org/
+ [3]: https://amarinda.com/

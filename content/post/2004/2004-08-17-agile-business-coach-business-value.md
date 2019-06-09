@@ -9,4 +9,4 @@ url: /?p=400
 ---
 [Agile Business Coach: Business Value][1]
 
- [1]: http://abc.truemesh.com/archives/000369.html
+ [1]: https://abc.truemesh.com/archives/000369.html

@@ -6,7 +6,7 @@ date: 2004-07-11T14:47:14+00:00
 url: /2004/07/11/the-lure-of-slide-rules/
 
 ---
-Over at &#8220;Davos Newbies&#8221;:http://www.davosnewbies.com/ Lance Knobel is writing about &#8220;the lure of the slide rule&#8221;:http://www.davosnewbies.com/2004/07/08#theLureOfTheSlideRule:
+Over at &#8220;Davos Newbies&#8221;:https://www.davosnewbies.com/ Lance Knobel is writing about &#8220;the lure of the slide rule&#8221;:https://www.davosnewbies.com/2004/07/08#theLureOfTheSlideRule:
 
 bq. &#8220;Those of us who love slide rules are by definition not Luddites. It&#8217;s the tactile nature of the technology that excites, rather than a revulsion against the technologies that replaced it. There were gains provided by electronic calculators. Our work, lives and society are being dramatically transformed &#8211; and I believe generally improved &#8211; through near-ubiquitous computing. But there are losses from the slide rule age that are more than nostalgia. It&#8217;s better to be a tool user than a tool manager.&#8221;
 

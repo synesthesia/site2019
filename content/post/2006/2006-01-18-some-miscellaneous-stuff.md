@@ -18,6 +18,6 @@ A few online resources that I have found useful in different ways: [ancestry.com
 
 I shall stop now whilst I&#8217;m ahead.
 
- [1]: http://www.ancestry.com/
- [2]: http://www.genesreunited.com/
- [3]: http://www.familysearch.org/
+ [1]: https://www.ancestry.com/
+ [2]: https://www.genesreunited.com/
+ [3]: https://www.familysearch.org/

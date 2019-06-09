@@ -7,4 +7,4 @@ excerpt: "Learn some 'secrets' of efficient CSS coding, enabling you to pare tha
 url: /2003/12/12/writing-efficient-css/
 
 ---
-&#8220;Writing Efficient CSS&#8221;:http://www.communitymx.com/content/article.cfm?cid=A43B828960590F55
+&#8220;Writing Efficient CSS&#8221;:https://www.communitymx.com/content/article.cfm?cid=A43B828960590F55

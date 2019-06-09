@@ -16,5 +16,5 @@ From conversations I&#8217;ve had with other people in the newspaper industry, I
 
 So how robustly would the provider (in this case Google) resist a law suit from the people who want to know what a paper has on them? Especially if that&#8217;s a government or a multi-national with deep pockets?
 
- [1]: http://theobvious.typepad.com/blog/2008/07/telegraph-cio-o.html
- [2]: http://view.atdmt.com/STM/iview/ckxxiavy0180000002stm/direct/01/550192723?click=http://adserver.adtech.de/adlink|340|1114281|0|171|AdId=1883961;BnId=1;itime=550192720;key=top;nodecode=yes;link=
+ [1]: https://theobvious.typepad.com/blog/2008/07/telegraph-cio-o.html
+ [2]: https://view.atdmt.com/STM/iview/ckxxiavy0180000002stm/direct/01/550192723?click=https://adserver.adtech.de/adlink|340|1114281|0|171|AdId=1883961;BnId=1;itime=550192720;key=top;nodecode=yes;link=

@@ -20,10 +20,10 @@ Nevertheless an interesting site.
   
 [[surname profiler][1] found via [A day in the life of a middle manager][7]]
 
- [1]: http://www.spatial-literacy.org/UCLnames/default.aspx
+ [1]: https://www.spatial-literacy.org/UCLnames/default.aspx
  [2]: https://www.synesthesia.co.uk/blog/archives/2006/01/18/some-miscellaneous-stuff/
- [3]: http://www.spatial-literacy.org/UCLnames/NameSelection.aspx?name=ELVE&year=1881&altyear=1998&country=GB&type=name
+ [3]: https://www.spatial-literacy.org/UCLnames/NameSelection.aspx?name=ELVE&year=1881&altyear=1998&country=GB&type=name
  [4]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2006/01/elve-1881-GB.thumbnail.png
- [5]: http://www.spatial-literacy.org/UCLnames/Map.aspx?name=ELVEY&year=1998&altyear=1881&country=GB&type=name
+ [5]: https://www.spatial-literacy.org/UCLnames/Map.aspx?name=ELVEY&year=1998&altyear=1881&country=GB&type=name
  [6]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2006/01/elve-1998-GB.thumbnail.png
- [7]: http://www.knipe.org.uk/blogs/garry/
+ [7]: https://www.knipe.org.uk/blogs/garry/

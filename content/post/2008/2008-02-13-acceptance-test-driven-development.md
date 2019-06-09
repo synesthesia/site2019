@@ -31,8 +31,8 @@ The technique adopted was to build test fixtures which interfaced between the (H
 
 The tool is released as [Concordion][3]. Good write up on that site.
 
-<ins datetime="2008-03-13T12:33:50+00:00">Update: See <a href="http://peripateticaxiom.blogspot.com/2008/03/tests-and-gauges.html">this post</a> from Keith Braithwaite</ins>
+<ins datetime="2008-03-13T12:33:50+00:00">Update: See <a href="https://peripateticaxiom.blogspot.com/2008/03/tests-and-gauges.html">this post</a> from Keith Braithwaite</ins>
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://blog.davidpeterson.co.uk/
- [3]: http://www.concordion.org/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://blog.davidpeterson.co.uk/
+ [3]: https://www.concordion.org/

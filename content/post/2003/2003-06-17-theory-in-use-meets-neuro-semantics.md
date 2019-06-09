@@ -11,7 +11,7 @@ url: /2003/06/17/theory-in-use-meets-neuro-semantics/
 Another piece of the jigsaw I started in the [previous article][1] &#8211; [Coaching: Dealing with subliminal �Theories in Use&#8221;][2] from [Neuro-Semanticist][3] [Armand Kruger][4] [via [OnePine][5] ]
 
  [1]: https://www.synesthesia.co.uk/blog/archives/learning_organisations/000165.php
- [2]: http://www.peakperformer.co.za/argyris.htm
+ [2]: https://www.peakperformer.co.za/argyris.htm
  [3]: www.neurosemantics.com
- [4]: http://www.peakperformer.co.za
- [5]: http://onepine.blogspot.com/
+ [4]: https://www.peakperformer.co.za
+ [5]: https://onepine.blogspot.com/

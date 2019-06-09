@@ -18,5 +18,5 @@ The area is most famous for the paintings of John Constable, born in East Bergho
 Although you can see the impact of modern agriculture &#8211; even a couple of field boundaries shown on a 1998 map have disappeared &#8211; you can imagine that much of the area looks unchanged &#8211; in particular the view at Flatford Mill shown in The Hay Wain looks almost identical&#8230;
 
  [1]: https://www.synesthesia.co.uk/library/archives/000305.php
- [2]: http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/largeImage?collectionSection=work&workNumber=NG130 "The Cornfield, by John Constable, National Gallery London"
- [3]: http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/largeImage?collectionSection=work&workNumber=NG1207 "The Hay Wain, by John Constable, National Gallery London"
+ [2]: https://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/largeImage?collectionSection=work&workNumber=NG130 "The Cornfield, by John Constable, National Gallery London"
+ [3]: https://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/largeImage?collectionSection=work&workNumber=NG1207 "The Hay Wain, by John Constable, National Gallery London"

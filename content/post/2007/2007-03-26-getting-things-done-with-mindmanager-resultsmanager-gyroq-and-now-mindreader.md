@@ -20,15 +20,15 @@ Latest offering from ActivityOwner that I’ve grabbed and put into service is a
 
 I run a mixed economy of MindManager versions – X5 at work, 6 at home. MindReader is designed to work with version 6, and I discovered one version-dependency in the code. I’ve posted a fix to [make MindReader work with MindManager 5][11] on the [ActivityOwner wiki][12] [here][11].
 
- [1]: http://www.mindjet.com/us/products/mindmanager_pro6/index.php
- [2]: http://www.gyronix.com/resultmanager.php
- [3]: http://www.gyronix.com/
- [4]: http://www.gyronix.com/gyroq/index.php
- [5]: http://www.activityowner.com/
- [6]: http://www.gyronix.com/forums.php
- [7]: http://www.activityowner.com/gyroq-sequence-library/
- [8]: http://www.activityowner.com/library-mindmanager-macros/
- [9]: http://www.activityowner.com/resultsmanager-dashboard-library/
- [10]: http://wiki.activityowner.com/index.php?title=MindReader
- [11]: http://wiki.activityowner.com/index.php?title=Making_MindReader_work_on_MM5
- [12]: http://wiki.activityowner.com/index.php?title=Main_Page
+ [1]: https://www.mindjet.com/us/products/mindmanager_pro6/index.php
+ [2]: https://www.gyronix.com/resultmanager.php
+ [3]: https://www.gyronix.com/
+ [4]: https://www.gyronix.com/gyroq/index.php
+ [5]: https://www.activityowner.com/
+ [6]: https://www.gyronix.com/forums.php
+ [7]: https://www.activityowner.com/gyroq-sequence-library/
+ [8]: https://www.activityowner.com/library-mindmanager-macros/
+ [9]: https://www.activityowner.com/resultsmanager-dashboard-library/
+ [10]: https://wiki.activityowner.com/index.php?title=MindReader
+ [11]: https://wiki.activityowner.com/index.php?title=Making_MindReader_work_on_MM5
+ [12]: https://wiki.activityowner.com/index.php?title=Main_Page

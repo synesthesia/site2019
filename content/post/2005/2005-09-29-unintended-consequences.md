@@ -22,8 +22,8 @@ Ironically, the scientific method, which to-date has been shown to be the most e
 
 [ via [Voidstar][5]]
 
- [1]: http://moses.creighton.edu/JRS/2005/2005-11.html
- [2]: http://moses.creighton.edu/JRS/
- [3]: http://www.timesonline.co.uk/article/0,,2-1798944,00.html
- [4]: http://moses.creighton.edu/JRS/pdf/2005-11.pdf
- [5]: http://www.voidstar.com/node.php?id=2541
+ [1]: https://moses.creighton.edu/JRS/2005/2005-11.html
+ [2]: https://moses.creighton.edu/JRS/
+ [3]: https://www.timesonline.co.uk/article/0,,2-1798944,00.html
+ [4]: https://moses.creighton.edu/JRS/pdf/2005-11.pdf
+ [5]: https://www.voidstar.com/node.php?id=2541

@@ -42,9 +42,9 @@ Coming back to the spirit of Liz&#8217;s post, in the extended entry is my own g
   
 * &#8230;
 
- [1]: http://mamamusings.net/ "mamamusings"
- [2]: http://mamamusings.net/archives/2003/12/30/count_your_blessings_really.php "mamamusings: count your blessings. really."
- [3]: http://www.mercurynews.com/mld/mercurynews/news/local/7586470.htm
- [4]: http://www.psy.miami.edu/faculty/mmccullough/Gratitude-Related%20Stuff/highlights_fall_2003.pdf "Highlights from the Research Project on Gratitude and Thankfulness [PDF]"
- [5]: http://www.nlpiash.org/ "IASH The NLP World Health Community"
- [6]: http://www.pnirs.org/ "PsychoNeuroImmunology Research Society"
+ [1]: https://mamamusings.net/ "mamamusings"
+ [2]: https://mamamusings.net/archives/2003/12/30/count_your_blessings_really.php "mamamusings: count your blessings. really."
+ [3]: https://www.mercurynews.com/mld/mercurynews/news/local/7586470.htm
+ [4]: https://www.psy.miami.edu/faculty/mmccullough/Gratitude-Related%20Stuff/highlights_fall_2003.pdf "Highlights from the Research Project on Gratitude and Thankfulness [PDF]"
+ [5]: https://www.nlpiash.org/ "IASH The NLP World Health Community"
+ [6]: https://www.pnirs.org/ "PsychoNeuroImmunology Research Society"

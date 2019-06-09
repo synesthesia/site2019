@@ -8,5 +8,5 @@ url: /2004/11/23/a-travel-guide-to-collaboration/
 ---
 Great [article][1] on the why of business collaboration from CIO.com. [via [Tris Hussey][2]]
 
- [1]: http://www.cio.com/archive/111504/guide.html
- [2]: http://blog.larixconsulting.com/blog
+ [1]: https://www.cio.com/archive/111504/guide.html
+ [2]: https://blog.larixconsulting.com/blog

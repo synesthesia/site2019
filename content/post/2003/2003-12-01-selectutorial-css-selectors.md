@@ -10,6 +10,6 @@ excerpt: |
 url: /2003/12/01/selectutorial-css-selectors/
 
 ---
-&#8220;Selectutorial: CSS selectors&#8221;:http://css.maxdesign.com.au/selectutorial/index.htm [via [paranoidfish.org][1]]
+&#8220;Selectutorial: CSS selectors&#8221;:https://css.maxdesign.com.au/selectutorial/index.htm [via [paranoidfish.org][1]]
 
- [1]: http://www.paranoidfish.org/
+ [1]: https://www.paranoidfish.org/

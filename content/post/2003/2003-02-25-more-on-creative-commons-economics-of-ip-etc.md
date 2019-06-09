@@ -11,8 +11,8 @@ Notes to self to read and digest later&#8230;
 
 [Tim Hadley][1] on [the long-term effects of Creative Commons licences][2] [via [Ernie the Attorney][3]]
 
-Douglas Clement writes &#8220;Does innovation require intellectual property rights?&#8221;:http://www.reason.com/0303/fe.dc.creation.shtml reviewing this &#8220;paper(Perfectly Competitive Innovation [PDF 253kb])&#8221;:http://minneapolisfed.org/research/sr/sr303.pdf by Michele Boldrin and David K. Levine [ via &#8220;TeledyN&#8221;:http://www.teledyn.com/mt/ ]
+Douglas Clement writes &#8220;Does innovation require intellectual property rights?&#8221;:https://www.reason.com/0303/fe.dc.creation.shtml reviewing this &#8220;paper(Perfectly Competitive Innovation [PDF 253kb])&#8221;:https://minneapolisfed.org/research/sr/sr303.pdf by Michele Boldrin and David K. Levine [ via &#8220;TeledyN&#8221;:https://www.teledyn.com/mt/ ]
 
- [1]: http://blog.tph-lex.com/ "Math class for poets"
- [2]: http://blog.tph-lex.com/archives/weekly/week_2003_02_23.html#000113
- [3]: http://radio.weblogs.com/0104634/
+ [1]: https://blog.tph-lex.com/ "Math class for poets"
+ [2]: https://blog.tph-lex.com/archives/weekly/week_2003_02_23.html#000113
+ [3]: https://radio.weblogs.com/0104634/

@@ -9,4 +9,4 @@ url: /2004/05/18/setting-clear-priorities/
 ---
 [Setting Clear Priorities][1] Advice by Esther Derby on how to focus on what&#8217;s important
 
- [1]: http://www.computerworld.com/developmenttopics/development/story/0,10801,89106,00.html
+ [1]: https://www.computerworld.com/developmenttopics/development/story/0,10801,89106,00.html

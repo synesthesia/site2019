@@ -55,5 +55,5 @@ Three Myths
   * New security risks? &#8211; yes, but the old ones are worse, because people work around bad old unusable IT
   * Sharing is dangerous? We cannot stem the tide of sharing &#8211; better to teach responsibility than police use
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.headshift.com/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.headshift.com/

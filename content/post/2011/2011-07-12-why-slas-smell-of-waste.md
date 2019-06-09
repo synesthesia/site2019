@@ -11,7 +11,7 @@ aktt_tweeted:
 
 ---
 <div class="zemanta-img" style="margin: 1em; display: block;">
-  <figure style="width: 300px" class="wp-caption aligncenter"><a href="http://commons.wikipedia.org/wiki/File:SLA_2.JPG"><img title="SLA 2" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2011/07/300px-SLA_21.jpg" alt="SLA 2" width="300" height="187" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
+  <figure style="width: 300px" class="wp-caption aligncenter"><a href="https://commons.wikipedia.org/wiki/File:SLA_2.JPG"><img title="SLA 2" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2011/07/300px-SLA_21.jpg" alt="SLA 2" width="300" height="187" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>
 
 #### 
@@ -20,14 +20,14 @@ aktt_tweeted:
 
 There’s quite a lot now on the internet about “devops” – combining development and operations work to increase flow and reduce problems
 
-  * Google search for <a href="http://www.google.co.uk/search?sourceid=chrome&ie=UTF-8&q=kanban+devops" target="_blank">Kanban + Devops</a>
-  * <a href="http://www.delicious.com/synesthesia/devops" target="_blank">Links I’ve tagged “devops”</a>
+  * Google search for <a href="https://www.google.co.uk/search?sourceid=chrome&ie=UTF-8&q=kanban+devops" target="_blank">Kanban + Devops</a>
+  * <a href="https://www.delicious.com/synesthesia/devops" target="_blank">Links I’ve tagged “devops”</a>
 
 One of the key features of this approach is the idea that above a certain threshold of estimated duration, all operations work has to be included in the kanban board for visibility and flow management.
 
 For example see these <a href="https://docs.google.com/document/d/1gN-MZylxh72m9mCNo5oUCoWZXme4VtMIFf2ft3q1n7s/mobilebasic?authkey=CN_w1lo&pli=1&hl=en_US" target="_blank">meeting notes from a DevOps conference in Ocean View, June 2011</a>, where Lonely Planet shared their experience of this, with a threshold of 30 mins – i.e. any servicedesk issue which takes more than 30 mins gets moved to Kanban
 
-I had a <a href="http://twitter.com/#!/dominicad/status/90507189810233344" target="_blank">brief exchange on Twitter</a> with <a href="http://twitter.com/#!/dominicad" target="_blank">Dominica DeGrandis</a>, one of the DevOps leading lights, in which she confirmed that in her experience 1 hour was the most common point where teams found that the visibility and sharing was worth more than the overhead of putting into Kanban. This happens to be the pragmatic transition point adopted by the team I am coaching.
+I had a <a href="https://twitter.com/#!/dominicad/status/90507189810233344" target="_blank">brief exchange on Twitter</a> with <a href="https://twitter.com/#!/dominicad" target="_blank">Dominica DeGrandis</a>, one of the DevOps leading lights, in which she confirmed that in her experience 1 hour was the most common point where teams found that the visibility and sharing was worth more than the overhead of putting into Kanban. This happens to be the pragmatic transition point adopted by the team I am coaching.
 
 #### SLAs are a Problem!
 
@@ -69,11 +69,11 @@ I&#8217;d love to hear from other people grappling with these issues &#8211; ple
 &nbsp;
 
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=22db7d7d-2ec3-492f-ada6-24f0d5f74856" alt="" />
+  <img class="zemanta-pixie-img" style="border: none; float: right;" src="https://img.zemanta.com/pixy.gif?x-id=22db7d7d-2ec3-492f-ada6-24f0d5f74856" alt="" />
 </div>
 
- [1]: http://twitter.com/#!/@flowchainsensei
- [2]: http://www.fallingblossoms.com/opinion/content?id=1006
- [3]: http://www.systemsthinking.co.uk/home.asp
- [4]: http://www.thesystemsthinkingreview.co.uk/index.php?pg=18&utwkstoryid=266
- [5]: http://twitter.com/#!/@synesthesia
+ [1]: https://twitter.com/#!/@flowchainsensei
+ [2]: https://www.fallingblossoms.com/opinion/content?id=1006
+ [3]: https://www.systemsthinking.co.uk/home.asp
+ [4]: https://www.thesystemsthinkingreview.co.uk/index.php?pg=18&utwkstoryid=266
+ [5]: https://twitter.com/#!/@synesthesia

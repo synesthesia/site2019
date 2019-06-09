@@ -7,4 +7,4 @@ excerpt: 'Persistent login cookies are the cookies that are stored with your bro
 url: /2004/01/19/persistent-login-cookie-best-practice/
 
 ---
-&#8220;Persistent Login Cookie Best Practice&#8221;:http://fishbowl.pastiche.org/2004/01/19/persistent\_login\_cookie\_best\_practice Charles Miller presents a more robust way of using persistent cookies for user authentication&#8230;
+&#8220;Persistent Login Cookie Best Practice&#8221;:https://fishbowl.pastiche.org/2004/01/19/persistent\_login\_cookie\_best\_practice Charles Miller presents a more robust way of using persistent cookies for user authentication&#8230;

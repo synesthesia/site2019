@@ -18,8 +18,8 @@ I think there may be a clue here about what needs to be done to increase the use
 
 It&#8217;s an idea I&#8217;ve touched on [before][5]; the question remains will we see an end-to-end solution from Microsoft? Or will the independent tool vendors and the Open Source community be able to come up with something first?
 
- [1]: http://www.bloglines.com/public/synesthesia
- [2]: http://www.mozilla.org/products/firefox/
- [3]: http://www.mozilla.org/products/firefox/tabbed-browsing.html
- [4]: http://www.microsoft.com/windows/ie/default.mspx
+ [1]: https://www.bloglines.com/public/synesthesia
+ [2]: https://www.mozilla.org/products/firefox/
+ [3]: https://www.mozilla.org/products/firefox/tabbed-browsing.html
+ [4]: https://www.microsoft.com/windows/ie/default.mspx
  [5]: https://www.synesthesia.co.uk/wiki/IntraBliki.UsersCanKeepTheirExistingTools

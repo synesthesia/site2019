@@ -19,6 +19,6 @@ What I&#8217;ve tended not to be so hot on is an explicit linking those ideas an
 
 Are we all prisoners of our own success? The sorts of thinking Gary and I are describing have stuck with us because they work for us in the situations we find ourselves in. Recognising those patterns is the first step to changing them &#8211; the blog helps to do that because it extends our time horizon.
 
- [1]: http://weblog.garyturner.net/
- [2]: http://weblog.garyturner.net/2003_03_01_archive.html#90426090
- [3]: http://radio.weblogs.com/0101546/
+ [1]: https://weblog.garyturner.net/
+ [2]: https://weblog.garyturner.net/2003_03_01_archive.html#90426090
+ [3]: https://radio.weblogs.com/0101546/

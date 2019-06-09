@@ -17,11 +17,11 @@ Unfortunately the [course][8] I was attending has been withdrawn for June by the
 This should also mean that I have a little more online time to keep this place up-to-date!
 
  [1]: https://www.synesthesia.co.uk/msp/
- [2]: http://www.pearcemayfield.com/msp/index.html "Link to course description on Pearce Mayfield site"
- [3]: http://www.ogc.gov.uk/index.asp?id=1000860&syncNav=1#MSPPract
- [4]: http://www.ogc.gov.uk/sdtoolkit/deliveryteam/briefings/businesschange/prog_mgmt.html "Overview of MSP"
- [5]: http://www.ogc.gov.uk/ "OGC - Office of Government Commerce"
- [6]: http://www.ogc.gov.uk/index.asp?id=38 "OGC Programmes and Projects"
+ [2]: https://www.pearcemayfield.com/msp/index.html "Link to course description on Pearce Mayfield site"
+ [3]: https://www.ogc.gov.uk/index.asp?id=1000860&syncNav=1#MSPPract
+ [4]: https://www.ogc.gov.uk/sdtoolkit/deliveryteam/briefings/businesschange/prog_mgmt.html "Overview of MSP"
+ [5]: https://www.ogc.gov.uk/ "OGC - Office of Government Commerce"
+ [6]: https://www.ogc.gov.uk/index.asp?id=38 "OGC Programmes and Projects"
  [7]: https://www.synesthesia.co.uk/msp/./wiki/
- [8]: http://www.pearcemayfield.com/msp/index.html
- [9]: http://www.ogc.gov.uk/index.asp?id=38
+ [8]: https://www.pearcemayfield.com/msp/index.html
+ [9]: https://www.ogc.gov.uk/index.asp?id=38

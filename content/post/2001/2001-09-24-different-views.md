@@ -30,5 +30,5 @@ And how can we incorporate those perspectives into our own beliefs in a useful w
 
 If we are going to keep our way of life, regardless of the actions of those who would destroy it, then I suggest we all need our own answers to these questions&#8230;
 
- [1]: http://www.guardian.co.uk/Archive/Article/0,4273,4261662,00.html
- [2]: http://www.guardian.co.uk/Archive/Article/0,4273,4263069,00.html
+ [1]: https://www.guardian.co.uk/Archive/Article/0,4273,4261662,00.html
+ [2]: https://www.guardian.co.uk/Archive/Article/0,4273,4263069,00.html

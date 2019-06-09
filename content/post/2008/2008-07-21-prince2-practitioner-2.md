@@ -14,5 +14,5 @@ I&#8217;ve been familiar with the [PRINCE2][2] method for a number of years, an
 
 One of the best things I can say about the Pearce Mayfield training is that through it I have seen, by contrast,  how to make PRINCE2 a living and breathing approach to delivering a project.
 
- [1]: http://www.pearcemayfield.com/ "Link to Pearce Mayfield website"
- [2]: http://www.prince2.org.uk/home/home.asp
+ [1]: https://www.pearcemayfield.com/ "Link to Pearce Mayfield website"
+ [2]: https://www.prince2.org.uk/home/home.asp

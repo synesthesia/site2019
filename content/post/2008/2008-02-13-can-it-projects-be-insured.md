@@ -108,5 +108,5 @@ Could this work?<ins datetime="2008-02-13T20:06:05+00:00"></p>
     </ins>
   </p>
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.grahamoakes.co.uk/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.grahamoakes.co.uk/

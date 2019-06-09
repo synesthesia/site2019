@@ -4,7 +4,7 @@ author: Julian
 type: post
 date: 2004-09-22T22:16:00+00:00
 excerpt: |
-  Suw Charman's done a great job of <a href="http://headshift.com/archives/002150.cfm">capturing</a> the 11 core themes from the <a href="https://www.synesthesia.co.uk/blog/archives/2004/09/18/blogwalk-iv/">Blogwalk</a> "<a href="http://headshift.com/archives/002152.cfm">Window Wiki</a>". As people reflect on the event there is discussion about how to best develop the ideas from this session and how to ensure better learning next time.
+  Suw Charman's done a great job of <a href="https://headshift.com/archives/002150.cfm">capturing</a> the 11 core themes from the <a href="https://www.synesthesia.co.uk/blog/archives/2004/09/18/blogwalk-iv/">Blogwalk</a> "<a href="https://headshift.com/archives/002152.cfm">Window Wiki</a>". As people reflect on the event there is discussion about how to best develop the ideas from this session and how to ensure better learning next time.
 url: /2004/09/22/blogwalk-iv-developing-the-work/
 
 ---
@@ -32,17 +32,17 @@ The overwhelming majority of issues discussed on the day were around people, int
 
 Don&#8217;t forget that we are, by definition, a self-selected group who have been prepared to deal with the technology to get our ideas &#8220;out there&#8221;. The use of social software in the workplace will only succeed (what&#8217;s more _should_ only succeed) if it is successful in letting people do what they need to do more easily &#8211; a means not an end.
 
- [1]: http://headshift.com/moments.cfm
- [2]: http://chocnvodka.blogware.com/blog
- [3]: http://headshift.com/archives/002150.cfm
+ [1]: https://headshift.com/moments.cfm
+ [2]: https://chocnvodka.blogware.com/blog
+ [3]: https://headshift.com/archives/002150.cfm
  [4]: https://www.synesthesia.co.uk/blog/archives/2004/09/18/blogwalk-iv/
- [5]: http://headshift.com/archives/002152.cfm
- [6]: http://purpleslurple.net/ps.php?theurl=http://headshift.com/archives/002150.cfm#purp269
- [7]: http://www.psybertron.org/
- [8]: http://purpleslurple.net/ps.php?theurl=http://headshift.com/archives/002150.cfm#purp230
- [9]: http://purpleslurple.net/ps.php?theurl=http://headshift.com/archives/002150.cfm#purp156
- [10]: http://partnerships.typepad.com/civic/
- [11]: http://partnerships.typepad.com/civic/2004/09/window_wiki_the.html
- [12]: http://www.scalefree.info/
- [13]: http://www.scalefree.info/2004/09/4_ways_to_pick_.html
- [14]: http://hbswk.hbs.edu/item.jhtml?id=4378&t=strategy "How to pick a winning product"
+ [5]: https://headshift.com/archives/002152.cfm
+ [6]: https://purpleslurple.net/ps.php?theurl=https://headshift.com/archives/002150.cfm#purp269
+ [7]: https://www.psybertron.org/
+ [8]: https://purpleslurple.net/ps.php?theurl=https://headshift.com/archives/002150.cfm#purp230
+ [9]: https://purpleslurple.net/ps.php?theurl=https://headshift.com/archives/002150.cfm#purp156
+ [10]: https://partnerships.typepad.com/civic/
+ [11]: https://partnerships.typepad.com/civic/2004/09/window_wiki_the.html
+ [12]: https://www.scalefree.info/
+ [13]: https://www.scalefree.info/2004/09/4_ways_to_pick_.html
+ [14]: https://hbswk.hbs.edu/item.jhtml?id=4378&t=strategy "How to pick a winning product"

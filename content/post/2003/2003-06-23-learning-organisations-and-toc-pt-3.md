@@ -75,6 +75,6 @@ Earlier articles:
 * [Learning Organisations and TOC pt 2][4]
 
  [1]: https://www.synesthesia.co.uk/library/archives/000150.php
- [2]: http://www.banxia.com/depaper.html
+ [2]: https://www.banxia.com/depaper.html
  [3]: https://www.synesthesia.co.uk/blog/archives/learning_organisations/000165.php
  [4]: https://www.synesthesia.co.uk/blog/archives/constraints/000169.php

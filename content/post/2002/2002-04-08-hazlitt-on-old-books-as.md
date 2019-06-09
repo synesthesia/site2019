@@ -22,4 +22,4 @@ _</p>
 
 </i>Whatever you may think of the approach, Hazlitt captures the power of words to trigger the feelings aroused when you first read them.
 
- [1]: http://www.guardian.co.uk/Archive/Article/0,4273,4388138,00.html
+ [1]: https://www.guardian.co.uk/Archive/Article/0,4273,4388138,00.html

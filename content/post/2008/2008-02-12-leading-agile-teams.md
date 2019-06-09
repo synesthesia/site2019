@@ -24,6 +24,6 @@ Workshop format…
 
 Will have to think about how to transcribe this!
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.linkedin.com/pub/1/b0/aa0
- [3]: http://www.tcc-net.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.linkedin.com/pub/1/b0/aa0
+ [3]: https://www.tcc-net.com/

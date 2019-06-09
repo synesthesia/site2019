@@ -9,4 +9,4 @@ url: /2004/05/10/can-absence-make-a-team-grow-stronger/
 ---
 [Can absence make a team grow stronger?][1] Erik van Bekkum comments on HBR article about teams that work better from a distance.
 
- [1]: http://www.efios.com/blog/2004/05/05.html#a184
+ [1]: https://www.efios.com/blog/2004/05/05.html#a184

@@ -8,7 +8,7 @@ aktt_notify_twitter:
   - no
 
 ---
-<a title="JOe Dager's website" href="http://business901.com/" target="_blank">Joe Dager</a> (<a title="Joe Dager's Twitter profile" href="http://twitter.com/#!/business901" target="_blank">@business901</a>) has posted a video interview with [Dr. Michael Balle, the Gemba Coach at the Lean Enterprise Institute][1] about [Kaizen Teams without Kaizen Events][2], or [Can Kaizen be part of Standard Work][2]?
+<a title="JOe Dager's website" href="https://business901.com/" target="_blank">Joe Dager</a> (<a title="Joe Dager's Twitter profile" href="https://twitter.com/#!/business901" target="_blank">@business901</a>) has posted a video interview with [Dr. Michael Balle, the Gemba Coach at the Lean Enterprise Institute][1] about [Kaizen Teams without Kaizen Events][2], or [Can Kaizen be part of Standard Work][2]?
 
 [slideshare id=8394746&doc=kaizenpartofstdwork-110623020735-phpapp01-video]
 
@@ -45,9 +45,9 @@ It always helps to have a conceptual framework for what you do, and I sense  th
 &nbsp;
 
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=ef5eb218-4fdd-418b-92f7-de1355e116e6" alt="" />
+  <img class="zemanta-pixie-img" style="border: none; float: right;" src="https://img.zemanta.com/pixy.gif?x-id=ef5eb218-4fdd-418b-92f7-de1355e116e6" alt="" />
 </div>
 
- [1]: http://www.lean.org/balle
- [2]: http://business901.com/blog1/kaizen-teams-without-kaizen-events/
+ [1]: https://www.lean.org/balle
+ [2]: https://business901.com/blog1/kaizen-teams-without-kaizen-events/
  [3]: https://www.synesthesia.co.uk/blog/archives/2011/06/23/kanban-team-weekly-review-and-retrospective/

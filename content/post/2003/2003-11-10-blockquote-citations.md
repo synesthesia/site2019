@@ -7,4 +7,4 @@ excerpt: Paul Hammond shows how to insert a source link in blockquotes
 url: /2003/11/10/blockquote-citations/
 
 ---
-&#8220;Blockquote Citations&#8221;:http://www.paranoidfish.org/boxes/2002/12/20/ Paul Hammond shows how to insert a source link in blockquotes
+&#8220;Blockquote Citations&#8221;:https://www.paranoidfish.org/boxes/2002/12/20/ Paul Hammond shows how to insert a source link in blockquotes

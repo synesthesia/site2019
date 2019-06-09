@@ -15,5 +15,5 @@ url: /2004/05/18/eggbaconchipsandbeans/
   
 [via [LinkmachineGo][2]]
 
- [1]: http://russelldavies.typepad.com/eggbaconchipsandbeans/
- [2]: http://www.timemachinego.com/linkmachinego/
+ [1]: https://russelldavies.typepad.com/eggbaconchipsandbeans/
+ [2]: https://www.timemachinego.com/linkmachinego/

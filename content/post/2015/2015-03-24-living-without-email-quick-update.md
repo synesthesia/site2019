@@ -19,7 +19,7 @@ One minor experiment of my own that I&#8217;m happy to share, as a quick test of
 A long way from the sort of metrics that would be needed at an organisation level, but nevertheless a good quick test&#8230;
 
  [1]: https://twitter.com/elsua
- [2]: http://www.elsua.net/tag/life-without-email/
+ [2]: https://www.elsua.net/tag/life-without-email/
  [3]: https://plus.google.com/communities/112379942033795190661
  [4]: https://plus.google.com/+LuisSuarezElsua/posts/BB9GthyZLTS
- [5]: http://en.wikipedia.org/wiki/Community_of_practice
+ [5]: https://en.wikipedia.org/wiki/Community_of_practice

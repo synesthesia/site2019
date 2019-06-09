@@ -38,4 +38,4 @@ Innovation and sharing &#8211; successful companies of the future need to take h
 
 There are risks of course, but need to update the controls and risk management.
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/

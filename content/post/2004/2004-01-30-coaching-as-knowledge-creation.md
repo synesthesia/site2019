@@ -8,7 +8,7 @@ excerpt: |
   
   I wondered if it was useful to think of the coaching process as a form of mutual learning - or indeed as a form of mutual knowledge creation... 
   
-  <a title="Synesthesia : CoachingAsKnowledgeCreation" href="http://synesthesia.co.uk/tiki/tiki-index.php?page=CoachingAsKnowledgeCreation">continued on the wiki</a>
+  <a title="Synesthesia : CoachingAsKnowledgeCreation" href="https://synesthesia.co.uk/tiki/tiki-index.php?page=CoachingAsKnowledgeCreation">continued on the wiki</a>
 url: /2004/01/30/coaching-as-knowledge-creation/
 
 ---
@@ -18,4 +18,4 @@ I wondered if it was useful to think of the coaching process as a form of mutual
 
 [continued on the wiki][1]
 
- [1]: http://synesthesia.co.uk/tiki/tiki-index.php?page=CoachingAsKnowledgeCreation "Synesthesia : CoachingAsKnowledgeCreation"
+ [1]: https://synesthesia.co.uk/tiki/tiki-index.php?page=CoachingAsKnowledgeCreation "Synesthesia : CoachingAsKnowledgeCreation"

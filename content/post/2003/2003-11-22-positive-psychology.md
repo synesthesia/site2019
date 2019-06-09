@@ -14,7 +14,7 @@ url: /2003/11/22/positive-psychology/
   
 Leading light of this movement is [Martin Seligman][6] who is quoted in the article thus:
 
-<blockquote cite="http://www.guardian.co.uk/g2/story/0,3604,1088065,00.html">
+<blockquote cite="https://www.guardian.co.uk/g2/story/0,3604,1088065,00.html">
   <p>
     I used to think that all you had to do to get a happy person was get rid of the negatives in their life, but if that&#8217;s all you do, you don&#8217;t get a happy person, you get an empty person. You need the positives too
   </p>
@@ -22,7 +22,7 @@ Leading light of this movement is [Martin Seligman][6] who is quoted in the arti
 
 The article goes on with more of Seligman&#8217;s views:
 
-<blockquote cite="http://www.guardian.co.uk/g2/story/0,3604,1088065,00.html">
+<blockquote cite="https://www.guardian.co.uk/g2/story/0,3604,1088065,00.html">
   <p>
     He believes there are three routes to happiness, which he calls the &#8220;pleasant life&#8221;, the &#8220;good life&#8221; and the &#8220;meaningful life&#8221;. Some are better than others, although a mix of all three is ideal.
   </p>
@@ -52,7 +52,7 @@ All of which feel like a good fit to the things I enjoy, and when applied to wor
 
 Finally, is it scientific? There are critics who say the approach is not research-based. The last word belongs to Seligman:
 
-<blockquote cite="http://www.guardian.co.uk/g2/story/0,3604,1088065,00.html">
+<blockquote cite="https://www.guardian.co.uk/g2/story/0,3604,1088065,00.html">
   <p>
     If it&#8217;s not backed up by good scientific data, it will collapse like a house of cards, and it will deserve to
   </p>
@@ -108,7 +108,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
               
               <td width="60%" valign="middle" align="left">
                 <p class="is">
-                  <img src='http://www.authentichappiness.org/images/97.gif' />
+                  <img src='https://www.authentichappiness.org/images/97.gif' />
                 </p>
               </td>
             </tr>
@@ -122,7 +122,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
               
               <td width="60%" valign="middle" align="left">
                 <p class="is">
-                  <img src='http://www.authentichappiness.org/images/97.gif' />
+                  <img src='https://www.authentichappiness.org/images/97.gif' />
                 </p>
               </td>
             </tr>
@@ -137,7 +137,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
               <td width="60%" valign="middle" align="left">
                 <p class="is">
                   <p>
-                    <img src='http://www.authentichappiness.org/images/97.gif' />
+                    <img src='https://www.authentichappiness.org/images/97.gif' />
                   </p></td> </tr> 
                   
                   <tr>
@@ -149,7 +149,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                     
                     <td width="60%" valign="middle" align="left">
                       <p class="is">
-                        <img src='http://www.authentichappiness.org/images/96.gif' />
+                        <img src='https://www.authentichappiness.org/images/96.gif' />
                       </p>
                     </td>
                   </tr>
@@ -163,7 +163,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                     
                     <td width="60%" valign="middle" align="left">
                       <p class="is">
-                        <img src='http://www.authentichappiness.org/images/97.gif' />
+                        <img src='https://www.authentichappiness.org/images/97.gif' />
                       </p>
                     </td>
                   </tr>
@@ -177,7 +177,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                     
                     <td width="60%" valign="middle" align="left">
                       <p class="is">
-                        <img src='http://www.authentichappiness.org/images/97.gif' />
+                        <img src='https://www.authentichappiness.org/images/97.gif' />
                       </p>
                     </td>
                   </tr></table> 
@@ -235,7 +235,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                             
                             <td width="60%" valign="middle" align="left">
                               <p class="is">
-                                <img src='http://www.authentichappiness.org/images/89.gif' />
+                                <img src='https://www.authentichappiness.org/images/89.gif' />
                               </p>
                             </td>
                           </tr>
@@ -249,7 +249,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                             
                             <td width="60%" valign="middle" align="left">
                               <p class="is">
-                                <img src='http://www.authentichappiness.org/images/85.gif' />
+                                <img src='https://www.authentichappiness.org/images/85.gif' />
                               </p>
                             </td>
                           </tr>
@@ -263,7 +263,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                             
                             <td width="60%" valign="middle" align="left">
                               <p class="is">
-                                <img src='http://www.authentichappiness.org/images/89.gif' />
+                                <img src='https://www.authentichappiness.org/images/89.gif' />
                               </p>
                             </td>
                           </tr>
@@ -278,7 +278,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                             <td width="60%" valign="middle" align="left">
                               <p class="is">
                                 <p>
-                                  <img src='http://www.authentichappiness.org/images/89.gif' />
+                                  <img src='https://www.authentichappiness.org/images/89.gif' />
                                 </p></td> </tr> 
                                 
                                 <tr>
@@ -290,7 +290,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                   
                                   <td width="60%" valign="middle" align="left">
                                     <p class="is">
-                                      <img src='http://www.authentichappiness.org/images/90.gif' />
+                                      <img src='https://www.authentichappiness.org/images/90.gif' />
                                     </p>
                                   </td>
                                 </tr>
@@ -304,7 +304,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                   
                                   <td width="60%" valign="middle" align="left">
                                     <p class="is">
-                                      <img src='http://www.authentichappiness.org/images/89.gif' />
+                                      <img src='https://www.authentichappiness.org/images/89.gif' />
                                     </p>
                                   </td>
                                 </tr></table> 
@@ -362,7 +362,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                           
                                           <td width="60%" valign="middle" align="left">
                                             <p class="is">
-                                              <img src='http://www.authentichappiness.org/images/87.gif' />
+                                              <img src='https://www.authentichappiness.org/images/87.gif' />
                                             </p>
                                           </td>
                                         </tr>
@@ -376,7 +376,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                           
                                           <td width="60%" valign="middle" align="left">
                                             <p class="is">
-                                              <img src='http://www.authentichappiness.org/images/88.gif' />
+                                              <img src='https://www.authentichappiness.org/images/88.gif' />
                                             </p>
                                           </td>
                                         </tr>
@@ -390,7 +390,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                           
                                           <td width="60%" valign="middle" align="left">
                                             <p class="is">
-                                              <img src='http://www.authentichappiness.org/images/88.gif' />
+                                              <img src='https://www.authentichappiness.org/images/88.gif' />
                                             </p>
                                           </td>
                                         </tr>
@@ -404,7 +404,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                           
                                           <td width="60%" valign="middle" align="left">
                                             <p class="is">
-                                              <img src='http://www.authentichappiness.org/images/85.gif' />
+                                              <img src='https://www.authentichappiness.org/images/85.gif' />
                                             </p>
                                           </td>
                                         </tr>
@@ -418,7 +418,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                           
                                           <td width="60%" valign="middle" align="left">
                                             <p class="is">
-                                              <img src='http://www.authentichappiness.org/images/88.gif' />
+                                              <img src='https://www.authentichappiness.org/images/88.gif' />
                                             </p>
                                           </td>
                                         </tr>
@@ -433,7 +433,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                           <td width="60%" valign="middle" align="left">
                                             <p class="is">
                                               <p>
-                                                <img src='http://www.authentichappiness.org/images/88.gif' />
+                                                <img src='https://www.authentichappiness.org/images/88.gif' />
                                               </p></td> </tr> </table> 
                                               
                                               <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -489,7 +489,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                         
                                                         <td width="60%" valign="middle" align="left">
                                                           <p class="is">
-                                                            <img src='http://www.authentichappiness.org/images/86.gif' />
+                                                            <img src='https://www.authentichappiness.org/images/86.gif' />
                                                           </p>
                                                         </td>
                                                       </tr>
@@ -503,7 +503,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                         
                                                         <td width="60%" valign="middle" align="left">
                                                           <p class="is">
-                                                            <img src='http://www.authentichappiness.org/images/85.gif' />
+                                                            <img src='https://www.authentichappiness.org/images/85.gif' />
                                                           </p>
                                                         </td>
                                                       </tr>
@@ -517,7 +517,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                         
                                                         <td width="60%" valign="middle" align="left">
                                                           <p class="is">
-                                                            <img src='http://www.authentichappiness.org/images/86.gif' />
+                                                            <img src='https://www.authentichappiness.org/images/86.gif' />
                                                           </p>
                                                         </td>
                                                       </tr>
@@ -531,7 +531,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                         
                                                         <td width="60%" valign="middle" align="left">
                                                           <p class="is">
-                                                            <img src='http://www.authentichappiness.org/images/85.gif' />
+                                                            <img src='https://www.authentichappiness.org/images/85.gif' />
                                                           </p>
                                                         </td>
                                                       </tr>
@@ -546,7 +546,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                         <td width="60%" valign="middle" align="left">
                                                           <p class="is">
                                                             <p>
-                                                              <img src='http://www.authentichappiness.org/images/87.gif' />
+                                                              <img src='https://www.authentichappiness.org/images/87.gif' />
                                                             </p></td> </tr> 
                                                             
                                                             <tr>
@@ -558,7 +558,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                               
                                                               <td width="60%" valign="middle" align="left">
                                                                 <p class="is">
-                                                                  <img src='http://www.authentichappiness.org/images/87.gif' />
+                                                                  <img src='https://www.authentichappiness.org/images/87.gif' />
                                                                 </p>
                                                               </td>
                                                             </tr></table> 
@@ -616,7 +616,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                       
                                                                       <td width="60%" valign="middle" align="left">
                                                                         <p class="is">
-                                                                          <img src='http://www.authentichappiness.org/images/92.gif' />
+                                                                          <img src='https://www.authentichappiness.org/images/92.gif' />
                                                                         </p>
                                                                       </td>
                                                                     </tr>
@@ -630,7 +630,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                       
                                                                       <td width="60%" valign="middle" align="left">
                                                                         <p class="is">
-                                                                          <img src='http://www.authentichappiness.org/images/92.gif' />
+                                                                          <img src='https://www.authentichappiness.org/images/92.gif' />
                                                                         </p>
                                                                       </td>
                                                                     </tr>
@@ -644,7 +644,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                       
                                                                       <td width="60%" valign="middle" align="left">
                                                                         <p class="is">
-                                                                          <img src='http://www.authentichappiness.org/images/93.gif' />
+                                                                          <img src='https://www.authentichappiness.org/images/93.gif' />
                                                                         </p>
                                                                       </td>
                                                                     </tr>
@@ -659,7 +659,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                       <td width="60%" valign="middle" align="left">
                                                                         <p class="is">
                                                                           <p>
-                                                                            <img src='http://www.authentichappiness.org/images/92.gif' />
+                                                                            <img src='https://www.authentichappiness.org/images/92.gif' />
                                                                           </p></td> </tr> 
                                                                           
                                                                           <tr>
@@ -671,7 +671,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                             
                                                                             <td width="60%" valign="middle" align="left">
                                                                               <p class="is">
-                                                                                <img src='http://www.authentichappiness.org/images/94.gif' />
+                                                                                <img src='https://www.authentichappiness.org/images/94.gif' />
                                                                               </p>
                                                                             </td>
                                                                           </tr>
@@ -685,7 +685,7 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                             
                                                                             <td width="60%" valign="middle" align="left">
                                                                               <p class="is">
-                                                                                <img src='http://www.authentichappiness.org/images/93.gif' />
+                                                                                <img src='https://www.authentichappiness.org/images/93.gif' />
                                                                               </p>
                                                                             </td>
                                                                           </tr></table> 
@@ -693,11 +693,11 @@ These were the results I got from the VIA Signature Strengths Survey at [authent
                                                                           <p>
                                                                             </center> </div>
 
- [1]: http://www.guardian.co.uk/g2/story/0,3604,1088065,00.html
- [2]: http://www.guardian.co.uk/
- [3]: http://www.positivepsychology.org/
- [4]: http://www.royalsoc.ac.uk/ "The Royal Society - the UK national academy of science"
- [5]: http://www.royalsoc.ac.uk/events/discussion_meetings/level_2/nov_well03.htm "The science of well-being: integrating neurobiology, psychology and social science"
- [6]: http://www.psych.upenn.edu/~seligman/
- [7]: http://www.brainchannels.com/thinker/mihaly.html
- [8]: http://www.authentichappiness.org
+ [1]: https://www.guardian.co.uk/g2/story/0,3604,1088065,00.html
+ [2]: https://www.guardian.co.uk/
+ [3]: https://www.positivepsychology.org/
+ [4]: https://www.royalsoc.ac.uk/ "The Royal Society - the UK national academy of science"
+ [5]: https://www.royalsoc.ac.uk/events/discussion_meetings/level_2/nov_well03.htm "The science of well-being: integrating neurobiology, psychology and social science"
+ [6]: https://www.psych.upenn.edu/~seligman/
+ [7]: https://www.brainchannels.com/thinker/mihaly.html
+ [8]: https://www.authentichappiness.org

@@ -22,12 +22,12 @@ Borrowing an [idea][1] from [Matt][2], my current &#8220;nearest-to-hand&#8221; 
   * [Thinking Strategically][8]
   * [Competitive Advantage][9]
 
- [1]: http://matt.blogs.it/2005/10/04.html#a2015
- [2]: http://matt.blogs.it/
- [3]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1591391342%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591391342%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [1]: https://matt.blogs.it/2005/10/04.html#a2015
+ [2]: https://matt.blogs.it/
+ [3]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1591391342%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591391342%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
  [4]: https://www.synesthesia.co.uk/blog/archives/2005/09/25/working-in-the-twenty-first-century/
- [5]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1563272652%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1563272652%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
- [6]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1861975074%2526location=/o/ASIN/1861975074%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
- [7]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0875847161%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0875847161%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
- [8]: http://tinyurl.com/cuwwa
- [9]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0743260872%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0743260872%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [5]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1563272652%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1563272652%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [6]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1861975074%2526location=/o/ASIN/1861975074%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [7]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=0875847161%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0875847161%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [8]: https://tinyurl.com/cuwwa
+ [9]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=0743260872%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0743260872%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82

@@ -3,7 +3,7 @@ title: Bloggers at Balzac
 author: Julian
 type: post
 date: 2003-11-13T14:55:36+00:00
-excerpt: 'Meeting <a href="http://radio.weblogs.com/0121664/">Dina Mehta</a>, <a href="http://ming.tv/">Flemming Funch</a> and  <a href="http://scarletjewels.com/">Julie Solheim-Roe</a> for lunch.'
+excerpt: 'Meeting <a href="https://radio.weblogs.com/0121664/">Dina Mehta</a>, <a href="https://ming.tv/">Flemming Funch</a> and  <a href="https://scarletjewels.com/">Julie Solheim-Roe</a> for lunch.'
 url: /2003/11/13/bloggers-at-balzac/
 
 ---
@@ -29,6 +29,6 @@ Had the hugely enjoyable experience of lunch with [Dina Mehta][1], [Flemming Fun
 
 In summary &#8211; a hugely enjoyable and stimulating couple of hours!
 
- [1]: http://radio.weblogs.com/0121664/
- [2]: http://ming.tv/
- [3]: http://scarletjewels.com/
+ [1]: https://radio.weblogs.com/0121664/
+ [2]: https://ming.tv/
+ [3]: https://scarletjewels.com/

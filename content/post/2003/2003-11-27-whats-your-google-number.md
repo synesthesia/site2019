@@ -7,4 +7,4 @@ excerpt: Google�s greatest application as an �HR tool� is not in the corpo
 url: /2003/11/27/whats-your-google-number/
 
 ---
-&#8220;What&#8217;s Your Google Number?&#8221;:http://www.hr.com/hrcom/general/pf.cfm?oID=5635CFB8-953A-4776-AAD8B1E1404DC46FInformation
+&#8220;What&#8217;s Your Google Number?&#8221;:https://www.hr.com/hrcom/general/pf.cfm?oID=5635CFB8-953A-4776-AAD8B1E1404DC46FInformation

@@ -24,22 +24,22 @@ The next area to try Compendium will be working the other way &#8211; assembling
 <ins datetime="2004-11-1T17:15:23-0:00">Wiki page for evaluation notes: [wiki]Compendium[/wiki]</ins>
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2004/10/05/projections-of-knowledge/#comment-411
- [2]: http://kmi.open.ac.uk/people/marc/index.php
- [3]: http://www.compendiuminstitute.org/
- [4]: http://www.banxia.com/demain.html
- [5]: http://www.mindjet.com/uk/
- [6]: http://homepage.mac.com/dave_rogers/GHD11-04.html#note_1831
- [7]: http://homepage.mac.com/dave_rogers/GHD11-04.html#note_1835
- [8]: http://blog.wirearchy.com/blog/_archives/2004/11/27/192256.html
- [9]: http://theobvious.typepad.com/blog/2004/11/a_violent_agree.html
- [10]: http://homepage.mac.com/dave_rogers/GHD11-04.html#note_1836
- [11]: http://blog.wirearchy.com/blog/_archives/2004/11/28/192516.html
- [12]: http://theobvious.typepad.com/blog/2004/11/i_really_should.html
- [13]: http://homepage.mac.com/dave_rogers/
- [14]: http://blog.wirearchy.com/blog
- [15]: http://theobvious.typepad.com/blog/
- [16]: http://www.w3.org/2001/sw/
- [17]: http://en.wikipedia.org/wiki/Resource_Description_Framework
- [18]: http://scholar.google.com/scholar?hl=en&lr=&q=cache:-k74PcAo-zIJ:www.psy.cmu.edu/~siegler/RozKeil02.pdf+author:Keil,+FC
- [19]: http://www.yale.edu/psychology/FacInfo/Keil.html
- [20]: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rozenblit:Leonid.html
+ [2]: https://kmi.open.ac.uk/people/marc/index.php
+ [3]: https://www.compendiuminstitute.org/
+ [4]: https://www.banxia.com/demain.html
+ [5]: https://www.mindjet.com/uk/
+ [6]: https://homepage.mac.com/dave_rogers/GHD11-04.html#note_1831
+ [7]: https://homepage.mac.com/dave_rogers/GHD11-04.html#note_1835
+ [8]: https://blog.wirearchy.com/blog/_archives/2004/11/27/192256.html
+ [9]: https://theobvious.typepad.com/blog/2004/11/a_violent_agree.html
+ [10]: https://homepage.mac.com/dave_rogers/GHD11-04.html#note_1836
+ [11]: https://blog.wirearchy.com/blog/_archives/2004/11/28/192516.html
+ [12]: https://theobvious.typepad.com/blog/2004/11/i_really_should.html
+ [13]: https://homepage.mac.com/dave_rogers/
+ [14]: https://blog.wirearchy.com/blog
+ [15]: https://theobvious.typepad.com/blog/
+ [16]: https://www.w3.org/2001/sw/
+ [17]: https://en.wikipedia.org/wiki/Resource_Description_Framework
+ [18]: https://scholar.google.com/scholar?hl=en&lr=&q=cache:-k74PcAo-zIJ:www.psy.cmu.edu/~siegler/RozKeil02.pdf+author:Keil,+FC
+ [19]: https://www.yale.edu/psychology/FacInfo/Keil.html
+ [20]: https://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rozenblit:Leonid.html

@@ -7,4 +7,4 @@ excerpt: Hal Macomber posts comparison of the two methods by Clarke Ching
 url: /2003/11/14/how-do-scrum-and-ccpm-compare/
 
 ---
-&#8220;How Do Scrum and CCPM Compare?&#8221;:http://weblog.halmacomber.com/2003\_11\_09_archive.html#106882243673415487 Hal Macomber posts comparison of the two methods by Clarke Ching
+&#8220;How Do Scrum and CCPM Compare?&#8221;:https://weblog.halmacomber.com/2003\_11\_09_archive.html#106882243673415487 Hal Macomber posts comparison of the two methods by Clarke Ching

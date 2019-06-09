@@ -26,8 +26,8 @@ The areas that I think need to be explored are:
 
 [Next Post][5]
 
- [1]: http://www.linkedin.com/ppl/webprofile?gwp=&id=3236805
- [2]: http://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
- [3]: http://www.poppendieck.com/
- [4]: http://www.agilemanagement.net/
+ [1]: https://www.linkedin.com/ppl/webprofile?gwp=&id=3236805
+ [2]: https://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
+ [3]: https://www.poppendieck.com/
+ [4]: https://www.agilemanagement.net/
  [5]: https://www.synesthesia.co.uk/blog/archives/2009/11/03/lean-programme-shaping-finding-the-value-stream/

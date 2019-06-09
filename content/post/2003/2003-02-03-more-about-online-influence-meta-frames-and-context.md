@@ -10,7 +10,7 @@ Steve at [OnePotMeal][1] is [untangling the strands][2] of online influence.
 
 He starts by agreeing with [AKMA][3] that, regardless of the sometimes high noise-signal ratio on the web:
 
-<blockquote cite ="http://www.seabury.edu/MT/akma/000671.html#000671">
+<blockquote cite ="https://www.seabury.edu/MT/akma/000671.html#000671">
   <p>
     we can devise and sustain persistent salutary connections online in new ways that would have been significantly less workable and durable under the limitations of physical interaction
   </p>
@@ -18,7 +18,7 @@ He starts by agreeing with [AKMA][3] that, regardless of the sometimes high nois
 
 and adds a nuance from [Anne Galloway][4]:
 
-<blockquote cite="http://www.purselipsquarejaw.org/2003_01_01_blogger_archives.php#90223727">
+<blockquote cite="https://www.purselipsquarejaw.org/2003_01_01_blogger_archives.php#90223727">
   <p>
     it has become (somewhat painfully) obvious that the same inequalities that we struggle with in the everyday are equally present in cyberspace &#8211; they just take on context-specific qualities
   </p>
@@ -44,8 +44,8 @@ I think this needs a
   
 <a title="Link to image illustrating relationship of memes, frames and originators" href="https://www.synesthesia.co.uk/blog/images/memes1.php" onclick="window.open('https://www.synesthesia.co.uk/blog/images/memes1.php', 'popup', 'width=371,height=428,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">diagram!!</a>
 
- [1]: http://www.onepotmeal.com/blog
- [2]: http://www.onepotmeal.com/blog/archives/001187.html#001187 "OnePotMeal: Untangling the strands"
- [3]: http://www.seabury.edu/MT/akma/000671.html#000671
- [4]: http://www.purselipsquarejaw.org/2003_01_01_blogger_archives.php#90223727
- [5]: http://akma.disseminary.org/
+ [1]: https://www.onepotmeal.com/blog
+ [2]: https://www.onepotmeal.com/blog/archives/001187.html#001187 "OnePotMeal: Untangling the strands"
+ [3]: https://www.seabury.edu/MT/akma/000671.html#000671
+ [4]: https://www.purselipsquarejaw.org/2003_01_01_blogger_archives.php#90223727
+ [5]: https://akma.disseminary.org/

@@ -7,4 +7,4 @@ excerpt: One of the wonderful things about CSS is that it allows authors to crea
 url: /2003/12/01/css-design-going-to-print/
 
 ---
-&#8220;CSS Design: Going to Print&#8221;:http://www.alistapart.com/articles/goingtoprint/ <q>One of the wonderful things about CSS is that it allows authors to create media-specific styles for a single document.</q>
+&#8220;CSS Design: Going to Print&#8221;:https://www.alistapart.com/articles/goingtoprint/ <q>One of the wonderful things about CSS is that it allows authors to create media-specific styles for a single document.</q>

@@ -28,7 +28,7 @@ Managing tacit knowledge
 
 KM as part of everyday work (thinking out loud) rather than extra work.
 
-<ins datetime="2008-03-06T10:14:41+00:00">Floor comment from <a href="http://eightbar.co.uk/about/epredator/">Ian Hughes</a> &#8211; the importance of allowing lurking as a way of building comfort.</ins>
+<ins datetime="2008-03-06T10:14:41+00:00">Floor comment from <a href="https://eightbar.co.uk/about/epredator/">Ian Hughes</a> &#8211; the importance of allowing lurking as a way of building comfort.</ins>
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.gurteen.com/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.gurteen.com/

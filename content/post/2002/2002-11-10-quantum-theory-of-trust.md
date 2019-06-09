@@ -66,6 +66,6 @@ The article quotes Malcolm Gladwell:
   
 <P class=articletext><SPAN class=articletextbold>**6. The Learning Network.** </SPAN>(Whom do you work with to improve existing processes or methods?) Key people in this network may end up as bridges between hubs in the expert and innovation networks, translating between the old guard and the new. Since most people are afraid of genuine change, this network tends to lie dormant until the change awakens a renewed sense of trust. It takes a tough kind of love, says Professor Stephenson, to entrust people to tell you what they know about your established habits, rules, and practices.</P></TD></TABLE>
 
- [1]: http://www.strategy-business.com/
- [2]: http://www.strategy-business.com/press/prnt/?ptag-ps=&art=9056282&pg=0&format=print "Karen Stephenson's Quantum Theory of Trust"
- [3]: http://radio.weblogs.com/0114726/
+ [1]: https://www.strategy-business.com/
+ [2]: https://www.strategy-business.com/press/prnt/?ptag-ps=&art=9056282&pg=0&format=print "Karen Stephenson's Quantum Theory of Trust"
+ [3]: https://radio.weblogs.com/0114726/

@@ -20,4 +20,4 @@ sufficiently human-centred to hold a truth whatever particular brand of
   
 spirit you choose to believe in.
 
- [1]: http://www.choosingforgiveness.org/
+ [1]: https://www.choosingforgiveness.org/

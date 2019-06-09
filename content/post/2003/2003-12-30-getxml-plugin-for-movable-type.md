@@ -7,4 +7,4 @@ excerpt: Movable Type plugin implements a set of template tags for retrieving da
 url: /2003/12/30/getxml-plugin-for-movable-type/
 
 ---
-&#8220;GetXML Plugin for Movable Type&#8221;:http://www.staggernation.com/mtplugins/GetXMLReadMe.html
+&#8220;GetXML Plugin for Movable Type&#8221;:https://www.staggernation.com/mtplugins/GetXMLReadMe.html

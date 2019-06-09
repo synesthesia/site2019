@@ -7,6 +7,6 @@ excerpt: Here are some ports of common GNU utilities to native Win32. In this co
 url: /2003/11/23/native-win32-ports-of-some-gnu-utilities/
 
 ---
-&#8220;Native Win32 ports&#8221;:http://unxutils.sourceforge.net of some GNU utilities [via [Kenneth Hunt &#8211; Tech Observer][1]]
+&#8220;Native Win32 ports&#8221;:https://unxutils.sourceforge.net of some GNU utilities [via [Kenneth Hunt &#8211; Tech Observer][1]]
 
- [1]: http://kennethhunt.com/
+ [1]: https://kennethhunt.com/

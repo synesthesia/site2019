@@ -8,4 +8,4 @@ url: /2004/06/08/openoffice/
 ---
 Tim Bray [on OpenOffice][1]
 
- [1]: http://www.tbray.org/ongoing/When/200x/2004/03/26/OpenOffice
+ [1]: https://www.tbray.org/ongoing/When/200x/2004/03/26/OpenOffice

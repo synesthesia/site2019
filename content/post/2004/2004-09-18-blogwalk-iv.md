@@ -34,23 +34,23 @@ and [Matt Mower][19] joined for dinner&#8230;
 
 Disappointed that [George Por][20] couldn&#8217;t make it but I&#8217;m sure we will catch up again soon George!
 
- [1]: http://blogwalk.mediapedagogy.com/
- [2]: http://blog.mathemagenic.com
- [3]: http://www.johnniemoore.com/blog/
- [4]: http://www.psybertron.org/
- [5]: http://partnerships.typepad.com/civic/
- [6]: http://www.scalefree.info/
- [7]: http://www.codewitch.org/
- [8]: http://chocnvodka.blogware.com/
- [9]: http://www.roell.net/weblog/
- [10]: http://www.blogger.com/profile/1765762
- [11]: http://www.knowledgeboard.com
- [12]: http://www.louiseferguson.com/cityofbits.htm
- [13]: http://www.perfectpath.co.uk/
- [14]: http://toutlemonde.com/Blogger/viewEntries.do?blogname=Songlian
- [15]: http://www.savaje.com/
- [16]: http://home.btconnect.com/glottalstop/blog/
- [17]: http://www.betaroad.com/weblog/
- [18]: http://www.headshift.com/
- [19]: http://matt.blogs.it/
- [20]: http://www.community-intelligence.com/blogs/public/
+ [1]: https://blogwalk.mediapedagogy.com/
+ [2]: https://blog.mathemagenic.com
+ [3]: https://www.johnniemoore.com/blog/
+ [4]: https://www.psybertron.org/
+ [5]: https://partnerships.typepad.com/civic/
+ [6]: https://www.scalefree.info/
+ [7]: https://www.codewitch.org/
+ [8]: https://chocnvodka.blogware.com/
+ [9]: https://www.roell.net/weblog/
+ [10]: https://www.blogger.com/profile/1765762
+ [11]: https://www.knowledgeboard.com
+ [12]: https://www.louiseferguson.com/cityofbits.htm
+ [13]: https://www.perfectpath.co.uk/
+ [14]: https://toutlemonde.com/Blogger/viewEntries.do?blogname=Songlian
+ [15]: https://www.savaje.com/
+ [16]: https://home.btconnect.com/glottalstop/blog/
+ [17]: https://www.betaroad.com/weblog/
+ [18]: https://www.headshift.com/
+ [19]: https://matt.blogs.it/
+ [20]: https://www.community-intelligence.com/blogs/public/

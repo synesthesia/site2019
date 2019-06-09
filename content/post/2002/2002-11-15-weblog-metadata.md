@@ -23,6 +23,6 @@ N.Z. Bear][2] says:
 
 [ via [David Gammel][3]]
 
- [1]: http://www.wmdi.org/archives/001390.html#001390
- [2]: http://www.truthlaidbear.com/
- [3]: http://www.highcontext.com/
+ [1]: https://www.wmdi.org/archives/001390.html#001390
+ [2]: https://www.truthlaidbear.com/
+ [3]: https://www.highcontext.com/

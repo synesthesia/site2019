@@ -49,6 +49,6 @@ This is a classic example of working with the feedback forces in the relationshi
 
 When we escalate our communications in the ways Marshall describes then it often triggers the very opposite of the desired response, a shortcut to a downward spiral. Again, reflecting the principle of being at cause &#8211; if what you are doing doesn&#8217;t work, try something else!
 
- [1]: http://www.observer.co.uk/magazine/
- [2]: http://www.observer.co.uk/magazine/story/0,11913,860073,00.html "Guardian Unlimited Observer | Magazine | Tipping the balance"
- [3]: http://www.neurosemantics.com/
+ [1]: https://www.observer.co.uk/magazine/
+ [2]: https://www.observer.co.uk/magazine/story/0,11913,860073,00.html "Guardian Unlimited Observer | Magazine | Tipping the balance"
+ [3]: https://www.neurosemantics.com/

@@ -24,12 +24,12 @@ It happened. I feel very sorry for those who have lost loved ones or suffered li
 
 The end.
 
- [1]: http://technorati.com/search/%22london+bombing%22
- [2]: http://www.technorati.com/search/news.bbc.co.uk/1/hi/in_depth/uk/2005/london_explosions/default.stm
- [3]: http://news.bbc.co.uk/1/hi/in_depth/uk/2005/london_explosions/default.stm
- [4]: http://www.johnniemoore.com/blog/archives/001032.php
- [5]: http://news.bbc.co.uk/onthisday/hi/dates/stories/april/24/newsid_2523000/2523345.stm
- [6]: http://news.bbc.co.uk/1/hi/uk/1201444.stm
- [7]: http://www.london.gov.uk/news/2005/bombing-statement-080705.jsp
- [8]: http://www.lnreview.co.uk/news/005167.php
- [9]: http://www.plasticbag.org/archives/2005/07/a_reaction_to_the_last_thirtysix_hours.shtml
+ [1]: https://technorati.com/search/%22london+bombing%22
+ [2]: https://www.technorati.com/search/news.bbc.co.uk/1/hi/in_depth/uk/2005/london_explosions/default.stm
+ [3]: https://news.bbc.co.uk/1/hi/in_depth/uk/2005/london_explosions/default.stm
+ [4]: https://www.johnniemoore.com/blog/archives/001032.php
+ [5]: https://news.bbc.co.uk/onthisday/hi/dates/stories/april/24/newsid_2523000/2523345.stm
+ [6]: https://news.bbc.co.uk/1/hi/uk/1201444.stm
+ [7]: https://www.london.gov.uk/news/2005/bombing-statement-080705.jsp
+ [8]: https://www.lnreview.co.uk/news/005167.php
+ [9]: https://www.plasticbag.org/archives/2005/07/a_reaction_to_the_last_thirtysix_hours.shtml

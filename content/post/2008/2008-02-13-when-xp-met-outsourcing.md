@@ -66,8 +66,8 @@ Questions (and for [Duncan][4] too)
 
 **A:** ([Keith][5]) We have allowed purchasers of IT to think it is a fungible commodity so competition is on price. Look for shared-risk, shared-reward…
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.martinitconsulting.com/?q=node/3
- [3]: http://www.martinitconsulting.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.martinitconsulting.com/?q=node/3
+ [3]: https://www.martinitconsulting.com/
  [4]: https://www.synesthesia.co.uk/blog/archives/2008/02/13/a-square-peg-in-a-round-hole-agile-and-fixed-price-contracts/
  [5]: https://www.synesthesia.co.uk/blog/archives/2008/02/13/can-it-projects-be-insured/

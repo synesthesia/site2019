@@ -7,4 +7,4 @@ excerpt: "Literary Moose writes: 'This article is focused on techniques explorin
 url: /2003/12/01/advanced-css-ornamentation/
 
 ---
-&#8220;Advanced CSS Ornamentation&#8221;:http://nemesis1.f2o.org/articles
+&#8220;Advanced CSS Ornamentation&#8221;:https://nemesis1.f2o.org/articles

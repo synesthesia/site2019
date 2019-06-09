@@ -36,4 +36,4 @@ I challenge any UK-based educator or politician to identify where we are systema
 
  [1]: https://jarche.com/
  [2]: https://jarche.com/2017/02/only-humans-need-apply-review/
- [3]: http://amzn.to/2lGcjk8
+ [3]: https://amzn.to/2lGcjk8

@@ -79,7 +79,7 @@ Continuously manage external risks – be “a bit of a worrier” – actively 
 
 Time focus is your greatest weapon. Force the issue – timeboxes, not milestones. If you are going to fail, fail early. Never extend deadlines.
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.keithrichardsconsulting.co.uk/site/home/
- [3]: http://www.tsoshop.co.uk/bookstore.asp?FO=1160151&DI=581953
- [4]: http://en.wikipedia.org/wiki/Kaizen
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.keithrichardsconsulting.co.uk/site/home/
+ [3]: https://www.tsoshop.co.uk/bookstore.asp?FO=1160151&DI=581953
+ [4]: https://en.wikipedia.org/wiki/Kaizen

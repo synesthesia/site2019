@@ -12,8 +12,8 @@ The staff at Wheelies have been friendly and helpful all the way from validating
 
 Going through the saga of reporting the theft and getting the replacements has served as a good wake-up call about actually using them again, and doing something about my appalling fitness level. Unfortunately, [also like Gary][5], I&#8217;ve discovered the potential for too long a break from cycling to cause lung-coughing-up symptoms upon resumption of the habit!
 
- [1]: http://weblog.garyturner.net/archives/001807.html
- [2]: http://www.wheelies.co.uk/
- [3]: http://www.wheelies.co.uk/bikesNew/bikeDetail.asp?ID=843&supplier=SPECIALIZED
- [4]: http://www.wheelies.co.uk/bikesNew/bikeDetail.asp?ID=1536&supplier=SPECIALIZED
- [5]: http://weblog.garyturner.net/archives/001830.html
+ [1]: https://weblog.garyturner.net/archives/001807.html
+ [2]: https://www.wheelies.co.uk/
+ [3]: https://www.wheelies.co.uk/bikesNew/bikeDetail.asp?ID=843&supplier=SPECIALIZED
+ [4]: https://www.wheelies.co.uk/bikesNew/bikeDetail.asp?ID=1536&supplier=SPECIALIZED
+ [5]: https://weblog.garyturner.net/archives/001830.html

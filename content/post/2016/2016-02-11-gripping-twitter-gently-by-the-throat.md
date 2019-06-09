@@ -7,13 +7,13 @@ excerpt: Taking control of the Twitter stream by moving my activity to lists... 
 url: /2016/02/11/gripping-twitter-gently-by-the-throat/
 
 ---
-In <a href="https://www.synesthesia.co.uk/2016/02/11/breaking-the-ubiquity-of-stream-mode/" target="_blank">Breaking the Ubiquity of Stream&nbsp;Mode</a> I wrote that, inspired by <a href="http://www.elsua.net/2015/09/23/is-twitter-where-connections-go-to-die-the-unfollowing-experiment/" target="_blank">&#8220;Is Twitter Where Connections Go to Die? – The Unfollowing Experiment&#8221;</a>, &nbsp;I would start taking overt control of my Twitter use.
+In <a href="https://www.synesthesia.co.uk/2016/02/11/breaking-the-ubiquity-of-stream-mode/" target="_blank">Breaking the Ubiquity of Stream&nbsp;Mode</a> I wrote that, inspired by <a href="https://www.elsua.net/2015/09/23/is-twitter-where-connections-go-to-die-the-unfollowing-experiment/" target="_blank">&#8220;Is Twitter Where Connections Go to Die? – The Unfollowing Experiment&#8221;</a>, &nbsp;I would start taking overt control of my Twitter use.
 
 I shall use this post to both plan and report progress
 
 **Updated 12 Feb 2016**
 
-First part is to decide on the lists I want. I can&#8217;t disagree with the initial triumvirate described by Luis &#8211; &nbsp;&#8220;<a href="http://www.elsua.net/2015/09/24/collaborators-cooperators-and-people-i-learn-from/" target="_blank">Collaborators, Cooperators and People I Learn From</a>&#8221;
+First part is to decide on the lists I want. I can&#8217;t disagree with the initial triumvirate described by Luis &#8211; &nbsp;&#8220;<a href="https://www.elsua.net/2015/09/24/collaborators-cooperators-and-people-i-learn-from/" target="_blank">Collaborators, Cooperators and People I Learn From</a>&#8221;
 
 I also think I need a couple more public lists that reflect my other uses of Twitter &#8211; probably one for local / London accounts.
 
@@ -28,7 +28,7 @@ Moving people to lists and unfollowing through a normal Twitter client is SLOW &
 There doesn&#8217;t seem to be a tool that will do it all in one go, so I have split the task:
 
 <p style="padding-left: 30px;">
-  for updating list membership <a href="http://twitlistmanager.com/">TwitListManager</a>&nbsp;seems to do the trick, with a simple tabular display:
+  for updating list membership <a href="https://twitlistmanager.com/">TwitListManager</a>&nbsp;seems to do the trick, with a simple tabular display:
 </p>
 
 <p style="padding-left: 30px;">

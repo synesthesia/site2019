@@ -66,6 +66,6 @@ Co-location of the team was vital – and if you aren’t, you can’t have a vi
 
 Importance of dedicated time, dedicated effort / resources. “the heartbeat of feedback”
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://more-white-space.blogspot.com/
- [3]: http://www.thoughtworks.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://more-white-space.blogspot.com/
+ [3]: https://www.thoughtworks.com/

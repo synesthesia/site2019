@@ -30,10 +30,10 @@ From a [bliki]TheoryOfConstraints[/bliki] perspective it would appear that consc
   
 * How can I find other ways of processing information (e.g. exploiting my unconscious mind)?
 
- [1]: http://ming.tv/
- [2]: http://ming.tv/flemming2.php/__show_article/_a000010-001356.htm?time=1094629163
- [3]: http://www.azcentral.com/news/articles/0904hypertasking04.html
- [4]: http://www.umich.edu/~bcalab/articles/UPIArticle2001.html
- [5]: http://www.eurekalert.org/pub_releases/2001-07/cmu-cms072601.php
- [6]: http://www.umich.edu/~bcalab/multitasking.html
- [7]: http://www.google.com/search?q=neuroscience+memory
+ [1]: https://ming.tv/
+ [2]: https://ming.tv/flemming2.php/__show_article/_a000010-001356.htm?time=1094629163
+ [3]: https://www.azcentral.com/news/articles/0904hypertasking04.html
+ [4]: https://www.umich.edu/~bcalab/articles/UPIArticle2001.html
+ [5]: https://www.eurekalert.org/pub_releases/2001-07/cmu-cms072601.php
+ [6]: https://www.umich.edu/~bcalab/multitasking.html
+ [7]: https://www.google.com/search?q=neuroscience+memory

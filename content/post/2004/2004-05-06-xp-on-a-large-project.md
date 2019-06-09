@@ -9,4 +9,4 @@ url: /2004/05/06/xp-on-a-large-project/
 ---
 [XP on a Large Project][1] Keith Ray points to document by Thoughtworks
 
- [1]: http://homepage.mac.com/keithray/blog/2004/05/05/#XPonaLargeProject
+ [1]: https://homepage.mac.com/keithray/blog/2004/05/05/#XPonaLargeProject

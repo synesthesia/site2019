@@ -31,6 +31,6 @@ Virtual World Guidelines &#8211; treat it as a new country, learn and observe, c
 
 &#8220;Web 2.0 is Web Do&#8221;
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://eightbar.co.uk/about/epredator/
- [3]: http://www.u2insl.com/index2.html
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://eightbar.co.uk/about/epredator/
+ [3]: https://www.u2insl.com/index2.html

@@ -38,7 +38,7 @@ Day 2
 
 Update &#8211; my initial [learning reflections on the conference][16].
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/02/12/the-ten-golden-rules-for-successful-agile-projects/
  [3]: https://www.synesthesia.co.uk/blog/archives/2008/02/12/case-study-agile-analysis-a-proposition-assessment-case-study/
  [4]: https://www.synesthesia.co.uk/blog/archives/2008/02/12/case-study-delivering-a-public-private-partnership-using-dsdm/

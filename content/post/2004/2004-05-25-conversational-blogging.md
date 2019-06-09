@@ -8,6 +8,6 @@ url: /2004/05/25/conversational-blogging/
 ---
 [Conversational Blogging][1] Dina Mehta writes her blog as if it was spoken and contrasts Ming&#8217;s [similar view][2] with [Dave Pollard][3].
 
- [1]: http://radio.weblogs.com/0121664/2004/05/18.html#a432
- [2]: http://ming.tv/flemming2.php/__show_article/_a000010-001253/
- [3]: http://blogs.salon.com/0002007/2004/05/03.html#a719
+ [1]: https://radio.weblogs.com/0121664/2004/05/18.html#a432
+ [2]: https://ming.tv/flemming2.php/__show_article/_a000010-001253/
+ [3]: https://blogs.salon.com/0002007/2004/05/03.html#a719

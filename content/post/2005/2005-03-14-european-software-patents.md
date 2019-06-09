@@ -21,4 +21,4 @@ Encouraging innovation requires a balancing act: on the one hand ensuring that i
 > 
 > The Draft Directive can be rejected by the Parliament, but this will only happen if MEPs attend and vote on the issue. I would appreciate your confirmation that you will be there for the debate.
 
- [1]: http://observer.guardian.co.uk/business/story/0,6903,1436170,00.html
+ [1]: https://observer.guardian.co.uk/business/story/0,6903,1436170,00.html

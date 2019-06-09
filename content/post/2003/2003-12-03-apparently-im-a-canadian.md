@@ -4,7 +4,7 @@ author: Julian
 type: post
 date: 2003-12-03T20:07:49+00:00
 excerpt: |
-  According to a <a href="http://fireandice.environics.net/surveys/fireandice/main/fireandice.asp?surveyID=1">survey</a> put together by Michael Adams, author of "Fire & Ice: The US, Canada and the Myth of Converging Values" [via <a href="http://blogs.salon.com/0002007/">Dave Pollard</a>], my values are very similar to those of many Canadians and a long way from typical American values. Although I recognise the results as being related to what I believe, I'm surprised at such an extreme ranking and wonder what the result would be if the survey was calibrated for UK and Europe.
+  According to a <a href="https://fireandice.environics.net/surveys/fireandice/main/fireandice.asp?surveyID=1">survey</a> put together by Michael Adams, author of "Fire & Ice: The US, Canada and the Myth of Converging Values" [via <a href="https://blogs.salon.com/0002007/">Dave Pollard</a>], my values are very similar to those of many Canadians and a long way from typical American values. Although I recognise the results as being related to what I believe, I'm surprised at such an extreme ranking and wonder what the result would be if the survey was calibrated for UK and Europe.
 url: /2003/12/03/apparently-im-a-canadian/
 
 ---
@@ -39,5 +39,5 @@ Having dutifully completed the survey I seem to come out firmly in the &#8220;Id
 
 I don&#8217;t feel uncomfortable with those values, but I am surprised at the extreme placement of my result &#8211; I don&#8217;t consider myself an extreme example of any of those views when compared with others I know. It would be interesting to see a similar survey calibrated to include the UK and other European countries&#8230;
 
- [1]: http://blogs.salon.com/0002007/2003/12/03.html#a541
- [2]: http://fireandice.environics.net/surveys/fireandice/main/fireandice.asp?surveyID=1
+ [1]: https://blogs.salon.com/0002007/2003/12/03.html#a541
+ [2]: https://fireandice.environics.net/surveys/fireandice/main/fireandice.asp?surveyID=1

@@ -21,7 +21,7 @@ These were modelled by meta-classing Class
 As can be seen from this diagram, I have added a number of tagged values (which are modelled as attributes in the UML profile) to cover off the typical data that needs to be captured in relation to a measure.
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2010/12/21/uml-profile-for-benefits-realisation-management-1/
- [2]: http://www.amazon.co.uk/gp/product/1409400948?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=1409400948
- [3]: http://www.amazon.co.uk/gp/product/047009463X?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=047009463X
- [4]: http://books.google.com/books?id=2IfFQY_XrfAC&lpg=PA113&ots=r5fdUWFy3k&pg=PA133#v=onepage&q=measure&f=false
+ [2]: https://www.amazon.co.uk/gp/product/1409400948?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=1409400948
+ [3]: https://www.amazon.co.uk/gp/product/047009463X?ie=UTF8&tag=fivegocrazyinmid&linkCode=as2&camp=1634&creative=19450&creativeASIN=047009463X
+ [4]: https://books.google.com/books?id=2IfFQY_XrfAC&lpg=PA113&ots=r5fdUWFy3k&pg=PA133#v=onepage&q=measure&f=false
  [5]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/brm-profile-03.gif

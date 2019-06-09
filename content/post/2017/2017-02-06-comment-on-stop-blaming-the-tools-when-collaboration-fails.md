@@ -30,7 +30,7 @@ Of these, in many ways I think the biggest is that last mismatch. I&#8217;m not 
 
 _(Aside, I did leave this as a comment, but for some reason my comments are not appearing &#8211; perhaps I&#8217;ve been moderated!)_
 
- [1]: http://www.elsua.net/2016/12/07/stop-blaming-the-tools-when-collaboration-fails/
- [2]: http://www.elsua.net/
+ [1]: https://www.elsua.net/2016/12/07/stop-blaming-the-tools-when-collaboration-fails/
+ [2]: https://www.elsua.net/
  [3]: https://twitter.com/IntranetFocus
  [4]: https://en.wikipedia.org/wiki/T-shaped_skills

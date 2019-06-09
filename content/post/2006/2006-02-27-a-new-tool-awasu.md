@@ -16,12 +16,12 @@ The next challenge was finding an easy way to blog using the tool. Although [Ear
 
 I shall keep experimenting with different methods of using the tool and integrating it into my work, and may well come back to the approach earl suggests. In the interim I have taken advantage of the easily-configurable [User Tools][9] menu in Awasu to call up the normal WordPress posting page for this blog within the Awasu main window, pre-populated with key content from the source page.
 
- [1]: http://www.kn.com.au/networks/2006/02/qumana_meta_blo.html
- [2]: http://www.gurteen.com/gurteen/gurteen.nsf/id/pkm
- [3]: http://www.awasu.com/
- [4]: http://www.awasu.com/help/2.2/Introduction/04-ChannelHooks.html
- [5]: http://www.bloglines.com/public/synesthesia
- [6]: http://www.qumana.com/
- [7]: http://www.awasu.com/help/2.2/Productivity%20tools/01-Workpads.html
- [8]: http://www.awasu.com/help/2.2/Productivity%20tools/05-ChannelReports.html
- [9]: http://www.awasu.com/help/2.2/Productivity%20tools/06-ExternalTools.html
+ [1]: https://www.kn.com.au/networks/2006/02/qumana_meta_blo.html
+ [2]: https://www.gurteen.com/gurteen/gurteen.nsf/id/pkm
+ [3]: https://www.awasu.com/
+ [4]: https://www.awasu.com/help/2.2/Introduction/04-ChannelHooks.html
+ [5]: https://www.bloglines.com/public/synesthesia
+ [6]: https://www.qumana.com/
+ [7]: https://www.awasu.com/help/2.2/Productivity%20tools/01-Workpads.html
+ [8]: https://www.awasu.com/help/2.2/Productivity%20tools/05-ChannelReports.html
+ [9]: https://www.awasu.com/help/2.2/Productivity%20tools/06-ExternalTools.html

@@ -8,5 +8,5 @@ url: /2004/05/31/introducing-informal-education/
 ---
 [infed][1] . <q>What is informal education, where does it happen and how does it fit in?</q> [via [Psybertron][2]]
 
- [1]: http://www.infed.org/hp-intro.htm
- [2]: http://www.psybertron.org/index.html
+ [1]: https://www.infed.org/hp-intro.htm
+ [2]: https://www.psybertron.org/index.html

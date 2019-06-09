@@ -9,15 +9,15 @@ url: /worknotes/crm-plugin-hard-won-learnings/
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - http://synesthesiaworknotes.smallpict.com/2015/06/18/crmPluginHardWonLearnings.html
+  - https://synesthesiaworknotes.smallpict.com/2015/06/18/crmPluginHardWonLearnings.html
 syndication_item_hash:
   - 7932296f83906b2dc534b6ec96405539
   - 00c658d6c7dd3a82a067b6ec4a689eb3

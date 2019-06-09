@@ -28,8 +28,8 @@ ShareAndEnjoy
   
 <ins>still broken after reinstall of latest perl HTML and SOAP packages&#8230;<br /> </ins>
 
- [1]: http://www.decafbad.com/news_archives/000244.phtml#000244
+ [1]: https://www.decafbad.com/news_archives/000244.phtml#000244
  [2]: https://www.synesthesia.co.uk/cgi-bin/view.cgi/Sitenews/AddBlogSearch
- [3]: http://www.decafbad.com/twiki/bin/view/Main/XmlRpcToWiki
- [4]: http://www.decafbad.com/twiki/bin/view/Main/MTXmlRpcFilterPlugin
+ [3]: https://www.decafbad.com/twiki/bin/view/Main/XmlRpcToWiki
+ [4]: https://www.decafbad.com/twiki/bin/view/Main/MTXmlRpcFilterPlugin
  [5]: https://www.synesthesia.co.uk/cgi-bin/view.cgi/Sitenews/BlogTextViaWiki

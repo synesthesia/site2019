@@ -12,5 +12,5 @@ url: /2002/10/14/p2p-organisations/
 
 via [Ben Hammersley][2]
 
- [1]: http://paolo.evectors.it/stories/p2pCompanies.html
- [2]: http://www.benhammersley.com/archives/001489.html#001489
+ [1]: https://paolo.evectors.it/stories/p2pCompanies.html
+ [2]: https://www.benhammersley.com/archives/001489.html#001489

@@ -22,11 +22,11 @@ I’m blogging [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Too
   * [Deploying, measuring and succeeding with Social Software][14] &#8211; Ian McNairn, IBM SWG
   * &#8230;
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-social-tools-hit-the-mainstream/
  [3]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-social-computing-and-the-knowledge-powered-enterprise/
  [4]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-a-whistlestop-tour-round-web-marketing-20/
- [5]: http://www.arenaflowers.com/
+ [5]: https://www.arenaflowers.com/
  [6]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-social-is-good-for-business/
  [7]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-facilitating-open-innovation-in-a-distributed-community-using-free-social-software-tools/
  [8]: https://www.synesthesia.co.uk/blog/archives/2008/03/05/web-20-and-beyond-technology-brings-power-to-the-people/
@@ -34,5 +34,5 @@ I’m blogging [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Too
  [10]: https://www.synesthesia.co.uk/blog/archives/2008/03/06/web-20-km-goes-social-from-km-10-to-km-20/
  [11]: https://www.synesthesia.co.uk/blog/archives/2008/03/06/web-20-social-media-in-action/
  [12]: https://www.synesthesia.co.uk/blog/archives/2008/03/06/web-20-the-power-of-film/
- [13]: http://https://www.synesthesia.co.uk/blog/archives/2008/03/06/web-20-whos-afraid-of-identity/
+ [13]: https://https://www.synesthesia.co.uk/blog/archives/2008/03/06/web-20-whos-afraid-of-identity/
  [14]: https://www.synesthesia.co.uk/blog/archives/2008/03/06/web-20-deploying-measuring-and-succeeding-with-social-software/

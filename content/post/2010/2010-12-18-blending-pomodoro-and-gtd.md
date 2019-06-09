@@ -14,11 +14,11 @@ aktt_tweeted:
   <div>
     <dl class="wp-caption alignright" style="width: 310px;">
       <dt class="wp-caption-dt">
-        <a href="http://commons.wikipedia.org/wiki/File:Il_pomodoro.jpg"><img title="Pomodoro Timer" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Il_pomodoro.jpg/300px-Il_pomodoro.jpg" alt="Pomodoro Timer" width="300" height="300" /></a>
+        <a href="https://commons.wikipedia.org/wiki/File:Il_pomodoro.jpg"><img title="Pomodoro Timer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Il_pomodoro.jpg/300px-Il_pomodoro.jpg" alt="Pomodoro Timer" width="300" height="300" /></a>
       </dt>
       
       <dd class="wp-caption-dd zemanta-img-attribution" style="font-size: 0.8em;">
-        Image via <a href="http://commons.wikipedia.org/wiki/File:Il_pomodoro.jpg">Wikipedia</a>
+        Image via <a href="https://commons.wikipedia.org/wiki/File:Il_pomodoro.jpg">Wikipedia</a>
       </dd>
     </dl>
   </div>
@@ -45,13 +45,13 @@ How do you best resolve the “what do to” and “getting it done” pressures
 Let me know in the comments.
 
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=28c6b5af-d519-4517-918b-9232bd2d6c49" alt="" /><span class="zem-script more-info pretty-attribution"></span>
+  <img class="zemanta-pixie-img" style="border: none; float: right;" src="https://img.zemanta.com/pixy.gif?x-id=28c6b5af-d519-4517-918b-9232bd2d6c49" alt="" /><span class="zem-script more-info pretty-attribution"></span>
 </div>
 
- [1]: http://en.wikipedia.org/wiki/Getting_Things_Done
+ [1]: https://en.wikipedia.org/wiki/Getting_Things_Done
  [2]: https://www.synesthesia.co.uk/blog/archives/2010/12/18/getting-things-done-gtd/
- [3]: http://zenhabits.net/how-not-to-multitask-work-simpler-and/
- [4]: http://www.pomodorotechnique.com/
- [5]: http://theproductivestudent.com/implementing-the-pomodoro-into-gtd
- [6]: http://tim.noyce.eu/2009/08/13/gtd-and-the-pomodoro-technique/
- [7]: http://www.scribd.com/doc/36672142/The-Pomodoro-Technique
+ [3]: https://zenhabits.net/how-not-to-multitask-work-simpler-and/
+ [4]: https://www.pomodorotechnique.com/
+ [5]: https://theproductivestudent.com/implementing-the-pomodoro-into-gtd
+ [6]: https://tim.noyce.eu/2009/08/13/gtd-and-the-pomodoro-technique/
+ [7]: https://www.scribd.com/doc/36672142/The-Pomodoro-Technique

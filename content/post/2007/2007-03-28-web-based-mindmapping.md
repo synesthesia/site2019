@@ -27,19 +27,19 @@ One of my main concerns about using an online service such as these is the stabi
 
 <ins><strong>Update</strong></ins>
 
-<ins><a href="http://eric-blue.com/blog/">Eric Blue</a> has issued a call for action for a <a href="http://eric-blue.com/blog/2007/03/the_need_for_a_common_mindmap_file_format.html">common mind-mapping file format</a>, and <a href="http://www.kayuda.com/">Kayuda</a> is another online product that looks worthy of investigation…</ins>
+<ins><a href="https://eric-blue.com/blog/">Eric Blue</a> has issued a call for action for a <a href="https://eric-blue.com/blog/2007/03/the_need_for_a_common_mindmap_file_format.html">common mind-mapping file format</a>, and <a href="https://www.kayuda.com/">Kayuda</a> is another online product that looks worthy of investigation…</ins>
 
  [1]: about:freemind.sourceforge.net/wiki/index.php/Main_Page
- [2]: http://wikkawiki.org/HomePage
- [3]: http://writer.zoho.com/
- [4]: http://www.google.com/calendar
- [5]: http://docs.google.com/
- [6]: http://www.mindjet.com/
- [7]: http://www.mindomo.com/
- [8]: http://www.mindmeister.com/
- [9]: http://mindmapping.typepad.com/
- [10]: http://mindmapping.typepad.com/the_mind_mapping_software/2007/03/comparison_of_w.html
- [11]: http://bubbl.us/
- [12]: http://thinkature.com/
- [13]: http://duffill.blogs.com/beyond_crayons/
- [14]: http://duffill.blogs.com/beyond_crayons/2007/03/last_call_for_e.html
+ [2]: https://wikkawiki.org/HomePage
+ [3]: https://writer.zoho.com/
+ [4]: https://www.google.com/calendar
+ [5]: https://docs.google.com/
+ [6]: https://www.mindjet.com/
+ [7]: https://www.mindomo.com/
+ [8]: https://www.mindmeister.com/
+ [9]: https://mindmapping.typepad.com/
+ [10]: https://mindmapping.typepad.com/the_mind_mapping_software/2007/03/comparison_of_w.html
+ [11]: https://bubbl.us/
+ [12]: https://thinkature.com/
+ [13]: https://duffill.blogs.com/beyond_crayons/
+ [14]: https://duffill.blogs.com/beyond_crayons/2007/03/last_call_for_e.html

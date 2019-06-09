@@ -15,6 +15,6 @@ A key part of both posts was a link back to a piece of research mentioned in a b
 
 Unfortunately James Willis (or perhaps more likely the publicist who maintains his website) has not linked through to the original research so we are unable to make our own minds up about it. The trail goes cold.
 
- [1]: http://www.johnniemoore.com/blog/archives/000480.php
- [2]: http://jackvinson.com/archives/2004/09/19/conscious_kills_the_unconscious_knowledge.html
- [3]: http://www.friendsinlowplaces.co.uk/
+ [1]: https://www.johnniemoore.com/blog/archives/000480.php
+ [2]: https://jackvinson.com/archives/2004/09/19/conscious_kills_the_unconscious_knowledge.html
+ [3]: https://www.friendsinlowplaces.co.uk/

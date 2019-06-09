@@ -7,4 +7,4 @@ excerpt: Ruby wiki...
 url: /2003/12/15/ruby-garden/
 
 ---
-&#8220;Ruby Garden&#8221;:http://www.rubygarden.org/ Ruby wiki
+&#8220;Ruby Garden&#8221;:https://www.rubygarden.org/ Ruby wiki

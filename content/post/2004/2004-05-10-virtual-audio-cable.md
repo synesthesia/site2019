@@ -15,5 +15,5 @@ url: /2004/05/10/virtual-audio-cable/
   
 [via [Matt Mower][2]]
 
- [1]: http://spider.nrcde.ru/music/software/eng/vac.html
- [2]: http://matt.blogs.it/2004/05/05.html
+ [1]: https://spider.nrcde.ru/music/software/eng/vac.html
+ [2]: https://matt.blogs.it/2004/05/05.html

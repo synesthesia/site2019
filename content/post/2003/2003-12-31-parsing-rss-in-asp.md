@@ -7,4 +7,4 @@ excerpt: Gathering News Headline Feeds using ASP
 url: /2003/12/31/parsing-rss-in-asp/
 
 ---
-&#8220;Parsing RSS in ASP&#8221;:http://home.att.net/~codeLibrary/XML/rss.htm
+&#8220;Parsing RSS in ASP&#8221;:https://home.att.net/~codeLibrary/XML/rss.htm

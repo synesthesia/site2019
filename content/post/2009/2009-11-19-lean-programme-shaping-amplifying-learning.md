@@ -81,12 +81,12 @@ I&#8217;d be interested in dialogue to sharpen these ideas, do please [comment b
  [2]: https://www.synesthesia.co.uk/blog/archives/2009/11/03/lean-programme-shaping-finding-the-value-stream/
  [3]: https://www.synesthesia.co.uk/blog/archives/2009/11/05/lean-programme-shaping-more-on-flow/
  [4]: https://www.synesthesia.co.uk/blog/archives/2009/11/05/lean-programme-shaping-exploring-waste/
- [5]: http://www.poppendieck.com/
- [6]: http://en.wikipedia.org/wiki/PDCA
- [7]: http://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
- [8]: http://www.changedirector.com/Solutions
- [9]: http://www.sparxsystems.com.au/
- [10]: http://subversion.tigris.org/
- [11]: http://sloanreview.mit.edu/the-magazine/articles/1999/winter/4025/toyotas-principles-of-setbased-concurrent-engineering/
+ [5]: https://www.poppendieck.com/
+ [6]: https://en.wikipedia.org/wiki/PDCA
+ [7]: https://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
+ [8]: https://www.changedirector.com/Solutions
+ [9]: https://www.sparxsystems.com.au/
+ [10]: https://subversion.tigris.org/
+ [11]: https://sloanreview.mit.edu/the-magazine/articles/1999/winter/4025/toyotas-principles-of-setbased-concurrent-engineering/
  [12]: https://www.synesthesia.co.uk/blog/archives/2009/11/19/lean-programme-shaping-amplifying-learning/#respond
- [13]: http://karnbulsuk.blogspot.com/
+ [13]: https://karnbulsuk.blogspot.com/

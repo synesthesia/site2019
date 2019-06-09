@@ -19,17 +19,17 @@ This feels time to send a request to the [Lazyweb][5] &#8211; a graphical web-ba
 
 **Update 3** [GoogleBrowser][13] looks like it might be part of the way there in terms of the display&#8230;. [via [Ross Mayfield][14]]
 
- [1]: http://www.theobviousblog.net/blog/
- [2]: http://www.theobviousblog.net/blog/archives/000323.html#000323 "The Obvious?: I just like following winding paths"
- [3]: http://interdependent.blogspot.com/
- [4]: http://interdependent.blogspot.com/2002_12_29_interdependent_archive.html#86871286
- [5]: http://www.lazyweb.org/
- [6]: http://www.blackbeltjones.com/work/index.html
- [7]: http://www.blackbeltjones.com/work/mt/archives/000484.html
- [8]: http://www.orgnet.com/index.html
- [9]: http://www.orgnet.com/leftright.html
- [10]: http://tig.nareau.com/2003/01/03.html#a345
- [11]: http://tig.nareau.com/
- [12]: http://doc.weblogs.com/
- [13]: http://www.touchgraph.com/TGGoogleBrowser.html
- [14]: http://radio.weblogs.com/0114726/
+ [1]: https://www.theobviousblog.net/blog/
+ [2]: https://www.theobviousblog.net/blog/archives/000323.html#000323 "The Obvious?: I just like following winding paths"
+ [3]: https://interdependent.blogspot.com/
+ [4]: https://interdependent.blogspot.com/2002_12_29_interdependent_archive.html#86871286
+ [5]: https://www.lazyweb.org/
+ [6]: https://www.blackbeltjones.com/work/index.html
+ [7]: https://www.blackbeltjones.com/work/mt/archives/000484.html
+ [8]: https://www.orgnet.com/index.html
+ [9]: https://www.orgnet.com/leftright.html
+ [10]: https://tig.nareau.com/2003/01/03.html#a345
+ [11]: https://tig.nareau.com/
+ [12]: https://doc.weblogs.com/
+ [13]: https://www.touchgraph.com/TGGoogleBrowser.html
+ [14]: https://radio.weblogs.com/0114726/

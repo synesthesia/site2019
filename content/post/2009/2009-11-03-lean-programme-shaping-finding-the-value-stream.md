@@ -49,7 +49,7 @@ The third element is to decide how we recognise “good” quality at each stage
 In the next article I’ll start to explore the concept of [waste][5] in our context.
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2009/10/25/agile-programme-shaping-first-thoughts/
- [2]: http://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
- [3]: http://pearcemayfield.typepad.com/patrick_mayfield/2006/06/visual_mapping_.html
- [4]: http://www.ogc.gov.uk/what_is_ogc_gateway_review.asp
- [5]: http://en.wikipedia.org/wiki/Muda_%28Japanese_term%29
+ [2]: https://www.ogc.gov.uk/delivery_lifecycle_overview_of_managing_successful_programmes_msp_.asp
+ [3]: https://pearcemayfield.typepad.com/patrick_mayfield/2006/06/visual_mapping_.html
+ [4]: https://www.ogc.gov.uk/what_is_ogc_gateway_review.asp
+ [5]: https://en.wikipedia.org/wiki/Muda_%28Japanese_term%29

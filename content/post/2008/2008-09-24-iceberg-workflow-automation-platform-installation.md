@@ -19,7 +19,7 @@ Having fixed all of those I was presented with the login screen.<figure id="atta
 [<img class="size-full wp-image-1263" title="iceberg-signin" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/09/iceberg-signin.png" alt="Iceberg Signin Screen" width="361" height="242" />][5]<figcaption id="caption-attachment-1263" class="wp-caption-text">Iceberg Signin Screen</figcaption></figure>
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg/
- [2]: http://www.geticeberg.com/overview/
- [3]: http://www.learniceberg.com/support/comments.php?DiscussionID=18
- [4]: http://www.learniceberg.com/support/comments.php?DiscussionID=42
+ [2]: https://www.geticeberg.com/overview/
+ [3]: https://www.learniceberg.com/support/comments.php?DiscussionID=18
+ [4]: https://www.learniceberg.com/support/comments.php?DiscussionID=42
  [5]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/09/iceberg-signin.png

@@ -14,9 +14,9 @@ url: /2003/01/28/more-project-management-goodies/
 
 [Source [Hal Macomber][6]]
 
- [1]: http://www.sdmagazine.com/documents/s=7760/sdm0301f/sdm0301f.htm?temp=zDc5qW9CL7
- [2]: http://www.sdmagazine.com/documents/s=7804/sdm0302f/sdm0302f.htm
- [3]: http://www.jrothman.com/
- [4]: http://www.gantthead.com/article/1,1380,157963,00.html
- [5]: http://weblog.halmacomber.com/2003_01_19_archive.html#90216891
- [6]: http://weblog.halmacomber.com/
+ [1]: https://www.sdmagazine.com/documents/s=7760/sdm0301f/sdm0301f.htm?temp=zDc5qW9CL7
+ [2]: https://www.sdmagazine.com/documents/s=7804/sdm0302f/sdm0302f.htm
+ [3]: https://www.jrothman.com/
+ [4]: https://www.gantthead.com/article/1,1380,157963,00.html
+ [5]: https://weblog.halmacomber.com/2003_01_19_archive.html#90216891
+ [6]: https://weblog.halmacomber.com/

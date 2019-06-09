@@ -8,4 +8,4 @@ url: /2002/11/11/php-blogroll/
 ---
 Added Phil Ringnalda&#8217;s [PHP blogroll][1] to the site.
 
- [1]: http://philringnalda.com/phpblogroll/ "PHP blogroll"
+ [1]: https://philringnalda.com/phpblogroll/ "PHP blogroll"

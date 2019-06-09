@@ -24,6 +24,6 @@ Considering that the platform has only been around a few months, I think what th
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg-creating-the-first-user-story-1/
  [3]: https://www.synesthesia.co.uk/blog/archives/2008/09/25/iceberg-creating-the-first-user-story-2/
  [4]: https://www.synesthesia.co.uk/blog/archives/2008/09/30/iceberg-the-security-model/
- [5]: http://www.geticeberg.com/
- [6]: http://www.fractis.com/
- [7]: http://www.learniceberg.com/Application_Directory/
+ [5]: https://www.geticeberg.com/
+ [6]: https://www.fractis.com/
+ [7]: https://www.learniceberg.com/Application_Directory/

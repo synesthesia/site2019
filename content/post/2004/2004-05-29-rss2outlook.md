@@ -8,5 +8,5 @@ url: /2004/05/29/rss2outlook/
 ---
 [RSS2Outlook][1] &#8211; the beginnings of a tool that will have lots of uses. [via [Contentious][2]]
 
- [1]: http://www.kingtiny.net/weblog/RSStoOutlook.html
- [2]: http://blog.contentious.com/archives/000214.html
+ [1]: https://www.kingtiny.net/weblog/RSStoOutlook.html
+ [2]: https://blog.contentious.com/archives/000214.html

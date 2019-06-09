@@ -104,6 +104,6 @@ Nothing very exciting there you might think, until you compare the prices for si
 
 Presumably Sainsbury&#8217;s buying market share by discounting their part of the revenue?
 
-<ins datetime="2005-03-10T13:07:0200:00">Update: Found a <a href="http://www.dvd-rental-guide.co.uk/">DVD Rental Service comparison</a></ins>
+<ins datetime="2005-03-10T13:07:0200:00">Update: Found a <a href="https://www.dvd-rental-guide.co.uk/">DVD Rental Service comparison</a></ins>
 
- [1]: http://london-underground.blogspot.com/2005_03_01_london-underground_archive.html#111039304173150693
+ [1]: https://london-underground.blogspot.com/2005_03_01_london-underground_archive.html#111039304173150693

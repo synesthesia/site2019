@@ -13,5 +13,5 @@ Since it&#8217;s a Wiki, [feel free to contribute][4]!
 
  [1]: https://www.synesthesia.co.uk/blog/archives/nlp_ns/000132.php
  [2]: https://www.synesthesia.co.uk/cgi-bin/view.cgi/Nlp/MetaStatesAroundEldred
- [3]: http://www.neurosemantics.com/
- [4]: http://twiki.org/cgi-bin/view/TWiki/WikiCulture
+ [3]: https://www.neurosemantics.com/
+ [4]: https://twiki.org/cgi-bin/view/TWiki/WikiCulture

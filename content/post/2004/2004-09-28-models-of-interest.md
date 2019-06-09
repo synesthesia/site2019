@@ -8,7 +8,7 @@ url: /2004/09/28/models-of-interest/
 ---
 [Matt][1] is thinking about [modelling][2] the power of different interests.
 
-<blockquote cite="http://matt.blogs.it/2004/09/27.html#a1564">
+<blockquote cite="https://matt.blogs.it/2004/09/27.html#a1564">
   <p>
     I&#8217;m trying to come up with a mathematic model that allows me to expresses interests, their strengths, and how they change over time. My original thinking was simply to model what is current as most interesting and anything prior to that as less interesting on some scale. But I started asking myself questions about how interests are shaped and changed.<br /> [&#8230;]<br /> the model has to encompass ideas like continuity of interest. In the more realistic world where we talk about different things at once and leave and come back to topics as our interests wax and wane, well lets just say I don&#8217;t have a clear shape for this in my head yet.
   </p>
@@ -24,7 +24,7 @@ Probably the behaviour this doesn&#8217;t easily model is when a new set of inte
 
 _&#8220;Interests as attractors&#8221;_ seems an appealing meme!
 
- [1]: http://matt.blogs.it/
- [2]: http://matt.blogs.it/2004/09/27.html#a1564
- [3]: http://www.systemdynamics.org/DL-IntroSysDyn/stock.htm
- [4]: http://www.calresco.org/attract.htm
+ [1]: https://matt.blogs.it/
+ [2]: https://matt.blogs.it/2004/09/27.html#a1564
+ [3]: https://www.systemdynamics.org/DL-IntroSysDyn/stock.htm
+ [4]: https://www.calresco.org/attract.htm

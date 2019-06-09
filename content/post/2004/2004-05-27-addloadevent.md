@@ -8,4 +8,4 @@ url: /2004/05/27/addloadevent/
 ---
 [Executing JavaScript on page load][1] Elegant cross-browser method from Simon Willison
 
- [1]: http://simon.incutio.com/archive/2004/05/26/addLoadEvent
+ [1]: https://simon.incutio.com/archive/2004/05/26/addLoadEvent

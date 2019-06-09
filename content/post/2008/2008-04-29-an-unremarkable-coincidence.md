@@ -14,7 +14,7 @@ I looked at the current London street map and found there is no Cambridge Street
 
 Skip forward to last week, and I finally got around to reading [Ghost Map][1] by Steven Johnson.
 
-[<img src="http://ecx.images-amazon.com/images/I/511I-kR7rxL._SL160_.jpg" class="floatleftmargin" width="107" />][2]
+[<img src="https://ecx.images-amazon.com/images/I/511I-kR7rxL._SL160_.jpg" class="floatleftmargin" width="107" />][2]
 
 Johnson takes as his central theme the story of John Snow, and his pioneering work with Henry Whitehead during and after the 1854 cholera outbreak in Soho which proved for the first time that cholera was a water-borne infection.
 
@@ -30,8 +30,8 @@ We have no way of knowing if they were still in residence three years after the 
 
 More interesting, to me at least, are the aspects of my curiosity which set up this piece of serendipitous discovery – family history, networks of connections, a lifelong fascination with maps and the story they tell, and the ever-fascinating mental game of “What if… ?”
 
- [1]: http://www.amazon.co.uk/o/ASIN/0141029366/202-9794534-0950215?SubscriptionId=1N9AHEAQ2F6SVD97BE02
- [2]: http://www.amazon.co.uk/gp/redirect.html%3FASIN=0141029366%26tag=fivegocrazyinmid%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0141029366%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02
- [3]: http://www.ph.ucla.edu/epi/snow/snowmap1_1854_lge.htm
- [4]: http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114870744536353390965.00044c02bb06d216f6039&z=17
- [5]: http://www.matrix.msu.edu/~johnsnow/images/online_companion/chapter_images/fig11-6.jpg
+ [1]: https://www.amazon.co.uk/o/ASIN/0141029366/202-9794534-0950215?SubscriptionId=1N9AHEAQ2F6SVD97BE02
+ [2]: https://www.amazon.co.uk/gp/redirect.html%3FASIN=0141029366%26tag=fivegocrazyinmid%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0141029366%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02
+ [3]: https://www.ph.ucla.edu/epi/snow/snowmap1_1854_lge.htm
+ [4]: https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114870744536353390965.00044c02bb06d216f6039&z=17
+ [5]: https://www.matrix.msu.edu/~johnsnow/images/online_companion/chapter_images/fig11-6.jpg

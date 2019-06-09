@@ -7,4 +7,4 @@ excerpt: Here are four useful illustrations of Lean Joe Ely has come across in t
 url: /2003/10/06/four-quick-stories-of-lean/
 
 ---
-&#8220;Four Quick Stories of Lean&#8221;:http://joeelylean.blogspot.com/2003\_09\_28\_joeelylean\_archive.html#106521026202218281 Here are four useful illustrations of Lean Joe Ely has come across in the past week.
+&#8220;Four Quick Stories of Lean&#8221;:https://joeelylean.blogspot.com/2003\_09\_28\_joeelylean\_archive.html#106521026202218281 Here are four useful illustrations of Lean Joe Ely has come across in the past week.

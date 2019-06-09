@@ -10,4 +10,4 @@ In [wiring my mind][1] Swerdloff gives a great description of a practical applic
 
 > _I have a strange question I told her. Yeah? Can I kiss you? For the duration of this song. Of course. It was only a strange question because of the song&#8230;_
 
- [1]: http://www.fictionsuits.com/archives/00000065.html
+ [1]: https://www.fictionsuits.com/archives/00000065.html

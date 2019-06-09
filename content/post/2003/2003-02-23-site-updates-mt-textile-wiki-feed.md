@@ -9,7 +9,7 @@ url: /2003/02/23/site-updates-mt-textile-wiki-feed/
 ---
 \# Have added a feed of recently updated [Wiki][1] topics to the side bar <span class = "badge2">[Wiki][2]</span>
   
-\# Have just installed the &#8220;MT-Textile&#8221;:http://www.bradchoate.com/past/mttextile.php plug-in
+\# Have just installed the &#8220;MT-Textile&#8221;:https://www.bradchoate.com/past/mttextile.php plug-in
 
 (extended entry is just tests)
   

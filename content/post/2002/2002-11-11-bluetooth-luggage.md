@@ -11,5 +11,5 @@ Samsonsite&#8217;s [Bluetooth-enabled luggage][1]
   
 [via [Boingboing][2]]
 
- [1]: http://www.samsonite.com/hardlite/flash/site.html "Hardlite"
- [2]: http://boingboing.net/
+ [1]: https://www.samsonite.com/hardlite/flash/site.html "Hardlite"
+ [2]: https://boingboing.net/

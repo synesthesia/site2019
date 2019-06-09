@@ -29,10 +29,10 @@ There are three key components which are described in more detail (including sou
   * A lot of the insight on manipulating KML came from [Mark Mclaren&#8217;s Weblog][6]
   * The PHP code to manipulate the XML was heavily lifted from the [Zend Developer Zone][7]
 
- [1]: http://maps.google.com/ "Google Maps"
- [2]: http://maps.google.com/maps/ms?ie=UTF8&hl=en&z=16&om=1&msid=114870744536353390965.00000111ea7e65a3111ef&msa=0 "Example Google Map"
+ [1]: https://maps.google.com/ "Google Maps"
+ [2]: https://maps.google.com/maps/ms?ie=UTF8&hl=en&z=16&om=1&msid=114870744536353390965.00000111ea7e65a3111ef&msa=0 "Example Google Map"
  [3]: https://www.synesthesia.co.uk/data/sp2tm.php "Example output page"
  [4]: https://www.synesthesia.co.uk/blog/wiki/Extracting+Route+Instructions+from+Google+Map
- [5]: http://earth.google.com/kml/kml_tags_21.html "KML reference"
- [6]: http://cse-mjmcl.cse.bris.ac.uk/blog/2005/07/26/1122414882406.html "Mark McClaren's Weblog"
- [7]: http://devzone.zend.com/node/view/id/1302 "Zend Developer Zone"
+ [5]: https://earth.google.com/kml/kml_tags_21.html "KML reference"
+ [6]: https://cse-mjmcl.cse.bris.ac.uk/blog/2005/07/26/1122414882406.html "Mark McClaren's Weblog"
+ [7]: https://devzone.zend.com/node/view/id/1302 "Zend Developer Zone"

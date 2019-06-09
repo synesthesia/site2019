@@ -25,8 +25,8 @@ As I&#8217;ve noted [here][5] my learning goals are to:
   * Acquire a toolkit for strategic thinking.
   * Informal learning through networking with other delegates.
 
- [1]: http://www.som.cranfield.ac.uk/som/executive/course/overview.asp?id=82
- [2]: http://harvardbusinessonline.hbsp.harvard.edu/b01/en/common/item_detail.jhtml?id=95402
+ [1]: https://www.som.cranfield.ac.uk/som/executive/course/overview.asp?id=82
+ [2]: https://harvardbusinessonline.hbsp.harvard.edu/b01/en/common/item_detail.jhtml?id=95402
  [3]: https://www.synesthesia.co.uk/blog/wiki/The+Right+Game
  [4]: https://www.synesthesia.co.uk/blog/wiki/Developing+Deliverable+Strategies.TramStudy
  [5]: https://www.synesthesia.co.uk/blog/wiki/Developing+Deliverable+Strategies

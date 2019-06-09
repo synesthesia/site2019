@@ -22,9 +22,9 @@ Perhaps Mindjet should take a hint from the [bubbl.us][3] team (see [previous po
 
 Thanks to [ActivityOwner][5] for [pointing out][6] how to use [IE Tab][2] with this plugin.
 
- [1]: http://www.mindjet.com/us/beta/embedded_map.php?s=9
- [2]: http://ietab.mozdev.org/
- [3]: http://bubbl.us/
+ [1]: https://www.mindjet.com/us/beta/embedded_map.php?s=9
+ [2]: https://ietab.mozdev.org/
+ [3]: https://bubbl.us/
  [4]: https://www.synesthesia.co.uk/blog/archives/2007/03/29/testing-bubblus-plugin-for-wordpress/
- [5]: http://www.activityowner.com/
- [6]: http://www.activityowner.com/2007/03/17/using-the-mindmanager-activex-map-viewer-in-firefox/
+ [5]: https://www.activityowner.com/
+ [6]: https://www.activityowner.com/2007/03/17/using-the-mindmanager-activex-map-viewer-in-firefox/

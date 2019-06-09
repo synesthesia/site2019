@@ -8,6 +8,6 @@ excerpt: |
 url: /2003/11/24/mysql-gotchas/
 
 ---
-&#8220;MySQL Gotchas&#8221;:http://sql-info.de/mysql/gotchas.html [via [paranoidfish.org][1]]
+&#8220;MySQL Gotchas&#8221;:https://sql-info.de/mysql/gotchas.html [via [paranoidfish.org][1]]
 
- [1]: http://www.paranoidfish.org/links/
+ [1]: https://www.paranoidfish.org/links/

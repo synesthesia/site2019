@@ -23,9 +23,9 @@ Many have written on the issues that email causes, here are some highlights:
 
 Lastly, no list of the things wrong with email would be a complete without a reference to [Luis Suarez][5] and his six+ year experiment on living and working without email. A good place to start is his summary post &#8220;[Life without email – year 6, weeks 21 to 24][6]&#8220;
 
- [1]: http://www.mckinsey.com/insights/high_tech_telecoms_internet/the_social_economy
- [2]: http://99u.com/workbook/16527/why-emailing-gives-you-a-false-sense-of-progress
- [3]: http://www.forbes.com/sites/brentgleeson/2013/10/02/the-silo-mentality-how-to-break-down-the-barriers/
- [4]: http://www.wsj.com/articles/SB105405850262272400
- [5]: http://www.elsua.net/tag/life-without-email/
- [6]: http://www.elsua.net/2013/07/17/life-without-email-year-6-weeks-21-to-24-newcomer-challenging-for-king-emails-crown/
+ [1]: https://www.mckinsey.com/insights/high_tech_telecoms_internet/the_social_economy
+ [2]: https://99u.com/workbook/16527/why-emailing-gives-you-a-false-sense-of-progress
+ [3]: https://www.forbes.com/sites/brentgleeson/2013/10/02/the-silo-mentality-how-to-break-down-the-barriers/
+ [4]: https://www.wsj.com/articles/SB105405850262272400
+ [5]: https://www.elsua.net/tag/life-without-email/
+ [6]: https://www.elsua.net/2013/07/17/life-without-email-year-6-weeks-21-to-24-newcomer-challenging-for-king-emails-crown/

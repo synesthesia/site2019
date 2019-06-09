@@ -15,5 +15,5 @@ url: /2004/05/12/the-kj-technique/
   
 [via [Column Two][2]]
 
- [1]: http://www.uie.com/articles/kj_technique/
- [2]: http://www.steptwo.com.au/columntwo/
+ [1]: https://www.uie.com/articles/kj_technique/
+ [2]: https://www.steptwo.com.au/columntwo/

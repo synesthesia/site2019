@@ -9,15 +9,15 @@ url: /worknotes/a-weirdness-with-xunit/
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - http://synesthesiaworknotes.smallpict.com/2015/10/01/aWeirdnessWithXunit.html
+  - https://synesthesiaworknotes.smallpict.com/2015/10/01/aWeirdnessWithXunit.html
 syndication_item_hash:
   - 2aec4a899b8bd9a7758d5a55166f005b
   - 45d3ba9f4855207bc927df71bdbc3c3b

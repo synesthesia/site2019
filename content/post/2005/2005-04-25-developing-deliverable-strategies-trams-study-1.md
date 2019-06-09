@@ -30,6 +30,6 @@ To sense-check this would need some detailed figures on capacity which are not a
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2005/04/22/developing-deliverable-strategies/
  [2]: https://www.synesthesia.co.uk/blog/wiki/Developing+Deliverable+Strategies.TramStudy
- [3]: http://purpleslurple.net/ps.php?theurl=http://www.corbett-toc.com/eng/pag_09.htm#purp40
- [4]: http://purpleslurple.net/ps.php?theurl=http://www.corbett-toc.com/eng/pag_09.htm#purp46
- [5]: http://purpleslurple.net/ps.php?theurl=http://www.corbett-toc.com/eng/pag_09.htm#purp43
+ [3]: https://purpleslurple.net/ps.php?theurl=https://www.corbett-toc.com/eng/pag_09.htm#purp40
+ [4]: https://purpleslurple.net/ps.php?theurl=https://www.corbett-toc.com/eng/pag_09.htm#purp46
+ [5]: https://purpleslurple.net/ps.php?theurl=https://www.corbett-toc.com/eng/pag_09.htm#purp43

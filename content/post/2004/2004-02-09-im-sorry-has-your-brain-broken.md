@@ -7,4 +7,4 @@ excerpt: "Self-taught scientist Steve Grand built his own intelligent android. N
 url: /2004/02/09/im-sorry-has-your-brain-broken/
 
 ---
-&#8220;I&#8217;m sorry, has your brain broken?&#8221;:http://www.guardian.co.uk/life/opinion/story/0,12981,1133207,00.html Self-taught scientist Steve Grand built his own intelligent android. Now he&#8217;s seeking intelligent life among the newsreaders, television producers and yoghurt advertisers who label things as &#8216;science&#8217;
+&#8220;I&#8217;m sorry, has your brain broken?&#8221;:https://www.guardian.co.uk/life/opinion/story/0,12981,1133207,00.html Self-taught scientist Steve Grand built his own intelligent android. Now he&#8217;s seeking intelligent life among the newsreaders, television producers and yoghurt advertisers who label things as &#8216;science&#8217;

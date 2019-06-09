@@ -8,5 +8,5 @@ url: /2002/04/10/inventing-the-future/
 ---
 Thought provoking [piece][1] by Tom O&#8217;Reilly on the way forward with web services (via [EVHEAD][2]).
 
- [1]: http://www.oreillynet.com/pub/a/network/2002/04/09/future.html
- [2]: http://www.evhead.com/
+ [1]: https://www.oreillynet.com/pub/a/network/2002/04/09/future.html
+ [2]: https://www.evhead.com/

@@ -71,7 +71,7 @@ ensure
 end
 </pre>
 
-<ins datetime="2005-03-29T19:00:46-01:00">Question also <a href="http://www.oooforum.org/forum/viewtopic.phtml?t=18607">posted</a> to OpenOffice.org forum.</ins>
+<ins datetime="2005-03-29T19:00:46-01:00">Question also <a href="https://www.oooforum.org/forum/viewtopic.phtml?t=18607">posted</a> to OpenOffice.org forum.</ins>
 
 <ins datetime="2005-03-29T22:16:16-01:00">OpenOffice.org forum came up with the answer:<br /> Replace </p> 
 
@@ -94,8 +94,8 @@ end
     </ins>
   </p>
 
- [1]: http://www.openoffice.org/
- [2]: http://www.ruby-lang.org/
- [3]: http://www.rubygarden.org/ruby/ruby?OpenOffice
- [4]: http://www.oooforum.org/forum/viewtopic.phtml?t=3510
- [5]: http://www.oooforum.org/forum/viewtopic.phtml?t=9815
+ [1]: https://www.openoffice.org/
+ [2]: https://www.ruby-lang.org/
+ [3]: https://www.rubygarden.org/ruby/ruby?OpenOffice
+ [4]: https://www.oooforum.org/forum/viewtopic.phtml?t=3510
+ [5]: https://www.oooforum.org/forum/viewtopic.phtml?t=9815

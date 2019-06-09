@@ -18,4 +18,4 @@ In [The New McCarthyism][1] George Monbiot says:
 
 > _Democracy is sustained not by public trust but by public scepticism. Unless we are prepared to question, to expose, to challenge and to dissent, we conspire in the demise of the system for which our governments are supposed to be fighting._
 
- [1]: http://www.monbiot.com/dsp_article.cfm?article_id=461
+ [1]: https://www.monbiot.com/dsp_article.cfm?article_id=461

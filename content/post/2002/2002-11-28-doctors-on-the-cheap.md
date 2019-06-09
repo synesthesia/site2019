@@ -17,5 +17,5 @@ Nayeem Azim is a doctor. He&#8217;s also a refugee from Afghanistan. He describe
 
 [ via [BBC News][2]]
 
- [1]: http://news.bbc.co.uk/1/hi/uk/2516797.stm "BBC NEWS | UK | Training the refugee doctors"
- [2]: http://news.bbc.co.uk
+ [1]: https://news.bbc.co.uk/1/hi/uk/2516797.stm "BBC NEWS | UK | Training the refugee doctors"
+ [2]: https://news.bbc.co.uk

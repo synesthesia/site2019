@@ -18,9 +18,9 @@ Where do I sit on this? For me I think [Jeanette Winterson][5] (not known for he
 
 > _I believe that hearing, like sight, is a blessing, and if we are prepared to use technology to breed children we have deliberately disabled, it is not only the language of disability that will have to be radically reworked, but our entire moral perspective. What this case suggests is that we can do what we like to our children, even if the consequences of our actions are irreversible. As lesbians, the two women should know something about choice and personal freedom. They both practise as mental health specialists, so I hope they have a colleague who will be able to talk it through with two kids who turn up in 20 years, explaining that their mothers decided that they had to be deaf._
 
- [1]: http://www.guardian.co.uk/international/story/0,3604,680616,00.html
- [2]: http://www.washingtonpost.com/wp-dyn/articles/A23194-2002Mar27.html
- [3]: http://www.frc.org/get/p02d01.cfm
- [4]: http://www.guardian.co.uk/Archive/Article/0,4273,4390037,00.html
- [5]: http://www.jeanettewinterson.com/home.htm
- [6]: http://www.guardian.co.uk/Archive/Article/0,4273,4390038,00.html
+ [1]: https://www.guardian.co.uk/international/story/0,3604,680616,00.html
+ [2]: https://www.washingtonpost.com/wp-dyn/articles/A23194-2002Mar27.html
+ [3]: https://www.frc.org/get/p02d01.cfm
+ [4]: https://www.guardian.co.uk/Archive/Article/0,4273,4390037,00.html
+ [5]: https://www.jeanettewinterson.com/home.htm
+ [6]: https://www.guardian.co.uk/Archive/Article/0,4273,4390038,00.html

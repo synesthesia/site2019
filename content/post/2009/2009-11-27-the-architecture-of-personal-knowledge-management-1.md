@@ -15,7 +15,7 @@ I&#8217;ve chosen to use [Archimate][2] as a modelling language, and as I develo
 
 Harold&#8217;s model looks like this:
 
-[<img class="aligncenter" title="PKM Processes - by Harold Jarche" src="http://www.jarche.com/wp-content/uploads/2008/06/pkm-flow.jpg" alt="" width="434" height="278" />][1]
+[<img class="aligncenter" title="PKM Processes - by Harold Jarche" src="https://www.jarche.com/wp-content/uploads/2008/06/pkm-flow.jpg" alt="" width="434" height="278" />][1]
 
 As I began to unpick Harold&#8217;s [seven processes][1] I realised that although they are primarily focused on &#8220;self&#8221;, one key aspect to understand them is to identify the different roles that &#8220;self&#8221; (and &#8220;others&#8221;) play. This aspect of the model so far is shown in the [Introductory View][4] :
 
@@ -33,8 +33,8 @@ I&#8217;ve also created pages on the wiki for the first iteration at modelling t
 
 Comments welcome to help refine this modelling effort.
 
- [1]: http://www.jarche.com/2009/07/creating-your-pkm-processes/
- [2]: http://www.archimate.org/
+ [1]: https://www.jarche.com/2009/07/creating-your-pkm-processes/
+ [2]: https://www.archimate.org/
  [3]: https://www.synesthesia.co.uk/wikka/PKMArchitecture
  [4]: https://www.synesthesia.co.uk/wikka/PKMHighLevelProcessView
  [5]: https://www.synesthesia.co.uk/wikka/PKMInformationView

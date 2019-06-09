@@ -7,7 +7,7 @@ excerpt: Stripping The Bull Out Of Business. A consulting jargon fighter from De
 url: /2004/02/01/bullfighter/
 
 ---
-&#8220;Bullfighter&#8221;:http://www.dc.com/insights/bullfighter/ Stripping The Bull Out Of Business. A consulting jargon fighter from Deloitte
+&#8220;Bullfighter&#8221;:https://www.dc.com/insights/bullfighter/ Stripping The Bull Out Of Business. A consulting jargon fighter from Deloitte
   
 <!--more-->
 
@@ -15,4 +15,4 @@ url: /2004/02/01/bullfighter/
   
 [via [blog.org][1]]
 
- [1]: http://blog.org/
+ [1]: https://blog.org/

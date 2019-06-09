@@ -15,5 +15,5 @@ url: /2004/05/07/how-many-google-machines/
   
 [via [Gary Turner][2]]
 
- [1]: http://www.tnl.net/blog/entry/How_many_Google_machines
- [2]: http://weblog.garyturner.net/index.html
+ [1]: https://www.tnl.net/blog/entry/How_many_Google_machines
+ [2]: https://weblog.garyturner.net/index.html

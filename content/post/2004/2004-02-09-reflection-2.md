@@ -20,5 +20,5 @@ In one of the [background documents][3] Bob Dick describes a number of typical q
 As someone from a pragmatic background rather than an academic training, the attraction I can see in learning Action Research is the greater skill it will give me at reflecting on practice. The nuance of Reflection 1 & 2, I suspect, will take that even further&#8230;
 
  [1]: https://www.synesthesia.co.uk/blog/archives/action_research/000289.php
- [2]: http://www.scu.edu.au/schools/gcm/ar/areol/areolhome.html
- [3]: http://purpleslurple.net/ps.php?theurl=http://www.scu.edu.au/schools/gcm/ar/arp/naive.html
+ [2]: https://www.scu.edu.au/schools/gcm/ar/areol/areolhome.html
+ [3]: https://purpleslurple.net/ps.php?theurl=https://www.scu.edu.au/schools/gcm/ar/arp/naive.html

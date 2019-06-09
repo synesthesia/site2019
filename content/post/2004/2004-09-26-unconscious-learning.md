@@ -11,8 +11,8 @@ url: /?p=421
 
 I want to add some observations about how NLP-based coaching helps with unconscious learning
 
- [1]: http://www.johnniemoore.com/blog/
- [2]: http://www.johnniemoore.com/blog/archives/000480.php
- [3]: http://jackvinson.com/archives/2004/09/19/conscious_kills_the_unconscious_knowledge.html
- [4]: http://jackvinson.com/
- [5]: http://purpleslurple.net/ps.php?theurl=http://www.businessballs.com/consciouscompetencelearningmodel.htm#purp269
+ [1]: https://www.johnniemoore.com/blog/
+ [2]: https://www.johnniemoore.com/blog/archives/000480.php
+ [3]: https://jackvinson.com/archives/2004/09/19/conscious_kills_the_unconscious_knowledge.html
+ [4]: https://jackvinson.com/
+ [5]: https://purpleslurple.net/ps.php?theurl=https://www.businessballs.com/consciouscompetencelearningmodel.htm#purp269

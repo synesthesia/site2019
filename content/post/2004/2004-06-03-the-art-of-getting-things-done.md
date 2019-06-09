@@ -8,4 +8,4 @@ url: /2004/06/03/the-art-of-getting-things-done/
 ---
 [The Art of Getting Things Done][1]
 
- [1]: http://www.fastcompany.com/online/35/smith.html
+ [1]: https://www.fastcompany.com/online/35/smith.html

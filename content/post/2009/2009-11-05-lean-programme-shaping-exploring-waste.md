@@ -69,6 +69,6 @@ Next – how do we design the programme shaping process to amplify learning?
  [1]: https://www.synesthesia.co.uk/blog/archives/2009/10/25/agile-programme-shaping-first-thoughts/
  [2]: https://www.synesthesia.co.uk/blog/archives/2009/11/03/lean-programme-shaping-finding-the-value-stream/
  [3]: https://www.synesthesia.co.uk/blog/archives/2009/11/05/lean-programme-shaping-more-on-flow/
- [4]: http://en.wikipedia.org/wiki/Muda_%28Japanese_term%29
- [5]: http://en.wikipedia.org/wiki/Toyota_Production_System
- [6]: http://www.poppendieck.com/
+ [4]: https://en.wikipedia.org/wiki/Muda_%28Japanese_term%29
+ [5]: https://en.wikipedia.org/wiki/Toyota_Production_System
+ [6]: https://www.poppendieck.com/

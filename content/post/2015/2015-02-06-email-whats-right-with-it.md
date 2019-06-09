@@ -18,5 +18,5 @@ No tool is all good or all bad, so following on from &#8220;[Email – what&#821
 I&#8217;ve run out of ideas – please feel free to add comments…
 
  [1]: https://www.synesthesia.co.uk/2015/02/06/email-whats-wrong-with-it/
- [2]: http://www.wsj.com/articles/SB105405850262272400
- [3]: http://www.shoosmiths.co.uk/client-resources/legal-updates/Going-viral-misuse-of-work-emails-4789.aspx
+ [2]: https://www.wsj.com/articles/SB105405850262272400
+ [3]: https://www.shoosmiths.co.uk/client-resources/legal-updates/Going-viral-misuse-of-work-emails-4789.aspx

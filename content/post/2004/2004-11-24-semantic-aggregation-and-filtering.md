@@ -25,7 +25,7 @@ I have a hunch that all of this is buildable with currently-available standards.
 
 <ins datetime="2004-10-25T21:35:27-0:00"><br /> Wiki page: [wiki]SemanticAggregator[/wiki]</ins>
 
- [1]: http://itc.uncc.edu/dale/su8/
- [2]: http://itc.uncc.edu/dale/su8/archives/003558.html
+ [1]: https://itc.uncc.edu/dale/su8/
+ [2]: https://itc.uncc.edu/dale/su8/archives/003558.html
  [3]: https://www.synesthesia.co.uk/blog/archives/2004/10/05/projections-of-knowledge/
- [4]: http://atomiq.org/archives/2004/08/folksonomy_social_classification.html
+ [4]: https://atomiq.org/archives/2004/08/folksonomy_social_classification.html

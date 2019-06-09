@@ -13,11 +13,11 @@ aktt_notify_twitter:
   <div>
     <dl class="wp-caption alignright" style="width: 250px;">
       <dt class="wp-caption-dt">
-        <a href="http://www.flickr.com/photos/79538062@N00/4407962892"><img title="063/365 - getting-things-done thursday" src="http://farm5.static.flickr.com/4007/4407962892_9e7693ef1f_m.jpg" alt="063/365 - getting-things-done thursday" /></a>
+        <a href="https://www.flickr.com/photos/79538062@N00/4407962892"><img title="063/365 - getting-things-done thursday" src="https://farm5.static.flickr.com/4007/4407962892_9e7693ef1f_m.jpg" alt="063/365 - getting-things-done thursday" /></a>
       </dt>
       
       <dd class="wp-caption-dd zemanta-img-attribution" style="font-size: 0.8em;">
-        Image by <a href="http://www.flickr.com/photos/79538062@N00/4407962892">jypsygen</a> via Flickr
+        Image by <a href="https://www.flickr.com/photos/79538062@N00/4407962892">jypsygen</a> via Flickr
       </dd>
     </dl>
   </div>
@@ -39,9 +39,9 @@ How do you Get Things Done?
 Comments please!
 
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=6bdc015a-712c-4017-b3f2-7887eb768886" alt="" /><span class="zem-script more-info pretty-attribution"></span>
+  <img class="zemanta-pixie-img" style="border: none; float: right;" src="https://img.zemanta.com/pixy.gif?x-id=6bdc015a-712c-4017-b3f2-7887eb768886" alt="" /><span class="zem-script more-info pretty-attribution"></span>
 </div>
 
- [1]: http://en.wikipedia.org/wiki/Getting_Things_Done
- [2]: http://www.nozbe.com/a-53437730
- [3]: http://www.evernote.com
+ [1]: https://en.wikipedia.org/wiki/Getting_Things_Done
+ [2]: https://www.nozbe.com/a-53437730
+ [3]: https://www.evernote.com

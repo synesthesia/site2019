@@ -18,9 +18,9 @@ I’ll continue to name-check sources when I write a post, and through the use o
 
 Serendipitously, I notice that a [much-more-famous-than-I blogger][5] has been having [similar thoughts][6]…
 
- [1]: http://www.bloglines.com/
- [2]: http://www.awasu.com/
- [3]: http://aqualung.typepad.com/aqualung/2007/02/a_reputation_ec.html
- [4]: http://del.icio.us/synesthesia
- [5]: http://blogs.law.harvard.edu/doc/
- [6]: http://blogs.law.harvard.edu/doc/2007/09/13/more-blog-less-rolling/
+ [1]: https://www.bloglines.com/
+ [2]: https://www.awasu.com/
+ [3]: https://aqualung.typepad.com/aqualung/2007/02/a_reputation_ec.html
+ [4]: https://del.icio.us/synesthesia
+ [5]: https://blogs.law.harvard.edu/doc/
+ [6]: https://blogs.law.harvard.edu/doc/2007/09/13/more-blog-less-rolling/

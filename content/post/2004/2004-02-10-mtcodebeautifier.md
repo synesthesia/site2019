@@ -7,4 +7,4 @@ excerpt: MTCodeBeautifier is a plugin for Movable Type that provides syntax high
 url: /2004/02/10/mtcodebeautifier/
 
 ---
-&#8220;MTCodeBeautifier&#8221;:http://voisen.org/archives/projects/000239.php MTCodeBeautifier is a plugin for Movable Type that provides syntax highlighting and code beautification (indenting, etc.) on input for a variety of programming languages.
+&#8220;MTCodeBeautifier&#8221;:https://voisen.org/archives/projects/000239.php MTCodeBeautifier is a plugin for Movable Type that provides syntax highlighting and code beautification (indenting, etc.) on input for a variety of programming languages.

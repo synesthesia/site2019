@@ -24,6 +24,6 @@ Key was planning. Audience, tone/style/format. Core objectives: engage with key 
 
 Lessons: listen to feedback, adjust and adapt go with the flow and the rules, if you make a mistake, acknowledge
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.adrianjmoss.com/
- [3]: http://www.poundlandblog.co.uk/
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.adrianjmoss.com/
+ [3]: https://www.poundlandblog.co.uk/

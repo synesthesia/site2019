@@ -25,6 +25,6 @@ My first response, in the comments, was [it&#8217;s autopoiesis!][3], but thinki
 
 Korzybski said that man is a time-binding animal &#8211; by that he meant that we can take ideas and discoveries from the past and build on them. What we are as individuals is as much about the culture we create as it is about the shape we fit. And a big part of that culture is how we link the ideas of others and add our own, unique, slant&#8230; is that why blogs are so popular?
 
- [1]: http://www.theobviousblog.net/blog
- [2]: http://www.theobviousblog.net/blog/archives/000352.html#000352 "The Obvious?: It's all just stuff really ...."
- [3]: http://www.cs.ucl.ac.uk/staff/t.quick/autopoiesis.html
+ [1]: https://www.theobviousblog.net/blog
+ [2]: https://www.theobviousblog.net/blog/archives/000352.html#000352 "The Obvious?: It's all just stuff really ...."
+ [3]: https://www.cs.ucl.ac.uk/staff/t.quick/autopoiesis.html

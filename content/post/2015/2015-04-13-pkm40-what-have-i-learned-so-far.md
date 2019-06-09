@@ -21,11 +21,11 @@ In terms of overt sense-making and sharing, I&#8217;ve started being more attent
 
 I&#8217;m very interested in the concept of [roles in PKM][8], not just in terms of seeking out those people for my network, but in terms of identifying and filling the gaps, and the overlap with roles in action-based networks.
 
- [1]: http://jarche.com/
- [2]: http://jarche.com/pkm-in-40-days/
- [3]: http://jarche.com/2014/02/the-seek-sense-share-framework/
+ [1]: https://jarche.com/
+ [2]: https://jarche.com/pkm-in-40-days/
+ [3]: https://jarche.com/2014/02/the-seek-sense-share-framework/
  [4]: https://www.diigo.com/user/synesthesia
  [5]: https://twitter.com/Synesthesia/lists
- [6]: http://www.labnol.org/internet/twitter-rss-feed/28149/
- [7]: http://johnstepper.com/2012/05/26/working-out-loud-your-personal-content-strategy/
- [8]: http://jarche.com/2014/01/pkm-roles/
+ [6]: https://www.labnol.org/internet/twitter-rss-feed/28149/
+ [7]: https://johnstepper.com/2012/05/26/working-out-loud-your-personal-content-strategy/
+ [8]: https://jarche.com/2014/01/pkm-roles/

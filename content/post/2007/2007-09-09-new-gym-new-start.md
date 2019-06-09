@@ -18,4 +18,4 @@ The gym seems much better equipped than the one we were using previously, and Iâ
 
 Taking a lead from [David Seah][1] (and probably a million or so other bloggers) Iâ€™m going to explore how I can use this space as a way of encouraging myself through reflection and goal-setting.
 
- [1]: http://davidseah.com/archives/2007/09/04/mysteries-of-the-gym-part-v-two-months-later/
+ [1]: https://davidseah.com/archives/2007/09/04/mysteries-of-the-gym-part-v-two-months-later/

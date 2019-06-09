@@ -69,18 +69,18 @@ Workshop Yahoo! group: <aa-ftt@yahoogroups.com>
 
 **A:** Ideally every time there is releasable code. During the iteration plan at least come up with the names of tests to accept the story, then treat creation of the tests as a story in that iteration.
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.testingreflections.com/blog/2
- [3]: http://www.testingreflections.com/
- [4]: http://parlezuml.com/blog/
- [5]: http://www.parlezuml.com/blog/?postid=490
- [6]: http://www.concordion.org/
- [7]: http://www.developertesting.com/archives/individual_weblogs-kevin_lawrence-index.html
- [8]: http://selenium.openqa.org/
- [9]: http://www.testing.com/cgi-bin/blog
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.testingreflections.com/blog/2
+ [3]: https://www.testingreflections.com/
+ [4]: https://parlezuml.com/blog/
+ [5]: https://www.parlezuml.com/blog/?postid=490
+ [6]: https://www.concordion.org/
+ [7]: https://www.developertesting.com/archives/individual_weblogs-kevin_lawrence-index.html
+ [8]: https://selenium.openqa.org/
+ [9]: https://www.testing.com/cgi-bin/blog
  [10]: https://dev.eclipse.org/portal/myfoundation/tests/index.php
- [11]: http://c2.com/~ward/
- [12]: http://boss.bekk.no/cubictest/
- [13]: http://www.eclipse.org/
- [14]: http://wtr.rubyforge.org/
- [15]: http://www.questioningsoftware.com/
+ [11]: https://c2.com/~ward/
+ [12]: https://boss.bekk.no/cubictest/
+ [13]: https://www.eclipse.org/
+ [14]: https://wtr.rubyforge.org/
+ [15]: https://www.questioningsoftware.com/

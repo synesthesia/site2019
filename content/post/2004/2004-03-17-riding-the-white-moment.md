@@ -15,5 +15,5 @@ url: /2004/03/17/riding-the-white-moment/
   
 [via [Innovation Weblog][2]]
 
- [1]: http://www.psychologytoday.com/htdocs/prod/PTOArticle/PTO-19920301-000031.ASP
- [2]: http://www.innovationtools.com/Weblog/innovation-weblog.asp
+ [1]: https://www.psychologytoday.com/htdocs/prod/PTOArticle/PTO-19920301-000031.ASP
+ [2]: https://www.innovationtools.com/Weblog/innovation-weblog.asp

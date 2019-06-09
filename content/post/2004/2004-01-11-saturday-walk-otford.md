@@ -17,8 +17,8 @@ I&#8217;ve not been walking in this area before but the landscape seems very sim
 
 The walk was hugely enjoyable &#8211; short enough to do during a short winter day with a late-ish start &#8211; but also far enough both to remind me of how sedentary I&#8217;ve been lately (ouch!) and to bring on that simple inner calmness brought about by a combination of exercise, fresh air and being out in the English countryside.
 
- [1]: http://www.theobviousblog.net/blog/archives/000337.html#000337
- [2]: http://www.theobviousblog.net/blog/archives/000342.html#000342
- [3]: http://www.theobviousblog.net/blog/archives/000352.html#000352
+ [1]: https://www.theobviousblog.net/blog/archives/000337.html#000337
+ [2]: https://www.theobviousblog.net/blog/archives/000342.html#000342
+ [3]: https://www.theobviousblog.net/blog/archives/000352.html#000352
  [4]: https://www.synesthesia.co.uk/library/archives/000305.php
- [5]: http://www.otford.org/
+ [5]: https://www.otford.org/

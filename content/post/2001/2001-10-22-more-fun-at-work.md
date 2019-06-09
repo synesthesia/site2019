@@ -25,6 +25,6 @@ In [&#8220;Fourteen Forms of Fun&#8221;][1] [Pierre-Alexandre Garneau][2] lists 
 
 Something to think about next time you are trying to fill that job vacancy!
 
- [1]: http://www.gamasutra.com/features/20011012/garneau_01.htm
+ [1]: https://www.gamasutra.com/features/20011012/garneau_01.htm
  [2]: mailto:paganator@geocities.com
- [3]: http://www.technography.com/3/coworking302.html
+ [3]: https://www.technography.com/3/coworking302.html

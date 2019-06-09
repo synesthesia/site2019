@@ -20,8 +20,8 @@ Web and mobile phone integrated.
 
 _Key thought (JE) &#8211; why would I want my employer to own my social graph?_
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.webspiders.com/en/index.asp
- [3]: http://enterprise.snockles.com/
- [4]: http://www.snockles.com/
- [5]: http://www.twitter.com
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.webspiders.com/en/index.asp
+ [3]: https://enterprise.snockles.com/
+ [4]: https://www.snockles.com/
+ [5]: https://www.twitter.com

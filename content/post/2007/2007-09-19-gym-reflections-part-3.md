@@ -12,10 +12,10 @@ I’ve been a few times since my last post, and wanted to capture some of the th
 
 <ol class="decimal">
   <li>
-    It’s much easier to focus on aerobic training if you use a <a href="http://www.argos.co.uk/static/Product/partNumber/3028223.htm">Heart Rate Monitor</a>
+    It’s much easier to focus on aerobic training if you use a <a href="https://www.argos.co.uk/static/Product/partNumber/3028223.htm">Heart Rate Monitor</a>
   </li>
   <li>
-    When the gym is busy, it’s surprising how long it takes to move between exercises, especially if you are using <a href="http://en.wikipedia.org/wiki/Weights">free weights</a> and need to set the weight on each exercise.
+    When the gym is busy, it’s surprising how long it takes to move between exercises, especially if you are using <a href="https://en.wikipedia.org/wiki/Weights">free weights</a> and need to set the weight on each exercise.
   </li>
   <li>
     Making a <a href="https://www.synesthesia.co.uk/wikka/ExerciseLog">template</a> with the most common exercises in your routine, and using it to record a workout helps focus and motivation.

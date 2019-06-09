@@ -46,7 +46,7 @@ New research shows that the metaphor which is used could depend on the native la
 
 The Aymara study is the first documented research finding evidence of a group of people with a reversed sense of time. When talking about long time spans the Aymara seem to have a [bliki]Through Time[/bliki] model, when talking about shorter periods (up to several generations) they seem to exhibit a reversed [bliki]In Time[/bliki] model, with the past in front and the future behind:
 
-<blockquote cite="http://www.guardian.co.uk/life/feature/story/0,13026,1423455,00.html">
+<blockquote cite="https://www.guardian.co.uk/life/feature/story/0,13026,1423455,00.html">
   <p>
     When they talked about very wide time spans, their gestures indicated that they conceived of it spanning from left to right, excluding themselves. But when they talked about shorter spans, several generations say, the axis was front-back, with them at point zero. The gestures of the old man and the woman discussing their grandparents confirmed that they really did think of the past as in front of them.
   </p>
@@ -54,7 +54,7 @@ The Aymara study is the first documented research finding evidence of a group of
 
 This particular and (so far) unique way of modelling time seems intimately associated with the Aymara language: 
 
-<blockquote cite="http://www.guardian.co.uk/life/feature/story/0,13026,1423455,00.html">
+<blockquote cite="https://www.guardian.co.uk/life/feature/story/0,13026,1423455,00.html">
   <p>
     In 1975, Andrew Miracle and Juan de Dios Yapita Moya, both at the University of Florida, observed that q&#8221;ipüru , the Aymara word for tomorrow, combines q&#8221;ipa and uru , the word for day, to produce a literal meaning of &#8220;some day behind one&#8217;s back
   </p>
@@ -83,15 +83,15 @@ What happens if you move those representations around?
 Play with your timeline and see what happens&#8230;
 
  [1]: https://www.synesthesia.co.uk/blog/wiki/TimeLine
- [2]: http://www.linguistics.berkeley.edu/lingdept/Current/people/facpages/lakoffg.html
- [3]: http://darkwing.uoregon.edu/~uophil/faculty/mjohnson/mjohnson.html
- [4]: http://www.amazon.co.uk/exec/obidos/ASIN/0226468011/fivegocrazyinmid/
- [5]: http://www.google.co.uk/search?q=%22cognitive+linguistics%22
- [6]: http://66.102.9.104/search?q=cache:By6bbQseJzwJ:www.cogsci.northwestern.edu/cogsci2004/papers/paper575.pdf&hl=en
- [7]: http://www.guardian.co.uk/
- [8]: http://www.guardian.co.uk/life/feature/story/0,13026,1423455,00.html
- [9]: http://www.plasticbag.org/archives/2005/02/three_stunning_articles_in_the_guardian_this_morning.shtml
- [10]: http://www.cogsci.ucsd.edu/~nunez/web/index.html
- [11]: http://www.linguistics.berkeley.edu/lingdept/Current/people/facpages/sweetser.html
- [12]: http://www.sussex.ac.uk/Users/vyv/Languagememoryandtime.ppt
- [13]: http://www.sussex.ac.uk/Users/vyv/
+ [2]: https://www.linguistics.berkeley.edu/lingdept/Current/people/facpages/lakoffg.html
+ [3]: https://darkwing.uoregon.edu/~uophil/faculty/mjohnson/mjohnson.html
+ [4]: https://www.amazon.co.uk/exec/obidos/ASIN/0226468011/fivegocrazyinmid/
+ [5]: https://www.google.co.uk/search?q=%22cognitive+linguistics%22
+ [6]: https://66.102.9.104/search?q=cache:By6bbQseJzwJ:www.cogsci.northwestern.edu/cogsci2004/papers/paper575.pdf&hl=en
+ [7]: https://www.guardian.co.uk/
+ [8]: https://www.guardian.co.uk/life/feature/story/0,13026,1423455,00.html
+ [9]: https://www.plasticbag.org/archives/2005/02/three_stunning_articles_in_the_guardian_this_morning.shtml
+ [10]: https://www.cogsci.ucsd.edu/~nunez/web/index.html
+ [11]: https://www.linguistics.berkeley.edu/lingdept/Current/people/facpages/sweetser.html
+ [12]: https://www.sussex.ac.uk/Users/vyv/Languagememoryandtime.ppt
+ [13]: https://www.sussex.ac.uk/Users/vyv/

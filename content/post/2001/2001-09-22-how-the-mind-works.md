@@ -10,4 +10,4 @@ Just reading <amazonlink asin="0140244913">How The Mind Works</amazonlink> by [S
 
 It sometimes takes me a few weeks to read a dense book like this, usually in 20 minute snatches on the tube, so watch this space, there will be more updates to come!
 
- [1]: http://www.mit.edu/~pinker/
+ [1]: https://www.mit.edu/~pinker/

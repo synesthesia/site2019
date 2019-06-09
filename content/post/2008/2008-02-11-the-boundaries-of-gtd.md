@@ -24,8 +24,8 @@ Key aspects of this system which, I think, go some way to addressing the issues 
 
 Ton’s closing challenge is for a system to present patterns about activity that could in turn become “inbox” items – this definitely needs further thought, but my intuition is that a combination of tagging and feed-derivation could take some kind of a log for re-ingest to the “machine”.
 
- [1]: http://www.zylstra.org/blog/
- [2]: http://www.zylstra.org/blog/archives/2008/01/thoughts_on_gtd.html
- [3]: http://en.wikipedia.org/wiki/Getting_Things_Done
- [4]: http://www.gyronix.com/resultmanager.php
- [5]: http://www.zylstra.org/blog/archives/001161.html
+ [1]: https://www.zylstra.org/blog/
+ [2]: https://www.zylstra.org/blog/archives/2008/01/thoughts_on_gtd.html
+ [3]: https://en.wikipedia.org/wiki/Getting_Things_Done
+ [4]: https://www.gyronix.com/resultmanager.php
+ [5]: https://www.zylstra.org/blog/archives/001161.html

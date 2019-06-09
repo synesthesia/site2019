@@ -7,7 +7,7 @@ excerpt: Observations by Denny Coates about seperateness remind me of an image f
 url: /2004/06/13/boy-outside-the-classroom/
 
 ---
-In &#8220;An Evening of Blues and Separateness&#8221;:http://bookoflife.blogs.com/welcome/2004/06/blues\_and\_separ.html Denny Coates writes about his observations at a social event:
+In &#8220;An Evening of Blues and Separateness&#8221;:https://bookoflife.blogs.com/welcome/2004/06/blues\_and\_separ.html Denny Coates writes about his observations at a social event:
 
 bq. I&#8217;m aware that most of the people I encounter in my world are part of the mainstream, and I departed from that a long time ago. This evening, I was aware that most of these good people were operating from a set of assumptions that I no longer relate to. In the old days, my feeling of separateness might have been called &#8220;alienation.&#8221; In truth, I&#8217;m happy with my perspective. It&#8217;s what allows me to be true to myself, to be real, to encounter, as best I can, the world as it is, without expectations or assumptions. Which is my source of happiness and spirituality. But I do sometimes feel like a &#8220;stranger in a strange land.&#8221;
 
@@ -17,7 +17,7 @@ From exploring this image during my training I began to see the impact it had ha
 
 Some of the questions that come to me as I think about the people Denny calls &#8220;the mainstream&#8221;: do they not feel this, or do they get a hint of it and as a result try even harder to connect and conform? Are people like Denny and I gifted or cursed? Are we shamans or (incipient, potential) sociopaths? Are we over or under developed? It&#8217;s all about perspective and framing I suggest&#8230;
 
-Denny responded to some of these questions in the &#8220;comments&#8221;:http://bookoflife.blogs.com/welcome/2004/06/blues\_and\_separ.html :
+Denny responded to some of these questions in the &#8220;comments&#8221;:https://bookoflife.blogs.com/welcome/2004/06/blues\_and\_separ.html :
 
 bq. Are independent thinkers gifted or cursed? Surely there are the downsides, the so-called alienation, which can bring acute discomfort if one lets it. Personally, I&#8217;ve learned to cherish my separateness as the best part of me; it&#8217;s what makes everything else work. It&#8217;s kind of like living in a state of ambiguity, but that&#8217;s cool, because so much of life is truly unknowable anyway. Living that truth makes for a lot of excitement. It&#8217;s certainly not a worldview I would promote to anyone, however, but simply something that helps me affirm my own life in my own way.
 

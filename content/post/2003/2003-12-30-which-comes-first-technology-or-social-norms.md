@@ -7,4 +7,4 @@ excerpt: Joi Ito asks the question...
 url: /2003/12/30/which-comes-first-technology-or-social-norms/
 
 ---
-Joi Ito asks &#8220;Which comes first, technology or social norms?&#8221;:http://joi.ito.com/archives/2003/12/30/which\_comes\_first\_technology\_or\_social\_norms.html
+Joi Ito asks &#8220;Which comes first, technology or social norms?&#8221;:https://joi.ito.com/archives/2003/12/30/which\_comes\_first\_technology\_or\_social\_norms.html

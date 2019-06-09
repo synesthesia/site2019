@@ -7,6 +7,6 @@ excerpt: 'The Web Developer extension for Mozilla Firebird  and Mozilla  adds a 
 url: /2004/01/11/web-developer-extension-for-firebird/
 
 ---
-&#8220;Web Developer extension for Firebird&#8221;:http://chrispederick.myacen.com/work/firebird/webdeveloper/index.php [via [High Context][1]]
+&#8220;Web Developer extension for Firebird&#8221;:https://chrispederick.myacen.com/work/firebird/webdeveloper/index.php [via [High Context][1]]
 
- [1]: http://www.highcontext.com/
+ [1]: https://www.highcontext.com/

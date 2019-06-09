@@ -7,6 +7,6 @@ excerpt: 'Tim Bray: This is the first in a series of essays on a simple but impo
 url: /2004/01/14/technology-predictor-success-matrix/
 
 ---
-&#8220;Technology Predictor Success Matrix&#8221;:http://www.tbray.org/ongoing/When/200x/2004/01/03/TPM1 [via [MonkeyX][1]]
+&#8220;Technology Predictor Success Matrix&#8221;:https://www.tbray.org/ongoing/When/200x/2004/01/03/TPM1 [via [MonkeyX][1]]
 
- [1]: http://www.monkeyx.com/archives/scitech/tim_bray_technology_predictor_success_matrix.html
+ [1]: https://www.monkeyx.com/archives/scitech/tim_bray_technology_predictor_success_matrix.html

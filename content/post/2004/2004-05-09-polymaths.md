@@ -17,5 +17,5 @@ The problem lies, I think, with the question of measuring or proving this skill.
 
 How do you measure achievement or knowledge creation that relies on new syntheses?
 
- [1]: http://chocnvodka.blogware.com/blog
- [2]: http://chocnvodka.blogware.com/blog/_archives/2004/5/8/54483.html
+ [1]: https://chocnvodka.blogware.com/blog
+ [2]: https://chocnvodka.blogware.com/blog/_archives/2004/5/8/54483.html

@@ -12,13 +12,13 @@ Gary refers to his earlier experiences trying (unsuccessfully) to persuade Macmi
 
 He ends with a vision for the future
 
-<blockquote cite="http://www.teledyn.com/mt/archives/000526.html">
+<blockquote cite="https://www.teledyn.com/mt/archives/000526.html">
   <p>
     XML-based publishing where the manuscript does not really exist, where it&#8217;s a collection of sections and variations, indexed, threaded and exported for books [&#8230;] all of it online updated on the fly by the community who uses it. The art of the author/editor would be one of filtering, pulling what they need from the knowledge base to create other titles as well, semantically linking it all through topic-maps &#8230;
   </p>
 </blockquote>
 
- [1]: http://www.teledyn.com/mt/ "TeledyN"
- [2]: http://www.teledyn.com/mt/archives/000526.html "TeledyN: Open Content on Prentice Hall"
- [3]: http://www.opencontent.org/openpub/
- [4]: http://kernelbook.sourceforge.net/
+ [1]: https://www.teledyn.com/mt/ "TeledyN"
+ [2]: https://www.teledyn.com/mt/archives/000526.html "TeledyN: Open Content on Prentice Hall"
+ [3]: https://www.opencontent.org/openpub/
+ [4]: https://kernelbook.sourceforge.net/

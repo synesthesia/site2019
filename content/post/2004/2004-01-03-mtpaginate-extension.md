@@ -6,4 +6,4 @@ date: 2004-01-03T10:39:44+00:00
 url: /2004/01/03/mtpaginate-extension/
 
 ---
-&#8220;MTpaginate extension&#8221;:http://www.nonplus.net/software/mt/MTPaginate.htm
+&#8220;MTpaginate extension&#8221;:https://www.nonplus.net/software/mt/MTPaginate.htm

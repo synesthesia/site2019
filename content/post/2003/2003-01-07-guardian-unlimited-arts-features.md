@@ -9,4 +9,4 @@ url: /?p=98
 ---
 [Guardian Unlimited | Arts features | Practice makes imperfect][1]
 
- [1]: http://www.guardian.co.uk/arts/features/story/0,11710,870152,00.html "Guardian Unlimited | Arts features | Practice makes imperfect"
+ [1]: https://www.guardian.co.uk/arts/features/story/0,11710,870152,00.html "Guardian Unlimited | Arts features | Practice makes imperfect"

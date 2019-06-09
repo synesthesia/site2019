@@ -21,4 +21,4 @@ Profiles – are associated with a specific object, and _seem_ to be a way of co
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg/
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg-creating-the-first-user-story-1/
  [3]: https://www.synesthesia.co.uk/blog/archives/2008/09/25/iceberg-creating-the-first-user-story-2/
- [4]: http://www.learniceberg.com/6_Security_and_Permissions
+ [4]: https://www.learniceberg.com/6_Security_and_Permissions

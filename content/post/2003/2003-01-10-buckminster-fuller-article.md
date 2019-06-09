@@ -53,6 +53,6 @@ url: /2003/01/10/buckminster-fuller-article/
 
 have convinced me I need to add to my reading list&#8230;
 
- [1]: http://meta-time.com/blog/
- [2]: http://meta-time.com/blog/archives/000416.html#000416 "Internet Time Blog: Buckminster Fuller"
- [3]: http://www.cruzio.com/~devarco/portfolio.htm
+ [1]: https://meta-time.com/blog/
+ [2]: https://meta-time.com/blog/archives/000416.html#000416 "Internet Time Blog: Buckminster Fuller"
+ [3]: https://www.cruzio.com/~devarco/portfolio.htm

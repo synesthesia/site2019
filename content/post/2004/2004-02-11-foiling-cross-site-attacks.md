@@ -7,4 +7,4 @@ excerpt: 'Useful article [PDF] on defending PHP sites from Cross-Site Request Fo
 url: /2004/02/11/foiling-cross-site-attacks/
 
 ---
-&#8220;Foiling Cross Site Attacks&#8221;:http://www.phparch.com/issuedata/articles/article_66.pdf Useful article [PDF] on defending PHP sites from Cross-Site Request Forgeries and Cross-Site Scripting attacks
+&#8220;Foiling Cross Site Attacks&#8221;:https://www.phparch.com/issuedata/articles/article_66.pdf Useful article [PDF] on defending PHP sites from Cross-Site Request Forgeries and Cross-Site Scripting attacks

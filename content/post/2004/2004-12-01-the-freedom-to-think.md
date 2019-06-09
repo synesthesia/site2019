@@ -14,8 +14,8 @@ Then I read the background links that led to [this addition][4], added in a spir
 Today via [Phil Jones&#8217; wiki][5] I found this David Weinberger [post][6] from a few years ago which has restored some of the good feelings &#8211; others may have had a similar idea before but that doesn&#8217;t reduce the value _to me_ of the new-to-me thought.
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2004/11/29/social-categorisation/
- [2]: http://denham.typepad.com/km/2004/11/social_categori.html
+ [2]: https://denham.typepad.com/km/2004/11/social_categori.html
  [3]: https://www.synesthesia.co.uk/blog/archives/2004/11/24/semantic-aggregation-and-filtering/
- [4]: http://purpleslurple.net/ps.php?theurl=https://www.synesthesia.co.uk/blog/archives/2004/11/29/social-categorisation/#purp76
- [5]: http://www.nooranch.com/synaesmedia/wiki/wiki.cgi?action=browse&id=LinkingVsCiting
- [6]: http://www.hyperorg.com/backissues/joho-feb26-01.html#philosophy
+ [4]: https://purpleslurple.net/ps.php?theurl=https://www.synesthesia.co.uk/blog/archives/2004/11/29/social-categorisation/#purp76
+ [5]: https://www.nooranch.com/synaesmedia/wiki/wiki.cgi?action=browse&id=LinkingVsCiting
+ [6]: https://www.hyperorg.com/backissues/joho-feb26-01.html#philosophy

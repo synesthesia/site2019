@@ -8,4 +8,4 @@ url: /2001/09/25/footprints-in-cyberspace/
 ---
 [Doc Searls][1] refers to a list of former WTC tenants, and their corporate websites that in some cases seem untouched by events of the 11th, frozen where they were left in cyberspace. Hmmm.
 
- [1]: http://doc.weblogs.com/2001/09/25#businessInReality
+ [1]: https://doc.weblogs.com/2001/09/25#businessInReality

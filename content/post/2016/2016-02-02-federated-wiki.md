@@ -10,5 +10,5 @@ Started playing with [Federated Wiki][1] [over here][2]
 
 I&#8217;ll update this post with some conclusions when I have them&#8230;.
 
- [1]: http://fed.wiki.org/view/welcome-visitors
- [2]: http://wiki.synesthesia.co.uk/
+ [1]: https://fed.wiki.org/view/welcome-visitors
+ [2]: https://wiki.synesthesia.co.uk/

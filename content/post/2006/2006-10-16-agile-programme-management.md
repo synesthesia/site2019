@@ -23,6 +23,6 @@ Based on studies in three engineering companies, the conclusion is that are bene
   * Need to manage expectations
   * Challenge on large projects of finding a &#8220;customer representative&#8221; as required by Agile methods
 
- [1]: http://bradapp.blogspot.com/
- [2]: http://bradapp.blogspot.com/2006/09/scaling-agility-agile-program.html
- [3]: http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1438327
+ [1]: https://bradapp.blogspot.com/
+ [2]: https://bradapp.blogspot.com/2006/09/scaling-agility-agile-program.html
+ [3]: https://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1438327

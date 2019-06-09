@@ -33,6 +33,6 @@ I can see how that energy focuses the mind so that the &#8220;and what would you
 
 Whilst musing about that sudden rush of energy I was also reminded of the [Appreciative Inquiry][3] approach to organisational change &#8211; again that focuses on what already works with a team, in an organisation, as a prelude to moving on to even better things &#8211; on the surface the parallels seem obvious, but I need to think a bit more about whether there might be an underlying model that could explain both&#8230;
 
- [1]: http://www.briefconsultancy.com
- [2]: http://www.brief-therapy.org/
- [3]: http://www.appreciative-inquiry.org/
+ [1]: https://www.briefconsultancy.com
+ [2]: https://www.brief-therapy.org/
+ [3]: https://www.appreciative-inquiry.org/

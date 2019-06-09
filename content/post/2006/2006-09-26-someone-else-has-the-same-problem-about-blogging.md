@@ -10,7 +10,7 @@ Apart from posting links, I&#8217;ve not been writing here much. Partly that has
 
 Neil McIntosh [seems to be having the same problem][2]:
 
-<blockquote cite="http://www.completetosh.com/weblog/2006/09/why_i_delete_mo.html">
+<blockquote cite="https://www.completetosh.com/weblog/2006/09/why_i_delete_mo.html">
   <p>
     Why the secrecy? Lots of folk write lots of stuff about this business, after all. Trouble is, the business of blogging about the intersection of technology, <em>[and a particular profession]</em> and social change is one that&#8217;s dominated by academics and consultants; people who make their living from advising. They&#8217;re free to discuss whatever they like and, indeed, it&#8217;s good for their business that they do, because they are in the knowledge business, not the delivery business.
   </p>
@@ -20,11 +20,11 @@ Neil McIntosh [seems to be having the same problem][2]:
   </p>
 </blockquote>
 
-Some of things happening at work would have been good to blog here, not least because blogging is part of my reflective process, part of how I learn from action, but they are things which contain far too much information about what we are up to &#8211; sometimes nothing especially exciting, but as Neil puts it <cite title="http://www.completetosh.com/weblog/2006/09/why_i_delete_mo.html">it&#8217;s frequently either too dull, or to messy, to expose.</cite>
+Some of things happening at work would have been good to blog here, not least because blogging is part of my reflective process, part of how I learn from action, but they are things which contain far too much information about what we are up to &#8211; sometimes nothing especially exciting, but as Neil puts it <cite title="https://www.completetosh.com/weblog/2006/09/why_i_delete_mo.html">it&#8217;s frequently either too dull, or to messy, to expose.</cite>
 
 I&#8217;ve tried anonymising by generalisation, but that is a lot of work, and usually takes all the impact away from the issue.
 
 Perhaps the answer is one of focus &#8211; perhaps if I set a particular frame before work that I am looking for things that I _can_ write about then the ideas will emerge?
 
  [1]: https://www.synesthesia.co.uk/msp/
- [2]: http://www.completetosh.com/weblog/2006/09/why_i_delete_mo.html
+ [2]: https://www.completetosh.com/weblog/2006/09/why_i_delete_mo.html

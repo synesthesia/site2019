@@ -12,4 +12,4 @@ So what does it do? It tries to correlate externally observable factors (such as
   
 You can enter the network either way &#8211; by describing someone you know to get an estimate of their bedroom rating, or vice versa &#8211; by describing what you want it will tell you the sort of person to look for. And of course there is a section to input your rating of real people you know to train the network a bit more. Try it and see!
 
- [1]: http://www.howgoodinbed.com
+ [1]: https://www.howgoodinbed.com

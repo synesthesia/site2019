@@ -12,4 +12,4 @@ He concludes
 
 > _&#8220;And now it&#8217;s official: playful flirtation is good for you. Po-faced anti-flirts must learn to have more fun &#8211; but nobody should forget that it is only a game.&#8221;_
 
- [1]: http://www.guardian.co.uk/Archive/Article/0,4273,4268155,00.html
+ [1]: https://www.guardian.co.uk/Archive/Article/0,4273,4268155,00.html

@@ -16,7 +16,7 @@ L. Michael Hall, the thinker behind the new work has recently published a new bo
   
 And this is where the serendipity comes in, because [The Obvious?][3] is considering ideas about how knowledge is created prompted by reading Stacey&#8217;s [Complex Responsive Processes in Organisations][4] _&#8220;knowledge exists and is created in the ongoing relationships between individuals and society&#8221;_
 
- [1]: http://www.neuro-semantics.com/
- [2]: http://www.amazon.co.uk/exec/obidos/ASIN/0140235906/fivegocrazyinmid
- [3]: http://www.theobviousblog.net/blog/archives/000198.html#000198
- [4]: http://www.amazon.co.uk/exec/obidos/ASIN/0415249198/fivegocrazyinmid
+ [1]: https://www.neuro-semantics.com/
+ [2]: https://www.amazon.co.uk/exec/obidos/ASIN/0140235906/fivegocrazyinmid
+ [3]: https://www.theobviousblog.net/blog/archives/000198.html#000198
+ [4]: https://www.amazon.co.uk/exec/obidos/ASIN/0415249198/fivegocrazyinmid

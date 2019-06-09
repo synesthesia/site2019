@@ -7,4 +7,4 @@ excerpt: Denham Grey explains how we come to share meaning and the relation betw
 url: /2004/01/12/making-meaning/
 
 ---
-&#8220;Making meaning&#8221;:http://denham.typepad.com/km/2004/01/making_meaning.html Denham Grey explains how we come to share meaning and the relation between meaning, understanding, ontology and knowledge.
+&#8220;Making meaning&#8221;:https://denham.typepad.com/km/2004/01/making_meaning.html Denham Grey explains how we come to share meaning and the relation between meaning, understanding, ontology and knowledge.

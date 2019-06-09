@@ -35,14 +35,14 @@ I need to reflect on, document and develop the work we have been doing on using 
 Finally, thanks for thought-provoking conversations to [Rachel Davies][11], [Graham Oakes][5] and [Antony Marcano][12].
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/02/12/conference-agile-approaches-for-delivering-business-value/
- [2]: http://duncanpierce.org/
- [3]: http://www.martinitconsulting.com/agile/home.html
- [4]: http://www.sei.cmu.edu/cmmi/
- [5]: http://www.grahamoakes.co.uk/
+ [2]: https://duncanpierce.org/
+ [3]: https://www.martinitconsulting.com/agile/home.html
+ [4]: https://www.sei.cmu.edu/cmmi/
+ [5]: https://www.grahamoakes.co.uk/
  [6]: https://www.synesthesia.co.uk/blog/archives/2008/02/12/case-study-delivering-a-public-private-partnership-using-dsdm/
- [7]: http://www.dsdm.org/atern/
+ [7]: https://www.dsdm.org/atern/
  [8]: https://www.synesthesia.co.uk/blog/archives/2008/02/12/case-study-agile-analysis-a-proposition-assessment-case-study/
- [9]: http://www.kaner.com/index.html
- [10]: http://www.testingreflections.com/node/view/6464
- [11]: http://twelve71.typepad.com/rachel/
- [12]: http://www.testingreflections.com/blog/2
+ [9]: https://www.kaner.com/index.html
+ [10]: https://www.testingreflections.com/node/view/6464
+ [11]: https://twelve71.typepad.com/rachel/
+ [12]: https://www.testingreflections.com/blog/2

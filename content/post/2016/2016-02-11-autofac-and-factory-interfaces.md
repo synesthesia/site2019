@@ -17,15 +17,15 @@ enclosure:
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - 'http://synesthesiaworknotes.smallpict.com/2016/02/11/#a1455205573'
+  - 'https://synesthesiaworknotes.smallpict.com/2016/02/11/#a1455205573'
 syndication_item_hash:
   - 0731381713707a0bdb942da46d63df40
 

@@ -7,4 +7,4 @@ excerpt: 'Mike Gross,  Chief Technology Officer at Data Conversion Laboratory, I
 url: /2004/02/03/when-word-to-xml-conversions-get-nasty/
 
 ---
-&#8220;When Word-to-XML Conversions Get Nasty&#8221;:http://www.dclab.com/wordtoxml.asp Mike Gross, Chief Technology Officer at Data Conversion Laboratory, Inc., reveals the five ways your conversion engine can get broken when converting MS Word documents to XML.
+&#8220;When Word-to-XML Conversions Get Nasty&#8221;:https://www.dclab.com/wordtoxml.asp Mike Gross, Chief Technology Officer at Data Conversion Laboratory, Inc., reveals the five ways your conversion engine can get broken when converting MS Word documents to XML.

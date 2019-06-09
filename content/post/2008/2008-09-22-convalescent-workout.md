@@ -20,6 +20,6 @@ After some experimentation, including using a footstool as a poor substitute for
 Where the weight I have available is less than I would normally use, I increase the workload by increasing reps and slowing down the cadence. It seems to work well enough to get my heart rate up, and so far as I can tell does not involve any movements which would be dangerous. It’s a long way from being the equivalent of a full workout in the gym, but I hope this will at least make gym re-entry less painful 🙂
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2008/09/21/high-intensity-interval-training/
- [2]: http://www.darcointernational.com/post/i_pages/ortho.html
- [3]: http://www.kirschnerwire.com/
+ [2]: https://www.darcointernational.com/post/i_pages/ortho.html
+ [3]: https://www.kirschnerwire.com/
  [4]: https://www.synesthesia.co.uk/wikka/ResistanceCircuit1

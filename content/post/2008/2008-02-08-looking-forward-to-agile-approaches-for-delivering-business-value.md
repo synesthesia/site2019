@@ -18,6 +18,6 @@ I’m particularly interested in two of the talks on the second day:
 
 In my current environment almost all our systems development is carried out by suppliers in various contractual models, and I’ve hit some frustrations in getting acceptance of Agile methods. I’m keen to learn how others may have constructed a “win-win” in this sort of situation.
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://amarinda.com/about/people
- [3]: http://www.martinitconsulting.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://amarinda.com/about/people
+ [3]: https://www.martinitconsulting.com/

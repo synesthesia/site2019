@@ -75,13 +75,13 @@ Featured image [CC0 Pixabay][10]
 
  [1]: https://beta.sciencemuseum.org.uk/robots
  [2]: https://twitter.com/maosbot
- [3]: http://www.robots.ox.ac.uk/~mosb/
- [4]: http://www.bbc.co.uk/news/technology-34066941
- [5]: http://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf
- [6]: http://www.oxfordmartin.ox.ac.uk/people/453
+ [3]: https://www.robots.ox.ac.uk/~mosb/
+ [4]: https://www.bbc.co.uk/news/technology-34066941
+ [5]: https://www.oxfordmartin.ox.ac.uk/downloads/academic/future-of-employment.pdf
+ [6]: https://www.oxfordmartin.ox.ac.uk/people/453
  [7]: https://www.nytimes.com/2017/01/30/education/edlife/factory-workers-college-degree-apprenticeships.html
- [8]: http://www.vox.com/2015/7/27/9038829/automation-myth
- [9]: http://dougbelshaw.com/
+ [8]: https://www.vox.com/2015/7/27/9038829/automation-myth
+ [9]: https://dougbelshaw.com/
  [10]: https://pixabay.com/en/robot-artificial-intelligence-woman-507811/
  [11]: https://twitter.com/mattyglesias
  [12]: https://twitter.com/ryanavent

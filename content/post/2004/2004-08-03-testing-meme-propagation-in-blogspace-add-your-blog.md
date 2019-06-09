@@ -9,7 +9,7 @@ url: /2004/08/03/testing-meme-propagation-in-blogspace-add-your-blog/
 ---
 This posting is a community experiment that tests how a meme, represented by this blog posting, spreads across blogspace, physical space and time. It will help to show how ideas travel across blogs in space and time and how blogs are connected. It may also help to show which blogs are most influential in the propagation of memes. The dataset from this experiment will be public, and can be located via Google (or Technorati) by doing a search for the GUID for this meme (below).
 
-The original posting for this experiment is located at: Minding the Planet (Permalink: http://novaspivack.typepad.com/nova\_spivacks\_weblog/2004/08/a\_sonar\_ping_of.html) &#8212; results and commentary will appear there in the future.
+The original posting for this experiment is located at: Minding the Planet (Permalink: https://novaspivack.typepad.com/nova\_spivacks\_weblog/2004/08/a\_sonar\_ping_of.html) &#8212; results and commentary will appear there in the future.
 
 Please join the test by adding your blog (see instructions, below) and inviting your friends to participate &#8212; the more the better. The data from this test will be public and open; others may use it to visualize and study the connectedness of blogspace and the propagation of memes across blogs.
 
@@ -21,11 +21,11 @@ To add your blog to this experiment, copy this entire posting to your blog, and 
 
 REQUIRED FIELDS (Note: Replace the answers below with your own answers)
 
-(1) I found this experiment at URL: http://www.wingedpig.com/
+(1) I found this experiment at URL: https://www.wingedpig.com/
 
 (2) I found it via &#8220;Newsreader Software&#8221; or &#8220;Browsing the Web&#8221; or &#8220;Searching the Web&#8221; or &#8220;An E-Mail Message&#8221;: Newsreader Software
 
-(3) I posted this experiment at URL: http://synesthesia.co.uk/blog/
+(3) I posted this experiment at URL: https://synesthesia.co.uk/blog/
 
 (4) I posted this on date (day, month, year): 03/08/04
 

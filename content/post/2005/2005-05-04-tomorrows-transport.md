@@ -11,7 +11,7 @@ Just received the latest bulletin from [The Tomorrow Project][1]. (available [he
 
 The bulletin features an interview with [David Begg][3], Chairman of the [Commission for Integrated Transport][4]
 
- [1]: http://www.tomorrowproject.net/
- [2]: http://www.tomorrowproject.net/images/bulletin.pdf
- [3]: http://www.rgu.ac.uk/abs/staff/page.cfm?pge=5910
- [4]: http://www.cfit.gov.uk/index.htm
+ [1]: https://www.tomorrowproject.net/
+ [2]: https://www.tomorrowproject.net/images/bulletin.pdf
+ [3]: https://www.rgu.ac.uk/abs/staff/page.cfm?pge=5910
+ [4]: https://www.cfit.gov.uk/index.htm

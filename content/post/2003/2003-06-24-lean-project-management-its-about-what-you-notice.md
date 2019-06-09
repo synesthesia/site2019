@@ -30,9 +30,9 @@ In such a model changing behaviour often needs the conscious adoption of new fil
 
 What Hal is doing with his 5R model is start to express the things that make a difference in order to get &#8220;Lean Projects&#8221; right &#8211; it will be interesting to see how he develops this into practical tools that can not only be applied but through their application embed new ways of thinking.
 
- [1]: http://weblog.halmacomber.com/ "Reforming Project Management Theory and Practice"
- [2]: http://weblog.halmacomber.com/2003_06_22_archive.html#105640043946027061
- [3]: http://www.superfactory.com/lean_concepts/5s.htm
- [4]: http://weblog.halmacomber.com/2003_06_08_archive.html#200405622
- [5]: http://weblog.halmacomber.com/2003_06_08_archive.html#200415393
- [6]: http://weblog.halmacomber.com/2003_06_15_archive.html#105620161404827968
+ [1]: https://weblog.halmacomber.com/ "Reforming Project Management Theory and Practice"
+ [2]: https://weblog.halmacomber.com/2003_06_22_archive.html#105640043946027061
+ [3]: https://www.superfactory.com/lean_concepts/5s.htm
+ [4]: https://weblog.halmacomber.com/2003_06_08_archive.html#200405622
+ [5]: https://weblog.halmacomber.com/2003_06_08_archive.html#200415393
+ [6]: https://weblog.halmacomber.com/2003_06_15_archive.html#105620161404827968

@@ -7,6 +7,6 @@ excerpt: "Internet Explorer 6 for Windows is a sore spot for many users of CSS. 
 url: /2004/01/16/minimizing-flickering-css-background-images-in-ie6/
 
 ---
-&#8220;Minimizing Flickering CSS Background Images in IE6&#8221;:http://www.fivesevensix.com/studies/ie6flicker/ [via [paranoidfish][1]]
+&#8220;Minimizing Flickering CSS Background Images in IE6&#8221;:https://www.fivesevensix.com/studies/ie6flicker/ [via [paranoidfish][1]]
 
- [1]: http://www.paranoidfish.org/
+ [1]: https://www.paranoidfish.org/

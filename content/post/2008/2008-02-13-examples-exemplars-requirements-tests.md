@@ -73,12 +73,12 @@ Q: What if the tests do not cover all areas of the user requirement?
 
 A: dangerous – should aim for as full coverage as possible..
 
-<ins datetime="2008-03-13T12:33:50+00:00">Update: See <a href="http://peripateticaxiom.blogspot.com/2008/03/tests-and-gauges.html">this post</a> from Keith</ins>
+<ins datetime="2008-03-13T12:33:50+00:00">Update: See <a href="https://peripateticaxiom.blogspot.com/2008/03/tests-and-gauges.html">this post</a> from Keith</ins>
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://peripateticaxiom.blogspot.com/
- [3]: http://www.zuehlke.com/en/
- [4]: http://www.spaconference.org/
- [5]: http://sourceforge.net/projects/fitlibrary
- [6]: http://fitnesse.org/
- [7]: http://www.swift.com/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://peripateticaxiom.blogspot.com/
+ [3]: https://www.zuehlke.com/en/
+ [4]: https://www.spaconference.org/
+ [5]: https://sourceforge.net/projects/fitlibrary
+ [6]: https://fitnesse.org/
+ [7]: https://www.swift.com/

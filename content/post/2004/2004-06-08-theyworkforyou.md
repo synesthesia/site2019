@@ -9,4 +9,4 @@ url: /2004/06/08/theyworkforyou/
 ---
 [TheyWorkForYou.com: Is your MP working for you in Parliament?][1] Public beta of new site that let&#8217;s you access your MP&#8217;s voting record, search for what they have said in debates etc.
 
- [1]: http://www.theyworkforyou.com/
+ [1]: https://www.theyworkforyou.com/

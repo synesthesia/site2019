@@ -10,5 +10,5 @@ As I&#8217;ve noted before, my blogging seems to be in inverse proportion to sun
 
 But now the UK seems to have returned to Winter again, at least for a while, so maybe I&#8217;ll catch up on some things!
 
- [1]: http://www.ruislipwoods.co.uk/ "Ruislip Woods"
- [2]: http://www.specialized.com/SBCBkFamily.jsp?bl=mountain&my=2003&fan=Hardrock "My new bike!"
+ [1]: https://www.ruislipwoods.co.uk/ "Ruislip Woods"
+ [2]: https://www.specialized.com/SBCBkFamily.jsp?bl=mountain&my=2003&fan=Hardrock "My new bike!"

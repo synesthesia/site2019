@@ -15,5 +15,5 @@ url: /2004/03/08/disruptive-incrementalism/
   
 [via [Innovation Blog][2]]
 
- [1]: http://www.technologyreview.com/articles/schrage0304.asp
- [2]: http://www.innovationtools.com/Weblog/innovationblog-detail.asp?ArticleID=380
+ [1]: https://www.technologyreview.com/articles/schrage0304.asp
+ [2]: https://www.innovationtools.com/Weblog/innovationblog-detail.asp?ArticleID=380

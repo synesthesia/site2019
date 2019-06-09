@@ -3,7 +3,7 @@ title: Integrating thinking and doing
 author: Julian
 type: post
 date: 2006-03-21T06:30:31+00:00
-excerpt: 'This post summarises <a href="http://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf">Supporting organisational knowledge work: Integrating thinking and doing in task-based support</a>  by Jeremy Aarons, Henry Linger & Frada Burstein.'
+excerpt: 'This post summarises <a href="https://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf">Supporting organisational knowledge work: Integrating thinking and doing in task-based support</a>  by Jeremy Aarons, Henry Linger & Frada Burstein.'
 url: /2006/03/21/integrating-thinking-and-doing/
 
 ---
@@ -16,7 +16,7 @@ They start by referencing Davenport&#8217;s [classification structure for knowle
 </p>
 
 <p align="center">
-  <font size="2">Davenport&rsquo;s classification structure <br />(From </font><a title="Thinking for a Living: How to Get Better Performance and Results from Knowledge Workers" href="http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1591394236%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591394236%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82"><font size="2">Davenport (2005)</font></a><font size="2"> via </font><a title="Supporting organisational knowledge work: Integrating thinking and doing in task-based support." href="http://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf"><font size="2">Aarons (2006)</font></a><font size="2">)</font>
+  <font size="2">Davenport&rsquo;s classification structure <br />(From </font><a title="Thinking for a Living: How to Get Better Performance and Results from Knowledge Workers" href="https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1591394236%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591394236%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82"><font size="2">Davenport (2005)</font></a><font size="2"> via </font><a title="Supporting organisational knowledge work: Integrating thinking and doing in task-based support." href="https://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf"><font size="2">Aarons (2006)</font></a><font size="2">)</font>
 </p>
 
 &nbsp;
@@ -32,13 +32,13 @@ They suggest then that a more appropriate guiding framework is Burstein and Ling
 </p>
 
 <p align="center">
-  <font size="2"><br /> A task-based model of work<br />(From <a title="Supporting organisational knowledge work: Integrating thinking and doing in task-based support." href="http://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf">Aarons (2006)</a></font>
+  <font size="2"><br /> A task-based model of work<br />(From <a title="Supporting organisational knowledge work: Integrating thinking and doing in task-based support." href="https://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf">Aarons (2006)</a></font>
 </p>
 
 The rest of the paper is devoted to a case study within the Australian Weather Service which supports the mixed approach, and yields examples of failed business systems which focussed only on the forecast-production aspect of the forecasting task. These are compared with a successful and hugely-popular system which started as a maverick, ground-up project and which expressly addressed and supported the creation and maintenance of conceptual models of weather. This system, which is now the system of choice, only addressed the production of output forecasts as a piece of auxiliary functionality.
 
- [1]: http://www.jpaarons.net/dubbings/
- [2]: http://www.jpaarons.net/dubbings/2006/02/28/olkc2006-paper
- [3]: http://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf
- [4]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1591394236%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591394236%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
- [5]: http://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=1591405734%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591405734%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "The Encyclopedia of Knowledge Management"
+ [1]: https://www.jpaarons.net/dubbings/
+ [2]: https://www.jpaarons.net/dubbings/2006/02/28/olkc2006-paper
+ [3]: https://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf
+ [4]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1591394236%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591394236%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82
+ [5]: https://www.amazon.co.uk/exec/obidos/redirect?tag=fivegocrazyinmid%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.co.uk/gp/redirect.html%253fASIN=1591405734%2526tag=fivegocrazyinmid%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1591405734%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "The Encyclopedia of Knowledge Management"

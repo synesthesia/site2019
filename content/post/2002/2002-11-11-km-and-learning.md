@@ -13,10 +13,10 @@ Just found Lilia Efimova&#8217;s site [Mathemagenic][1]. Interesting selection o
 
 And one that struck a chord with me: [It takes courage to blog][7]
 
- [1]: http://blog.mathemagenic.com/
- [2]: http://blog.mathemagenic.com/2002/11/08.html#a334
- [3]: http://blog.mathemagenic.com/2002/11/02.html#a317
- [4]: http://blog.mathemagenic.com/2002/10/30.html#a311
- [5]: http://blog.mathemagenic.com/2002/10/25.html#a303
- [6]: http://blog.mathemagenic.com/2002/10/10.html#a271
- [7]: http://blog.mathemagenic.com/2002/10/09.html#a268
+ [1]: https://blog.mathemagenic.com/
+ [2]: https://blog.mathemagenic.com/2002/11/08.html#a334
+ [3]: https://blog.mathemagenic.com/2002/11/02.html#a317
+ [4]: https://blog.mathemagenic.com/2002/10/30.html#a311
+ [5]: https://blog.mathemagenic.com/2002/10/25.html#a303
+ [6]: https://blog.mathemagenic.com/2002/10/10.html#a271
+ [7]: https://blog.mathemagenic.com/2002/10/09.html#a268

@@ -10,6 +10,6 @@ url: /2002/04/08/genes-for-depression-are-gender-specific/
 
 > _Depression in women and men could have different genetic origins, a finding that underscores the complexity of depression&#8230;_
 
-Thanks to <a href="http://www.rebeccablood.net/" target=_blank>Rebecca&#8217;s Pocket</a>
+Thanks to <a href="https://www.rebeccablood.net/" target=_blank>Rebecca&#8217;s Pocket</a>
 
- [1]: http://abcnews.go.com/sections/living/DailyNews/WIREsex_depression020329.html
+ [1]: https://abcnews.go.com/sections/living/DailyNews/WIREsex_depression020329.html

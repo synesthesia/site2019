@@ -10,5 +10,5 @@ url: /2002/10/11/water-its-not-rocket-science/
   
 [via mad musings of me (uk)][2]
 
- [1]: http://news.bbc.co.uk/1/hi/education/2309107.stm
- [2]: http://gert68.blogspot.com/
+ [1]: https://news.bbc.co.uk/1/hi/education/2309107.stm
+ [2]: https://gert68.blogspot.com/

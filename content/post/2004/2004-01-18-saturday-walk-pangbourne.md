@@ -16,4 +16,4 @@ As it turned out the pace was fine &#8211; albeit quite brisk (8 miles in 2.5 ho
 The weather was beautiful on Saturday &#8211; crisp, clear and sunny. An early part of the walk (SU622785 to SU615795) was along a wooded cliff above the Thames, and the low January sunlight did a superb job of picking out the landscape. (Mental note to save up for a digital camera!)
 
  [1]: https://www.synesthesia.co.uk/library/archives/000305.php
- [2]: http://www.walkingclub.org.uk/
+ [2]: https://www.walkingclub.org.uk/

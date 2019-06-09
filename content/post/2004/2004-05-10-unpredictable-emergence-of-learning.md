@@ -13,7 +13,7 @@ Yesterday I [blogged][1] Suw Charman&#8217;s [thoughts][2] about being a general
 
 Earlier today I [linked][3] to Tony Goodson on [Butterfly Moments and Bricolage][4] &#8211; his experience that general _tinkering about_ across various subjects and ideas often leads to unexpected benefits at later times.
 
-And now I&#8217;ve just read George Por writing on [How local meetings with global experts can boost CI][5] in which he advocates <q cite="http://www.community-intelligence.com/blogs/public/archives/000263.html">cross-fertilization of generative ideas and transformative practices, across organizational cultural and geographic boundaries</q> and goes on to advocate [horizontalization of learning][6] <q>in a given domain between those who have been giving more or less attention to explore and contribute to that domain</q> &#8211; that to me sounds like conversations between _specialists_ and _generalists_ &#8230; 
+And now I&#8217;ve just read George Por writing on [How local meetings with global experts can boost CI][5] in which he advocates <q cite="https://www.community-intelligence.com/blogs/public/archives/000263.html">cross-fertilization of generative ideas and transformative practices, across organizational cultural and geographic boundaries</q> and goes on to advocate [horizontalization of learning][6] <q>in a given domain between those who have been giving more or less attention to explore and contribute to that domain</q> &#8211; that to me sounds like conversations between _specialists_ and _generalists_ &#8230; 
 
 George ends his post by extolling the virues of asynchronous methods such as blogs to make the best of face-to-face conversations.
 
@@ -30,8 +30,8 @@ For me there are several:
 [bliki]Fragmentation And Wholeness[/bliki]
 
  [1]: https://www.synesthesia.co.uk/blog/archives/knowledge_management/000372.php
- [2]: http://chocnvodka.blogware.com/blog/_archives/2004/5/8/54483.html
+ [2]: https://chocnvodka.blogware.com/blog/_archives/2004/5/8/54483.html
  [3]: https://www.synesthesia.co.uk/linkblog/archives/2004_05.php#000378
- [4]: http://tonygoodson.typepad.com/tonygoodson/2004/04/butterfly_momen.html
- [5]: http://www.community-intelligence.com/blogs/public/archives/000263.html
- [6]: http://www.eccop.com/blogs/public/archives/000106.html
+ [4]: https://tonygoodson.typepad.com/tonygoodson/2004/04/butterfly_momen.html
+ [5]: https://www.community-intelligence.com/blogs/public/archives/000263.html
+ [6]: https://www.eccop.com/blogs/public/archives/000106.html

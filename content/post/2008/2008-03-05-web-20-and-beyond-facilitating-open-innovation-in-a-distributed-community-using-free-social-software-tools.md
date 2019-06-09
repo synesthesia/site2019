@@ -32,8 +32,8 @@ By the community for the community &#8211; the media community helped shape the 
 
 Question they posed &#8211; how can this online stuff help us measure (various success criteria)
 
- [1]: http://www.focusbiz.co.uk/conferences/web2.0/
- [2]: http://www.ished.net/people/
- [3]: http://www.ished.org.uk/
- [4]: http://www.edmitchell.co.uk/
- [5]: http://www.charlesleadbeater.net/home.aspx
+ [1]: https://www.focusbiz.co.uk/conferences/web2.0/
+ [2]: https://www.ished.net/people/
+ [3]: https://www.ished.org.uk/
+ [4]: https://www.edmitchell.co.uk/
+ [5]: https://www.charlesleadbeater.net/home.aspx

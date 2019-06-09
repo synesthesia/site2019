@@ -17,6 +17,6 @@ The article is about software writing, but I reckon it&#8217;s generalisable to 
 
 [via [Sam Ruby][3]]
 
- [1]: http://www.joelonsoftware.com/index.html
- [2]: http://www.joelonsoftware.com/articles/LeakyAbstractions.html
- [3]: http://www.intertwingly.net/blog/
+ [1]: https://www.joelonsoftware.com/index.html
+ [2]: https://www.joelonsoftware.com/articles/LeakyAbstractions.html
+ [3]: https://www.intertwingly.net/blog/

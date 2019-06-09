@@ -31,5 +31,5 @@ Updated Category Archive template
   
 Installed the spiffy [MTMacros][2] and have used it to clean up book entries
 
- [1]: http://kalsey.com/blog/2002/07/related_entries_plugin.stm
- [2]: http://www.bradchoate.com/past/mtmacros.php
+ [1]: https://kalsey.com/blog/2002/07/related_entries_plugin.stm
+ [2]: https://www.bradchoate.com/past/mtmacros.php

@@ -3,7 +3,7 @@ title: Wiki Change
 author: Julian
 type: post
 date: 2003-11-09T14:43:13+00:00
-excerpt: '<a href="/tiki/">Wiki</a> moved over to the <a href="http://www.twikiwiki.org/">TikiWiki</a> package.  Please update any links you may have to the old Wiki'
+excerpt: '<a href="/tiki/">Wiki</a> moved over to the <a href="https://www.twikiwiki.org/">TikiWiki</a> package.  Please update any links you may have to the old Wiki'
 url: /2003/11/09/wiki-change/
 
 ---
@@ -14,4 +14,4 @@ If you have links to the old Wiki please update them. if any .htaccess gurus out
 <ins>I&#8217;ve added a basic directory-level redirect &#8211; if anyone finds examples of links that still go to the wrong place please let me know!</ins>
 
  [1]: /tiki/
- [2]: http://www.tikiwiki.org/
+ [2]: https://www.tikiwiki.org/

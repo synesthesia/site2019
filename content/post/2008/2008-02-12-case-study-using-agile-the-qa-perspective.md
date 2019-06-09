@@ -94,6 +94,6 @@ Learn to know when you are &#8220;done&#8221;
 
 Make sure the business do this too!
 
- [1]: http://www.unicom.co.uk/product_detail.asp?prdid=1547
- [2]: http://www.ea.com/
- [3]: http://agilemanifesto.org/
+ [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
+ [2]: https://www.ea.com/
+ [3]: https://agilemanifesto.org/

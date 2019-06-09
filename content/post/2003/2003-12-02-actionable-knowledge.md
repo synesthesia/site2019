@@ -11,15 +11,15 @@ url: /2003/12/02/actionable-knowledge/
 
 Amongst the attractors of the conversation are frustration at not taking the loose ends of blog-nurtured ideas further; 
 
-<blockquote cite="http://blog.zylstra.org/archives/001149.html">
+<blockquote cite="https://blog.zylstra.org/archives/001149.html">
   <p>
-    I do have a feeling that I&#8217;m not responsive enough in picking up the thoughts we dream up here in the blogosphere and turn them into action. The blogs reveal emerging patterns, and we can nurture the memes we think important, and block or criticise the ones we think are not.<br /> But I seem to be less succesfull at moving stuff from the complex and un-ordered realm (to adopt some of <a href="http://www.research.ibm.com/journal/sj/423/kurtz.pdf" title="Link to 'The new dynamics of strategy: Sense-making in a complex and complicated world' by C. F. Kurtz and D. J. Snowden [PDF 193kB]">Dave Snowden&#8217;s vocabulary</a>) where my addiction is fed, to the more ordered realm of the knowable and practice.
+    I do have a feeling that I&#8217;m not responsive enough in picking up the thoughts we dream up here in the blogosphere and turn them into action. The blogs reveal emerging patterns, and we can nurture the memes we think important, and block or criticise the ones we think are not.<br /> But I seem to be less succesfull at moving stuff from the complex and un-ordered realm (to adopt some of <a href="https://www.research.ibm.com/journal/sj/423/kurtz.pdf" title="Link to 'The new dynamics of strategy: Sense-making in a complex and complicated world' by C. F. Kurtz and D. J. Snowden [PDF 193kB]">Dave Snowden&#8217;s vocabulary</a>) where my addiction is fed, to the more ordered realm of the knowable and practice.
   </p>
 </blockquote>
 
 and equally a concern that we should not close off interesting avenues through premature crystallisation into action:
 
-<blockquote cite="http://www.teledyn.com/mt/archives/001508.html#001508">
+<blockquote cite="https://www.teledyn.com/mt/archives/001508.html#001508">
   <p>
     The loose ends offer me a sense of the possible, a landscape that can go anywhere, a sense of adventure that keeps coaxing me back to explore a little more. I wouldn&#8217;t want it tidied up in a tight focused and deadlined bundle because I know, philosophically, to do so would require closing off many of these possibilities, discarding the undiscovered territories.
   </p>
@@ -39,7 +39,7 @@ But just because I blog carefully (or not at all) about those areas of my life d
 
 This is not about the trust I have in the people with whom I have blogosphere conversations, it is more about who else is eavesdropping. Is there any way to resolve this whilst still using an open channel? I&#8217;m not convinced there is &#8211; the contradiction we need to resolve is that a completely public channel will inevitably cause us to filter what we write, whilst part of the power of the blogsosphere is the opportunity to discuss ideas with people from very different contexts. As Lilia said:
 
-<blockquote cite="http://blog.mathemagenic.com/2003/11/30.html#a855">
+<blockquote cite="https://blog.mathemagenic.com/2003/11/30.html#a855">
   <p>
     I said to a couple of people on my first Skype round that I wish to be able to get many of us to work together at the same place, but I guess it&#8217;s not feasible 🙂 And even if it would be I don&#8217;t think it would work well: the power of our joint discoveries comes from &#8220;weak-tied&#8221; nature of our connections, different backgrounds, different countries and different lives. Still, sometimes I wish to know easy ways to turn weak ties into strong ones, at least for the time needed to develop ideas that worth it.
   </p>
@@ -47,7 +47,7 @@ This is not about the trust I have in the people with whom I have blogosphere co
 
 I wonder if the more sophisticated Wiki tools would help here &#8211; the ones that allow sections to be made secure? Or some other way of easily forming a secure group that is (paradoxically) open and easy to use for those in that group?
 
- [1]: http://blog.zylstra.org/archives/001149.html
- [2]: http://blog.mathemagenic.com/2003/11/30.html#a855
- [3]: http://radio.weblogs.com/0121664/2003/11/28.html#a319
- [4]: http://www.teledyn.com/mt/archives/001508.html
+ [1]: https://blog.zylstra.org/archives/001149.html
+ [2]: https://blog.mathemagenic.com/2003/11/30.html#a855
+ [3]: https://radio.weblogs.com/0121664/2003/11/28.html#a319
+ [4]: https://www.teledyn.com/mt/archives/001508.html

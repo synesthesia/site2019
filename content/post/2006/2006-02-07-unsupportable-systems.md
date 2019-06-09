@@ -15,5 +15,5 @@ In [Unsupportable Systems][1] [John Dale][2] identifies three key themes that le
 
 I think he&#8217;s right, for systems on almost any scale, from single-user to enterprise software, and I also think the issues are more deep-seated than John suggests. I&#8217;ve seen a few of the scenarios that John describes, and I reckon that they often arise as a result of systemic (and usually commercially-driven) pressures within the organisation that requires a new system.
 
- [1]: http://blogs.warwick.ac.uk/johndale/entry/unsupportable_systems/
- [2]: http://blogs.warwick.ac.uk/johndale/
+ [1]: https://blogs.warwick.ac.uk/johndale/entry/unsupportable_systems/
+ [2]: https://blogs.warwick.ac.uk/johndale/

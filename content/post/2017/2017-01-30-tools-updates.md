@@ -22,19 +22,19 @@ Lastly, although I still have an instance of [Fargo.io][12] that gets  syndicat
 
 &nbsp;
 
- [1]: http://2017.wordpress.net/
+ [1]: https://2017.wordpress.net/
  [2]: https://www.synesthesia.co.uk/2016/02/11/breaking-the-ubiquity-of-stream-mode/
- [3]: http://fed.wiki.org/view/welcome-visitors
+ [3]: https://fed.wiki.org/view/welcome-visitors
  [4]: https://github.com/fedwiki/
  [5]: https://github.com/fedwiki/wiki-security-passportjs/blob/master/docs/configuration.md
- [6]: http://wiki.synesthesia.co.uk/
+ [6]: https://wiki.synesthesia.co.uk/
  [7]: https://hapgood.us/about/
  [8]: https://hapgood.us/?s=wikity
  [9]: https://github.com/michaelarthurcaulfield/wikity-zero
- [10]: http://wikity.synesthesia.co.uk/
+ [10]: https://wikity.synesthesia.co.uk/
  [11]: https://en.wikipedia.org/wiki/Personal_wiki
- [12]: http://fargo.io/
+ [12]: https://fargo.io/
  [13]: /worknotes/
- [14]: http://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html
+ [14]: https://scripting.com/2016/08/24/fargoTimesOutOnJune2017.html
  [15]: https://github.com/scripting/nodeStorage
- [16]: http://littleoutliner.com/
+ [16]: https://littleoutliner.com/

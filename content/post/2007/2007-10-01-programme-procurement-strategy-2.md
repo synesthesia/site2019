@@ -17,5 +17,5 @@ So I’m still attracted to the risk-based approach, but it is going to need sub
 I’m going to start with the [Blueprint][3], since that is where our final outcomes are defined. For each area of the Blueprint I will examine each outcome, and analyse against the risk framework from the OGC guide.
 
  [1]: https://www.synesthesia.co.uk/blog/archives/2007/10/01/programme-procurement-strategy-1/ "Permanent Link to Programme Procurement Strategy - 1"
- [2]: http://www.ogc.gov.uk/documents/RiskAllocationModel.pdf
- [3]: http://synesthesia.co.uk/wikka/BluePrint
+ [2]: https://www.ogc.gov.uk/documents/RiskAllocationModel.pdf
+ [3]: https://synesthesia.co.uk/wikka/BluePrint

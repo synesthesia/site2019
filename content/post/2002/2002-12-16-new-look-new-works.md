@@ -15,10 +15,10 @@ Germ of the idea to incorporate a [seperate site][4] dedicated to my book collec
   
 CSS hints on [making three columns work][6] from [glish.com][7]
 
- [1]: http://smarty.php.net/
- [2]: http://www.bradchoate.com/
- [3]: http://www.bradchoate.com/past/001041.php
+ [1]: https://smarty.php.net/
+ [2]: https://www.bradchoate.com/
+ [3]: https://www.bradchoate.com/past/001041.php
  [4]: https://www.synesthesia.co.uk/library/
- [5]: http://whatdoiknow.org/
- [6]: http://glish.com/css/7.asp
- [7]: http://glish.com/css/
+ [5]: https://whatdoiknow.org/
+ [6]: https://glish.com/css/7.asp
+ [7]: https://glish.com/css/

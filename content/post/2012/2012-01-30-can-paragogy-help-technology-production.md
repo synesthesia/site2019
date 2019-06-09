@@ -23,7 +23,7 @@ aktt_tweeted:
 
 In a [blog post][3] written as a pre-cursor to his [2011 Regents’ Lecture at the University of California, Berkeley][4] he reflects on his experience to date with collaborative learning, and sets out the stall for his next project – to collaboratively create a guide to collaborative peer-to-peer learning:
 
-<blockquote cite="http://dmlcentral.net/blog/howard-rheingold/toward-peeragogy">
+<blockquote cite="https://dmlcentral.net/blog/howard-rheingold/toward-peeragogy">
   <p>
     I&#8217;m calling it &#8220;peeragogy.&#8221; While &#8220;paragogy&#8221; is more etymologically correct, &#8220;peeragogy&#8221; is self-explanatory. In my lecture, I&#8217;ll explain the evolution of my own pedagogy and reveal some of what I&#8217;ve discovered in the world of online self-organized learning. Then I will invite volunteers to join me in a two week hybrid of face-to-face seminars and online discussion. Can we self-organize our research, discover, summarize, and prioritize what is known through theory and practice, then propose, argue, and share a tentative resource guide for peeragogical groups? In theory, those who use our guide to pursue their own explorations can edit the guide to reflect new learning.
   </p>
@@ -80,18 +80,18 @@ Right now this is mostly a “lightbulb” – I need to do more thinking and ha
 if any of this strikes a chord with you, please comment.
 
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=d0c617e7-0be2-4439-bfc3-b3dad1250ca9" alt="" />
+  <img class="zemanta-pixie-img" style="border: none; float: right;" src="https://img.zemanta.com/pixy.gif?x-id=d0c617e7-0be2-4439-bfc3-b3dad1250ca9" alt="" />
 </div>
 
- [1]: http://www.rheingold.com/
- [2]: http://socialmediaclassroom.com/host/peeragogy/
- [3]: http://dmlcentral.net/blog/howard-rheingold/toward-peeragogy
- [4]: http://vimeo.com/35685124
+ [1]: https://www.rheingold.com/
+ [2]: https://socialmediaclassroom.com/host/peeragogy/
+ [3]: https://dmlcentral.net/blog/howard-rheingold/toward-peeragogy
+ [4]: https://vimeo.com/35685124
  [5]: https://twitter.com/#!/Synesthesia/status/162805877710143488
- [6]: http://metameso.org/~joe/
- [7]: http://mr.danoff.org/
- [8]: http://metameso.org/~joe/docs/paragogy-final.pdf
- [9]: http://paragogy.net/
- [10]: http://socialenterprisetoday.com/blog/posts/The-Future-of-Work-Is-Learning/
- [11]: http://www.jarche.com/2010/10/work-is-learning-so-what/
- [12]: http://en.wikipedia.org/wiki/Turtles_all_the_way_down
+ [6]: https://metameso.org/~joe/
+ [7]: https://mr.danoff.org/
+ [8]: https://metameso.org/~joe/docs/paragogy-final.pdf
+ [9]: https://paragogy.net/
+ [10]: https://socialenterprisetoday.com/blog/posts/The-Future-of-Work-Is-Learning/
+ [11]: https://www.jarche.com/2010/10/work-is-learning-so-what/
+ [12]: https://en.wikipedia.org/wiki/Turtles_all_the_way_down

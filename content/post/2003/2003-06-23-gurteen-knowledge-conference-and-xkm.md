@@ -11,11 +11,11 @@ url: /2003/06/23/gurteen-knowledge-conference-and-xkm/
 
 Also on his site Matt has a fledgling [wiki][8] dedicated to the subject of e**X**treme **K**nowledge **M**anagement (XKM) <q>&#8220;a lightweight KM methodology&#8221;</q>
 
- [1]: http://matt.blogs.it/
- [2]: http://matt.blogs.it/2003/06/23.html#a967
- [3]: http://matt.blogs.it/2003/06/19.html#a959
- [4]: http://matt.blogs.it/2003/06/19.html#a958
- [5]: http://matt.blogs.it/2003/06/19.html#a957
- [6]: http://matt.blogs.it/2003/06/19.html#a956
- [7]: http://www.gurteen.com/gurteen/gurteen.nsf/0/9C7E34B34F92686A80256CE200715C3C/
- [8]: http://linux.evectors.it/wiki/XKM/
+ [1]: https://matt.blogs.it/
+ [2]: https://matt.blogs.it/2003/06/23.html#a967
+ [3]: https://matt.blogs.it/2003/06/19.html#a959
+ [4]: https://matt.blogs.it/2003/06/19.html#a958
+ [5]: https://matt.blogs.it/2003/06/19.html#a957
+ [6]: https://matt.blogs.it/2003/06/19.html#a956
+ [7]: https://www.gurteen.com/gurteen/gurteen.nsf/0/9C7E34B34F92686A80256CE200715C3C/
+ [8]: https://linux.evectors.it/wiki/XKM/

@@ -15,5 +15,5 @@ url: /2004/05/12/juggling-boosts-brain-power/
   
 [via [Mike&#8217;s Digital Laboratory][2]]
 
- [1]: http://webcenter.health.webmd.netscape.com/content/Article/79/96364.htm
- [2]: http://www.mikeaxelrod.com/
+ [1]: https://webcenter.health.webmd.netscape.com/content/Article/79/96364.htm
+ [2]: https://www.mikeaxelrod.com/

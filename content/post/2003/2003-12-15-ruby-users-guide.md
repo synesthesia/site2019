@@ -7,4 +7,4 @@ excerpt: ...get you started at invoking and using ruby
 url: /2003/12/15/ruby-users-guide/
 
 ---
-&#8220;Ruby Users&#8217; Guide&#8221;:http://www.ruby-doc.org/docs/UsersGuide/rg/index.html
+&#8220;Ruby Users&#8217; Guide&#8221;:https://www.ruby-doc.org/docs/UsersGuide/rg/index.html

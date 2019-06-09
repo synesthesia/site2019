@@ -34,13 +34,13 @@ A key part of the functionality of Qumana is the ability to easily include adver
 
 A nice tool, and if it had the ability to post in draft I would probably use it. If that isn&#8217;t a requirement for your own preferred style of blogging, then give it a go!</p>
 
- [1]: http://www.qumana.com/
+ [1]: https://www.qumana.com/
  [2]: https://www.synesthesia.co.uk/blog/archives/2006/02/27/a-new-tool-awasu/
  [3]: https://www.synesthesia.co.uk/blog/archives/2006/02/27/a-new-tool-awasu/#comment-967
  [4]: https://www.synesthesia.co.uk/blog/archives/2006/02/27/a-new-tool-awasu/#comment-972
- [5]: http://www.kn.com.au/networks/2006/02/qumana_meta_blo.html
- [6]: http://www.neato.co.nz/ultimate-tag-warrior/
- [7]: http://en.wikipedia.org/wiki/XML_RPC
- [8]: http://wordpress.org/
- [9]: http://www.technorati.com/help/tags.html
- [10]: http://www.adgenta.com/
+ [5]: https://www.kn.com.au/networks/2006/02/qumana_meta_blo.html
+ [6]: https://www.neato.co.nz/ultimate-tag-warrior/
+ [7]: https://en.wikipedia.org/wiki/XML_RPC
+ [8]: https://wordpress.org/
+ [9]: https://www.technorati.com/help/tags.html
+ [10]: https://www.adgenta.com/

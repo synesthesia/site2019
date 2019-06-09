@@ -7,6 +7,6 @@ excerpt: 'Enter an IP address to find its location - Lookup Country Region City 
 url: /2004/01/06/ip-address-locator/
 
 ---
-&#8220;IP Address Locator&#8221;:http://www.geobytes.com/IpLocator.htm?GetLocation [ via [Marc&#8217;s Voice][1]]
+&#8220;IP Address Locator&#8221;:https://www.geobytes.com/IpLocator.htm?GetLocation [ via [Marc&#8217;s Voice][1]]
 
- [1]: http://blogs.it/0100198/
+ [1]: https://blogs.it/0100198/

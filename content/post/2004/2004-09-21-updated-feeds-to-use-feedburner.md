@@ -4,13 +4,13 @@ author: Julian
 type: post
 date: 2004-09-21T19:13:33+00:00
 excerpt: |
-  I've updated all the feeds for this site to use <a href="http://feedburner.com/">Feedburner</a>:
+  I've updated all the feeds for this site to use <a href="https://feedburner.com/">Feedburner</a>:
   
   <ul>
-  	<li><a href="http://feeds.feedburner.com/Synesthesia">Blog + Linklog</a></li>
-  	<li><a href="http://feeds.feedburner.com/SynesthesiaComments">Comments</a></li>
-  	<li><a href=""http://feeds.feedburner.com/SynesthesiaOddments" >Latest Oddments</a></li>
-  	<li><a href=""http://feeds.feedburner.com/SynesthesiaWiki" >Wiki Recent Changes</a></li>
+  	<li><a href="https://feeds.feedburner.com/Synesthesia">Blog + Linklog</a></li>
+  	<li><a href="https://feeds.feedburner.com/SynesthesiaComments">Comments</a></li>
+  	<li><a href=""https://feeds.feedburner.com/SynesthesiaOddments" >Latest Oddments</a></li>
+  	<li><a href=""https://feeds.feedburner.com/SynesthesiaWiki" >Wiki Recent Changes</a></li>
   </ul>
   
   Please point your reader at the new links.
@@ -30,13 +30,13 @@ I&#8217;ve also updated all the `<link></link>` tags in the page header to point
 
 (What do you mean you don&#8217;t use those tools yet?)
 
- [1]: http://feedburner.com/
- [2]: http://feeds.feedburner.com/Synesthesia
- [3]: http://feeds.feedburner.com/SynesthesiaComments
- [4]: http://feeds.feedburner.com/SynesthesiaOddments
- [5]: http://feeds.feedburner.com/SynesthesiaWiki
- [6]: http://www.bloglines.com/
- [7]: http://jayseae.cxliv.org/2004/09/16/bloglines_toolkit_v1r4m1.html
- [8]: http://jayseae.cxliv.org/
- [9]: http://www.mozilla.org/products/firefox/
- [10]: http://www.mozilla.org/products/firefox/releases/#new
+ [1]: https://feedburner.com/
+ [2]: https://feeds.feedburner.com/Synesthesia
+ [3]: https://feeds.feedburner.com/SynesthesiaComments
+ [4]: https://feeds.feedburner.com/SynesthesiaOddments
+ [5]: https://feeds.feedburner.com/SynesthesiaWiki
+ [6]: https://www.bloglines.com/
+ [7]: https://jayseae.cxliv.org/2004/09/16/bloglines_toolkit_v1r4m1.html
+ [8]: https://jayseae.cxliv.org/
+ [9]: https://www.mozilla.org/products/firefox/
+ [10]: https://www.mozilla.org/products/firefox/releases/#new

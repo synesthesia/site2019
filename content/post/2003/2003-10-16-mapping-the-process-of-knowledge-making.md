@@ -35,17 +35,17 @@ When we move on to consider recognition, signalling and evaluation I think it wo
   
 [Kuro5hin][8] and [Slashdot][9]. [Tom Coates][10] has written a couple of [recent][11] [articles][12] on moderation and has just set up a [site][13] specifically [&#8220;designed to find creative ways to manage online communities and user-generated content&#8221;][14] so I think a little mining of his ideas might be fruitful too&#8230;
 
- [1]: http://radio.weblogs.com/0106698/ "Connectivity - Spike Hall's Weblog"
- [2]: http://radio.weblogs.com/0106698/2003/09/23.html#a184
- [3]: http://mamamusings.net/
- [4]: http://mamamusings.net/archives/2003/09/21/the_unbearable_impermanence_of_blogging.php
- [5]: http://radiocomments.userland.com/comments?u=106698&p=184&link=http%3A%2F%2Fradio.weblogs.com%2F0106698%2F2003%2F09%2F23.html%23a184
- [6]: http://radio.weblogs.com/0106698/2003/10/14.html#a196
+ [1]: https://radio.weblogs.com/0106698/ "Connectivity - Spike Hall's Weblog"
+ [2]: https://radio.weblogs.com/0106698/2003/09/23.html#a184
+ [3]: https://mamamusings.net/
+ [4]: https://mamamusings.net/archives/2003/09/21/the_unbearable_impermanence_of_blogging.php
+ [5]: https://radiocomments.userland.com/comments?u=106698&p=184&link=http%3A%2F%2Fradio.weblogs.com%2F0106698%2F2003%2F09%2F23.html%23a184
+ [6]: https://radio.weblogs.com/0106698/2003/10/14.html#a196
  [7]: https://www.synesthesia.co.uk/blog/archives/organisations/000102.php
- [8]: http://www.kuro5hin.org/ "Kuro5hin"
- [9]: http://www.slashdot.org/ "Slashdot"
- [10]: http://www.plasticbag.org/ "Plasticbag.org"
- [11]: http://www.plasticbag.org/archives/2003/10/political_economies_in_selfmoderating_communities.shtml
- [12]: http://www.plasticbag.org/archives/2003/10/the_final_solution_for_persistent_trolls.shtml
- [13]: http://www.everythinginmoderation.org/ "Everything In Moderation"
- [14]: http://www.plasticbag.org/archives/2003/10/introducing_everything_in_moderation.shtml
+ [8]: https://www.kuro5hin.org/ "Kuro5hin"
+ [9]: https://www.slashdot.org/ "Slashdot"
+ [10]: https://www.plasticbag.org/ "Plasticbag.org"
+ [11]: https://www.plasticbag.org/archives/2003/10/political_economies_in_selfmoderating_communities.shtml
+ [12]: https://www.plasticbag.org/archives/2003/10/the_final_solution_for_persistent_trolls.shtml
+ [13]: https://www.everythinginmoderation.org/ "Everything In Moderation"
+ [14]: https://www.plasticbag.org/archives/2003/10/introducing_everything_in_moderation.shtml

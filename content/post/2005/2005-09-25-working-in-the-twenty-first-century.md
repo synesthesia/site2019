@@ -20,6 +20,6 @@ The nature of work and the management-worker relationship will change as new for
 
 There&#8217;s a [Tomorrow Project][3] event to discuss the book on 6th October &#8211; so I should be blogging some more after that.
 
- [1]: http://www.tomorrowproject.net/twentyfirst_century.html
- [2]: http://www.esrc.ac.uk
- [3]: http://www.tomorrowproject.net/
+ [1]: https://www.tomorrowproject.net/twentyfirst_century.html
+ [2]: https://www.esrc.ac.uk
+ [3]: https://www.tomorrowproject.net/

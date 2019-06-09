@@ -10,7 +10,7 @@ ttaglist:
 ---
 In [how to build on bubble-up folksonomies][1] [Tom Coates][2] says:
 
-<blockquote cite="http://www.plasticbag.org/archives/2005/09/how_to_build_on_bubbleup_folksonomies.shtml">
+<blockquote cite="https://www.plasticbag.org/archives/2005/09/how_to_build_on_bubbleup_folksonomies.shtml">
   <p>
     [&#8230;] The concept is really simple &#8211; there are concepts in the world that can be loosely described as being made up of aggregations of other smaller component concepts. In such systems, if you encourage the tagging of the smallest component parts, then you can aggregate those tags up through the whole system. You get &#8211; essentially &#8211; free metadata on a whole range of other concepts [&#8230;]
   </p>
@@ -26,7 +26,7 @@ The concept makes immense sense from the perspective of a broadcaster that is se
 
 From the perspective of a listener though, I&#8217;d like another layer. Alongside the &#8220;transmitter-side&#8221; aggregation of metadata from the broadcaster based on the tags submitted by their listeners, I&#8217;d like a &#8220;receiver-side&#8221; metadata aggregator that aggregates _my_ tags across all the media I&#8217;ve ever listened to over time &#8211; and on top of that a way of comparing &#8220;my&#8221; folksonomy with &#8220;their&#8221; folksonomies so that I can find new artists or stations that I am likely to enjoy.
 
- [1]: http://www.plasticbag.org/archives/2005/09/how_to_build_on_bubbleup_folksonomies.shtml
- [2]: http://www.plasticbag.org/
+ [1]: https://www.plasticbag.org/archives/2005/09/how_to_build_on_bubbleup_folksonomies.shtml
+ [2]: https://www.plasticbag.org/
  [3]: https://www.synesthesia.co.uk/blog/archives/2004/11/24/semantic-aggregation-and-filtering/
  [4]: /blog/wiki/The+Wisdom+of+Crowds

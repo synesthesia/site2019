@@ -21,15 +21,15 @@ enclosure:
 syndication_source:
   - WorkNotes
 syndication_source_uri:
-  - http://synesthesiaworknotes.smallpict.com/
+  - https://synesthesiaworknotes.smallpict.com/
 syndication_source_id:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed:
-  - http://synesthesiaworknotes.smallpict.com/rss.xml
+  - https://synesthesiaworknotes.smallpict.com/rss.xml
 syndication_feed_id:
   - 8
 syndication_permalink:
-  - http://synesthesiaworknotes.smallpict.com/2015/02/26/aCoupleOfDaysWorth.html
+  - https://synesthesiaworknotes.smallpict.com/2015/02/26/aCoupleOfDaysWorth.html
 syndication_item_hash:
   - a2d78a6dc73c0bbe24595fe4fa381b7c
   - b6d457bd167b4e0fa92c2ba8488e05ed
@@ -42,4 +42,4 @@ quite a bit around #noemail
 
 watched Moral Imperative of Sharing
 
- [1]: http://synesthesiaworknotes.smallpict.com/2015/02/26/www.thunderhead.com
+ [1]: https://synesthesiaworknotes.smallpict.com/2015/02/26/www.thunderhead.com

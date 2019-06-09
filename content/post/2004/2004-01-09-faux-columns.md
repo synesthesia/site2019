@@ -7,4 +7,4 @@ excerpt: A simple way to make CSS columns appear equal in length, regardless of 
 url: /2004/01/09/faux-columns/
 
 ---
-&#8220;Faux Columns&#8221;:http://www.alistapart.com/articles/fauxcolumns/
+&#8220;Faux Columns&#8221;:https://www.alistapart.com/articles/fauxcolumns/

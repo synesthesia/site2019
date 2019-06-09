@@ -7,4 +7,4 @@ excerpt: "Lilia categorises knowledge work as 'a system of activity in three int
 url: /2003/11/02/knowledge-worker-spaces/
 
 ---
-&#8220;Knowledge Worker Spaces&#8221;:http://blog.mathemagenic.com/2003/10/30.html#a818 Lilia Efimova categorises knowledge work as <q>a system of activity in three interrelated spaces&#8217;: Idea Space, People Space, I Space</q>
+&#8220;Knowledge Worker Spaces&#8221;:https://blog.mathemagenic.com/2003/10/30.html#a818 Lilia Efimova categorises knowledge work as <q>a system of activity in three interrelated spaces&#8217;: Idea Space, People Space, I Space</q>

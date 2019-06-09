@@ -11,4 +11,4 @@ I&#8217;ve merged the two wikis into a new, single [wiki][1], and changed techno
 .htaccess changes should take care of any old links &#8211; please let me know of any broken ones by commenting on this post.
 
  [1]: /wikka/
- [2]: http://wikkawiki.org/HomePage
+ [2]: https://wikkawiki.org/HomePage
