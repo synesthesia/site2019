@@ -1,0 +1,16 @@
+---
+title: Towards Structured Blogging
+author: Julian
+type: post
+date: 2003-03-16T19:43:51+00:00
+url: /2003/03/16/towards-structured-blogging/
+
+---
+[Sébastien Paquet][1]: [Towards Structured Blogging][2].
+
+And of course this post is an example of that which he describes &#8211; pinging as it does both [KMPings][3] and the Blog-Network [Metablog][4]
+
+ [1]: http://radio.weblogs.com/0110772/
+ [2]: http://radio.weblogs.com/0110772/stories/2003/03/13/towardsStructuredBlogging.html
+ [3]: http://www.highcontext.com/kmpings/
+ [4]: http://www.blog-network.com/

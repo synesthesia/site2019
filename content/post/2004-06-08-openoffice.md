@@ -1,0 +1,11 @@
+---
+title: OpenOffice
+author: Julian
+type: post
+date: 2004-06-08T07:06:08+00:00
+url: /2004/06/08/openoffice/
+
+---
+Tim Bray [on OpenOffice][1]
+
+ [1]: http://www.tbray.org/ongoing/When/200x/2004/03/26/OpenOffice

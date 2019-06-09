@@ -1,0 +1,12 @@
+---
+title: Does Your Career Meet Your Personal Needs?
+author: Julian
+type: post
+date: 2003-11-24T13:18:12+00:00
+excerpt: Career Activism
+url: /2003/11/24/does-your-career-meet-your-personal-needs/
+
+---
+&#8220;Does Your Career Meet Your Personal Needs?&#8221;:http://www.careers.wsj.com/jobhunting/change/20031002-moses.html [ via [The Occupational Adventure][1]]
+
+ [1]: http://curtrosengren.typepad.com/occupationaladventure/

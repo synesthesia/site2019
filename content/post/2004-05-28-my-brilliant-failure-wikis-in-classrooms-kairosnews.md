@@ -1,0 +1,11 @@
+---
+title: 'My Brilliant Failure: Wikis In Classrooms | Kairosnews'
+author: Julian
+type: post
+date: 2004-05-28T16:51:59+00:00
+url: /2004/05/28/my-brilliant-failure-wikis-in-classrooms-kairosnews/
+
+---
+[My Brilliant Failure: Wikis In Classrooms][1] Heather James&#8217; experiences using wiki as a teaching adjunct.
+
+ [1]: http://kairosnews.org/node/view/3794

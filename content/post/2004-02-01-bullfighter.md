@@ -1,0 +1,18 @@
+---
+title: Bullfighter
+author: Julian
+type: post
+date: 2004-02-01T11:58:54+00:00
+excerpt: Stripping The Bull Out Of Business. A consulting jargon fighter from Deloitte
+url: /2004/02/01/bullfighter/
+
+---
+&#8220;Bullfighter&#8221;:http://www.dc.com/insights/bullfighter/ Stripping The Bull Out Of Business. A consulting jargon fighter from Deloitte
+  
+<!--more-->
+
+
+  
+[via [blog.org][1]]
+
+ [1]: http://blog.org/

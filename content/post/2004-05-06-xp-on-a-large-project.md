@@ -1,0 +1,12 @@
+---
+title: XP on a Large Project
+author: Julian
+type: post
+date: 2004-05-06T11:12:48+00:00
+excerpt: Keith Ray points to document by Thoughtworks
+url: /2004/05/06/xp-on-a-large-project/
+
+---
+[XP on a Large Project][1] Keith Ray points to document by Thoughtworks
+
+ [1]: http://homepage.mac.com/keithray/blog/2004/05/05/#XPonaLargeProject

@@ -1,0 +1,13 @@
+---
+title: MySQL Gotchas
+author: Julian
+type: post
+date: 2003-11-24T12:04:58+00:00
+excerpt: |
+  It's not a bug - it's a gotcha. A "gotcha" is a feature or function which works as advertised - but not as expected.
+url: /2003/11/24/mysql-gotchas/
+
+---
+&#8220;MySQL Gotchas&#8221;:http://sql-info.de/mysql/gotchas.html [via [paranoidfish.org][1]]
+
+ [1]: http://www.paranoidfish.org/links/

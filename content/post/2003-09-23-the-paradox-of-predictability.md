@@ -1,0 +1,15 @@
+---
+title: The paradox of predictability
+author: Julian
+type: post
+date: -001-11-30T00:00:00+00:00
+draft: true
+url: /?p=154
+
+---
+[Lean Development and the Predictability Paradox][1] [PDF, 174 kB]
+
+[via [Stephen Norrie][2]]
+
+ [1]: http://www.poppendieck.com/pdfs/Predictability_Paradox.pdf
+ [2]: http://members.rogers.com/snorrie/weblog/
