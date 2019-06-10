@@ -25,10 +25,10 @@
       {{ if site.Params.gravatar }}
       <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image" alt="Avatar">
       {{ else if $portrait}}
-      {{ $portrait_image := $portrait.Fill "250x250 Center" }}
+      {{ $portrait_image := $portrait.Fill "200x200 Center" }}
       <img class="portrait" src="{{ $portrait_image.RelPermalink }}" itemprop="image" alt="Portrait">
       {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "250x250 Center" }}
+      {{ $avatar_image := $avatar.Fill "200x200 Center" }}
       <img class="portrait" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
       {{ end }}
 
