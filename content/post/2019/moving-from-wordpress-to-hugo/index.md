@@ -28,4 +28,6 @@ image:
 projects: []
 ---
 
-find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \;
+`find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \;`
+
+`grep -iRl "type: note" ./post | while read f; do mv "$f" note; done`

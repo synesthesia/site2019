@@ -13,10 +13,23 @@
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
+  [[main]]
+  name = "Working in the Open"
+  url = "#notes"
   weight = 30
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 40
+
+
+
+[[main]]
+  name = "FedWiki"
+  url = "https://wiki.synesthesia.co.uk/"
+  weight = 50
+
 
 
 [[main]]
