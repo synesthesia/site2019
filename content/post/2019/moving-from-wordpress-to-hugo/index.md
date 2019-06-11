@@ -37,3 +37,12 @@ projects: []
  ` find ./post -type f -exec sed  -i -E  -e "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" {} \; `
 
  ` find ./post -type f -exec sed  -i -E  -e "s/]\//]" {} \; `
+
+ url: /worknotes/removing-malicious-content-from-wordpress-posts/
+
+ ` find ./note -type f -exec sed  -i -E  -e "s/url: (\/worknotes\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\1\2\"]/" {} \; `
+ `  find ./note -type f -exec sed  -i -E  -e "s/]\//]/" {} \; `
+
+slug: removing-malicious-content-from-wordpress-posts 
+aliases: ["/worknotes/removing-malicious-content-from-wordpress-posts"]
+
