@@ -3,7 +3,8 @@ title: Account based Marketing and Dynamics CRM
 author: Julian
 type: note
 date: 2017-02-09T09:31:52+00:00
-url: /worknotes/account-based-marketing-and-dynamics-crm/
+slug: account-based-marketing-and-dynamics-crm 
+aliases: ["/worknotes/account-based-marketing-and-dynamics-crm"]
 
 ---
 Some useful notes and links [here][1]  from [Steve Mordue][2] , CEO of ForceWorks on [Account-Based Marketing][3], and ways to adapt the native behaviour of Dynamics 365 to support it.

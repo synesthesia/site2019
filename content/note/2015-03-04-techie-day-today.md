@@ -9,7 +9,8 @@ excerpt: |
     				Web Apis
     
     Appveyor
-url: /worknotes/techie-day-today/
+slug: techie-day-today 
+aliases: ["/worknotes/techie-day-today"]
 enclosure:
   - |
     |

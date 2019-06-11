@@ -3,7 +3,8 @@ title: Extended SSO for Discourse with IdentityServer3
 author: Julian
 type: note
 date: 2018-10-02T18:30:40+00:00
-url: /worknotes/extended-sso-for-discourse-with-identityserver3/
+slug: extended-sso-for-discourse-with-identityserver3 
+aliases: ["/worknotes/extended-sso-for-discourse-with-identityserver3"]
 
 ---
 **Background**

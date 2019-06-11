@@ -4,7 +4,8 @@ author: Julian
 type: note
 date: 2015-09-21T12:31:28+00:00
 excerpt: Had some issues when adding custom fonts to IdentityServer - which is when I found in the docs that by default it implements Content Security Policy
-url: /worknotes/finding-out-about-content-security-policy/
+slug: finding-out-about-content-security-policy 
+aliases: ["/worknotes/finding-out-about-content-security-policy"]
 syndication_source:
   - WorkNotes
 syndication_source_uri:

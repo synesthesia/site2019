@@ -7,7 +7,8 @@ excerpt: |
   |
     
     				Definitely haven't gripped the cross-posting to my blog via RSS - the content should be more like this
-url: /worknotes/some-notes-for-today/
+slug: some-notes-for-today 
+aliases: ["/worknotes/some-notes-for-today"]
 enclosure:
   - |
     |

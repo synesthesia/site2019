@@ -11,7 +11,8 @@ excerpt: |
     Talking to a colleague about their experience with Curatr
     
     Signing up to PKM in 40 days
-url: /worknotes/today-seems-to-be-about-knowledge-management/
+slug: today-seems-to-be-about-knowledge-management 
+aliases: ["/worknotes/today-seems-to-be-about-knowledge-management"]
 enclosure:
   - |
     |

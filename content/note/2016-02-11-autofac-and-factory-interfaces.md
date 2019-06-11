@@ -7,7 +7,8 @@ excerpt: |
   |
     
     				It's different from Windsor - jsut working out exactly how
-url: /worknotes/autofac-and-factory-interfaces/
+slug: autofac-and-factory-interfaces 
+aliases: ["/worknotes/autofac-and-factory-interfaces"]
 enclosure:
   - |
     |

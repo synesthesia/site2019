@@ -7,7 +7,8 @@ excerpt: |
   |
     
     				Looking at identity
-url: /worknotes/whole-new-month/
+slug: whole-new-month 
+aliases: ["/worknotes/whole-new-month"]
 enclosure:
   - |
     |

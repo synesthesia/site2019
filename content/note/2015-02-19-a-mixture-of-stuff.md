@@ -13,7 +13,8 @@ excerpt: |
     setting up some sample products in Aha! 
     
     so far really liking the structure and the UI of the product
-url: /worknotes/a-mixture-of-stuff/
+slug: a-mixture-of-stuff 
+aliases: ["/worknotes/a-mixture-of-stuff"]
 enclosure:
   - |
     |

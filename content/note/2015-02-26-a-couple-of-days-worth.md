@@ -11,7 +11,8 @@ excerpt: |
     quite a bit around #noemail
     
     watched Moral Imperative of Sharing
-url: /worknotes/a-couple-of-days-worth/
+slug: a-couple-of-days-worth 
+aliases: ["/worknotes/a-couple-of-days-worth"]
 enclosure:
   - |
     |
