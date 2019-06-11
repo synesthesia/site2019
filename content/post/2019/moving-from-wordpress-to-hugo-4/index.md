@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Moving From Wordpress to Hugo"
+title: "Cleaning up content for Hugo version of site"
+slug: moving-wp-to-hugo-04
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2019-06-09T12:32:09+01:00
-lastmod: 2019-06-09T12:32:09+01:00
+date: 2019-06-10T12:00:00+01:00
 featured: false
 draft: true
 
@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["wp-to-hugo"]
 ---
 
 ` find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \; `
