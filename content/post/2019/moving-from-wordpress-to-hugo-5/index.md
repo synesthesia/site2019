@@ -28,4 +28,4 @@ image:
 projects: ["wp-to-hugo"]
 ---
 
-Part 5 of [Moving from WordPress to Hugo]({{< ref "/project/wp-to-hugo/index.md" >}})
+Part 5 of [Moving from WordPress to Hugo]({{< ref "/project/wp-to-hugo/index.md" >}}) 
