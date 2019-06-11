@@ -3,7 +3,8 @@ title: Acceptance Test Driven Development
 author: Julian
 type: post
 date: 2008-02-13T20:27:31+00:00
-url: /2008/02/13/acceptance-test-driven-development/
+slug: acceptance-test-driven-development 
+aliases: ["/2008/02/13/acceptance-test-driven-development"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

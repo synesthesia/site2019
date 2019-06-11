@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-05-25T00:42:03+00:00
 excerpt: Suw Charman has an excellent post on the whole Lawrence Lessig "Free Culture" thing. Drawing on that I start to bounce around a few thoughts about the factors that differentiate areas receptive to the Creative Commons idea and ponder how to link in the commercial needs of large media companies...
-url: /2004/05/25/free-culture/
+slug: free-culture 
+aliases: ["/2004/05/25/free-culture"]
 
 ---
 [Suw Charman][1] has written a long and informative [post][2] about the explosion of innovative ways that people have found to spread the message of [Lawrence Lessig][3]&#8216;s [Free Culture][4], making use of the [Creative Commons][5] _some rights reserved_ licence.

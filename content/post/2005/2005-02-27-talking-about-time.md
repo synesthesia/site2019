@@ -3,7 +3,8 @@ title: Talking about Time
 author: Julian
 type: post
 date: 2005-02-27T15:11:27+00:00
-url: /2005/02/27/talking-about-time/
+slug: talking-about-time 
+aliases: ["/2005/02/27/talking-about-time"]
 
 ---
 **Time Lines**

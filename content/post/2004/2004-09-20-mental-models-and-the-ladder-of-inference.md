@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-09-20T18:57:02+00:00
 excerpt: 'The Ladder of Influence - exploring mental models in a group'
-url: /2004/09/20/mental-models-and-the-ladder-of-inference/
+slug: mental-models-and-the-ladder-of-inference 
+aliases: ["/2004/09/20/mental-models-and-the-ladder-of-inference"]
 
 ---
 [Johnnie Moore][1] is thinking about [changing mental models][2] , in particular how to ensure that group work really does take advantage of the collective intelligence of the group rather than falling back to s simple comparison or accumulation of everyone&#8217;s individual world view.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-07-04T18:21:35+00:00
 excerpt: 'wiki problems - updated with more info 07/07/03'
-url: /2003/07/04/wiki-problems/
+slug: wiki-problems 
+aliases: ["/2003/07/04/wiki-problems"]
 
 ---
 Have had to take the Wiki offline as one of the scripts was causing my hosts major problems.

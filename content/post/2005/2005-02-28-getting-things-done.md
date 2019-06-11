@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2005-02-28T22:00:30+00:00
 excerpt: "My experiences implementing David Allen's Getting Things Done method."
-url: /2005/02/28/getting-things-done/
+slug: getting-things-done 
+aliases: ["/2005/02/28/getting-things-done"]
 
 ---
 [2005 is looking like an interesting year][1], but for the last week or two it&#8217;s been looking as though that might be _interesting_ as in the [allegedly Chinese way][2]. I&#8217;ve been starting to feel somewhat overwhelmed by details, had caught myself forgetting a couple of fairly important things and decided that Something Had To Be Done!

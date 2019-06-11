@@ -3,7 +3,8 @@ title: Lean Project Management – it’s about what you notice
 author: Julian
 type: post
 date: 2003-06-24T12:34:42+00:00
-url: /2003/06/24/lean-project-management-its-about-what-you-notice/
+slug: lean-project-management-its-about-what-you-notice 
+aliases: ["/2003/06/24/lean-project-management-its-about-what-you-notice"]
 
 ---
 Over at [Reforming Project Management][1] Hal Macomber is seeking to [transfer][2] the learning from Lean Production into the project management world. 

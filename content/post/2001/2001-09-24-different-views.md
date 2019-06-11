@@ -3,7 +3,8 @@ title: Different Views?
 author: Julian
 type: post
 date: 2001-09-24T09:47:25+00:00
-url: /2001/09/24/different-views/
+slug: different-views 
+aliases: ["/2001/09/24/different-views"]
 
 ---
 [John Pilger wrote in the Guardian last week][1] 

@@ -3,7 +3,8 @@ title: Connecting People With Content
 author: Julian
 type: post
 date: 2005-03-09T07:51:39+00:00
-url: /2005/03/09/connecting-people-with-content/
+slug: connecting-people-with-content 
+aliases: ["/2005/03/09/connecting-people-with-content"]
 ttag:
   - KM
 

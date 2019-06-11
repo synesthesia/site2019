@@ -3,7 +3,8 @@ title: Library Addition – Benefits Realisation Management
 author: Julian
 type: post
 date: 2007-10-01T09:26:26+00:00
-url: /2007/10/01/library-addition-benefits-realisation-management/
+slug: library-addition-benefits-realisation-management 
+aliases: ["/2007/10/01/library-addition-benefits-realisation-management"]
 aktt_notify_twitter:
   - no
 

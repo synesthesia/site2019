@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-02-09T23:14:52+00:00
 excerpt: Adding a loop to the learning cycle
-url: /2004/02/09/reflection-2/
+slug: reflection-2 
+aliases: ["/2004/02/09/reflection-2"]
 
 ---
 I [mentioned][1] earlier that I was looking at [this free course][2] on Action Research.

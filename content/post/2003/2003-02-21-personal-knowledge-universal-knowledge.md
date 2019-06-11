@@ -5,7 +5,8 @@ type: post
 date: 2003-02-21T13:46:58+00:00
 excerpt: |
   Speculation on Spike Hall's use of weblogs for discovering "universal knowledge"
-url: /2003/02/21/personal-knowledge-universal-knowledge/
+slug: personal-knowledge-universal-knowledge 
+aliases: ["/2003/02/21/personal-knowledge-universal-knowledge"]
 
 ---
 [Spike Hall][1] is thinking about [Knowledge-making][2] and distinguishes between personal knowledge and universal knowledge:

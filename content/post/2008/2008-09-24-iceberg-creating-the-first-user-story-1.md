@@ -3,7 +3,8 @@ title: Iceberg – Creating the First User Story (1)
 author: Julian
 type: post
 date: 2008-09-24T12:49:40+00:00
-url: /2008/09/24/iceberg-creating-the-first-user-story-1/
+slug: iceberg-creating-the-first-user-story-1 
+aliases: ["/2008/09/24/iceberg-creating-the-first-user-story-1"]
 
 ---
 I’m [trying out Iceberg][1], the workflow automation platform. In [my previous post][2] I decided what application I was going to build, and wrote the first two [user stories][3].

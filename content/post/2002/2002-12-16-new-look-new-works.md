@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-12-16T02:00:00+00:00
 excerpt: New look site, new engine under the lid
-url: /2002/12/16/new-look-new-works/
+slug: new-look-new-works 
+aliases: ["/2002/12/16/new-look-new-works"]
 
 ---
 New look site live after much caffeine&#8230;

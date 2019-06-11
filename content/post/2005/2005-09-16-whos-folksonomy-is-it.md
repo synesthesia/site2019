@@ -3,7 +3,8 @@ title: Whose folksonomy is it?
 author: Julian
 type: post
 date: 2005-09-16T07:00:36+00:00
-url: /2005/09/16/whos-folksonomy-is-it/
+slug: whos-folksonomy-is-it 
+aliases: ["/2005/09/16/whos-folksonomy-is-it"]
 ttaglist:
   - Folksonomy, radio, tags, metadata
 

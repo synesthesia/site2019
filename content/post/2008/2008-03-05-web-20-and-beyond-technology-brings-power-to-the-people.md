@@ -3,7 +3,8 @@ title: 'Web 2.0 and Beyond: Technology Brings Power To The People'
 author: Julian
 type: post
 date: 2008-03-05T15:11:05+00:00
-url: /2008/03/05/web-20-and-beyond-technology-brings-power-to-the-people/
+slug: web-20-and-beyond-technology-brings-power-to-the-people 
+aliases: ["/2008/03/05/web-20-and-beyond-technology-brings-power-to-the-people"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

@@ -3,7 +3,8 @@ title: Web-based Mindmapping
 author: Julian
 type: post
 date: 2007-03-28T06:45:01+00:00
-url: /2007/03/28/web-based-mindmapping/
+slug: web-based-mindmapping 
+aliases: ["/2007/03/28/web-based-mindmapping"]
 
 ---
 Until now, mind-mapping has been one of the key aspects of information-management that has not been well-supported on the web.

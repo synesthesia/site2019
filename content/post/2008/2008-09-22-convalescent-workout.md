@@ -3,7 +3,8 @@ title: Convalescent Workout
 author: Julian
 type: post
 date: 2008-09-22T15:17:29+00:00
-url: /2008/09/22/convalescent-workout/
+slug: convalescent-workout 
+aliases: ["/2008/09/22/convalescent-workout"]
 
 ---
 As I touched on in [my last post][1], I am currently recuperating from an operation on a toe. The constraints I have are that I have to keep my foot elevated as much as possible, am confined to the house, and when I do stand or walk I have to wear a [special shoe][2] to keep me from applying any weight to the fore part of my foot and to protect the protuding [K-wire][3].

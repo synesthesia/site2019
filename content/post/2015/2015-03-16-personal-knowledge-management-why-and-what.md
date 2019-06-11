@@ -3,7 +3,8 @@ title: Personal Knowledge Management – why and what
 author: Julian
 type: post
 date: 2015-03-16T09:26:06+00:00
-url: /2015/03/16/personal-knowledge-management-why-and-what/
+slug: personal-knowledge-management-why-and-what 
+aliases: ["/2015/03/16/personal-knowledge-management-why-and-what"]
 
 ---
 I&#8217;m refocusing my study and practice around [Personal Knowledge Management][1] (and taking Harold Jarche&#8217;s [Personal Knowledge mastery in 40 days][2] course).

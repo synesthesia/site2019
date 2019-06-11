@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2005-03-25T08:13:38+00:00
 excerpt: OpenOffice OLE Bridge produces error when trying to set properties from Ruby
-url: /2005/03/25/problem-with-openoffice-and-ruby/
+slug: problem-with-openoffice-and-ruby 
+aliases: ["/2005/03/25/problem-with-openoffice-and-ruby"]
 ttaglist:
   - OpenOffice, Scripting, Ruby
 

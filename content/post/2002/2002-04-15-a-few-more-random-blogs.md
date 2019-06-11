@@ -3,7 +3,8 @@ title: A few more random blogs
 author: Julian
 type: post
 date: 2002-04-15T00:27:16+00:00
-url: /2002/04/15/a-few-more-random-blogs/
+slug: a-few-more-random-blogs 
+aliases: ["/2002/04/15/a-few-more-random-blogs"]
 
 ---
 <a href="https://www.gm009a5328.pwp.blueyonder.co.uk/blog/blogger.html" target="_blank">SomeTHiNG</a> &#8211; worth a look for some of the longer pieces&#8230;

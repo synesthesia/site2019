@@ -3,7 +3,8 @@ title: In defence of freedom?
 author: Julian
 type: post
 date: 2001-10-16T22:56:08+00:00
-url: /2001/10/16/in-defence-of-freedom/
+slug: in-defence-of-freedom 
+aliases: ["/2001/10/16/in-defence-of-freedom"]
 
 ---
 In [The New McCarthyism][1] George Monbiot says:

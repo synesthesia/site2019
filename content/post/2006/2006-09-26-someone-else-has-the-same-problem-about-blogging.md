@@ -3,7 +3,8 @@ title: Someone else has the same problem about blogging
 author: Julian
 type: post
 date: 2006-09-26T06:15:30+00:00
-url: /2006/09/26/someone-else-has-the-same-problem-about-blogging/
+slug: someone-else-has-the-same-problem-about-blogging 
+aliases: ["/2006/09/26/someone-else-has-the-same-problem-about-blogging"]
 
 ---
 Apart from posting links, I&#8217;ve not been writing here much. Partly that has been through lack of attention, in part because I have been posting (occasionally) on [my other blog][1], but there&#8217;s also been another factor &#8211; I&#8217;m busy with lots of interesting things at work, but have not felt able to write about them.

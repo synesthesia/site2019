@@ -3,7 +3,8 @@ title: Another take on RageBoy’s visit to London
 author: Julian
 type: post
 date: 2002-04-19T18:47:26+00:00
-url: /2002/04/19/another-take-on-rageboys-visit-to-london/
+slug: another-take-on-rageboys-visit-to-london 
+aliases: ["/2002/04/19/another-take-on-rageboys-visit-to-london"]
 
 ---
 _</p> 

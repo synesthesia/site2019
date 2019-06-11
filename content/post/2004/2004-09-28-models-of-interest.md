@@ -3,7 +3,8 @@ title: Models of interest
 author: Julian
 type: post
 date: 2004-09-28T18:21:27+00:00
-url: /2004/09/28/models-of-interest/
+slug: models-of-interest 
+aliases: ["/2004/09/28/models-of-interest"]
 
 ---
 [Matt][1] is thinking about [modelling][2] the power of different interests.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-28T12:20:35+00:00
 excerpt: News story on how one man is producing doctors for the UK NHS at 2% of the normal cost
-url: /2002/11/28/doctors-on-the-cheap/
+slug: doctors-on-the-cheap 
+aliases: ["/2002/11/28/doctors-on-the-cheap"]
 
 ---
 Nayeem Azim is a doctor. He&#8217;s also a refugee from Afghanistan. He describes how after re-qualifying to practice in the UK he has [set up an online college to train other refugee doctors.][1] After their first year they have helped 46 doctors to re-qualify to work in the UK, at an average cost of 5,000 UKP per head. Training a doctor from scratch costs ~ 250,000 UKP. He says:

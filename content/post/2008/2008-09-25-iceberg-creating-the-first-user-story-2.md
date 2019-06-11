@@ -3,7 +3,8 @@ title: Iceberg – Creating the First User Story (2)
 author: Julian
 type: post
 date: 2008-09-25T09:31:00+00:00
-url: /2008/09/25/iceberg-creating-the-first-user-story-2/
+slug: iceberg-creating-the-first-user-story-2 
+aliases: ["/2008/09/25/iceberg-creating-the-first-user-story-2"]
 
 ---
 I’m [trying out Iceberg][1], the workflow automation platform. In my last post I described starting to build an application, based on this [outline specification][2]. I had just got to the point of trying to meet the first acceptance criterion on the [first user story][3] (all Project Issues must be uniquely identifiable) when I came to a grinding halt.

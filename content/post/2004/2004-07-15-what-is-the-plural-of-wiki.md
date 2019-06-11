@@ -3,7 +3,8 @@ title: What is The Plural of Wiki?
 author: Julian
 type: post
 date: 2004-07-15T21:37:18+00:00
-url: /2004/07/15/what-is-the-plural-of-wiki/
+slug: what-is-the-plural-of-wiki 
+aliases: ["/2004/07/15/what-is-the-plural-of-wiki"]
 
 ---
 I&#8217;ve added a &#8220;second wiki&#8221;:https://www.synesthesia.co.uk/blog/wiki/ for no particularly good reason other than I saw how the anonymous author of Weblog Tools Collection had &#8220;integrated&#8221;:https://weblogtoolscollection.com/archives/2004/07/05/wordpress-12-wiki-integration/ [bliki]ErfurtWiki[/bliki] into WordPress and decided I wanted one too! This one is just for me &#8211; a different sort of publishing space without the time-bound nature of the blog but closely integrated into it. 

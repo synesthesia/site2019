@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-12-05T17:17:20+00:00
 excerpt: I finally get around to reading the Burt paper on the Social Origin of Good Ideas.
-url: /2004/12/05/the-social-origin-of-good-ideas-again/
+slug: the-social-origin-of-good-ideas-again 
+aliases: ["/2004/12/05/the-social-origin-of-good-ideas-again"]
 
 ---
 Although I first skimmed [this paper][1] [back in May][2] I&#8217;ve finally got around to reading it properly and writing some [summary notes][3].

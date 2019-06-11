@@ -3,7 +3,8 @@ title: More about online influence, meta-frames and context
 author: Julian
 type: post
 date: 2003-02-03T17:13:05+00:00
-url: /2003/02/03/more-about-online-influence-meta-frames-and-context/
+slug: more-about-online-influence-meta-frames-and-context 
+aliases: ["/2003/02/03/more-about-online-influence-meta-frames-and-context"]
 
 ---
 Steve at [OnePotMeal][1] is [untangling the strands][2] of online influence.

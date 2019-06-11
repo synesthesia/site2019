@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-10T19:15:00+00:00
 excerpt: "Professor Karen Stephenson's theory"
-url: /2002/11/10/quantum-theory-of-trust/
+slug: quantum-theory-of-trust 
+aliases: ["/2002/11/10/quantum-theory-of-trust"]
 
 ---
 [Strategy+Business][1] have an article by Art Kleiner on [Karen Stephenson&#8217;s Quantum Theory of Trust][2] _(registration required)_ (via [Ross Mayfield][3])

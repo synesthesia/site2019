@@ -3,7 +3,8 @@ title: The designer deaf baby thing
 author: Julian
 type: post
 date: 2002-04-09T19:51:44+00:00
-url: /2002/04/09/the-designer-deaf-baby-thing/
+slug: the-designer-deaf-baby-thing 
+aliases: ["/2002/04/09/the-designer-deaf-baby-thing"]
 
 ---
 Lots of sources report on the story of Sharon Duchesneau and Candace McCullough, the lesbian couple who selected to have a deaf child. (e.g. [Guardian][1],[Washington Post][2]). Commentary varies. There is the expected mainstream and &#8220;family values&#8221; (e.g. [Family Research Council][3]) condemnation. I thought I might find some references in support of the couple&#8217;s action, but at time of writing Google hasn&#8217;t thrown any up.

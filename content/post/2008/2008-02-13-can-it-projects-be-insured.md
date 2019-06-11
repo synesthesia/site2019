@@ -3,7 +3,8 @@ title: Can IT Projects be Insured?
 author: Julian
 type: post
 date: 2008-02-13T13:13:30+00:00
-url: /2008/02/13/can-it-projects-be-insured/
+slug: can-it-projects-be-insured 
+aliases: ["/2008/02/13/can-it-projects-be-insured"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

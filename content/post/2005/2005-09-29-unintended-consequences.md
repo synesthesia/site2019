@@ -3,7 +3,8 @@ title: Unintended consequences…
 author: Julian
 type: post
 date: 2005-09-29T06:45:19+00:00
-url: /2005/09/29/unintended-consequences/
+slug: unintended-consequences 
+aliases: ["/2005/09/29/unintended-consequences"]
 ttaglist:
   - religion, atheism, secularism, USA, UK, rationality, science, creationism, evolution
 

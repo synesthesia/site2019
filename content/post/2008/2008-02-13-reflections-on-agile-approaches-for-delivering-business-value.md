@@ -3,7 +3,8 @@ title: Reflections on Agile Approaches for Delivering Business Value
 author: Julian
 type: post
 date: 2008-02-13T20:34:47+00:00
-url: /2008/02/13/reflections-on-agile-approaches-for-delivering-business-value/
+slug: reflections-on-agile-approaches-for-delivering-business-value 
+aliases: ["/2008/02/13/reflections-on-agile-approaches-for-delivering-business-value"]
 
 ---
 I’ve spent the last two days [Agile Approaches for Delivering Business Value][1], and feel I’ve learnt a lot. Here are my initial reflections on the conference.

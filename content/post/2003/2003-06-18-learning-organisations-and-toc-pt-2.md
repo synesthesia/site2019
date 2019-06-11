@@ -5,7 +5,8 @@ type: post
 date: 2003-06-18T10:09:08+00:00
 excerpt: |
   Finding more links between <acronym title="Theory of Constraints">TOC</acronym> and Argyris's observations on organisational defences.
-url: /2003/06/18/learning-organisations-and-toc-pt-2/
+slug: learning-organisations-and-toc-pt-2 
+aliases: ["/2003/06/18/learning-organisations-and-toc-pt-2"]
 
 ---
 As noted in an earlier [article][1] I&#8217;ve started re-reading [Overcoming Organizational Defenses][2] with the intent of seeing how to integrate Argyris&#8217;s approach with <acronym title="Theory of Constraints">TOC</acronym>.

@@ -3,7 +3,8 @@ title: Quality Management Strategies – 5
 author: Julian
 type: post
 date: 2007-09-26T07:44:31+00:00
-url: /2007/09/26/quality-management-strategies-5/
+slug: quality-management-strategies-5 
+aliases: ["/2007/09/26/quality-management-strategies-5"]
 aktt_notify_twitter:
   - no
 

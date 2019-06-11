@@ -3,7 +3,8 @@ title: The tools I use fall into two camps…
 author: Julian
 type: post
 date: 2005-03-21T20:56:36+00:00
-url: /2005/03/21/the-toools-i-use/
+slug: the-toools-i-use 
+aliases: ["/2005/03/21/the-toools-i-use"]
 ttaglist:
   - wiki, usability, interface+design, social+software, web-based+tools
 

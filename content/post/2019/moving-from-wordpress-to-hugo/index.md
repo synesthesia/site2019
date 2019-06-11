@@ -28,6 +28,12 @@ image:
 projects: []
 ---
 
-`find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \;`
+` find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \; `
 
-`grep -iRl "type: note" ./post | while read f; do mv "$f" note; done`
+` grep -iRl "type: note" ./post | while read f; do mv "$f" note; done `
+
+ ` sed -E "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" `
+
+ ` find ./post -type f -exec sed  -i -E  -e "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" {} \; `
+
+ ` find ./post -type f -exec sed  -i -E  -e "s/]\//]" {} \; `

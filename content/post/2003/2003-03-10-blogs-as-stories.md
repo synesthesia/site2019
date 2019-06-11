@@ -3,7 +3,8 @@ title: Blogs as stories
 author: Julian
 type: post
 date: 2003-03-10T13:35:36+00:00
-url: /2003/03/10/blogs-as-stories/
+slug: blogs-as-stories 
+aliases: ["/2003/03/10/blogs-as-stories"]
 
 ---
 In [Blogs and Knowledge Sharing][1], [Ton][2] picks up the story of [why we do this][3] by considering blogs as story-telling &#8211; more specifically a way of telling the story of how the writer has discovered some knowledge complete with all the false leads and wrong turns.

@@ -3,7 +3,8 @@ title: Extracting Route Instructions from Google Maps
 author: Julian
 type: post
 date: 2007-04-23T06:06:31+00:00
-url: /2007/04/23/extracting-route-instructions-from-google-maps/
+slug: extracting-route-instructions-from-google-maps 
+aliases: ["/2007/04/23/extracting-route-instructions-from-google-maps"]
 
 ---
 This mini-project came about because I had a need to give people route instructions for a party.

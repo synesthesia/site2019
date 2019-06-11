@@ -3,7 +3,8 @@ title: Problem with iTunes 5 and D-Link DSL-G604T
 author: Julian
 type: post
 date: 2005-09-24T19:00:17+00:00
-url: /2005/09/24/problem-with-itunes-5-and-d-link-dsl-g604t/
+slug: problem-with-itunes-5-and-d-link-dsl-g604t 
+aliases: ["/2005/09/24/problem-with-itunes-5-and-d-link-dsl-g604t"]
 
 ---
 I&#8217;ve been having a problem with DNS failures on my home setup for the last week or so. So, it would appear, have a [lot][1] of [other][2] [people][3] with similar setups, and it turns out to be the fault of Apple who introduced a version of [Bonjour][4] into iTunes for Windows version 5.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-07-27T21:49:22+00:00
 excerpt: "Amy Gahran writes about the power of context to stimulate new idea creation and develops a few ideas for creativity enhancements to KM tools. I share a few of my own associations (including Tony Goodson's writing on bricolage) and push the tools ideas a little further."
-url: /2004/07/27/the-power-of-context/
+slug: the-power-of-context 
+aliases: ["/2004/07/27/the-power-of-context"]
 
 ---
 [Amy Gahran][1] writes about the power of context &#8211; [How Arranging Ideas Spawns New Ideas][2] &#8211; to stimulate new thoughts around a subject:

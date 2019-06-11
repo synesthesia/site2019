@@ -3,7 +3,8 @@ title: Getting Things Done with Mindmanager, ResultsManager, GyroQ, and now Mind
 author: Julian
 type: post
 date: 2007-03-26T12:04:06+00:00
-url: /2007/03/26/getting-things-done-with-mindmanager-resultsmanager-gyroq-and-now-mindreader/
+slug: getting-things-done-with-mindmanager-resultsmanager-gyroq-and-now-mindreader 
+aliases: ["/2007/03/26/getting-things-done-with-mindmanager-resultsmanager-gyroq-and-now-mindreader"]
 
 ---
 I’ve used [Mindmanager][1] as my core information-management tool at work for several years. For the last few months I have also been using it as the underlying support for my “GTD-like” personal productivity processes, augmented with the excellent [ResultsManager][2] add-in from [Gyronix][3].

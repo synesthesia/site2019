@@ -3,7 +3,8 @@ title: Developing Deliverable Strategies – Trams Study 1
 author: Julian
 type: post
 date: 2005-04-25T18:49:27+00:00
-url: /2005/04/25/developing-deliverable-strategies-trams-study-1/
+slug: developing-deliverable-strategies-trams-study-1 
+aliases: ["/2005/04/25/developing-deliverable-strategies-trams-study-1"]
 head_meta:
   - name="keywords" content="strategy, business, game theory"
 

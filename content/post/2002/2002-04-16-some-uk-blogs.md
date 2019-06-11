@@ -3,7 +3,8 @@ title: Some UK blogs
 author: Julian
 type: post
 date: 2002-04-16T19:51:49+00:00
-url: /2002/04/16/some-uk-blogs/
+slug: some-uk-blogs 
+aliases: ["/2002/04/16/some-uk-blogs"]
 
 ---
 Thought it was time to trawl through some of my compatriots &#8230; here are some that caught my eye on the way &#8230;

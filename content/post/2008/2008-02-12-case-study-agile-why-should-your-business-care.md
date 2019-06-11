@@ -3,7 +3,8 @@ title: 'Case Study: Agile – Why Should Your Business Care ?'
 author: Julian
 type: post
 date: 2008-02-12T12:39:52+00:00
-url: /2008/02/12/case-study-agile-why-should-your-business-care/
+slug: case-study-agile-why-should-your-business-care 
+aliases: ["/2008/02/12/case-study-agile-why-should-your-business-care"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

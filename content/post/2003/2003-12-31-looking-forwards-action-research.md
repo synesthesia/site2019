@@ -7,7 +7,8 @@ excerpt: |
   <a href="https://blog.zylstra.org/archives/001162.html" title="Ton's Interdependent Thoughts: Action Research">Ton</a> has pointed me to a<a href="https://www.scu.edu.au/schools/gcm/ar/areol/areolhome.html" title="Action research and evaluation on line">free course</a> on <a href="https://www.standards.dfes.gov.uk/research/glossary#_A" title="Definition of Action Research">Action Research</a>.
   
   This seems to fit a lot of my current goals, so I've signed up!
-url: /2003/12/31/looking-forwards-action-research/
+slug: looking-forwards-action-research 
+aliases: ["/2003/12/31/looking-forwards-action-research"]
 
 ---
 [Ton][1] points to this [free course][2] on [Action Research][3]

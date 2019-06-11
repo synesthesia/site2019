@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-03-06T19:52:29+00:00
 excerpt: Summary of training seminar on creative tools
-url: /2003/03/06/creativity-for-logical-thinkers/
+slug: creativity-for-logical-thinkers 
+aliases: ["/2003/03/06/creativity-for-logical-thinkers"]
 
 ---
 Participated in a training session today with this title with a coach from [The Mind Gym][1].

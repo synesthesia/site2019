@@ -7,7 +7,8 @@ excerpt: |
   What I'm trying to achieve is an inline-linkblog type effect, with the posts to the quicklink category being displayed all together after all of that days main posts (if any).
   
   At present (as you can see) they are displaying at the bottom of the page. What I want to do is find how to trap the date header code in each loop...
-url: /2004/05/24/still-testing-layout-changes/
+slug: still-testing-layout-changes 
+aliases: ["/2004/05/24/still-testing-layout-changes"]
 
 ---
 <ins datetime="2004-4-25T21:57:48--1:00">This post has now been superceded by <a href="https://www.synesthesia.co.uk/blog/archives/2004/05/25/wordpress-linkblog/">this one</a></ins>

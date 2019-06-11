@@ -3,7 +3,8 @@ title: English is a small world
 author: Julian
 type: post
 date: 2003-01-23T12:04:48+00:00
-url: /2003/01/23/english-is-a-small-world/
+slug: english-is-a-small-world 
+aliases: ["/2003/01/23/english-is-a-small-world"]
 
 ---
 [Azeem][1] [points][2] to this [article][3] in [Nature][4] from last summer that reports work by Adilson Motter and colleagues at Arizona State University.

@@ -3,7 +3,8 @@ title: Iceberg Workflow Automation Platform – Installation
 author: Julian
 type: post
 date: 2008-09-24T10:22:12+00:00
-url: /2008/09/24/iceberg-workflow-automation-platform-installation/
+slug: iceberg-workflow-automation-platform-installation 
+aliases: ["/2008/09/24/iceberg-workflow-automation-platform-installation"]
 
 ---
 As mentioned in [my last post][1], I&#8217;m trying out [Iceberg][2].

@@ -3,7 +3,8 @@ title: Random traverse via blogsnob
 author: Julian
 type: post
 date: 2002-04-09T17:31:13+00:00
-url: /2002/04/09/random-traverse-via-blogsnob/
+slug: random-traverse-via-blogsnob 
+aliases: ["/2002/04/09/random-traverse-via-blogsnob"]
 
 ---
 Tried out [Blogsnob][1], and as suggested did a random traverse.

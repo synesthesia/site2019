@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-12-09T01:06:30+00:00
 excerpt: Link to excellent project management site
-url: /2002/12/09/excellent-project-management-site/
+slug: excellent-project-management-site 
+aliases: ["/2002/12/09/excellent-project-management-site"]
 
 ---
 Just found Hal Macomber&#8217;s excellent [Reforming Project Management][1] blog. Some recent entries: [Story-telling Reforms the Project][2], and several entries [1][3] [2][4] [3][5] [4][6] [5][7] [6][8] [7][9] about Koskela&#8217;s and Howellls paper [The Underlying Theory of Project Management is Obsolete][10]

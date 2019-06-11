@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-11-27T13:03:51+00:00
 excerpt: "Back in July Harold Jarche posted a useful deconstruction of the processes involved in web-based personal knowledge management (PKM). Building on this, and in order to make a lot of implicit stuff in my head explicit, I've started developing the model into a full mapping of processes to tools."
-url: /2009/11/27/the-architecture-of-personal-knowledge-management-1/
+slug: the-architecture-of-personal-knowledge-management-1 
+aliases: ["/2009/11/27/the-architecture-of-personal-knowledge-management-1"]
 aktt_notify_twitter:
   - no
 

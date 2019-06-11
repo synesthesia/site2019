@@ -3,7 +3,8 @@ title: 'Fit for the Future: The future of Agile Acceptance Test Tools'
 author: Julian
 type: post
 date: 2008-02-13T12:04:17+00:00
-url: /2008/02/13/fit-for-the-future-the-future-of-agile-acceptance-test-tools/
+slug: fit-for-the-future-the-future-of-agile-acceptance-test-tools 
+aliases: ["/2008/02/13/fit-for-the-future-the-future-of-agile-acceptance-test-tools"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

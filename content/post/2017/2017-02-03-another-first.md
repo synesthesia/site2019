@@ -3,7 +3,8 @@ title: Another first
 author: Julian
 type: post
 date: 2017-02-03T12:08:44+00:00
-url: /2017/02/03/another-first/
+slug: another-first 
+aliases: ["/2017/02/03/another-first"]
 format: aside
 
 ---

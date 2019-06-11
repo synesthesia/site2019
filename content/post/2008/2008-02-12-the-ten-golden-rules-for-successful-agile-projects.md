@@ -3,7 +3,8 @@ title: The Ten Golden Rules for Successful Agile Projects
 author: Julian
 type: post
 date: 2008-02-12T09:53:09+00:00
-url: /2008/02/12/the-ten-golden-rules-for-successful-agile-projects/
+slug: the-ten-golden-rules-for-successful-agile-projects 
+aliases: ["/2008/02/12/the-ten-golden-rules-for-successful-agile-projects"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

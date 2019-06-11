@@ -7,7 +7,8 @@ excerpt: |
   Set up a new section on my Wiki for the discussion and development of thoughts around the overlap betwen Chris Argyris's work and Theory of Constraints.
   
   Using a drawing tool plugin for the wiki software to aid visual thinking and noting...
-url: /2003/07/04/learning-organisations-and-constraints-more/
+slug: learning-organisations-and-constraints-more 
+aliases: ["/2003/07/04/learning-organisations-and-constraints-more"]
 
 ---
 <ins>Hyperlinks to broken Wiki deleted</ins>

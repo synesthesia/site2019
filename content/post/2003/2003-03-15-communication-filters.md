@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-03-15T12:22:41+00:00
 excerpt: "Some thoughts about Shelley Powers' model of intellect / spirit/ heart communication filters."
-url: /2003/03/15/communication-filters/
+slug: communication-filters 
+aliases: ["/2003/03/15/communication-filters"]
 
 ---
 [Shelley][1] writes [We Be Three: Intellect, Spirit, and Heart][2] in which she suggests a new model for understanding the way people communicate (especially in writing) &#8211; which filter are they using, Intellect, Spirit, or Heart. She exemplifies each style as:

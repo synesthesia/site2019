@@ -3,7 +3,8 @@ title: Saturday night, London Town
 author: Julian
 type: post
 date: 2002-10-20T19:34:08+00:00
-url: /2002/10/20/saturday-night-london-town/
+slug: saturday-night-london-town 
+aliases: ["/2002/10/20/saturday-night-london-town"]
 
 ---
 First a play:

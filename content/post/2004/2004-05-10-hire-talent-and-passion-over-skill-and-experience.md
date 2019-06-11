@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-05-10T14:26:01+00:00
 excerpt: The importance of looking beyond skills and competencies in recruitment.
-url: /2004/05/10/hire-talent-and-passion-over-skill-and-experience/
+slug: hire-talent-and-passion-over-skill-and-experience 
+aliases: ["/2004/05/10/hire-talent-and-passion-over-skill-and-experience"]
 
 ---
 [Hire talent and passion over skill and experience][1]. The importance of looking beyond skills and competencies in recruitment.

@@ -3,7 +3,8 @@ title: The Applied Science of Forgiveness?
 author: Julian
 type: post
 date: 2001-11-21T22:43:04+00:00
-url: /2001/11/21/the-applied-science-of-forgiveness/
+slug: the-applied-science-of-forgiveness 
+aliases: ["/2001/11/21/the-applied-science-of-forgiveness"]
 
 ---
 [Choosing Forgiveness][1] descibes itself as &#8220;dedicated to the challenge of witnessing to forgiveness in a non-forgiving world&#8221;.

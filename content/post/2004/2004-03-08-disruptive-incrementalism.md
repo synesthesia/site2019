@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-03-08T17:36:10+00:00
 excerpt: Sometimes a cosmetic change can be the innovation that makes a product catch fire.
-url: /2004/03/08/disruptive-incrementalism/
+slug: disruptive-incrementalism 
+aliases: ["/2004/03/08/disruptive-incrementalism"]
 
 ---
 [Disruptive Incrementalism][1]. Sometimes a cosmetic change can be the innovation that makes a product catch fire.

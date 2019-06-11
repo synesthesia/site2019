@@ -3,7 +3,8 @@ title: It’s just embarrassing…
 author: Julian
 type: post
 date: 2010-09-17T13:20:11+00:00
-url: /2010/09/17/its-just-embarrassing/
+slug: its-just-embarrassing 
+aliases: ["/2010/09/17/its-just-embarrassing"]
 aktt_notify_twitter:
   - no
 

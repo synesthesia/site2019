@@ -3,7 +3,8 @@ title: Food for thought…
 author: Julian
 type: post
 date: 2001-10-02T11:56:11+00:00
-url: /2001/10/02/food-for-thoughtgeorge-monbiot-is/
+slug: food-for-thoughtgeorge-monbiot-is 
+aliases: ["/2001/10/02/food-for-thoughtgeorge-monbiot-is"]
 
 ---
 George Monbiot is nudging our consciences again. In his article [&#8220;Genocide or Peace&#8221;][1] he notes

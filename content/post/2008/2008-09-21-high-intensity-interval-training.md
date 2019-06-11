@@ -3,7 +3,8 @@ title: High Intensity Interval Training
 author: Julian
 type: post
 date: 2008-09-21T11:00:31+00:00
-url: /2008/09/21/high-intensity-interval-training/
+slug: high-intensity-interval-training 
+aliases: ["/2008/09/21/high-intensity-interval-training"]
 
 ---
 One of the side-effects of being laid up at home after a minor operation on my foot is that I have time to read about fitness, instead of trying to get to the gym and actually do something about it…

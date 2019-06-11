@@ -3,7 +3,8 @@ title: Agile Programme Management
 author: Julian
 type: post
 date: 2006-10-16T12:28:14+00:00
-url: /2006/10/16/agile-programme-management/
+slug: agile-programme-management 
+aliases: ["/2006/10/16/agile-programme-management"]
 aktt_notify_twitter:
   - no
 

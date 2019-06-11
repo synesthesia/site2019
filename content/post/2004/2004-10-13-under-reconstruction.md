@@ -3,7 +3,8 @@ title: Under Reconstruction
 author: Julian
 type: post
 date: 2004-10-13T19:14:51+00:00
-url: /2004/10/13/under-reconstruction/
+slug: under-reconstruction 
+aliases: ["/2004/10/13/under-reconstruction"]
 
 ---
 Please excuse the mess while I transition to my new site layout&#8230;

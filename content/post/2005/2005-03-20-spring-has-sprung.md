@@ -3,7 +3,8 @@ title: Spring has Sprung
 author: Julian
 type: post
 date: 2005-03-20T19:00:17+00:00
-url: /2005/03/20/spring-has-sprung/
+slug: spring-has-sprung 
+aliases: ["/2005/03/20/spring-has-sprung"]
 
 ---
 Lots of signs of Spring this weekend:

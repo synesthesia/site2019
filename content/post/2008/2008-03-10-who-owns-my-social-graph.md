@@ -3,7 +3,8 @@ title: Who Owns My Social Graph?
 author: Julian
 type: post
 date: 2008-03-10T14:00:56+00:00
-url: /2008/03/10/who-owns-my-social-graph/
+slug: who-owns-my-social-graph 
+aliases: ["/2008/03/10/who-owns-my-social-graph"]
 
 ---
 In a [comment][1], Neil Burton of <a href="https://enterprise.snockles.com/" rel="external nofollow">Web Spiders</a> picks up on my rhetorical question [_why would I want my employer to own my social graph?_][2] __by asking

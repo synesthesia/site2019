@@ -3,7 +3,8 @@ title: Site changes – Wikis
 author: Julian
 type: post
 date: 2007-08-10T14:18:31+00:00
-url: /2007/08/10/site-changes-wikis/
+slug: site-changes-wikis 
+aliases: ["/2007/08/10/site-changes-wikis"]
 
 ---
 I&#8217;ve merged the two wikis into a new, single [wiki][1], and changed technology to [WikkaWiki][2].

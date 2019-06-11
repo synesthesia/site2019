@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-03-09T13:28:11+00:00
 excerpt: Thoughts about the perennial "why do I blog"
-url: /2003/03/09/why-do-we-do-this/
+slug: why-do-we-do-this 
+aliases: ["/2003/03/09/why-do-we-do-this"]
 
 ---
 [Gary Turner][1] is [writing][2] about what he&#8217;s learned from blogging. Rather than try to extract sensibly here, I suggest you read it&#8230;

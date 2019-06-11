@@ -3,7 +3,8 @@ title: Iceberg – the security model
 author: Julian
 type: post
 date: 2008-09-30T10:54:37+00:00
-url: /2008/09/30/iceberg-the-security-model/
+slug: iceberg-the-security-model 
+aliases: ["/2008/09/30/iceberg-the-security-model"]
 
 ---
 I’m [trying out Iceberg][1], the workflow automation platform. In [previous][2] [posts][3] I described adding some basic forms, views and processes in the context of a sample application.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-06-23T21:37:14+00:00
 excerpt: Pointers to Matt Mowers summaries of the Gurteen Knowledge conference and his eXtreme Knowledge Management wiki.
-url: /2003/06/23/gurteen-knowledge-conference-and-xkm/
+slug: gurteen-knowledge-conference-and-xkm 
+aliases: ["/2003/06/23/gurteen-knowledge-conference-and-xkm"]
 
 ---
 [Matt Mower][1] has some good summary posts ( [1][2] [2][3] [3][4] [4][5] [5][6] ) from the [Gurteen Knowledge conference][7].

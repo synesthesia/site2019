@@ -3,7 +3,8 @@ title: The Road to Reality
 author: Julian
 type: post
 date: 2006-03-02T09:11:00+00:00
-url: /2006/03/02/the-road-to-reality/
+slug: the-road-to-reality 
+aliases: ["/2006/03/02/the-road-to-reality"]
 
 ---
 <div style="  float:right;margin-left:30px; margin-bottom: 20px;">

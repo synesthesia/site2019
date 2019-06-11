@@ -3,7 +3,8 @@ title: Test of Mindmanager Viewer plugin
 author: Julian
 type: post
 date: 2007-03-29T22:51:00+00:00
-url: /2007/03/29/test-of-mindmanager-viewer-plugin/
+slug: test-of-mindmanager-viewer-plugin 
+aliases: ["/2007/03/29/test-of-mindmanager-viewer-plugin"]
 
 ---
 Testing the ActiveX plugin for [viewing Mindjet Mindmanager files in browser][1]. This won&#8217;t work in Firefox unless the [IE Tab][2] add-in is loaded.

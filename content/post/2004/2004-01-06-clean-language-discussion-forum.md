@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-01-06T17:41:57+00:00
 excerpt: 'Phil Swallow has pointed me to his new <a href="www.cleanforum.com">discussion forum</a> for exploring Metaphor, Clean Language, Clean Space and Symbolic Modelling.  I quote a couple of definitions of Clean Language, and also cite a critique of the approach from a Neuro-Semantics / Meta-States perspective.'
-url: /2004/01/06/clean-language-discussion-forum/
+slug: clean-language-discussion-forum 
+aliases: ["/2004/01/06/clean-language-discussion-forum"]
 
 ---
 Phil Swallow has pointed me to his new [discussion forum][1] for exploring Metaphor, Clean Language, Clean Space and Symbolic Modelling. The forum looks like it will turn out to be a terrific resource if people use it. Probably the quickest way for me to explain &#8220;Clean Language&#8221; is to quote Phil from the FAQ section:

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-11-13T14:55:36+00:00
 excerpt: 'Meeting <a href="https://radio.weblogs.com/0121664/">Dina Mehta</a>, <a href="https://ming.tv/">Flemming Funch</a> and  <a href="https://scarletjewels.com/">Julie Solheim-Roe</a> for lunch.'
-url: /2003/11/13/bloggers-at-balzac/
+slug: bloggers-at-balzac 
+aliases: ["/2003/11/13/bloggers-at-balzac"]
 
 ---
 <img class="floatright" alt="balzac.jpg" src="https://www.synesthesia.co.uk/blog/images/balzac.jpg" width="300" height="144" border="0" align="right" />

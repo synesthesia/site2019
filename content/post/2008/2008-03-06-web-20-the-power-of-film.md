@@ -3,7 +3,8 @@ title: 'Web 2.0: The Power of Film'
 author: Julian
 type: post
 date: 2008-03-06T12:36:26+00:00
-url: /2008/03/06/web-20-the-power-of-film/
+slug: web-20-the-power-of-film 
+aliases: ["/2008/03/06/web-20-the-power-of-film"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1]

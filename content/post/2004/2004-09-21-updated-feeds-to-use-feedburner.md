@@ -14,7 +14,8 @@ excerpt: |
   </ul>
   
   Please point your reader at the new links.
-url: /2004/09/21/updated-feeds-to-use-feedburner/
+slug: updated-feeds-to-use-feedburner 
+aliases: ["/2004/09/21/updated-feeds-to-use-feedburner"]
 
 ---
 I&#8217;ve updated all the feeds for this site to use [Feedburner][1]:

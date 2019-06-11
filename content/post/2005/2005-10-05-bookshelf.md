@@ -3,7 +3,8 @@ title: Bookshelf
 author: Julian
 type: post
 date: 2005-10-05T07:15:20+00:00
-url: /2005/10/05/bookshelf/
+slug: bookshelf 
+aliases: ["/2005/10/05/bookshelf"]
 ttag:
   - books
 

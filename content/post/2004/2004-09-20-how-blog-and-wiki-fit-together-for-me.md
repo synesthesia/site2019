@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-09-20T19:00:00+00:00
 excerpt: The roles of a personal wiki and a blog in combination
-url: /2004/09/20/how-blog-and-wiki-fit-together-for-me/
+slug: how-blog-and-wiki-fit-together-for-me 
+aliases: ["/2004/09/20/how-blog-and-wiki-fit-together-for-me"]
 
 ---
 In the same [post][1] that I just [blogged][2] Johnnie Moore goes on to say:

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-09-30T22:30:09+00:00
 excerpt: Summary of seminar on solution-focused approach to coaching.
-url: /2003/09/30/solution-focused-coaching/
+slug: solution-focused-coaching 
+aliases: ["/2003/09/30/solution-focused-coaching"]
 
 ---
 I went to a seminar last week on this topic given by Harvey Ratner from the [Brief Consultancy][1].

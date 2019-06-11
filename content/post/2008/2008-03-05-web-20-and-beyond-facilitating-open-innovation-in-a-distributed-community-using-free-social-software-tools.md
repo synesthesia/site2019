@@ -3,7 +3,8 @@ title: 'Web 2.0 and Beyond: Facilitating Open Innovation in A Distributed Commun
 author: Julian
 type: post
 date: 2008-03-05T14:42:40+00:00
-url: /2008/03/05/web-20-and-beyond-facilitating-open-innovation-in-a-distributed-community-using-free-social-software-tools/
+slug: web-20-and-beyond-facilitating-open-innovation-in-a-distributed-community-using-free-social-software-tools 
+aliases: ["/2008/03/05/web-20-and-beyond-facilitating-open-innovation-in-a-distributed-community-using-free-social-software-tools"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1]

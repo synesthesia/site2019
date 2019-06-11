@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-06-18T14:52:06+00:00
 excerpt: Cory Doctorow has "posted":https://craphound.com/msftdrm.txt the talk on DRM(Digital Rights Management) he gave this week to Microsoft Research
-url: /2004/06/18/cory-on-drm/
+slug: cory-on-drm 
+aliases: ["/2004/06/18/cory-on-drm"]
 
 ---
 Cory Doctorow has &#8220;posted&#8221;:https://craphound.com/msftdrm.txt the talk on DRM(Digital Rights Management) he gave this week to Microsoft Research

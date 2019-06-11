@@ -3,7 +3,8 @@ title: Why SLAs smell of waste
 author: Julian
 type: post
 date: 2011-07-12T07:36:45+00:00
-url: /2011/07/12/why-slas-smell-of-waste/
+slug: why-slas-smell-of-waste 
+aliases: ["/2011/07/12/why-slas-smell-of-waste"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

@@ -3,7 +3,8 @@ title: Developing Deliverable Strategies – Trams Study 3
 author: Julian
 type: post
 date: 2005-05-09T19:11:00+00:00
-url: /2005/05/09/developing-deliverable-strategies-trams-study-3/
+slug: developing-deliverable-strategies-trams-study-3 
+aliases: ["/2005/05/09/developing-deliverable-strategies-trams-study-3"]
 
 ---
 Part 3 of the pre-work for the [strategy course][1], based on the [tram company][2] fictional case study.

@@ -3,7 +3,8 @@ title: New Gym, New Start
 author: Julian
 type: post
 date: 2007-09-09T18:00:00+00:00
-url: /2007/09/09/new-gym-new-start/
+slug: new-gym-new-start 
+aliases: ["/2007/09/09/new-gym-new-start"]
 
 ---
 Over the years I’ve been an intermittent visitor to the halls of fitness.

@@ -3,7 +3,8 @@ title: More on Business Strategy Patterns
 author: Julian
 type: post
 date: 2006-03-08T22:48:39+00:00
-url: /2006/03/08/more-on-business-strategy-patterns/
+slug: more-on-business-strategy-patterns 
+aliases: ["/2006/03/08/more-on-business-strategy-patterns"]
 
 ---
 <a href="https://www.allankelly.net/" rel="external">Allan Kelly</a> [commented][1]&nbsp;on my post from last year about the possibilities of [using pattern languages to describe business strategies][2], to point out that he has done [quite a bit][3] of this already.

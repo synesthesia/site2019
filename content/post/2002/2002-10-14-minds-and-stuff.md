@@ -3,7 +3,8 @@ title: Minds and stuff…
 author: Julian
 type: post
 date: 2002-10-14T23:19:31+00:00
-url: /2002/10/14/minds-and-stuff/
+slug: minds-and-stuff 
+aliases: ["/2002/10/14/minds-and-stuff"]
 
 ---
 One of the things that&#8217;s been keeping me away from blogging over the last few months is taking some trainings in, and reading about, [Neuro Semantics][1]. More detail on Neuro-Semantics another time, but for now I&#8217;ll describe it as an extension to the NLP model of human perception.

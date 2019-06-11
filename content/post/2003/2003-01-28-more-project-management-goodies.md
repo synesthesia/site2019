@@ -3,7 +3,8 @@ title: More project management goodies
 author: Julian
 type: post
 date: 2003-01-28T15:09:08+00:00
-url: /2003/01/28/more-project-management-goodies/
+slug: more-project-management-goodies 
+aliases: ["/2003/01/28/more-project-management-goodies"]
 
 ---
 [Shaking off the &#8220;Shoulds&#8221;][1], [Pardon Sisyphus][2] by [Johanna Rothman][3]

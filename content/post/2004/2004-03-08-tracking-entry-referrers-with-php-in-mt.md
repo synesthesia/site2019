@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-03-08T11:13:07+00:00
 excerpt: Tracking entry referrers with PHP in MT
-url: /2004/03/08/tracking-entry-referrers-with-php-in-mt/
+slug: tracking-entry-referrers-with-php-in-mt 
+aliases: ["/2004/03/08/tracking-entry-referrers-with-php-in-mt"]
 
 ---
 [Tracking entry referrers with PHP in MT][1]

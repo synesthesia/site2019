@@ -3,7 +3,8 @@ title: Hazlitt on Old Books
 author: Julian
 type: post
 date: 2002-04-08T01:21:53+00:00
-url: /2002/04/08/hazlitt-on-old-books-as/
+slug: hazlitt-on-old-books-as 
+aliases: ["/2002/04/08/hazlitt-on-old-books-as"]
 
 ---
 As something of a counterpoint to the very essence of blogging, the Guardian reprints an essay from 1821 by William Hazlitt &#8220;[Essay On Reading Old Books&#8221;][1]

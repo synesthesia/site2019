@@ -3,7 +3,8 @@ title: Flow, or not
 author: Julian
 type: post
 date: 2003-08-29T13:50:47+00:00
-url: /2003/08/29/flow-or-not/
+slug: flow-or-not 
+aliases: ["/2003/08/29/flow-or-not"]
 
 ---
 It&#8217;s raining so it must be time to start blogging again&#8230; 🙂

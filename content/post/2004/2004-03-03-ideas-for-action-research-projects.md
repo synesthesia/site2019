@@ -9,7 +9,8 @@ excerpt: |
   # Coaching as knowledge creation (<wiki>CoachingAsKnowledgeCreation</wiki>)
   # Strategy development through conversation (<wiki>StrategyDevelopment</wiki>)
   # Improving software systems development
-url: /2004/03/03/ideas-for-action-research-projects/
+slug: ideas-for-action-research-projects 
+aliases: ["/2004/03/03/ideas-for-action-research-projects"]
 
 ---
 Currently incubating three ideas for <wiki>ActionResearchProjects</wiki>:

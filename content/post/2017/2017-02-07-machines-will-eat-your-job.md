@@ -3,7 +3,8 @@ title: The machines may eat your job, but that might not be a bad thing – are 
 author: Julian
 type: post
 date: 2017-02-07T08:38:53+00:00
-url: /2017/02/07/machines-will-eat-your-job/
+slug: machines-will-eat-your-job 
+aliases: ["/2017/02/07/machines-will-eat-your-job"]
 featured_image: -content/uploads/2017/02/robot-507811_640.jpg
 
 ---

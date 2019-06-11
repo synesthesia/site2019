@@ -3,7 +3,8 @@ title: Links roundup for for 2008-03-20 through 2008-04-21
 author: Julian
 type: post
 date: 2008-04-22T07:21:28+00:00
-url: /2008/04/22/links-roundup-for-for-2008-03-20-through-2008-04-21/
+slug: links-roundup-for-for-2008-03-20-through-2008-04-21 
+aliases: ["/2008/04/22/links-roundup-for-for-2008-03-20-through-2008-04-21"]
 
 ---
 Shared bookmarks for [del.icio.us][1] user [Synesthesia][2] for 2000-01-31 to 2008-04-21:

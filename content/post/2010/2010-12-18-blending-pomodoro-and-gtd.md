@@ -3,7 +3,8 @@ title: Blending Pomodoro and GTD
 author: Julian
 type: post
 date: 2010-12-18T14:14:05+00:00
-url: /2010/12/18/blending-pomodoro-and-gtd/
+slug: blending-pomodoro-and-gtd 
+aliases: ["/2010/12/18/blending-pomodoro-and-gtd"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

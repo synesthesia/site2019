@@ -7,7 +7,8 @@ excerpt: |
   It is the nature of mind to filter experience through the most recent or most strongly held concepts. 
   
   No wonder then that after (finally) coming across <a href="https://www.reed.com/Papers/GFN/reedslaw.html">Reed's Law</a> thanks to <a href="https://smartpei.typepad.com/robert_patersons_weblog/2004/08/reeds_law_and_t.html ">this</a> thought-provoking article by Robert Paterson I shortly spotted these...
-url: /2004/09/07/reeds-law-in-several-places/
+slug: reeds-law-in-several-places 
+aliases: ["/2004/09/07/reeds-law-in-several-places"]
 
 ---
 It is the nature of mind to filter experience through the most recent or most strongly held concepts. 

@@ -3,7 +3,8 @@ title: It’s all made from paper and glue…
 author: Julian
 type: post
 date: 2006-09-09T13:28:53+00:00
-url: /2006/09/09/its-all-made-from-paper-and-glue/
+slug: its-all-made-from-paper-and-glue 
+aliases: ["/2006/09/09/its-all-made-from-paper-and-glue"]
 aktt_notify_twitter:
   - no
 

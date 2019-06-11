@@ -3,7 +3,8 @@ title: Back to Win Wenger Again
 author: Julian
 type: post
 date: 2001-10-22T21:41:48+00:00
-url: /2001/10/22/back-to-win-wenger-again/
+slug: back-to-win-wenger-again 
+aliases: ["/2001/10/22/back-to-win-wenger-again"]
 
 ---
 In his longer article [You Are Brighter Than You Think][1] he notes the &#8220;first law of psychology&#8221;

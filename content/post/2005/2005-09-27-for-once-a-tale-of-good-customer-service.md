@@ -3,7 +3,8 @@ title: For once, a tale of good customer service
 author: Julian
 type: post
 date: 2005-09-27T07:11:33+00:00
-url: /2005/09/27/for-once-a-tale-of-good-customer-service/
+slug: for-once-a-tale-of-good-customer-service 
+aliases: ["/2005/09/27/for-once-a-tale-of-good-customer-service"]
 
 ---
 [Like Gary Turner][1], I recently suffered a garage-burglary in which the scumbags helped themselves to a couple of bikes. Luckily though my insurance company works with [Wheelies Direct][2] to handle cycle-replacement claims.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-10T00:50:43+00:00
 excerpt: Democracy is in crisis. New technology gives the means for the authentic voice of the people to be heard, but it will still require changes to institutions.
-url: /2002/11/10/internet-and-democracy/
+slug: internet-and-democracy 
+aliases: ["/2002/11/10/internet-and-democracy"]
 
 ---
 It&#8217;s a few days old, but [Tom Bentley][1] wrote in The Guardian [You can&#8217;t impose democracy from above][2]

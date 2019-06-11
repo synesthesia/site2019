@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-03-17T16:57:59+00:00
 excerpt: Article from Psychology Today looking at the thought processes that stimulate creativity.
-url: /2004/03/17/riding-the-white-moment/
+slug: riding-the-white-moment 
+aliases: ["/2004/03/17/riding-the-white-moment"]
 
 ---
 [Riding the White Moment][1]. Article from Psychology Today looking at the thought processes that stimulate creativity.

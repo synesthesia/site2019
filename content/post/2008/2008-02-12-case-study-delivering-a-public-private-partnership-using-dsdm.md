@@ -3,7 +3,8 @@ title: 'Case Study: Delivering a Public-Private Partnership using DSDM'
 author: Julian
 type: post
 date: 2008-02-12T11:34:08+00:00
-url: /2008/02/12/case-study-delivering-a-public-private-partnership-using-dsdm/
+slug: case-study-delivering-a-public-private-partnership-using-dsdm 
+aliases: ["/2008/02/12/case-study-delivering-a-public-private-partnership-using-dsdm"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

@@ -3,7 +3,8 @@ title: Shopping around for DVD rental by post
 author: Julian
 type: post
 date: 2005-03-10T12:04:51+00:00
-url: /2005/03/10/shopping-around-for-dvd-rental-by-post/
+slug: shopping-around-for-dvd-rental-by-post 
+aliases: ["/2005/03/10/shopping-around-for-dvd-rental-by-post"]
 
 ---
 Renting DVDs by post is all the rage these days. 

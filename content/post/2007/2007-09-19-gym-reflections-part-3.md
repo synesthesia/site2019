@@ -3,7 +3,8 @@ title: Gym Reflections part 3
 author: Julian
 type: post
 date: 2007-09-19T13:11:17+00:00
-url: /2007/09/19/gym-reflections-part-3/
+slug: gym-reflections-part-3 
+aliases: ["/2007/09/19/gym-reflections-part-3"]
 
 ---
 I’m still going to the gym, although as I [][1][cref 1025 mentioned] I’m giving organised classes a miss for a while.

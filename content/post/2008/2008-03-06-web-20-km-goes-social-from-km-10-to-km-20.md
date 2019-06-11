@@ -3,7 +3,8 @@ title: 'Web 2.0: KM Goes Social: From KM 1.0 to KM 2.0'
 author: Julian
 type: post
 date: 2008-03-06T10:14:37+00:00
-url: /2008/03/06/web-20-km-goes-social-from-km-10-to-km-20/
+slug: web-20-km-goes-social-from-km-10-to-km-20 
+aliases: ["/2008/03/06/web-20-km-goes-social-from-km-10-to-km-20"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

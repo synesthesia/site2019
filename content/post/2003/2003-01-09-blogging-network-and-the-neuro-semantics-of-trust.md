@@ -3,7 +3,8 @@ title: Blogging network and the neuro-semantics of trust
 author: Julian
 type: post
 date: 2003-01-09T17:38:08+00:00
-url: /2003/01/09/blogging-network-and-the-neuro-semantics-of-trust/
+slug: blogging-network-and-the-neuro-semantics-of-trust 
+aliases: ["/2003/01/09/blogging-network-and-the-neuro-semantics-of-trust"]
 
 ---
 [Gary Lawrence Murphy][1] [picks up][2] the thread about Bridges and Bubbles and asks some fundamental questions about how we should evaluate the _value_ of each link on the graph:

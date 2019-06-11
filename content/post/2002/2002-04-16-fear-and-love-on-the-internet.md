@@ -3,7 +3,8 @@ title: Fear and love on the internet?
 author: Julian
 type: post
 date: 2002-04-16T17:58:08+00:00
-url: /2002/04/16/fear-and-love-on-the-internet/
+slug: fear-and-love-on-the-internet 
+aliases: ["/2002/04/16/fear-and-love-on-the-internet"]
 
 ---
 <a href="https://www.timemachinego.com/linkmachinego/" target="_blank">LINKMACHINEGO.COM</a> picks up <a href="https://texting.blogspot.com/?/2002_04_01_texting_archive.html" target="_blank">Texting</a> via <a href="https://www.ncf.ca/%7Eek867/wood_s_lot.html" target="_blank">wood s lot</a> thus 

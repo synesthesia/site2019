@@ -3,7 +3,8 @@ title: Proactive Risk Management
 author: Julian
 type: post
 date: 2005-06-28T19:19:06+00:00
-url: /2005/06/28/proactive-risk-management/
+slug: proactive-risk-management 
+aliases: ["/2005/06/28/proactive-risk-management"]
 
 ---
 New on the [bookshelf][1]&#8230;

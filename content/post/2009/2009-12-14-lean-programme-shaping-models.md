@@ -7,7 +7,8 @@ excerpt: |
   How can visual models improve the flow of work during programme shaping?
   
   This is the sixth post in a series about applying the lessons of lean (especially lean software development) to the shaping phase of programme managem
-url: /2009/12/14/lean-programme-shaping-models/
+slug: lean-programme-shaping-models 
+aliases: ["/2009/12/14/lean-programme-shaping-models"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

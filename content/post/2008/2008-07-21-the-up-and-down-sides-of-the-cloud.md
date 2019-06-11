@@ -3,7 +3,8 @@ title: 'The up- and down-sides of the cloud?'
 author: Julian
 type: post
 date: 2008-07-21T08:34:39+00:00
-url: /2008/07/21/the-up-and-down-sides-of-the-cloud/
+slug: the-up-and-down-sides-of-the-cloud 
+aliases: ["/2008/07/21/the-up-and-down-sides-of-the-cloud"]
 
 ---
 One ex-colleague [points][1] to a CIO Magazine article about another &#8211; Paul Cheesbrough&#8217;s [decision to migrate users at the Daily Telegraph from MS Office to Google Apps.][2]

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-01-25T19:34:32+00:00
 excerpt: ...and more walking, this time passing the scene of several famous paintings by John Constable
-url: /2004/01/25/saturday-walk-constable-country/
+slug: saturday-walk-constable-country 
+aliases: ["/2004/01/25/saturday-walk-constable-country"]
 
 ---
 Again, a walk taken from the [Time Out Book of Country Walks][1], walk 39, circular based on Manningtree in Essex (TM094322)

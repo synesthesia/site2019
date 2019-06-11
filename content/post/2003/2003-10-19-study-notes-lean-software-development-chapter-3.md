@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-10-19T23:50:07+00:00
 excerpt: 'Summary notes from chapter 3 of <a href="https://www.amazon.co.uk/exec/obidos/ASIN/0321150783/ref%3Dase%5Ffivegocrazyinmid">Lean Software Development</a> by Mary and Tom Poppendieck'
-url: /2003/10/19/study-notes-lean-software-development-chapter-3/
+slug: study-notes-lean-software-development-chapter-3 
+aliases: ["/2003/10/19/study-notes-lean-software-development-chapter-3"]
 
 ---
 Continuing to work through [Lean Software Development][1] by Mary & Tom Poppendieck.

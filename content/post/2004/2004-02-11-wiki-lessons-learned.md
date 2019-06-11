@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-02-11T13:37:23+00:00
 excerpt: "Summarising Sam Ruby's slides about the !Echo wiki experience from ETCon. I think he may have spotted some candidate collaboration patterns..."
-url: /2004/02/11/wiki-lessons-learned/
+slug: wiki-lessons-learned 
+aliases: ["/2004/02/11/wiki-lessons-learned"]
 
 ---
 &#8220;Sam Ruby&#8221;:https://www.intertwingly.net has posted the &#8220;slides&#8221;:https://intertwingly.net/slides/2004/etcon/ from his &#8220;presentation&#8221;:https://conferences.oreillynet.com/cs/et2004/view/e_sess/4613 at &#8220;ETCon&#8221;:https://conferences.oreillynet.com/etech/ on lessons learned from running the &#8220;!Echo wiki&#8221;:https://www.intertwingly.net/wiki/pie/FrontPage He notes:

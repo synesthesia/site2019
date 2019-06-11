@@ -3,7 +3,8 @@ title: Does it work?
 author: Julian
 type: post
 date: 2005-02-05T11:08:34+00:00
-url: /2005/02/05/does-it-work/
+slug: does-it-work 
+aliases: ["/2005/02/05/does-it-work"]
 
 ---
 New on the [blogroll][1] is [The &#8220;Does it Work?&#8221; Diary][2] from my friend Clare Walker.

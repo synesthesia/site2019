@@ -3,7 +3,8 @@ title: Enterprise SaaS and Mashups
 author: Julian
 type: post
 date: 2008-09-16T08:54:19+00:00
-url: /2008/09/16/enterprise-saas-and-mashups/
+slug: enterprise-saas-and-mashups 
+aliases: ["/2008/09/16/enterprise-saas-and-mashups"]
 
 ---
 Bill Ives’ [Portals and KM][1] blog has been in my feedlist for a while. This morning I spotted that he has been very prolific recently (across several platforms) on the related subjects of Software as a Service (SaaS) and enterprise [mashups][2].

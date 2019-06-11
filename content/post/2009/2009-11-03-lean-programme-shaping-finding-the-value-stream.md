@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-11-03T11:27:29+00:00
 excerpt: This is the second post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.
-url: /2009/11/03/lean-programme-shaping-finding-the-value-stream/
+slug: lean-programme-shaping-finding-the-value-stream 
+aliases: ["/2009/11/03/lean-programme-shaping-finding-the-value-stream"]
 aktt_notify_twitter:
   - no
 

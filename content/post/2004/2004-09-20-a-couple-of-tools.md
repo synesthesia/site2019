@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-09-20T09:34:47+00:00
 excerpt: As requested by various people at Blogwalk, details of a couple of content tools I use / am investigating
-url: /2004/09/20/a-couple-of-tools/
+slug: a-couple-of-tools 
+aliases: ["/2004/09/20/a-couple-of-tools"]
 
 ---
 As requested by various people at Blogwalk, details of a couple of content tools I use / am investigating

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-01-08T13:24:53+00:00
 excerpt: More on the evolving debate about inter-blog links as a social network and a lazyweb request for a web-based tool to present a grpahical analysis of the incoming and outgoing links networks from a page...
-url: /2003/01/08/more-on-the-evolving-network-between-blogs/
+slug: more-on-the-evolving-network-between-blogs 
+aliases: ["/2003/01/08/more-on-the-evolving-network-between-blogs"]
 
 ---
 Euan at [The Obvious][1] sums up his view of the &#8220;blogroll or not blogroll&#8221; debate as [&#8220;I just like following winding paths&#8221;][2]. 

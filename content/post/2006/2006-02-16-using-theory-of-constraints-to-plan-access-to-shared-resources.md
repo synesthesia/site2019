@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2006-02-16T13:57:40+00:00
 excerpt: Clarke Ching points to a document from Network Rail showing the application of TOC to planning shared use of a critical piece of infrastructure. Lessons here for other industries I think...
-url: /2006/02/16/using-theory-of-constraints-to-plan-access-to-shared-resources/
+slug: using-theory-of-constraints-to-plan-access-to-shared-resources 
+aliases: ["/2006/02/16/using-theory-of-constraints-to-plan-access-to-shared-resources"]
 
 ---
 [Clarke Ching][1] [points][2] to Network Rail&#8217;s document [Consultation On Capacity Study For East Coast Main Line][3] [PDF, 546kb], which documents a [Theory Of Constraints][4] approach to managing resource capacity &#8211; in this case on a strategic rail route.

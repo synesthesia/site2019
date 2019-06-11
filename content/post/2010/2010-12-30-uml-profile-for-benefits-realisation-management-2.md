@@ -3,7 +3,8 @@ title: UML Profile for Benefits Realisation Management – 2
 author: Julian
 type: post
 date: 2010-12-30T16:07:32+00:00
-url: /2010/12/30/uml-profile-for-benefits-realisation-management-2/
+slug: uml-profile-for-benefits-realisation-management-2 
+aliases: ["/2010/12/30/uml-profile-for-benefits-realisation-management-2"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

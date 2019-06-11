@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-11-29T20:05:23+00:00
 excerpt: "Denham Grey writes about the use of concept extraction to categorise text - I add the nuance of applying this in the reader's context rather than the writer's."
-url: /2004/11/29/social-categorisation/
+slug: social-categorisation 
+aliases: ["/2004/11/29/social-categorisation"]
 
 ---
 [Denham Grey][1] has been thinking about knowledge management for a long time &#8211; it looks like he has been turning his thoughts to some of the issues I touched on in [Semantic Aggregation and Filtering][2]. He writes in [Social Categorisation][3]:

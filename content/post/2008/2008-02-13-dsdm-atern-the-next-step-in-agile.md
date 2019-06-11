@@ -3,7 +3,8 @@ title: 'DSDM Atern: The next step in agile!'
 author: Julian
 type: post
 date: 2008-02-13T16:06:22+00:00
-url: /2008/02/13/dsdm-atern-the-next-step-in-agile/
+slug: dsdm-atern-the-next-step-in-agile 
+aliases: ["/2008/02/13/dsdm-atern-the-next-step-in-agile"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

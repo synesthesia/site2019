@@ -3,7 +3,8 @@ title: Credit Where It’s Due
 author: Julian
 type: post
 date: 2005-06-25T14:36:27+00:00
-url: /2005/06/25/credit-where-its-due/
+slug: credit-where-its-due 
+aliases: ["/2005/06/25/credit-where-its-due"]
 ttaglist:
   - KM, blogging, organisations
 

@@ -3,7 +3,8 @@ title: Conference Blogging – Web 2.0 and Beyond
 author: Julian
 type: post
 date: 2008-03-03T17:15:23+00:00
-url: /2008/03/03/conference-blogging-web-20-and-beyond/
+slug: conference-blogging-web-20-and-beyond 
+aliases: ["/2008/03/03/conference-blogging-web-20-and-beyond"]
 
 ---
 I’m blogging [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

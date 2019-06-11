@@ -3,7 +3,8 @@ title: The Science of Scrunch
 author: Julian
 type: post
 date: 2002-04-05T16:12:35+00:00
-url: /2002/04/05/the-science-of-scrunch/
+slug: the-science-of-scrunch 
+aliases: ["/2002/04/05/the-science-of-scrunch"]
 tags: ["Popular Science"]
 
 ---

@@ -5,7 +5,8 @@ type: post
 date: 2005-09-01T11:50:29+00:00
 excerpt: |
   Rule 1 - don't use the phrase "Enterprise Architecture"if you can show someone a picture instead!
-url: /2005/09/01/a-simplified-approach-to-enterprise-architecture/
+slug: a-simplified-approach-to-enterprise-architecture 
+aliases: ["/2005/09/01/a-simplified-approach-to-enterprise-architecture"]
 
 ---
 [bliki]Enterprise Architecture[/bliki] is one of those [Humpty-Dumpty-like words][1] that conveniently mean whatever you want them to mean.

@@ -3,7 +3,8 @@ title: MoD approach to Benefits Realisation Management
 author: Julian
 type: post
 date: 2006-10-17T11:41:03+00:00
-url: /2006/10/17/mod-approach-to-benefits-realisation-management/
+slug: mod-approach-to-benefits-realisation-management 
+aliases: ["/2006/10/17/mod-approach-to-benefits-realisation-management"]
 aktt_notify_twitter:
   - no
 

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-12-06T12:49:41+00:00
 excerpt: IBM have released an interesting view of the Media in 2010 but it still assumes there is a role for "trusted brand" intermediaries.
-url: /2004/12/06/future-media/
+slug: future-media 
+aliases: ["/2004/12/06/future-media"]
 
 ---
 A colleague found an interesting document from IBM&#8217;s consulting practice &#8211; [Media and entertainment 2010][1], [PDF]. They identify the power of open media standards, the importance of companies offering different ways for consumers to interact with content and the need to &#8220;manage attention&#8221;.

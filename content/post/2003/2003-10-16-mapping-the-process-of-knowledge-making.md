@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-10-16T13:19:36+00:00
 excerpt: "Developing Spike Hall's model of an online tool for collaborative production of knowledge."
-url: /2003/10/16/mapping-the-process-of-knowledge-making/
+slug: mapping-the-process-of-knowledge-making 
+aliases: ["/2003/10/16/mapping-the-process-of-knowledge-making"]
 
 ---
 A couple of weeks ago [Spike Hall][1] wrote about [Mapping Knowledge-Making Efforts][2] &#8211; inspired by [Liz Lawley][3]&#8216;s [criticism][4] of the <q>short attention span of the blogosphere</q> he proposed a web-based tool to co-ordinate longer term collective knowledge making efforts.

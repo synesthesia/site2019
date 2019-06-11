@@ -3,7 +3,8 @@ title: Tools updates
 author: Julian
 type: post
 date: 2017-01-30T14:48:07+00:00
-url: /2017/01/30/tools-updates/
+slug: tools-updates 
+aliases: ["/2017/01/30/tools-updates"]
 
 ---
 I realised that I wasn&#8217;t going to have the time to both write my own theme that I liked and update the site content, and the ugliness of the part-built theme was putting me off using the site &#8211; so I&#8217;ve grabbed the new [Twenty Seventeen][1] theme, and will run with that&#8230;

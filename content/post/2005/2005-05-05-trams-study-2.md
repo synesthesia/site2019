@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2005-05-05T22:29:23+00:00
 excerpt: More prework for the Developing Deliverable Strategies course.
-url: /2005/05/05/trams-study-2/
+slug: trams-study-2 
+aliases: ["/2005/05/05/trams-study-2"]
 ttaglist:
   - Business, Strategy
 

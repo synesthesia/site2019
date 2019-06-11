@@ -3,7 +3,8 @@ title: Another blog
 author: Julian
 type: post
 date: 2006-05-17T05:56:02+00:00
-url: /2006/05/17/another-blog/
+slug: another-blog 
+aliases: ["/2006/05/17/another-blog"]
 
 ---
 One of the reasons I&#8217;ve been quiet in this blog has been that I have started another [blog][1] specifically focused on [Managing Successful Programmes][1].

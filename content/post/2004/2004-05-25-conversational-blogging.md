@@ -3,7 +3,8 @@ title: Conversational Blogging
 author: Julian
 type: post
 date: 2004-05-25T21:22:16+00:00
-url: /2004/05/25/conversational-blogging/
+slug: conversational-blogging 
+aliases: ["/2004/05/25/conversational-blogging"]
 
 ---
 [Conversational Blogging][1] Dina Mehta writes her blog as if it was spoken and contrasts Ming&#8217;s [similar view][2] with [Dave Pollard][3].

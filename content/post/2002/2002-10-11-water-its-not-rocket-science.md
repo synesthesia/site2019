@@ -3,7 +3,8 @@ title: Water – it’s not rocket science!
 author: Julian
 type: post
 date: 2002-10-11T12:30:51+00:00
-url: /2002/10/11/water-its-not-rocket-science/
+slug: water-its-not-rocket-science 
+aliases: ["/2002/10/11/water-its-not-rocket-science"]
 
 ---
 [Too thirsty for knowledge][1] &#8211; _Can you imagine spending every day at work with a hangover? That is the nearest adults will come to the feelings of dehydration experienced by children who have little access to water during the school day. So says a campaigner who argues that learning is being damaged by a simple lack of water in classrooms&#8230;._

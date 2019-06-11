@@ -3,7 +3,8 @@ title: Organisational Storytelling
 author: Julian
 type: post
 date: 2002-04-19T13:27:27+00:00
-url: /2002/04/19/organisational-storytelling/
+slug: organisational-storytelling 
+aliases: ["/2002/04/19/organisational-storytelling"]
 
 ---
 Interesting new book on the horizon (only in draft at present) &#8211; The Narrative Angle &#8211; The Seven Most Valuable Forms of Organizational Storytelling. [Preview][1]. The author, <a href="https://www.stevedenning.com/" target="_blank">Steve Denning</a> is former director of knowledge management at the world bank.

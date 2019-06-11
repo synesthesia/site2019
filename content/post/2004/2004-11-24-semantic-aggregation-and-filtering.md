@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-11-24T22:25:00+00:00
 excerpt: Building on some ideas from Dale Pike about the usefulness of semantic focus when looking at both technology and micro-content I propose some specific additions to our knowledge-management tools.
-url: /2004/11/24/semantic-aggregation-and-filtering/
+slug: semantic-aggregation-and-filtering 
+aliases: ["/2004/11/24/semantic-aggregation-and-filtering"]
 
 ---
 [Dale Pike][1] has some interesting things to say about [semantic focus][2] as an organising principle for understanding technology – in particular for explaining how a specific aspect of some arbitrary technology helps with specific tasks. The down side of this, he observes, is that tools tend to become pigeon-holed by the application that is first used to explain them – seeing the tool in a different context might enable new uses but for many people there is a cognitive barrier set by the first mental model they have created.

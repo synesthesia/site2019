@@ -3,7 +3,8 @@ title: Kanban team weekly Review and Retrospective
 author: Julian
 type: post
 date: 2011-06-23T07:10:06+00:00
-url: /2011/06/23/kanban-team-weekly-review-and-retrospective/
+slug: kanban-team-weekly-review-and-retrospective 
+aliases: ["/2011/06/23/kanban-team-weekly-review-and-retrospective"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

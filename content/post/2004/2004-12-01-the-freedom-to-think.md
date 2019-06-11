@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-12-01T11:19:20+00:00
 excerpt: On the value of blogging new-to-me ideas even if others have had them before
-url: /2004/12/01/the-freedom-to-think/
+slug: the-freedom-to-think 
+aliases: ["/2004/12/01/the-freedom-to-think"]
 
 ---
 When I wrote [this article][1] I started from a belief that by combining [Denham&#8217;s thoughts][2] with my [earlier post][3] I had seen a new aspect of the possibilities for knowledge aggregation and filtering.

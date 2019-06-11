@@ -3,7 +3,8 @@ title: UK ISPs stand up to Home Office plans
 author: Julian
 type: post
 date: 2002-10-22T10:55:34+00:00
-url: /2002/10/22/uk-isps-stand-up-to-home-office-plans/
+slug: uk-isps-stand-up-to-home-office-plans 
+aliases: ["/2002/10/22/uk-isps-stand-up-to-home-office-plans"]
 
 ---
 The Guardian [reports][1] that the Internet Service Providers Association has written to David Blunkett:

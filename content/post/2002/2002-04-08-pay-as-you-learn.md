@@ -3,7 +3,8 @@ title: Pay As You Learn
 author: Julian
 type: post
 date: 2002-04-08T12:05:00+00:00
-url: /2002/04/08/pay-as-you-learn/
+slug: pay-as-you-learn 
+aliases: ["/2002/04/08/pay-as-you-learn"]
 
 ---
 > _It&#8217;s the unspoken rule of state education: if you want your kids to do well, you&#8217;ve got to pay for private tutors. Which is fine for the well-off middle class, but what about those who can&#8217;t afford to?_

@@ -3,7 +3,8 @@ title: Change of Licence for This Blog
 author: Julian
 type: post
 date: 2005-06-28T22:54:00+00:00
-url: /2005/06/28/change-of-licence-for-this-blog/
+slug: change-of-licence-for-this-blog 
+aliases: ["/2005/06/28/change-of-licence-for-this-blog"]
 
 ---
 I&#8217;ve changed the licencing for the material in this blog to pick up the recently-released UK version of the Creative Commons licence.

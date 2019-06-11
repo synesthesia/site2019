@@ -3,7 +3,8 @@ title: Who to trust when we all bowl alone?
 author: Julian
 type: post
 date: 2002-04-15T15:51:56+00:00
-url: /2002/04/15/who-to-trust-when-we-all-bowl-alone/
+slug: who-to-trust-when-we-all-bowl-alone 
+aliases: ["/2002/04/15/who-to-trust-when-we-all-bowl-alone"]
 
 ---
 <a href="https://radio.weblogs.com/0100887/2002/04/05.html#a173" target="_blank">Jon Udell</a> picks up on Robert Putnam&#8217;s &#8220;<a href="https://www.bowlingalone.com/" target="_blank">Bowling Alone</a>&#8220;

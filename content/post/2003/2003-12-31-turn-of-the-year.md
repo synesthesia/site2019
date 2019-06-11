@@ -3,7 +3,8 @@ title: Turn of the year
 author: Julian
 type: post
 date: 2003-12-31T12:37:00+00:00
-url: /2003/12/31/turn-of-the-year/
+slug: turn-of-the-year 
+aliases: ["/2003/12/31/turn-of-the-year"]
 aktt_notify_twitter:
   - no
 

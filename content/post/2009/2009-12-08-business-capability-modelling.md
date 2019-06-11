@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-12-08T09:06:24+00:00
 excerpt: 'Summarising a couple of articles on Business Capability Modelling in Architecture & Governance Magazine'
-url: /2009/12/08/business-capability-modelling/
+slug: business-capability-modelling 
+aliases: ["/2009/12/08/business-capability-modelling"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

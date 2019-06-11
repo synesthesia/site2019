@@ -3,7 +3,8 @@ title: A synchronicity of KM?
 author: Julian
 type: post
 date: 2005-09-20T18:30:09+00:00
-url: /2005/09/20/a-synchronicity-of-km/
+slug: a-synchronicity-of-km 
+aliases: ["/2005/09/20/a-synchronicity-of-km"]
 
 ---
 [Dave Pollard][1] has written about [the psychology of information, or why we don&#8217;t share stuff][2], the organisational and human factors that impede knowledge-sharing:

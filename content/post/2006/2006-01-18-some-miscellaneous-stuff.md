@@ -3,7 +3,8 @@ title: Some miscellaneous stuff
 author: Julian
 type: post
 date: 2006-01-18T21:29:26+00:00
-url: /2006/01/18/some-miscellaneous-stuff/
+slug: some-miscellaneous-stuff 
+aliases: ["/2006/01/18/some-miscellaneous-stuff"]
 
 ---
 This place has been looking rather dormant &#8211; and I realised that I was sinking into a negative loop &#8211; the longer I didn&#8217;t write here, the harder it seemed to start. So consider this a metaphorical &#8220;get in there and _do_ something&#8221;&#8230;

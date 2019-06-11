@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-11-16T09:32:55+00:00
 excerpt: Louise Ross from the Chartered Institute of Management Accountants has created a blog post and paper to guide CIMA members on constructing business cases for Enterprise 2.0 efforts
-url: /2009/11/16/the-roi-of-enterprise-2-0-an-accountants-view/
+slug: the-roi-of-enterprise-2-0-an-accountants-view 
+aliases: ["/2009/11/16/the-roi-of-enterprise-2-0-an-accountants-view"]
 aktt_notify_twitter:
   - no
 

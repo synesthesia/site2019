@@ -3,7 +3,8 @@ title: NLP Anchors
 author: Julian
 type: post
 date: 2002-04-11T15:20:23+00:00
-url: /2002/04/11/nlp-anchors/
+slug: nlp-anchors 
+aliases: ["/2002/04/11/nlp-anchors"]
 
 ---
 In [wiring my mind][1] Swerdloff gives a great description of a practical application of the NLP Anchoring technique to associate a particular song with the moment of perfect beauty as he kisses his girl&#8230;

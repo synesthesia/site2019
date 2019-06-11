@@ -3,7 +3,8 @@ title: Iceberg – building the first application
 author: Julian
 type: post
 date: 2008-09-24T10:52:33+00:00
-url: /2008/09/24/iceberg-building-the-first-application/
+slug: iceberg-building-the-first-application 
+aliases: ["/2008/09/24/iceberg-building-the-first-application"]
 
 ---
 I’m [trying out Iceberg][1], the workflow automation platform.

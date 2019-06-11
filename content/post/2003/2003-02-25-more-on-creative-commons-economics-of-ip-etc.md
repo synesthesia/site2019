@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-02-25T10:32:11+00:00
 excerpt: 'Links to two threads - one about Creative Commons, the other about the effect of intellectual property on innovation'
-url: /2003/02/25/more-on-creative-commons-economics-of-ip-etc/
+slug: more-on-creative-commons-economics-of-ip-etc 
+aliases: ["/2003/02/25/more-on-creative-commons-economics-of-ip-etc"]
 
 ---
 Notes to self to read and digest later&#8230;

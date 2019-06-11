@@ -3,7 +3,8 @@ title: Programme Value Chain
 author: Julian
 type: post
 date: 2007-09-25T14:24:47+00:00
-url: /2007/09/25/programme-value-chain/
+slug: programme-value-chain 
+aliases: ["/2007/09/25/programme-value-chain"]
 aktt_notify_twitter:
   - no
 

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-03-08T17:03:38+00:00
 excerpt: Spike Hall adds Instant Messaging to his structured process for knowledge workers...
-url: /2004/03/08/instant-messages-in-knowledge-making/
+slug: instant-messages-in-knowledge-making 
+aliases: ["/2004/03/08/instant-messages-in-knowledge-making"]
 
 ---
 [Instant Messages in Knowledge-Making][1] Spike Hall adds Instant Messaging to his structured process for knowledge workers&#8230;

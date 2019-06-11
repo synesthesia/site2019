@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-12-31T23:59:59+00:00
 excerpt: A Happy New Year to all my readers!
-url: /2009/12/31/turn-of-the-year-revisited/
+slug: turn-of-the-year-revisited 
+aliases: ["/2009/12/31/turn-of-the-year-revisited"]
 aktt_notify_twitter:
   - no
 

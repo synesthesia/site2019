@@ -3,7 +3,8 @@ title: Pattern Languages and Business Strategy
 author: Julian
 type: post
 date: 2005-06-28T22:10:21+00:00
-url: /2005/06/28/pattern-languages-and-business-strategy/
+slug: pattern-languages-and-business-strategy 
+aliases: ["/2005/06/28/pattern-languages-and-business-strategy"]
 ttaglist:
   - strategy, business, patterns, pattern_language
 

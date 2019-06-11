@@ -3,7 +3,8 @@ title: The Stakeholder Power/Impact Matrix In Practice
 author: Julian
 type: post
 date: 2006-05-09T08:24:58+00:00
-url: /2006/05/09/the-stakeholder-powerimpact-matrix-in-practice/
+slug: the-stakeholder-powerimpact-matrix-in-practice 
+aliases: ["/2006/05/09/the-stakeholder-powerimpact-matrix-in-practice"]
 aktt_notify_twitter:
   - no
 

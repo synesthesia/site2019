@@ -3,7 +3,8 @@ title: Email – what’s wrong with it?
 author: Julian
 type: post
 date: 2015-02-06T12:37:00+00:00
-url: /2015/02/06/email-whats-wrong-with-it/
+slug: email-whats-wrong-with-it 
+aliases: ["/2015/02/06/email-whats-wrong-with-it"]
 
 ---
 Many have written on the issues that email causes, here are some highlights:

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-06-13T21:26:03+00:00
 excerpt: Observations by Denny Coates about seperateness remind me of an image from my past and the things it has changed into.
-url: /2004/06/13/boy-outside-the-classroom/
+slug: boy-outside-the-classroom 
+aliases: ["/2004/06/13/boy-outside-the-classroom"]
 
 ---
 In &#8220;An Evening of Blues and Separateness&#8221;:https://bookoflife.blogs.com/welcome/2004/06/blues\_and\_separ.html Denny Coates writes about his observations at a social event:

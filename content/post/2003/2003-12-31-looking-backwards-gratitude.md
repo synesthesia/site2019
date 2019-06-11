@@ -3,7 +3,8 @@ title: 'Looking backwards: Gratitude'
 author: Julian
 type: post
 date: 2003-12-31T12:30:00+00:00
-url: /2003/12/31/looking-backwards-gratitude/
+slug: looking-backwards-gratitude 
+aliases: ["/2003/12/31/looking-backwards-gratitude"]
 
 ---
 [Elizabeth Lane Lawley][1] [points][2] to an AP [article][3] that refers to this [project][4] on the psychological and health benefits of expressing gratitude for the good things in your life. 

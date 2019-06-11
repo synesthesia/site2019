@@ -7,7 +7,8 @@ excerpt: |
   The day had to come of course, when the huge interconnectedness of the web comes back to a place that is a hundred miles away in the physical world, but right inside me as far as my emotions are concerned...
   
   That's right, my children have discovered this site!
-url: /2003/12/21/oh-no-my-children-have-discovered-this-site/
+slug: oh-no-my-children-have-discovered-this-site 
+aliases: ["/2003/12/21/oh-no-my-children-have-discovered-this-site"]
 
 ---
 The day had to come of course, when the huge interconnectedness of the web comes back to a place that is some way away in the physical world, but right inside me as far as my emotions are concerned&#8230;

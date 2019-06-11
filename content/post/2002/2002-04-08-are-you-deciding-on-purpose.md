@@ -3,7 +3,8 @@ title: Are You Deciding On Purpose
 author: Julian
 type: post
 date: 2002-04-08T01:14:38+00:00
-url: /2002/04/08/are-you-deciding-on-purpose/
+slug: are-you-deciding-on-purpose 
+aliases: ["/2002/04/08/are-you-deciding-on-purpose"]
 
 ---
 Old (1998) but good [article][1] interviewing Richard Leider about living life on purpose. Leider&#8217;s guidelines:

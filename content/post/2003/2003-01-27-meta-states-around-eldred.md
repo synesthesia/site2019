@@ -3,7 +3,8 @@ title: Meta States around Eldred
 author: Julian
 type: post
 date: 2003-01-27T10:59:30+00:00
-url: /2003/01/27/meta-states-around-eldred/
+slug: meta-states-around-eldred 
+aliases: ["/2003/01/27/meta-states-around-eldred"]
 
 ---
 Over at the [American Open Technology Consortium][1] [Doc Searls][2] is [going deep][3] about the _metaphorical_ aspects of the [Eldred][4] case:

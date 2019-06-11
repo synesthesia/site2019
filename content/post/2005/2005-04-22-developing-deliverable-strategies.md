@@ -3,7 +3,8 @@ title: Developing Deliverable Strategies
 author: Julian
 type: post
 date: 2005-04-22T15:48:02+00:00
-url: /2005/04/22/developing-deliverable-strategies/
+slug: developing-deliverable-strategies 
+aliases: ["/2005/04/22/developing-deliverable-strategies"]
 ttaglist:
   - Learning, Strategy
 

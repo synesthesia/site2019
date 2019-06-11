@@ -7,7 +7,8 @@ excerpt: |
   A <a href="https://static2.podcatch.com/blogs/gems/snedit/cn05Jul02.mp3">podcast</a> and related <a href="https://archive.scripting.com/2005/07/02">blog post</a> from <a href="https://archive.scripting.com/">Dave Winer</a>  [via <a href="https://doc.weblogs.com/2005/07/03#whyDrmIsEbwuPartN">Doc Searls</a>] makes some important points about the true impact of <abbr title="Digital Rights Management">DRM</abbr> on the media industry, and led me to start thinking about the strategic forces at play in the current "Internet will eat the Media" debate. 
   
   In this post I summarise his key points, and then build on them to produce a <a href="/blog/wiki/Value+Net">value net</a> analysis of the media industry from the perspective of the current incumbents. In later posts I will look at the analysis from the perspective of the people who create the content and devlop some thinking on the strategies open to both parties.
-url: /2005/07/12/the-impact-of-podcasting-on-paid-for-content/
+slug: the-impact-of-podcasting-on-paid-for-content 
+aliases: ["/2005/07/12/the-impact-of-podcasting-on-paid-for-content"]
 ttaglist:
   - DRM, copy_protection, podcasting, media, intellectual_property, IPR, strategy
 enclosure:

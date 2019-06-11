@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-06-12T15:59:24+00:00
 excerpt: Weblogs that have good stuff on Theory of Constraints
-url: /2003/06/12/blogs-on-constraints/
+slug: blogs-on-constraints 
+aliases: ["/2003/06/12/blogs-on-constraints"]
 
 ---
 Further to the [last article][1] here are a few blogs that make frequent reference to Theory of Constraints together with a few sample posts (some of which they wrote in parallel):

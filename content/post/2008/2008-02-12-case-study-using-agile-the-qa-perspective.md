@@ -3,7 +3,8 @@ title: 'Case Study: Using Agile: the QA perspective'
 author: Julian
 type: post
 date: 2008-02-12T17:12:07+00:00
-url: /2008/02/12/case-study-using-agile-the-qa-perspective/
+slug: case-study-using-agile-the-qa-perspective 
+aliases: ["/2008/02/12/case-study-using-agile-the-qa-perspective"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

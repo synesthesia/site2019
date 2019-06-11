@@ -3,7 +3,8 @@ title: Programme Procurement Strategy – 2
 author: Julian
 type: post
 date: 2007-10-01T15:37:51+00:00
-url: /2007/10/01/programme-procurement-strategy-2/
+slug: programme-procurement-strategy-2 
+aliases: ["/2007/10/01/programme-procurement-strategy-2"]
 aktt_notify_twitter:
   - no
 

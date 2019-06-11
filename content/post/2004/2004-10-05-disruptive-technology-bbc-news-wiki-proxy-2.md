@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-10-05T09:09:37+00:00
 excerpt: 'New media activist <a href="https://www.whitelabel.org/">Stef Magdalinski</a> has produced a great example of the way new technologies allow people to interact with broadcasters in different ways - <a href="https://www.whitelabel.org/wp/wikiproxy.php" title="the News Online Wiki proxy">the News Online wikiproxy</a>'
-url: /2004/10/05/disruptive-technology-bbc-news-wiki-proxy-2/
+slug: disruptive-technology-bbc-news-wiki-proxy-2 
+aliases: ["/2004/10/05/disruptive-technology-bbc-news-wiki-proxy-2"]
 
 ---
 New media activist [Stef Magdalinski][1] has produced a great example of the way new technologies allow people to interact with broadcasters in different ways &#8211; [the News Online wikiproxy][2]

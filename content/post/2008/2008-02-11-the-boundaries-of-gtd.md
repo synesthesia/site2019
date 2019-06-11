@@ -3,7 +3,8 @@ title: The boundaries of GTD
 author: Julian
 type: post
 date: 2008-02-11T12:34:27+00:00
-url: /2008/02/11/the-boundaries-of-gtd/
+slug: the-boundaries-of-gtd 
+aliases: ["/2008/02/11/the-boundaries-of-gtd"]
 
 ---
 [Ton Zijlstra][1] <font color="#0000ff"></font>has some provoking [thoughts][2] about the limitations of [GTD][3]-like systems :[Ton&#8217;s Interdependent Thoughts: Thoughts on GTD System Weaknesses][2]

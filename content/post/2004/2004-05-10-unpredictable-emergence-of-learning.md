@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-05-10T23:15:52+00:00
 excerpt: An interesting synchronicity of posts that relate to the learning that happens between areas of expertise.
-url: /2004/05/10/unpredictable-emergence-of-learning/
+slug: unpredictable-emergence-of-learning 
+aliases: ["/2004/05/10/unpredictable-emergence-of-learning"]
 
 ---
 Interesting synchronicity of posts that have caught my attention in the last 24 hours

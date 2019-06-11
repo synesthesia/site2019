@@ -3,7 +3,8 @@ title: The Lure of Slide Rules
 author: Julian
 type: post
 date: 2004-07-11T14:47:14+00:00
-url: /2004/07/11/the-lure-of-slide-rules/
+slug: the-lure-of-slide-rules 
+aliases: ["/2004/07/11/the-lure-of-slide-rules"]
 
 ---
 Over at &#8220;Davos Newbies&#8221;:https://www.davosnewbies.com/ Lance Knobel is writing about &#8220;the lure of the slide rule&#8221;:https://www.davosnewbies.com/2004/07/08#theLureOfTheSlideRule:

@@ -3,7 +3,8 @@ title: How simple is “simple enough”?
 author: Julian
 type: post
 date: 2008-07-11T14:04:07+00:00
-url: /2008/07/11/how-simple-is-simple-enough/
+slug: how-simple-is-simple-enough 
+aliases: ["/2008/07/11/how-simple-is-simple-enough"]
 
 ---
 Or **“Simplifying an ‘architecture framework’ for agile strategy”**

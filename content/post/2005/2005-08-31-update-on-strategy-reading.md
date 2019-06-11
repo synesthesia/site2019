@@ -3,7 +3,8 @@ title: Update on Strategy Reading
 author: Julian
 type: post
 date: 2005-08-31T15:58:52+00:00
-url: /2005/08/31/update-on-strategy-reading/
+slug: update-on-strategy-reading 
+aliases: ["/2005/08/31/update-on-strategy-reading"]
 
 ---
 Over the summer I&#8217;ve been spending more time reading than writing, but even then the reading has been going more slowly than I expected! Just finished [bliki]Thinking Strategically[/bliki] and started to wrap my thoughts around [bliki]Strategy Maps[/bliki].

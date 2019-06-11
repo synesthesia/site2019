@@ -3,7 +3,8 @@ title: More about conversations and processes
 author: Julian
 type: post
 date: 2006-03-22T21:56:29+00:00
-url: /2006/03/22/more-about-conversations-and-processes/
+slug: more-about-conversations-and-processes 
+aliases: ["/2006/03/22/more-about-conversations-and-processes"]
 
 ---
 I&#8217;ve a hunch that the&nbsp;conceptual models discussed in&nbsp; [Jeremy Aarons&#8217;][1] [new paper][2], (as I summarised [here][3]) could be a useful lever for unpicking the dilemma I found when I wrote that [I prefer conversation, but you need process][4]. 

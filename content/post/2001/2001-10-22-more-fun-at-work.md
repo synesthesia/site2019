@@ -3,7 +3,8 @@ title: More fun at work…
 author: Julian
 type: post
 date: 2001-10-22T11:51:01+00:00
-url: /2001/10/22/more-fun-at-work/
+slug: more-fun-at-work 
+aliases: ["/2001/10/22/more-fun-at-work"]
 
 ---
 In [&#8220;Fourteen Forms of Fun&#8221;][1] [Pierre-Alexandre Garneau][2] lists the broad categories of entertaining activities, in the context of better computer games design. [Co-Working News][3] suggest that these are also fundamental to the design of an effctive co-working experience too. They are:

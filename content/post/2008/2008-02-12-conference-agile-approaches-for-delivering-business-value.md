@@ -3,7 +3,8 @@ title: 'Conference: Agile Approaches for Delivering Business Value'
 author: Julian
 type: post
 date: 2008-02-12T09:39:04+00:00
-url: /2008/02/12/conference-agile-approaches-for-delivering-business-value/
+slug: conference-agile-approaches-for-delivering-business-value 
+aliases: ["/2008/02/12/conference-agile-approaches-for-delivering-business-value"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

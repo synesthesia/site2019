@@ -3,7 +3,8 @@ title: Back to basics
 author: Julian
 type: post
 date: 2014-01-06T09:29:45+00:00
-url: /2014/01/06/back-to-basics/
+slug: back-to-basics 
+aliases: ["/2014/01/06/back-to-basics"]
 
 ---
 A blog redesign, and a metaphor for 2014…

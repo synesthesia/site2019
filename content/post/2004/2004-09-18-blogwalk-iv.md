@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-09-18T09:30:36+00:00
 excerpt: 'Had a fantastic day at Blogwalk IV - more posts to follow over the next few days.'
-url: /2004/09/18/blogwalk-iv/
+slug: blogwalk-iv 
+aliases: ["/2004/09/18/blogwalk-iv"]
 
 ---
 Yesterday was [Blogwalk IV][1] &#8211; a very enjoyable and mind-stretching day talking with other bloggers on the theme of &#8220;How will the world of work change as a result of social software use inside the firewall&#8221;.

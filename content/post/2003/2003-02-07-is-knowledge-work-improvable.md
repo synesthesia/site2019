@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-02-07T13:13:39+00:00
 excerpt: Melding process and organic approaches to the improvement of knowledge-creating processes
-url: /2003/02/07/is-knowledge-work-improvable/
+slug: is-knowledge-work-improvable 
+aliases: ["/2003/02/07/is-knowledge-work-improvable"]
 
 ---
 [Jim McGee][1] is asking [Is Knowledge work improvable?][2]. He contrasts the <q cite="https://www.gurustrategic.com/pdf/Knowledge-Net.pdf">&#8220;organic&#8221;</q> approach of <q cite="https://www.gurustrategic.com/pdf/Knowledge-Net.pdf">&#8220;knowledge-enablers&#8221;</q> [espoused][3] by [Kim Sbarcea][4] and others with [Taylorism][5]. Sbarcea attacks the Taylorist, &#8220;command and control&#8221; approach to KM, but McGee rebuts with <q cite="https://www.mcgeesmusings.net/2003/02/06.html#a2955">&#8220;it is a mistake to confound the issue of what to call knowledge management with objections to Taylorism.&#8221;</q>

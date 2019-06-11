@@ -5,7 +5,8 @@ type: post
 date: 2004-10-28T21:05:39+00:00
 excerpt: |
   A conversation with a colleague who doesn't "get on" with wiki leads to an exploration of different mental models for structuring knowledge.
-url: /2004/10/28/why-wiki-doesnt-work-one-persons-experience/
+slug: why-wiki-doesnt-work-one-persons-experience 
+aliases: ["/2004/10/28/why-wiki-doesnt-work-one-persons-experience"]
 
 ---
 I&#8217;ve been introducing wikis into my workplace, especially for project teams &#8211; not in any forced way but more by making the technology available and starting to use it. Understandably the takeup is mixed but I was most surprised by the very strong aversion expressed by another senior technology manager with whom I have to produce complex joint strategy documents. Last week the opportunity came up to ask &#8220;why doesn&#8217;t wiki work for you?&#8221;; I was expecting answers that were about the difference between a web interface and a wordprocessor, or perhaps issues about the markup but what he told me had nothing to do with the technology and everything to do with mental models.

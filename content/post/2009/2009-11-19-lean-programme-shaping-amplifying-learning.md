@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-11-19T11:30:09+00:00
 excerpt: This is the fifth post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.
-url: /2009/11/19/lean-programme-shaping-amplifying-learning/
+slug: lean-programme-shaping-amplifying-learning 
+aliases: ["/2009/11/19/lean-programme-shaping-amplifying-learning"]
 isfeatured:
   - 1
 aktt_notify_twitter:

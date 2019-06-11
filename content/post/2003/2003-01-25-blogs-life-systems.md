@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-01-25T11:21:59+00:00
 excerpt: Blogs as a form of "time-binding"
-url: /2003/01/25/blogs-life-systems/
+slug: blogs-life-systems 
+aliases: ["/2003/01/25/blogs-life-systems"]
 
 ---
 Over at [The Obvious?][1] Euan is saying [It&#8217;s all just stuff really &#8230;.][2]

@@ -3,7 +3,8 @@ title: 'A new tool: Awasu'
 author: Julian
 type: post
 date: 2006-02-27T08:27:51+00:00
-url: /2006/02/27/a-new-tool-awasu/
+slug: a-new-tool-awasu 
+aliases: ["/2006/02/27/a-new-tool-awasu"]
 
 ---
 Via [Earl Mardle][1] I&#8217;ve found a new tool to add to my [personal knowledge management][2] toolkit: [Awasu][3]

@@ -3,7 +3,8 @@ title: ILAs shut down
 author: Julian
 type: post
 date: 2001-10-25T22:37:46+00:00
-url: /2001/10/25/ilas-shut-downthe-uk-government/
+slug: ilas-shut-downthe-uk-government 
+aliases: ["/2001/10/25/ilas-shut-downthe-uk-government"]
 
 ---
 The UK government has [shut down][1] the Individual Learning Account scheme because of widespread fraud. (source [The Register][2], referred by [Scottish lass seeks&#8230;][3])

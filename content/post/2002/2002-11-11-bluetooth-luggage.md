@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-11T20:55:41+00:00
 excerpt: Bluetooth-enabled luggage
-url: /2002/11/11/bluetooth-luggage/
+slug: bluetooth-luggage 
+aliases: ["/2002/11/11/bluetooth-luggage"]
 
 ---
 Samsonsite&#8217;s [Bluetooth-enabled luggage][1]

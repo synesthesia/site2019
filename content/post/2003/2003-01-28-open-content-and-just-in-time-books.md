@@ -3,7 +3,8 @@ title: Open Content and Just-in-Time Books
 author: Julian
 type: post
 date: 2003-01-28T12:05:51+00:00
-url: /2003/01/28/open-content-and-just-in-time-books/
+slug: open-content-and-just-in-time-books 
+aliases: ["/2003/01/28/open-content-and-just-in-time-books"]
 
 ---
 [Gary Lawrence Murphy][1] is writing about [Open Content on Prentice Hall][2] &#8211; the series that Prentice Hall are bringing out under the [Open Publication License][3]. 

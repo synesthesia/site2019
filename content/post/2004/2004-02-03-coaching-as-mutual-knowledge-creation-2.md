@@ -3,7 +3,8 @@ title: Coaching as Mutual Knowledge Creation – 2
 author: Julian
 type: post
 date: 2004-02-03T09:58:13+00:00
-url: /2004/02/03/coaching-as-mutual-knowledge-creation-2/
+slug: coaching-as-mutual-knowledge-creation-2 
+aliases: ["/2004/02/03/coaching-as-mutual-knowledge-creation-2"]
 
 ---
 Continuing to develop thoughts on <wiki>CoachingAsKnowledgeCreation</wiki>

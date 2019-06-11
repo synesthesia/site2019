@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-09T21:24:00+00:00
 excerpt: Update on site features and fixes
-url: /2002/11/09/more-site-tweaks/
+slug: more-site-tweaks 
+aliases: ["/2002/11/09/more-site-tweaks"]
 
 ---
 Added email link to entry footer

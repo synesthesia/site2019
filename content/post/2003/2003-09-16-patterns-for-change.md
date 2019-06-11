@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-09-16T10:54:50+00:00
 excerpt: Patterns for introducing ideas into organisations.
-url: /2003/09/16/patterns-for-change/
+slug: patterns-for-change 
+aliases: ["/2003/09/16/patterns-for-change"]
 
 ---
 [Lilia Efimova][1] [points][2] to [Introducing New Ideas Into Organisations][3], in particular the [collection of patterns][4] [PDF, 454 kB].

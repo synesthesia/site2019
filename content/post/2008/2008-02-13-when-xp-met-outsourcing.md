@@ -3,7 +3,8 @@ title: When XP Met Outsourcing
 author: Julian
 type: post
 date: 2008-02-13T15:33:47+00:00
-url: /2008/02/13/when-xp-met-outsourcing/
+slug: when-xp-met-outsourcing 
+aliases: ["/2008/02/13/when-xp-met-outsourcing"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

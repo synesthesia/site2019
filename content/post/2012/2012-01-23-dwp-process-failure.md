@@ -3,7 +3,8 @@ title: DWP Process Failure
 author: Julian
 type: post
 date: 2012-01-23T13:47:56+00:00
-url: /2012/01/23/dwp-process-failure/
+slug: dwp-process-failure 
+aliases: ["/2012/01/23/dwp-process-failure"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-12T10:41:03+00:00
 excerpt: "learn how to do it manually first, then use the wizzy tool to save time"
-url: /2002/11/12/the-law-of-leaky-abstractions/
+slug: the-law-of-leaky-abstractions 
+aliases: ["/2002/11/12/the-law-of-leaky-abstractions"]
 
 ---
 [Joel On Software][1]&nbsp;&nbsp; [says][2]

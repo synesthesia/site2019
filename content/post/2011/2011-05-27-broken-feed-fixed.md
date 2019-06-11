@@ -3,7 +3,8 @@ title: Broken feed fixed
 author: Julian
 type: post
 date: 2011-05-27T10:30:06+00:00
-url: /2011/05/27/broken-feed-fixed/
+slug: broken-feed-fixed 
+aliases: ["/2011/05/27/broken-feed-fixed"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

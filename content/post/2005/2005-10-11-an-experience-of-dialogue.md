@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2005-10-11T20:43:12+00:00
 excerpt: 'I describe an experimental evening of Bohmian Dialogue, co-hosted by <a href="https://www.johnniemoore.com/blog">Johnnie Moore</a>, Alok Singh and Mark Hodge.'
-url: /2005/10/11/an-experience-of-dialogue/
+slug: an-experience-of-dialogue 
+aliases: ["/2005/10/11/an-experience-of-dialogue"]
 ttaglist:
   - dialogue, David+Bohm, group facilitation, action+learning, trance, action+research, collective+intelligence
 

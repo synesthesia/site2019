@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-11-07T18:52:19+00:00
 excerpt: Discussion of report from UK charity Parentline Plus on the issues facing fathers.
-url: /2004/11/07/listening-to-fathers/
+slug: listening-to-fathers 
+aliases: ["/2004/11/07/listening-to-fathers"]
 
 ---
 Fathers have been [in][1] [the][2] [news][3] a lot recently, not always to good effect. 

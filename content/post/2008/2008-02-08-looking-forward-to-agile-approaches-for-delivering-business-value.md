@@ -3,7 +3,8 @@ title: Looking forward to Agile Approaches for Delivering Business Value
 author: Julian
 type: post
 date: 2008-02-08T11:47:33+00:00
-url: /2008/02/08/looking-forward-to-agile-approaches-for-delivering-business-value/
+slug: looking-forward-to-agile-approaches-for-delivering-business-value 
+aliases: ["/2008/02/08/looking-forward-to-agile-approaches-for-delivering-business-value"]
 
 ---
 I’m planning to attend [Agile Approaches for Delivering Business Value][1] next week.

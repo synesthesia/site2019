@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-02-09T13:41:11+00:00
 excerpt: Flemming and I have both been thinking about patterns.
-url: /2004/02/09/pattern-synchronicity/
+slug: pattern-synchronicity 
+aliases: ["/2004/02/09/pattern-synchronicity"]
 
 ---
 Flemming is &#8220;looking for patterns of collaboration&#8221;:https://tinyurl.com/25ecz &#8211; so I pointed him to &#8220;Blue Oxen&#8217;s&#8221;:https://www.blueoxen.org/ &#8220;CollabWiki(CollaborationCollaboratory) &#8220;:https://collab.blueoxen.net/cgi-bin/wiki.pl?HomePage 

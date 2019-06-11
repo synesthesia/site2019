@@ -5,7 +5,8 @@ type: post
 date: 2003-11-22T20:29:56+00:00
 excerpt: |
   Martin Seligman's positive psychology - "Authentic Happiness"
-url: /2003/11/22/positive-psychology/
+slug: positive-psychology 
+aliases: ["/2003/11/22/positive-psychology"]
 
 ---
 [How To Be Happy][1] in the [Guardian][2] on Thursday tells the story of the &#8220;[positive psychologists][3]&#8221; who have been meeting at the [Royal Society][4] to [discuss][5] &#8220;the science of well-being&#8221;.

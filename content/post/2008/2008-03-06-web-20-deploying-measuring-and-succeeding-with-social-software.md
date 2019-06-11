@@ -3,7 +3,8 @@ title: 'Web 2.0: Deploying, measuring and succeeding with Social Software'
 author: Julian
 type: post
 date: 2008-03-06T14:44:50+00:00
-url: /2008/03/06/web-20-deploying-measuring-and-succeeding-with-social-software/
+slug: web-20-deploying-measuring-and-succeeding-with-social-software 
+aliases: ["/2008/03/06/web-20-deploying-measuring-and-succeeding-with-social-software"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

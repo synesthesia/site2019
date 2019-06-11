@@ -3,7 +3,8 @@ title: Happy (belated) Tenth Birthday
 author: Julian
 type: post
 date: 2011-10-11T07:00:28+00:00
-url: /2011/10/11/happy-tenth-birthday/
+slug: happy-tenth-birthday 
+aliases: ["/2011/10/11/happy-tenth-birthday"]
 aktt_notify_twitter:
   - no
 

@@ -3,7 +3,8 @@ title: Tags everywhere
 author: Julian
 type: post
 date: 2006-03-24T17:47:08+00:00
-url: /2006/03/24/tags-everywhere/
+slug: tags-everywhere 
+aliases: ["/2006/03/24/tags-everywhere"]
 
 ---
 Two updates to the site as alternative ways of navigating the information:

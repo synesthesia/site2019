@@ -3,7 +3,8 @@ title: Testing Wiki interface
 author: Julian
 type: post
 date: 2003-01-30T18:01:43+00:00
-url: /2003/01/30/testing-wiki-interface/
+slug: testing-wiki-interface 
+aliases: ["/2003/01/30/testing-wiki-interface"]
 
 ---
 I&#8217;m playing with Les Orchard&#8217;s [MT <-> Twiki interfaces][1].

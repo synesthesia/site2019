@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2015-02-23T09:05:21+00:00
 excerpt: What is Social Bookmarking, and why would I use it? A "Narrate Your Work" post.
-url: /2015/02/23/social-bookmarking/
+slug: social-bookmarking 
+aliases: ["/2015/02/23/social-bookmarking"]
 
 ---
 Going back to basics, but on the principle of [narrating my work][1], here&#8217;s a short post I published today inside the firewall…

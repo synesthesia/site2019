@@ -3,7 +3,8 @@ title: Fun and science combined
 author: Julian
 type: post
 date: 2001-10-16T22:41:49+00:00
-url: /2001/10/16/fun-and-science-combined/
+slug: fun-and-science-combined 
+aliases: ["/2001/10/16/fun-and-science-combined"]
 
 ---
 [HowGoodInBed.com:][1] is a web front end to a neural network. Every piece of data you add trains the network a little bit more.

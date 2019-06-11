@@ -7,7 +7,8 @@ excerpt: |
   Upgraded the ['Wiki':/tiki/] to ['TikiWiki 1.8':https://tikiwiki.org]
   
   Few hairy moments when I thought I'd lost all the pages, but a little hackery of the SQL dump I'd made before hand meant I was able to restore the data. If you see something that looks broken please let me know
-url: /2004/02/10/wiki-upgrade-and-other-changes/
+slug: wiki-upgrade-and-other-changes 
+aliases: ["/2004/02/10/wiki-upgrade-and-other-changes"]
 
 ---
 Upgraded the &#8220;Wiki&#8221;:/tiki/ to &#8220;TikiWiki 1.8&#8221;:https://tikiwiki.org

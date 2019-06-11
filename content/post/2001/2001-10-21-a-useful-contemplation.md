@@ -3,7 +3,8 @@ title: A Useful Contemplation?
 author: Julian
 type: post
 date: 2001-10-21T21:40:32+00:00
-url: /2001/10/21/a-useful-contemplation/
+slug: a-useful-contemplation 
+aliases: ["/2001/10/21/a-useful-contemplation"]
 
 ---
 In his [October Winsights column][1] Win Wenger encourages us to think of ourselves 

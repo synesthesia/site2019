@@ -3,7 +3,8 @@ title: Some useful web/RSS related sites
 author: Julian
 type: post
 date: 2002-04-19T13:15:09+00:00
-url: /2002/04/19/some-useful-webrss-related-sites/
+slug: some-useful-webrss-related-sites 
+aliases: ["/2002/04/19/some-useful-webrss-related-sites"]
 
 ---
 <a href="https://asprss.com/default.asp" target="_blank">Share website content with ASPRSS</a>

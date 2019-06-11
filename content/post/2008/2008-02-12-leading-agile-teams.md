@@ -3,7 +3,8 @@ title: Leading Agile Teams
 author: Julian
 type: post
 date: 2008-02-12T14:26:34+00:00
-url: /2008/02/12/leading-agile-teams/
+slug: leading-agile-teams 
+aliases: ["/2008/02/12/leading-agile-teams"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

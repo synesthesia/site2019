@@ -3,7 +3,8 @@ title: 'Web 2.0: Who’s Afraid of Identity?'
 author: Julian
 type: post
 date: 2008-03-06T14:01:22+00:00
-url: /2008/03/06/web-20-whos-afraid-of-identity/
+slug: web-20-whos-afraid-of-identity 
+aliases: ["/2008/03/06/web-20-whos-afraid-of-identity"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

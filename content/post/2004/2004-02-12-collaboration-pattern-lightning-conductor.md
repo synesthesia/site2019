@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-02-12T13:04:54+00:00
 excerpt: "First draft collaboration pattern extracted from Sam Ruby's experience with the !Echo wiki"
-url: /2004/02/12/collaboration-pattern-lightning-conductor/
+slug: collaboration-pattern-lightning-conductor 
+aliases: ["/2004/02/12/collaboration-pattern-lightning-conductor"]
 
 ---
 When I &#8220;blogged&#8221;:https://www.synesthesia.co.uk/blog/archives/collaboration/000348.php &#8220;Sam Ruby&#8217;s&#8221;:https://www.intertwingly.net &#8220;slides&#8221;:https://intertwingly.net/slides/2004/etcon/ from his &#8220;presentation&#8221;:https://conferences.oreillynet.com/cs/et2004/view/e_sess/4613 at &#8220;ETCon&#8221;:https://conferences.oreillynet.com/etech/ on lessons learned from running the &#8220;!Echo wiki&#8221;:https://www.intertwingly.net/wiki/pie/FrontPage I noted that I thought he had hit on the basics of several collaboration patterns.

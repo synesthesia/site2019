@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-01-11T19:25:13+00:00
 excerpt: I keep one of my New Year resolutions about getting out walking and not for the first time wonder about the physics of mud...
-url: /2004/01/11/saturday-walk-otford/
+slug: saturday-walk-otford 
+aliases: ["/2004/01/11/saturday-walk-otford"]
 
 ---
 In the period before Christmas I&#8217;d already decided that the New Year would be a great excuse to dig out my walking boots and start getting some more fresh air &#8211; seeing [these][1] [three][2] [posts][3] from Euan just spurred things on a little&#8230;

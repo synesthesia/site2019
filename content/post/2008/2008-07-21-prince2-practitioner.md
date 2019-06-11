@@ -3,7 +3,8 @@ title: PRINCE2 Practitioner
 author: Julian
 type: post
 date: 2008-07-21T15:24:02+00:00
-url: /2008/07/21/prince2-practitioner/
+slug: prince2-practitioner 
+aliases: ["/2008/07/21/prince2-practitioner"]
 
 ---
 I&#8217;ve just heard that I have passed my PRINCE2 Practitioner qualification, thanks to the excellent help of [Pearce Mayfield][1].

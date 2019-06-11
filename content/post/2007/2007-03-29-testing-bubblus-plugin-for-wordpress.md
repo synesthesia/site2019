@@ -3,7 +3,8 @@ title: Testing bubbl.us plugin for WordPress
 author: Julian
 type: post
 date: 2007-03-29T22:25:14+00:00
-url: /2007/03/29/testing-bubblus-plugin-for-wordpress/
+slug: testing-bubblus-plugin-for-wordpress 
+aliases: ["/2007/03/29/testing-bubblus-plugin-for-wordpress"]
 
 ---
 See [this post][1]

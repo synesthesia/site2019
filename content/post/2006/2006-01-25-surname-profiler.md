@@ -3,7 +3,8 @@ title: Surname Profiler
 author: Julian
 type: post
 date: 2006-01-25T22:57:33+00:00
-url: /2006/01/25/surname-profiler/
+slug: surname-profiler 
+aliases: ["/2006/01/25/surname-profiler"]
 
 ---
 [This site][1] is an interesting adjunct to my [previous note][2] on geneaology &#8211; the [surname profiler][1] from UCL lets you compare the geographical distribution of a given surname in the UK between 1881 and 1998.

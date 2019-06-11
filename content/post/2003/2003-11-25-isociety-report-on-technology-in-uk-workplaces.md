@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-11-25T11:05:49+00:00
 excerpt: Recent iSociety report on the state of IT in UK industry.
-url: /2003/11/25/isociety-report-on-technology-in-uk-workplaces/
+slug: isociety-report-on-technology-in-uk-workplaces 
+aliases: ["/2003/11/25/isociety-report-on-technology-in-uk-workplaces"]
 
 ---
 [iSociety][1], part of [The Work Foundation][2] (previously known as The Industrial Society) have published [Getting by, not getting on: Technology in UK workplaces][3].

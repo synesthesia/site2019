@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-11-09T14:43:13+00:00
 excerpt: '<a href="/tiki/">Wiki</a> moved over to the <a href="https://www.twikiwiki.org/">TikiWiki</a> package.  Please update any links you may have to the old Wiki'
-url: /2003/11/09/wiki-change/
+slug: wiki-change 
+aliases: ["/2003/11/09/wiki-change"]
 
 ---
 I&#8217;ve been experimenting again&#8230; and have moved the [Wiki][1] over to the [TikiWiki][2] package. On the basis of a few days experimentation this package looks incredibly powerful.

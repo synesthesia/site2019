@@ -3,7 +3,8 @@ title: Developing Deliverable Strategies – Post Course Reading
 author: Julian
 type: post
 date: 2005-06-04T04:44:27+00:00
-url: /2005/06/04/developing-deliverable-strategies-post-course-reading/
+slug: developing-deliverable-strategies-post-course-reading 
+aliases: ["/2005/06/04/developing-deliverable-strategies-post-course-reading"]
 
 ---
 In the [strategy course][1] we touched on (in varying levels of detail) the three main views of company strategy &#8211; since the course finished I&#8217;ve been adding reading on all three to my &#8220;incoming&#8221; bookshelf:

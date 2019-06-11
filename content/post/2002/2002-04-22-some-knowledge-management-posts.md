@@ -3,7 +3,8 @@ title: Some Knowledge Management posts
 author: Julian
 type: post
 date: 2002-04-22T23:05:14+00:00
-url: /2002/04/22/some-knowledge-management-posts/
+slug: some-knowledge-management-posts 
+aliases: ["/2002/04/22/some-knowledge-management-posts"]
 
 ---
 [All via <a href="https://svore.home.mindspring.com/categories/km/"  target="_blank">Steven Vore</a>]

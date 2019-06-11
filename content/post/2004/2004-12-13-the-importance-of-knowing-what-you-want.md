@@ -3,7 +3,8 @@ title: The importance of knowing what you want
 author: Julian
 type: post
 date: 2004-12-13T22:30:33+00:00
-url: /2004/12/13/the-importance-of-knowing-what-you-want/
+slug: the-importance-of-knowing-what-you-want 
+aliases: ["/2004/12/13/the-importance-of-knowing-what-you-want"]
 
 ---
 [Joe Ely][1] writes about Lean Manufacturing Systems. One of the core tenets of Lean is to gather frequent feedback about the difference between what you planned to do and what you actually did, reflect on the difference and do something about it. The key thing is doing something about it. Today he tells [a story][2] about the importance of knowing what is wanted before you can take action.

@@ -3,7 +3,8 @@ title: Writer’s block?
 author: Julian
 type: post
 date: 2002-05-26T21:34:16+00:00
-url: /2002/05/26/writers-block/
+slug: writers-block 
+aliases: ["/2002/05/26/writers-block"]
 
 ---
 I think I may need to turn to <a href="https://www.garyturner.net/2002_05_01_archive.html#85103444" target="_blank">Gary Turner&#8217;s Insure-a-blog</a> service&#8230;_</p> 

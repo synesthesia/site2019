@@ -3,7 +3,8 @@ title: The Fifth Discipline Fieldbook
 author: Julian
 type: post
 date: 2002-04-12T14:21:37+00:00
-url: /2002/04/12/the-fifth-discipline-fieldbook/
+slug: the-fifth-discipline-fieldbook 
+aliases: ["/2002/04/12/the-fifth-discipline-fieldbook"]
 
 ---
 <amazonlink asin="1857880609">The Fifth Discipline Fieldbook</amazonlink> by Peter Senge et. al.

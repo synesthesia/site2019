@@ -3,7 +3,8 @@ title: No more Sources page
 author: Julian
 type: post
 date: 2007-09-14T12:51:44+00:00
-url: /2007/09/14/no-more-sources-page/
+slug: no-more-sources-page 
+aliases: ["/2007/09/14/no-more-sources-page"]
 
 ---
 I’ve decided to retire the “Sources” page I put in place when I moved my blogroll off the front page.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-12-09T08:17:50+00:00
 excerpt: "I'm closing one of my old blogs, and will be re-directing content to a category on this blog."
-url: /2009/12/09/old-msp-blog-is-closing/
+slug: old-msp-blog-is-closing 
+aliases: ["/2009/12/09/old-msp-blog-is-closing"]
 aktt_notify_twitter:
   - no
 

@@ -3,7 +3,8 @@ title: Examples, Exemplars, Requirements, Tests
 author: Julian
 type: post
 date: 2008-02-13T10:23:40+00:00
-url: /2008/02/13/examples-exemplars-requirements-tests/
+slug: examples-exemplars-requirements-tests 
+aliases: ["/2008/02/13/examples-exemplars-requirements-tests"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

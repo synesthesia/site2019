@@ -3,7 +3,8 @@ title: Delivering successful IT-enabled business change
 author: Julian
 type: post
 date: 2008-05-20T10:15:54+00:00
-url: /2008/05/20/delivering-successful-it-enabled-business-change/
+slug: delivering-successful-it-enabled-business-change 
+aliases: ["/2008/05/20/delivering-successful-it-enabled-business-change"]
 aktt_notify_twitter:
   - no
 

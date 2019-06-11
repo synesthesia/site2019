@@ -3,7 +3,8 @@ title: London Atrocities
 author: Julian
 type: post
 date: 2005-07-09T09:52:56+00:00
-url: /2005/07/09/london-atrocities/
+slug: london-atrocities 
+aliases: ["/2005/07/09/london-atrocities"]
 ttaglist:
   - London, bombs, terrorism
 

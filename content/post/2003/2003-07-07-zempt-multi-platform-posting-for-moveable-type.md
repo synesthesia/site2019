@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-07-07T15:39:31+00:00
 excerpt: Zempt, a multi-platform multi-blog interface to MoveableType
-url: /2003/07/07/zempt-multi-platform-posting-for-moveable-type/
+slug: zempt-multi-platform-posting-for-moveable-type 
+aliases: ["/2003/07/07/zempt-multi-platform-posting-for-moveable-type"]
 
 ---
 [The Shifted Librarian][1] points to [Zempt][2] &#8211; a multi-platform (so far Windows but Linux and Mac planned) tool for posting to multiple [Moveable Type][3] blogs. In my situation where I have three personal blogs (main page, library, linkblog) plus two corporate ones inside the firewall this could be a real boon. Key features:

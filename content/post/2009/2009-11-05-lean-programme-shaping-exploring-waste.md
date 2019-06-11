@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2009-11-05T11:29:11+00:00
 excerpt: This is the fourth post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.
-url: /2009/11/05/lean-programme-shaping-exploring-waste/
+slug: lean-programme-shaping-exploring-waste 
+aliases: ["/2009/11/05/lean-programme-shaping-exploring-waste"]
 aktt_notify_twitter:
   - no
 

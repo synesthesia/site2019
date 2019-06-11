@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-11-29T23:13:05+00:00
 excerpt: 'Trying out the Compendium software leads to a speculation about how little most of us  normally dig into a given area of knowledge...'
-url: /2004/11/30/testing-compendium/
+slug: testing-compendium 
+aliases: ["/2004/11/30/testing-compendium"]
 
 ---
 At the [suggestion][1] of [Marc Eisenstadt][2] I&#8217;ve been trying [Compendium][3].

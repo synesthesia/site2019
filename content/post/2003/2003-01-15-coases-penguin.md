@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-01-15T11:16:09+00:00
 excerpt: Link to, and extract from "Coase&amp;s Penguin, or, Linux and The Nature of the Firm"
-url: /2003/01/15/coases-penguin/
+slug: coases-penguin 
+aliases: ["/2003/01/15/coases-penguin"]
 ---
 [Context weblog][1] quotes an extensive extract from [Coases Penguin, or, Linux and The Nature of the Firm [PDF]][2] by Yochai Benkler. Benkler explains the growth of commons-based peer production, with particular reference to the Open Source movement, and identifies why this mode of production has significant advantages over property or contract based methods of organising production when the object of production is information or culture, and where the physical capital necessary for that production computers and communications capabilitiesis widely distributed instead of concentrated.
   

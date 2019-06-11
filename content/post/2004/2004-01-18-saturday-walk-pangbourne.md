@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-01-18T10:30:00+00:00
 excerpt: More walking!
-url: /2004/01/18/saturday-walk-pangbourne/
+slug: saturday-walk-pangbourne 
+aliases: ["/2004/01/18/saturday-walk-pangbourne"]
 
 ---
 Another walk from the [Time Out Book of Country Walks][1]. Walk 4 this time &#8211; a circular walk based on Pangbourne in Berkshire (SU633767) via Cray&#8217;s Pond (SU637805).

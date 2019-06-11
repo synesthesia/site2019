@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-05-02T00:05:54+00:00
 excerpt: "Blog meetup - 'Doc':https://doc.weblogs.com/, 'Cory':https://www.craphound.com/, 'Danah':https://www.zephoria.org/thoughts/, 'Suw':https://chocnvodka.blogware.com/blog, 'Matt':https://matt.blogs.it/, 'James':https://www.imajes.info/, 'Tom':https://www.plasticbag.org/, 'Gary':https://weblog.garyturner.net/index.html, 'Tom':https://www.sparklefluff.com/blatantoptimism/, 'Paul':https://www.paranoidfish.org/ and 'Euan':https://www.theobviousblog.net/  plus others who I have no URL for..."
-url: /2004/05/02/a-vampire-free-zone/
+slug: a-vampire-free-zone 
+aliases: ["/2004/05/02/a-vampire-free-zone"]
 
 ---
 &#8230;is not a phrase you would normally associate with a gathering of bloggers but as anyone who has sampled &#8220;Garlic and Shots&#8221;:https://www.fluidfoundation.com/venueDetails.asp?BarRef=372&#8242; penchant for putting the allium into every item of food and a good sampling of the drinks will know it is not a venue in which the undead would remain comfortable for long.

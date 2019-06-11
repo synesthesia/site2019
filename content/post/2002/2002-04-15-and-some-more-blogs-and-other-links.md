@@ -3,7 +3,8 @@ title: And some more blogs and other links
 author: Julian
 type: post
 date: 2002-04-15T13:24:40+00:00
-url: /2002/04/15/and-some-more-blogs-and-other-links/
+slug: and-some-more-blogs-and-other-links 
+aliases: ["/2002/04/15/and-some-more-blogs-and-other-links"]
 
 ---
 <a href="https://radio.weblogs.com/0101156/" target="_blank">Ken Rawlings</a>

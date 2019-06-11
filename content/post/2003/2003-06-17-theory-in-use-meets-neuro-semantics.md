@@ -5,7 +5,8 @@ type: post
 date: 2003-06-17T23:29:30+00:00
 excerpt: |
   Link to article combining Argyris' "Theory in Use" ideas with Neuro-Semantic coaching approach
-url: /2003/06/17/theory-in-use-meets-neuro-semantics/
+slug: theory-in-use-meets-neuro-semantics 
+aliases: ["/2003/06/17/theory-in-use-meets-neuro-semantics"]
 
 ---
 Another piece of the jigsaw I started in the [previous article][1] &#8211; [Coaching: Dealing with subliminal �Theories in Use&#8221;][2] from [Neuro-Semanticist][3] [Armand Kruger][4] [via [OnePine][5] ]

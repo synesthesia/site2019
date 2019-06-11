@@ -3,7 +3,8 @@ title: Working in the Twenty-First Century
 author: Julian
 type: post
 date: 2005-09-25T09:33:57+00:00
-url: /2005/09/25/working-in-the-twenty-first-century/
+slug: working-in-the-twenty-first-century 
+aliases: ["/2005/09/25/working-in-the-twenty-first-century"]
 
 ---
 I&#8217;ve been reading [Working in the Twenty-First Century][1], which describes itself as  <cite title="Working in the Twenty-First Century">an evidenced-based look at the future of work in the UK over the next 20 years</cite> by Michael Moynagh and Richard Worsley, published by the [Economic and Social Research Council][2] and [The Tomorrow Project][3].

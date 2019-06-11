@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-01-23T15:24:35+00:00
 excerpt: Link to (and commentary on) "Copyright Contradictions in Scholarly Publishing" by John Willinsky.
-url: /2003/01/23/conflicts-of-interest-between-publishers-and-information-creators/
+slug: conflicts-of-interest-between-publishers-and-information-creators 
+aliases: ["/2003/01/23/conflicts-of-interest-between-publishers-and-information-creators"]
 
 ---
 In an [earlier article][1] I floated some ideas about applying the concepts of peer production to intellectual products in the fields of NLP and Neuro-Semantics. On a related but more general note, [David Gammel][2] [links][3] to [Copyright Contradictions in Scholarly Publishing][4] by John Willinsky. If his conclusions are correct then we should expect a large take-up of <a herf="https://www.creativecommons.org">Creative Commons</a> licences by academia&#8230;

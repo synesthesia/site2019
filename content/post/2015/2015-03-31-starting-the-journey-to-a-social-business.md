@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2015-03-31T08:52:41+00:00
 excerpt: What benefits are companies getting from social enterprise? What lies behind this? What are the key challenges?
-url: /2015/03/31/starting-the-journey-to-a-social-business/
+slug: starting-the-journey-to-a-social-business 
+aliases: ["/2015/03/31/starting-the-journey-to-a-social-business"]
 
 ---
 ## What benefit are companies getting from social?

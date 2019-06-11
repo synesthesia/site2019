@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-07-03T13:04:22+00:00
 excerpt: Inspiring quotes from Jack Ricchiuto and Rilke
-url: /2003/07/03/inspiration/
+slug: inspiration 
+aliases: ["/2003/07/03/inspiration"]
 
 ---
 [Euan][1] [points][2] to a motivating quote by [Jack Ricchiuto][3] :

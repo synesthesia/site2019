@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-06-12T13:10:19+00:00
 excerpt: "First practical steps in applying Goldratt's Theory of Constraints to real-life problems"
-url: /2003/06/12/applying-the-theory-of-constraints/
+slug: applying-the-theory-of-constraints 
+aliases: ["/2003/06/12/applying-the-theory-of-constraints"]
 
 ---
 Real life processes are messy and complex &#8211; changing them can be risky. With this in mind I&#8217;ve started a project in the organisation where I work looking at how we can understand better the problems in our area of the business and find out where to focus our improvement efforts.

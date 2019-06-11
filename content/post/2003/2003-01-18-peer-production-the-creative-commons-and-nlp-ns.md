@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-01-18T15:19:28+00:00
 excerpt: Opinion piece advocating the application of ideas from peer-production efforts (e.g. Open Source) to the development of knowledge in the NLP and Neuro-Semantics fields
-url: /2003/01/18/peer-production-the-creative-commons-and-nlp-ns/
+slug: peer-production-the-creative-commons-and-nlp-ns 
+aliases: ["/2003/01/18/peer-production-the-creative-commons-and-nlp-ns"]
 
 ---
 A long follow up to the [previous article][1], linking ideas from Open Source and Creative Commons to development of the fields of NLP and Neuro-Semantics.

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-05-07T17:01:04+00:00
 excerpt: Tristan Louis has worked out how many computers Google has by reverse-engineering their IPO
-url: /2004/05/07/how-many-google-machines/
+slug: how-many-google-machines 
+aliases: ["/2004/05/07/how-many-google-machines"]
 
 ---
 [How many Google machines][1]. Tristan Louis has worked out how many computers Google has by reverse-engineering their IPO

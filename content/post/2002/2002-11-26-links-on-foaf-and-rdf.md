@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-26T19:46:36+00:00
 excerpt: Links about FOAF and RDF
-url: /2002/11/26/links-on-foaf-and-rdf/
+slug: links-on-foaf-and-rdf 
+aliases: ["/2002/11/26/links-on-foaf-and-rdf"]
 
 ---
 Been reading up on FOAF and RDF generally &#8211; here are some links for my own reference.

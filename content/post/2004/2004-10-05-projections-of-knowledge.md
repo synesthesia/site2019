@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-10-05T13:29:49+00:00
 excerpt: One model of knowledge is a web of links between items of information. In presenting that web we often choose selectively which relationships to display, in forms such as mindmaps or outlines. Is this form of distortion similar to that introduced by using 2D projections for mapping a 3D world?
-url: /2004/10/05/projections-of-knowledge/
+slug: projections-of-knowledge 
+aliases: ["/2004/10/05/projections-of-knowledge"]
 
 ---
 [Several][1] [people][2] [have][3] blogged [Global Knowledge Review][4], the new venture from David Gurteen.

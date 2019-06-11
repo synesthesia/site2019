@@ -3,7 +3,8 @@ title: Iceberg – other thoughts
 author: Julian
 type: post
 date: 2008-10-08T17:54:05+00:00
-url: /2008/10/08/iceberg-other-thoughts/
+slug: iceberg-other-thoughts 
+aliases: ["/2008/10/08/iceberg-other-thoughts"]
 
 ---
 I’ve mentioned in previous posts ([1][1], [2][2], [3][3], [4][4]) that I’ve been having a small play with [Iceberg][5], the workflow automation system from [Fractis][6].

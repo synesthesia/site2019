@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-11T21:57:21+00:00
 excerpt: Mathemagenic, a blog about Knowledge Management and Learning
-url: /2002/11/11/km-and-learning/
+slug: km-and-learning 
+aliases: ["/2002/11/11/km-and-learning"]
 
 ---
 Just found Lilia Efimova&#8217;s site [Mathemagenic][1]. Interesting selection of articles on Knowledge Management and Learning. Here are a few:

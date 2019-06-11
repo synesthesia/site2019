@@ -3,7 +3,8 @@ title: Dangling Threads
 author: Julian
 type: post
 date: 2010-01-29T12:18:10+00:00
-url: /2010/01/29/dangling-threads/
+slug: dangling-threads 
+aliases: ["/2010/01/29/dangling-threads"]
 aktt_notify_twitter:
   - no
 

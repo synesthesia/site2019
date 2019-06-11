@@ -3,7 +3,8 @@ title: Twitter List Upkeep
 author: Julian
 type: post
 date: 2015-03-13T10:29:07+00:00
-url: /2015/03/13/twitter-list-upkeep/
+slug: twitter-list-upkeep 
+aliases: ["/2015/03/13/twitter-list-upkeep"]
 
 ---
 Deleted Knowledge and Learning – seemed broken in that Twitter consistently reports 0 members

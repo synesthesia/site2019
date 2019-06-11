@@ -3,7 +3,8 @@ title: Searching the blogsphere
 author: Julian
 type: post
 date: 2003-03-08T02:18:17+00:00
-url: /2003/03/08/searching-the-blogsphere/
+slug: searching-the-blogsphere 
+aliases: ["/2003/03/08/searching-the-blogsphere"]
 
 ---
 [Micha Alpern][1] [says][2]

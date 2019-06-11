@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2005-03-08T12:02:46+00:00
 excerpt: Update on Getting Things Done
-url: /2005/03/08/update-on-getting-things-done/
+slug: update-on-getting-things-done 
+aliases: ["/2005/03/08/update-on-getting-things-done"]
 
 ---
 Here&#8217;s an update on my [experiences][1] with setting up the [Getting Things Done][2] method:

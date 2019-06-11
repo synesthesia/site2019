@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-06-23T23:30:00+00:00
 excerpt: 'Continuing to work through <a href="https://www.synesthesia.co.uk/library/archives/000150.php">Overcoming Organizational Defenses</a> to find links with the <acronym title="Theory of Constraints">TOC</acronym> approach I extract some key <acronym title="UnDesirable Effects: the key aspects of reality we are seeking to change through application of the TOC thinking processes">UDEs</acronym> from Chapter 1 of the book and note in passing the similarities of this technique to cognitive mapping.'
-url: /2003/06/23/learning-organisations-and-toc-pt-3/
+slug: learning-organisations-and-toc-pt-3 
+aliases: ["/2003/06/23/learning-organisations-and-toc-pt-3"]
 
 ---
 Continuing to work through [Overcoming Organizational Defenses][1] to find links with the <acronym title="Theory of Constraints">TOC</acronym> approach it struck me that creating a <acronym title="Current Reality Tree">CRT</acronym> was in itself a form of [Cognitive Mapping][2].

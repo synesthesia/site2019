@@ -3,7 +3,8 @@ title: Qumana re-visited
 author: Julian
 type: post
 date: 2006-03-04T12:39:27+00:00
-url: /2006/03/04/qumana-re-visited/
+slug: qumana-re-visited 
+aliases: ["/2006/03/04/qumana-re-visited"]
 
 ---
 Having mentioned [Qumana][1] in a [recent post][2], the ever-vigilant Qumana team [picked up][3] on my comment and asked if I&#8217;d look again at the tool. As I [promised][4], here is a note of my re-visit. In the spirit of the thing, this post is written using the tool (3.0.0-b2 Beta).

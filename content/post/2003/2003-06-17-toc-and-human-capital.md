@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-06-17T21:50:23+00:00
 excerpt: Pointer to Phil Wolff article
-url: /2003/06/17/toc-and-human-capital/
+slug: toc-and-human-capital 
+aliases: ["/2003/06/17/toc-and-human-capital"]
 
 ---
 [Phil Wolff][1] is wondering [Can you apply Theory of Constraints to Human Capital?][2]. 

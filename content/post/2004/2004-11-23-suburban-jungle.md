@@ -3,7 +3,8 @@ title: Suburban Jungle
 author: Julian
 type: post
 date: 2004-11-23T07:00:00+00:00
-url: /2004/11/23/suburban-jungle/
+slug: suburban-jungle 
+aliases: ["/2004/11/23/suburban-jungle"]
 
 ---
 I was waiting for email to download this morning when I witnessed two cats and three squirrels playing &#8220;cat and tree-rat&#8221;.

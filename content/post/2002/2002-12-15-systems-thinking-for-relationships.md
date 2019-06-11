@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-12-15T12:20:40+00:00
 excerpt: Application of ideas from "The Tipping Point" combined with NLP to resolving relationship conflicts
-url: /2002/12/15/systems-thinking-for-relationships/
+slug: systems-thinking-for-relationships 
+aliases: ["/2002/12/15/systems-thinking-for-relationships"]
 
 ---
 In today&#8217;s [Observer magazine][1] Andrew G Marshall [writes][2] about his application of ideas from Malcom Gladwell&#8217;s book <amazonlink asin = "0349113467">The Tipping Point</amazonlink> to the field of couples counselling.

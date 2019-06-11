@@ -3,7 +3,8 @@ title: Hypertasking
 author: Julian
 type: post
 date: 2004-09-08T08:40:12+00:00
-url: /2004/09/08/hypertasking/
+slug: hypertasking 
+aliases: ["/2004/09/08/hypertasking"]
 
 ---
 [Ming][1] [links][2] to this [article][3] about research into &#8220;Hypertasking&#8221; which suggests that although frantic multi-tasking (with the help of phones, IM, email, feeds, etc., etc., etc.) has the appearance of productivity the reality is of significantly reduced performance on the individual cognitive tasks. This is not the first study to suggest that multi-tasking makes you perform less well &#8211; for example [this][4], [this][5] and [this][6].

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-12-13T10:31:56+00:00
 excerpt: Hammersley, Azhar and others grapple with linking blogs by category
-url: /2002/12/13/categorising-blogs/
+slug: categorising-blogs 
+aliases: ["/2002/12/13/categorising-blogs"]
 
 ---
 [Ben Hammersley][1] and [Azeem Azhar][2] are debating how to create a decentralised categorisation service for blogs, to support a &#8220;More Like this&#8221; sort of thing&#8230;

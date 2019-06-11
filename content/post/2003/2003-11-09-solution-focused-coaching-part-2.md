@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-11-09T13:40:04+00:00
 excerpt: Collection of further reading on Solution-Focused Coaching
-url: /2003/11/09/solution-focused-coaching-part-2/
+slug: solution-focused-coaching-part-2 
+aliases: ["/2003/11/09/solution-focused-coaching-part-2"]
 
 ---
 I&#8217;m indebted to my colleague (and coaching supervisor) Jenny Mitchell \_(no online reference available)\_ who, after reading my earlier [article][1] on Solution-focused Coaching has sent me a large stack of references and related reading:

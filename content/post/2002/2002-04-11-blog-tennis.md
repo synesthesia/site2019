@@ -3,7 +3,8 @@ title: Blog Tennis
 author: Julian
 type: post
 date: 2002-04-11T15:45:22+00:00
-url: /2002/04/11/blog-tennis/
+slug: blog-tennis 
+aliases: ["/2002/04/11/blog-tennis"]
 
 ---
 Gert at [mad musings of me(uk)][1] has just [defined this sport][2] as 

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-02-09T18:26:49+00:00
 excerpt: Weird CSS bug in Firefox
-url: /2004/02/09/strange-css-bug-in-mozilla-firefox/
+slug: strange-css-bug-in-mozilla-firefox 
+aliases: ["/2004/02/09/strange-css-bug-in-mozilla-firefox"]
 
 ---
 Just upgraded to [Firefox][1] and discovered that all my hyperlinks were jumping to the right when I hovered over them&#8230;

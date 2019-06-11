@@ -3,7 +3,8 @@ title: Modelling Benefits in UML
 author: Julian
 type: post
 date: 2010-12-20T14:14:33+00:00
-url: /2010/12/20/modelling-benefits-in-uml/
+slug: modelling-benefits-in-uml 
+aliases: ["/2010/12/20/modelling-benefits-in-uml"]
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

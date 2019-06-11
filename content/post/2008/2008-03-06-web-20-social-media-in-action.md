@@ -3,7 +3,8 @@ title: 'Web 2.0: Social Media In Action'
 author: Julian
 type: post
 date: 2008-03-06T11:32:00+00:00
-url: /2008/03/06/web-20-social-media-in-action/
+slug: web-20-social-media-in-action 
+aliases: ["/2008/03/06/web-20-social-media-in-action"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

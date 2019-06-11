@@ -3,7 +3,8 @@ title: The Power of Difference
 author: Julian
 type: post
 date: 2002-11-12T17:05:02+00:00
-url: /2002/11/12/the-power-of-difference/
+slug: the-power-of-difference 
+aliases: ["/2002/11/12/the-power-of-difference"]
 
 ---
 [SynapShots][1] cites [Everyday Leaders: The Power of Difference][2] by [Debra Meyerson][3]

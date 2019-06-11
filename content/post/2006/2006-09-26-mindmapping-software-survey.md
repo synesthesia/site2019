@@ -3,7 +3,8 @@ title: Mindmapping Software Survey
 author: Julian
 type: post
 date: 2006-09-26T12:10:12+00:00
-url: /2006/09/26/mindmapping-software-survey/
+slug: mindmapping-software-survey 
+aliases: ["/2006/09/26/mindmapping-software-survey"]
 
 ---
 [Nick Duffill][1] [points][2] to [Chuck Frey][3]&#8216;s report on his [survey of mind-mapping tool use.][4]

@@ -7,7 +7,8 @@ excerpt: |
   Almost 4 years after I wrote this post, a very similar idea emerges spontaneously over at ActivityOwner, with the difference that he has actually produced the first iteration of a tool to do the export...
   
   Using a commercial mind-mapping tool for project start-up (amongst other things)
-url: /2003/02/10/mind-mapping-for-projects-and-wikis/
+slug: mind-mapping-for-projects-and-wikis 
+aliases: ["/2003/02/10/mind-mapping-for-projects-and-wikis"]
 
 ---
 I&#8217;ve been spending time re-familiarising myself with the nuances of [this][1] tool. I&#8217;ve been using it for about six months, and now use it for planning meetings and pretty much any major document. I&#8217;m about to start a project that will also benefit from its ability to link with MS Project and Powerpoint, so I&#8217;ve been digging into that part of the functionality.

@@ -3,7 +3,8 @@ title: 'Web 2.0: Business in Virtual Worlds, How we got here with Web 2.0'
 author: Julian
 type: post
 date: 2008-03-05T16:31:01+00:00
-url: /2008/03/05/web-20-business-in-virtual-worlds-how-we-got-here-with-web-20/
+slug: web-20-business-in-virtual-worlds-how-we-got-here-with-web-20 
+aliases: ["/2008/03/05/web-20-business-in-virtual-worlds-how-we-got-here-with-web-20"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

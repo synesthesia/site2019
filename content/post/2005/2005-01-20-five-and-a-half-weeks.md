@@ -3,7 +3,8 @@ title: Five and a half weeks
 author: Julian
 type: post
 date: 2005-01-20T08:00:00+00:00
-url: /2005/01/20/five-and-a-half-weeks/
+slug: five-and-a-half-weeks 
+aliases: ["/2005/01/20/five-and-a-half-weeks"]
 
 ---
 That&#8217;s how long since I posted here.

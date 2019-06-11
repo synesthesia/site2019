@@ -3,7 +3,8 @@ title: 'Keynote: Scaling Scrum'
 author: Julian
 type: post
 date: 2008-02-12T15:30:59+00:00
-url: /2008/02/12/keynote-scaling-scrum/
+slug: keynote-scaling-scrum 
+aliases: ["/2008/02/12/keynote-scaling-scrum"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

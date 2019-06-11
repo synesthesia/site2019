@@ -3,7 +3,8 @@ title: Collaborative Note-taking
 author: Julian
 type: post
 date: 2004-07-08T11:45:27+00:00
-url: /2004/07/08/collaborative-note-taking/
+slug: collaborative-note-taking 
+aliases: ["/2004/07/08/collaborative-note-taking"]
 
 ---
 Steph Booth gives a really clear explanation of [Taking Collaborative Notes at BlogTalk][1]

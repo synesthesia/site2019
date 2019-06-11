@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2010-12-18T13:57:00+00:00
 excerpt: Why I like Nozbe for Getting Things Done
-url: /2010/12/18/getting-things-done-gtd/
+slug: getting-things-done-gtd 
+aliases: ["/2010/12/18/getting-things-done-gtd"]
 aktt_notify_twitter:
   - no
 

@@ -3,7 +3,8 @@ title: 'Web 2.0 and Beyond: Social is Good for Business'
 author: Julian
 type: post
 date: 2008-03-05T12:50:25+00:00
-url: /2008/03/05/web-20-and-beyond-social-is-good-for-business/
+slug: web-20-and-beyond-social-is-good-for-business 
+aliases: ["/2008/03/05/web-20-and-beyond-social-is-good-for-business"]
 
 ---
 I’m at [Web 2.0 and Beyond &#8211; Applying Social and Collaborative Tools To Business][1] .

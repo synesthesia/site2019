@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-06-17T22:00:00+00:00
 excerpt: Wondering how to combine the Theory of Constraints approach and Thinking Tools with the insights into organisational defense routines from Action Science in order to specify better technology solutions for businesses.
-url: /2003/06/17/invisible-dogma-and-learning-organisations/
+slug: invisible-dogma-and-learning-organisations 
+aliases: ["/2003/06/17/invisible-dogma-and-learning-organisations"]
 
 ---
 I&#8217;ve been reading ideas from [Mitch Ratcliffe][1] and [Frank Patrick][2] on how the technology deployed in a business both embodies and is constrained by the hidden, unspoken mental models held by the sponsors, specifiers, implementers and users of the technology.

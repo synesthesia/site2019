@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-05-25T19:10:33+00:00
 excerpt: Editing Wordpress template to show inline linkblog
-url: /2004/05/25/wordpress-linkblog/
+slug: wordpress-linkblog 
+aliases: ["/2004/05/25/wordpress-linkblog"]
 
 ---
 In an [earlier post][1] I described first attempt at creating an inline link blog.

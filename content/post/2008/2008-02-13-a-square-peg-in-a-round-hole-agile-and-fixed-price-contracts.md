@@ -3,7 +3,8 @@ title: 'A Square Peg in a Round Hole: Agile and fixed-price contracts'
 author: Julian
 type: post
 date: 2008-02-13T14:41:46+00:00
-url: /2008/02/13/a-square-peg-in-a-round-hole-agile-and-fixed-price-contracts/
+slug: a-square-peg-in-a-round-hole-agile-and-fixed-price-contracts 
+aliases: ["/2008/02/13/a-square-peg-in-a-round-hole-agile-and-fixed-price-contracts"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2006-03-21T06:30:31+00:00
 excerpt: 'This post summarises <a href="https://www.jpaarons.net/dubbings/UserFiles/docs/OLKC2006_Aarons_submitted.pdf">Supporting organisational knowledge work: Integrating thinking and doing in task-based support</a>  by Jeremy Aarons, Henry Linger & Frada Burstein.'
-url: /2006/03/21/integrating-thinking-and-doing/
+slug: integrating-thinking-and-doing 
+aliases: ["/2006/03/21/integrating-thinking-and-doing"]
 
 ---
 [Jeremy Aarons][1] has [blogged][2] the draft of a new paper, [Supporting organisational knowledge work: Integrating thinking and doing in task-based support][3] by Jeremy Aarons, Henry Linger & Frada Burstein.

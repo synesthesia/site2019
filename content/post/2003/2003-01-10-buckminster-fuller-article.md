@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-01-10T10:20:10+00:00
 excerpt: Refers to Internet Time article on Buckminster Fuller
-url: /2003/01/10/buckminster-fuller-article/
+slug: buckminster-fuller-article 
+aliases: ["/2003/01/10/buckminster-fuller-article"]
 
 ---
 [Internet Time Blog][1] has an interesting [article][2] on Buckminster Fuller, including links to his work online, based on a talk by [Bonnie DeVarco][3]. Fuller is one of those people &#8220;we&#8217;ve all heard of&#8221;, yet I&#8217;ve never read his work. A quick taste of the links, plus Bonnie&#8217;s reported summary:

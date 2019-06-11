@@ -3,7 +3,8 @@ title: Genes for depression are gender specific
 author: Julian
 type: post
 date: 2002-04-08T01:02:06+00:00
-url: /2002/04/08/genes-for-depression-are-gender-specific/
+slug: genes-for-depression-are-gender-specific 
+aliases: ["/2002/04/08/genes-for-depression-are-gender-specific"]
 
 ---
 [Sex-Specific Genes for Depression][1] reports on work at the University of Pittsburgh.

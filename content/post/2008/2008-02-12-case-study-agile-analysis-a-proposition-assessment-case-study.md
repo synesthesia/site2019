@@ -3,7 +3,8 @@ title: 'Case Study: Agile Analysis: A Proposition Assessment Case Study'
 author: Julian
 type: post
 date: 2008-02-12T10:40:34+00:00
-url: /2008/02/12/case-study-agile-analysis-a-proposition-assessment-case-study/
+slug: case-study-agile-analysis-a-proposition-assessment-case-study 
+aliases: ["/2008/02/12/case-study-agile-analysis-a-proposition-assessment-case-study"]
 
 ---
 I’m blogging the conference [Agile Approaches for Delivering Business Value][1]

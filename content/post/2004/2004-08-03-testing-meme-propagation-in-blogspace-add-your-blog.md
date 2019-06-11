@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2004-08-03T10:23:12+00:00
 excerpt: This posting is a community experiment that tests how a meme, represented by this blog posting, spreads across blogspace, physical space and time. It will help to show how ideas travel across blogs in space and time and how blogs are connected. It may also help to show which blogs are most influential in the propagation of memes. The dataset from this experiment will be public, and can be located via Google (or Technorati) by doing a search for the GUID for this meme (as098398298250swg9e98929872525389t9987898tq98wteqtgaq62010920352598gawst).
-url: /2004/08/03/testing-meme-propagation-in-blogspace-add-your-blog/
+slug: testing-meme-propagation-in-blogspace-add-your-blog 
+aliases: ["/2004/08/03/testing-meme-propagation-in-blogspace-add-your-blog"]
 
 ---
 This posting is a community experiment that tests how a meme, represented by this blog posting, spreads across blogspace, physical space and time. It will help to show how ideas travel across blogs in space and time and how blogs are connected. It may also help to show which blogs are most influential in the propagation of memes. The dataset from this experiment will be public, and can be located via Google (or Technorati) by doing a search for the GUID for this meme (below).

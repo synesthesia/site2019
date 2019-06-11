@@ -3,7 +3,8 @@ title: MSP07 Launched
 author: Julian
 type: post
 date: 2007-09-14T09:02:10+00:00
-url: /2007/09/14/msp07-launched/
+slug: msp07-launched 
+aliases: ["/2007/09/14/msp07-launched"]
 
 ---
 The [new version of MSP has been launched][1], amongst the authors are my ex-colleague [Rod Sowden][2], and [Patrick Mayfield][3], who I haven&#8217;t met, but whose training company seem to do [good work][4]!

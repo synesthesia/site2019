@@ -3,7 +3,8 @@ title: PRINCE2 Practitioner
 author: Julian
 type: post
 date: 2008-07-21T15:25:08+00:00
-url: /2008/07/21/prince2-practitioner-2/
+slug: prince2-practitioner-2 
+aliases: ["/2008/07/21/prince2-practitioner-2"]
 aktt_notify_twitter:
   - no
 

@@ -3,7 +3,8 @@ title: Email makes you stupid – so what can we do about it?
 author: Julian
 type: post
 date: 2015-02-27T08:48:56+00:00
-url: /2015/02/27/email-makes-you-stupid-so-what-can-we-do-about-it/
+slug: email-makes-you-stupid-so-what-can-we-do-about-it 
+aliases: ["/2015/02/27/email-makes-you-stupid-so-what-can-we-do-about-it"]
 
 ---
 <p style="text-align: justify;">

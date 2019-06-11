@@ -3,7 +3,8 @@ title: Communication, Collaboration and Community
 author: Julian
 type: post
 date: 2015-02-03T14:30:02+00:00
-url: /2015/02/03/communication-collaboration-and-community/
+slug: communication-collaboration-and-community 
+aliases: ["/2015/02/03/communication-collaboration-and-community"]
 
 ---
 &nbsp;

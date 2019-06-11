@@ -3,7 +3,8 @@ title: Cyclical knowledge development
 author: Julian
 type: post
 date: 2004-03-17T13:14:07+00:00
-url: /2004/03/17/cyclical-knowledge-development/
+slug: cyclical-knowledge-development 
+aliases: ["/2004/03/17/cyclical-knowledge-development"]
 
 ---
 [Ian Glendenning][1] (Psybertron Knowledge Modelling WebLog) [points][2] to some articles from disparate domains on cyclical approaches to building knowledge:

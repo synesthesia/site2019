@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-12T20:33:17+00:00
 excerpt: Experiences introducing K-logging into a company
-url: /2002/11/12/k-logging-pilot/
+slug: k-logging-pilot 
+aliases: ["/2002/11/12/k-logging-pilot"]
 
 ---
 [Rick Klau][1] [recaps][2] on experiences introducing Knowledge-logging into his company, with a pilot group of 12 users (out of 125 people in the company)

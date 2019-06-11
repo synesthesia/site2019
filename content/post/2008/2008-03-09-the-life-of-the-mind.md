@@ -3,7 +3,8 @@ title: The Life Of The Mind
 author: Julian
 type: post
 date: 2008-03-09T17:15:53+00:00
-url: /2008/03/09/the-life-of-the-mind/
+slug: the-life-of-the-mind 
+aliases: ["/2008/03/09/the-life-of-the-mind"]
 isfeatured:
   - 1
 

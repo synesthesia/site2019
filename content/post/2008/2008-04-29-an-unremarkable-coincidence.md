@@ -3,7 +3,8 @@ title: An unremarkable coincidence
 author: Julian
 type: post
 date: 2008-04-29T11:56:45+00:00
-url: /2008/04/29/an-unremarkable-coincidence/
+slug: an-unremarkable-coincidence 
+aliases: ["/2008/04/29/an-unremarkable-coincidence"]
 
 ---
 A few months ago I spent some time exploring my wife’s family tree. One fragment of jigsaw was a census return from 1851 showing one of her 3–greats-grandfathers, then age 16, living with his parents at 13 Cambridge Street in Soho.

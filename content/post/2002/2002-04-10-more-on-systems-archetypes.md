@@ -3,7 +3,8 @@ title: More on Systems Archetypes
 author: Julian
 type: post
 date: 2002-04-10T15:04:29+00:00
-url: /2002/04/10/more-on-systems-archetypes/
+slug: more-on-systems-archetypes 
+aliases: ["/2002/04/10/more-on-systems-archetypes"]
 
 ---
 I was thinking some more about the schools issue ([Pay As You Learn][1])I noted a couple of days ago, and found [this recent paper][2] expanding on the Systems Archetypes.

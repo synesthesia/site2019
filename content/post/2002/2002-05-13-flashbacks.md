@@ -3,7 +3,8 @@ title: Flashbacks
 author: Julian
 type: post
 date: 2002-05-13T13:58:39+00:00
-url: /2002/05/13/flashbacks/
+slug: flashbacks 
+aliases: ["/2002/05/13/flashbacks"]
 
 ---
 Spent this weekend in the town where I grew up. Catching up with my mother & sister, also spending some time with my kids, who were there wth my ex-wife. I took the kids to the local playground &#8211; where I too played at their age. Although some things have changed there is much as it was thirty-five years ago. Buying ice cream for them in the park cafe I had a flashback of my father buying ice cream for me in the same building.

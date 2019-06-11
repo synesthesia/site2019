@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-02-23T13:49:26+00:00
 excerpt: Testing MT-Textile, also added feed of Wiki updates
-url: /2003/02/23/site-updates-mt-textile-wiki-feed/
+slug: site-updates-mt-textile-wiki-feed 
+aliases: ["/2003/02/23/site-updates-mt-textile-wiki-feed"]
 
 ---
 \# Have added a feed of recently updated [Wiki][1] topics to the side bar <span class = "badge2">[Wiki][2]</span>

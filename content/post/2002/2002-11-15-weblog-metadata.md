@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2002-11-15T14:45:42+00:00
 excerpt: Link to initiative to provide a metadata standard for knowledge-logging
-url: /2002/11/15/weblog-metadata/
+slug: weblog-metadata 
+aliases: ["/2002/11/15/weblog-metadata"]
 
 ---
 [The Weblog MetaData Initiative: Next Step: HTML [meta] Experiment][1]. [

@@ -5,7 +5,8 @@ type: post
 date: 2003-12-03T20:07:49+00:00
 excerpt: |
   According to a <a href="https://fireandice.environics.net/surveys/fireandice/main/fireandice.asp?surveyID=1">survey</a> put together by Michael Adams, author of "Fire & Ice: The US, Canada and the Myth of Converging Values" [via <a href="https://blogs.salon.com/0002007/">Dave Pollard</a>], my values are very similar to those of many Canadians and a long way from typical American values. Although I recognise the results as being related to what I believe, I'm surprised at such an extreme ranking and wonder what the result would be if the survey was calibrated for UK and Europe.
-url: /2003/12/03/apparently-im-a-canadian/
+slug: apparently-im-a-canadian 
+aliases: ["/2003/12/03/apparently-im-a-canadian"]
 
 ---
 Or more exactly, I share world-view and values with a lot of Canadians&#8230;Dave Pollard [points][1] to the survey at [Fire & Ice: The US, Canada and the Myth of Converging Values][2] and notes that median scores for Americans are in the upper-left quadrant, whilst median scores for Canadians are in the lower-right _and the gap is growing_.</p> 

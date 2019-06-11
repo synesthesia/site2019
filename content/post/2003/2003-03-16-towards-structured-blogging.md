@@ -3,7 +3,8 @@ title: Towards Structured Blogging
 author: Julian
 type: post
 date: 2003-03-16T19:43:51+00:00
-url: /2003/03/16/towards-structured-blogging/
+slug: towards-structured-blogging 
+aliases: ["/2003/03/16/towards-structured-blogging"]
 
 ---
 [Sébastien Paquet][1]: [Towards Structured Blogging][2].

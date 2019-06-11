@@ -3,7 +3,8 @@ title: Awakeners
 author: Julian
 type: post
 date: 2001-09-23T16:42:23+00:00
-url: /2001/09/23/awakeners/
+slug: awakeners 
+aliases: ["/2001/09/23/awakeners"]
 
 ---
 #### Awakeners

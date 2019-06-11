@@ -3,7 +3,8 @@ title: Inventing the Future
 author: Julian
 type: post
 date: 2002-04-10T07:44:34+00:00
-url: /2002/04/10/inventing-the-future/
+slug: inventing-the-future 
+aliases: ["/2002/04/10/inventing-the-future"]
 
 ---
 Thought provoking [piece][1] by Tom O&#8217;Reilly on the way forward with web services (via [EVHEAD][2]).

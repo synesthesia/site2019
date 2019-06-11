@@ -3,7 +3,8 @@ title: Trying a gym class – BodyPump
 author: Julian
 type: post
 date: 2007-09-11T12:22:39+00:00
-url: /2007/09/11/trying-a-gym-class-bodypump/
+slug: trying-a-gym-class-bodypump 
+aliases: ["/2007/09/11/trying-a-gym-class-bodypump"]
 
 ---
 As [I mentioned on Saturday][1], I’m looking for ways to get more engaged with my fitness activities, and as my new gym offers a range of classes within the monthly membership fee, I thought I’d try out a couple.

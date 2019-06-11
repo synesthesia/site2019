@@ -4,7 +4,8 @@ author: Julian
 type: post
 date: 2003-10-08T00:39:35+00:00
 excerpt: Notes from creativity workshop, links to collections of links on creativity and evidence that maybe the old saying "you need to be a little mad to be creative" has some truth
-url: /2003/10/08/creativity-riff/
+slug: creativity-riff 
+aliases: ["/2003/10/08/creativity-riff"]
 
 ---
 Just getting around to reviewing my notes from another workshop with a coach from [The Mind Gym][1], this time called **&#8220;Unleash Your Creativity&#8221;** (see also [Creativity for Logical Thinkers][2])
