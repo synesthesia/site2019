@@ -1,6 +1,6 @@
 ---
 title: Polymaths
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-09T22:55:28+00:00
 excerpt: 'Suw Charman writes a long article on the benefits (and also the drawbacks) of being a generalist.  I can empathise with this and wonder how we could better measure and recognise the contributions of generalists...'

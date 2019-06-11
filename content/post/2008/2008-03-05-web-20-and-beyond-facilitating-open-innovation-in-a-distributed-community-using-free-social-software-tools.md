@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0 and Beyond: Facilitating Open Innovation in A Distributed Community Using Free Social Software Tools'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T14:42:40+00:00
 slug: web-20-and-beyond-facilitating-open-innovation-in-a-distributed-community-using-free-social-software-tools 

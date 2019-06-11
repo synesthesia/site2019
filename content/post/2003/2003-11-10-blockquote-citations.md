@@ -1,6 +1,6 @@
 ---
 title: Blockquote Citations
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-10T17:13:46+00:00
 excerpt: Paul Hammond shows how to insert a source link in blockquotes

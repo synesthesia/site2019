@@ -1,6 +1,6 @@
 ---
 title: Location Plugin for Movable Type
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-30T10:44:01+00:00
 excerpt: Does what it says on the can!

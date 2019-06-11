@@ -1,6 +1,6 @@
 ---
 title: The Big Bluejack Heist at Waterloo
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-01T12:06:02+00:00
 excerpt: It was just another ordinary day at Waterloo station...

@@ -1,6 +1,6 @@
 ---
 title: Mind-mapping for projects and Wikis
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-10T20:06:15+00:00
 excerpt: |

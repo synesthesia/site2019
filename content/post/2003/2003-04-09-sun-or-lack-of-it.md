@@ -1,6 +1,6 @@
 ---
 title: Sun, or lack of it
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-04-09T14:23:06+00:00
 slug: sun-or-lack-of-it 

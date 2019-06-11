@@ -1,6 +1,6 @@
 ---
 title: MySQL Gotchas
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-24T12:04:58+00:00
 excerpt: |

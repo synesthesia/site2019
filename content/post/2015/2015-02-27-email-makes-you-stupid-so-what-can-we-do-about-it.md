@@ -1,6 +1,6 @@
 ---
 title: Email makes you stupid – so what can we do about it?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-02-27T08:48:56+00:00
 slug: email-makes-you-stupid-so-what-can-we-do-about-it 

@@ -1,6 +1,6 @@
 ---
 title: A few more random blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-15T00:27:16+00:00
 slug: a-few-more-random-blogs 

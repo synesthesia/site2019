@@ -1,6 +1,6 @@
 ---
 title: Integrating blog and wiki
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-07T10:55:42+00:00
 excerpt: |

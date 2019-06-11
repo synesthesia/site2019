@@ -1,6 +1,6 @@
 ---
 title: Copyright, Creative Commons, and attribution on the web
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-04-27T15:39:47+00:00
 excerpt: A summary post pulling together some current references on copyright and Creative Commons, including the 2014 changes in English law. (I am not a lawyer, not a substitute for legal advice)

@@ -1,6 +1,6 @@
 ---
 title: More on Business Strategy Patterns
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-08T22:48:39+00:00
 slug: more-on-business-strategy-patterns 

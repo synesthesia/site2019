@@ -1,6 +1,6 @@
 ---
 title: Blogroll updates
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-05-10T08:53:49+00:00
 draft: true

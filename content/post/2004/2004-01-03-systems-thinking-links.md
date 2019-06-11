@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking links
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-03T11:35:16+00:00
 excerpt: Some useful links from OnePine, a UK librarian...

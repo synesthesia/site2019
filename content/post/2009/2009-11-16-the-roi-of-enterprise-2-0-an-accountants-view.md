@@ -1,6 +1,6 @@
 ---
 title: The ROI of Enterprise 2.0 – an Accountant’s View
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-11-16T09:32:55+00:00
 excerpt: Louise Ross from the Chartered Institute of Management Accountants has created a blog post and paper to guide CIMA members on constructing business cases for Enterprise 2.0 efforts

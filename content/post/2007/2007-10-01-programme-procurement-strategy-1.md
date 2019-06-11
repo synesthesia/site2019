@@ -1,6 +1,6 @@
 ---
 title: Programme Procurement Strategy – 1
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-10-01T10:34:43+00:00
 slug: programme-procurement-strategy-1 

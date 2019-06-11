@@ -1,6 +1,6 @@
 ---
 title: IP Address Locator
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-06T11:16:41+00:00
 excerpt: 'Enter an IP address to find its location - Lookup Country Region City etc'

@@ -1,6 +1,6 @@
 ---
 title: 'Case Study: Agile Analysis: A Proposition Assessment Case Study'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T10:40:34+00:00
 slug: case-study-agile-analysis-a-proposition-assessment-case-study 

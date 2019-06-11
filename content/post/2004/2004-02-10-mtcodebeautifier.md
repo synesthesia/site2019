@@ -1,6 +1,6 @@
 ---
 title: MTCodeBeautifier
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-10T16:14:41+00:00
 excerpt: MTCodeBeautifier is a plugin for Movable Type that provides syntax highlighting and code beautification (indenting, etc.) on input for a variety of programming languages.

@@ -1,6 +1,6 @@
 ---
 title: Integrating weblog aggregation data with enterprise data
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-24T10:00:58+00:00
 excerpt: A useful idea, no implementation yet...

@@ -1,6 +1,6 @@
 ---
 title: Disruptive Technology – BBC News Wiki Proxy
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-10-05T09:04:07+00:00
 draft: true

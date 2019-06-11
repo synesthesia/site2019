@@ -1,6 +1,6 @@
 ---
 title: Rss2Outlook
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-29T11:56:48+00:00
 slug: rss2outlook 

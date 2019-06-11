@@ -1,6 +1,6 @@
 ---
 title: Make Your Partner Look Good
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-25T21:17:18+00:00
 slug: make-your-partner-look-good 

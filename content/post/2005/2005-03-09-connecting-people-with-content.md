@@ -1,6 +1,6 @@
 ---
 title: Connecting People With Content
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-09T07:51:39+00:00
 slug: connecting-people-with-content 

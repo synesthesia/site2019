@@ -1,6 +1,6 @@
 ---
 title: Dynamics CRM entity status weirdness
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2017-02-03T11:46:33+00:00
 slug: dynamics-crm-entity-status-weirdness 

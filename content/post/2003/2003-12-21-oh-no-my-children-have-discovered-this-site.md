@@ -1,6 +1,6 @@
 ---
 title: Oh no, my children have discovered this site
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-21T17:33:31+00:00
 excerpt: |

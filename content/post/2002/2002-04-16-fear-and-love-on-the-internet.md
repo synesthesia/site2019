@@ -1,6 +1,6 @@
 ---
 title: Fear and love on the internet?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-16T17:58:08+00:00
 slug: fear-and-love-on-the-internet 

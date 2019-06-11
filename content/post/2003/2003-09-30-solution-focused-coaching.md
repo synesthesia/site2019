@@ -1,6 +1,6 @@
 ---
 title: Solution-focused Coaching
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-09-30T22:30:09+00:00
 excerpt: Summary of seminar on solution-focused approach to coaching.

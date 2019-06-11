@@ -1,6 +1,6 @@
 ---
 title: Bloggers at Balzac
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-13T14:55:36+00:00
 excerpt: 'Meeting <a href="https://radio.weblogs.com/0121664/">Dina Mehta</a>, <a href="https://ming.tv/">Flemming Funch</a> and  <a href="https://scarletjewels.com/">Julie Solheim-Roe</a> for lunch.'

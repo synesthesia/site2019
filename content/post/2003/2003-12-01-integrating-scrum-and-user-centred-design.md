@@ -1,6 +1,6 @@
 ---
 title: Integrating SCRUM and User-centred Design
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-01T16:19:47+00:00
 excerpt: Notes on a possible lifecycle to combine these two approaches...

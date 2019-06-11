@@ -1,6 +1,6 @@
 ---
 title: Buckminster Fuller article
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-10T10:20:10+00:00
 excerpt: Refers to Internet Time article on Buckminster Fuller

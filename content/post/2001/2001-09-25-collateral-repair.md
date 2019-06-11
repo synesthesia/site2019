@@ -1,6 +1,6 @@
 ---
 title: “Collateral Repair”
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-09-25T23:18:25+00:00
 slug: collateral-repair 

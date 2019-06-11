@@ -1,6 +1,6 @@
 ---
 title: 'Case Study: Agile – Why Should Your Business Care ?'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T12:39:52+00:00
 slug: case-study-agile-why-should-your-business-care 

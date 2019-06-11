@@ -1,6 +1,6 @@
 ---
 title: Personal Knowledge Publishing
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-19T13:33:18+00:00
 excerpt: Article on how professional researchers can use blogs to advantage

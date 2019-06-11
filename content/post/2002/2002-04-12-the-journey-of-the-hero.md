@@ -1,6 +1,6 @@
 ---
 title: The Journey of The Hero
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-12T14:39:00+00:00
 slug: the-journey-of-the-hero 

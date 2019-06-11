@@ -1,6 +1,6 @@
 ---
 title: Developing Deliverable Strategies – Trams Study 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-05-05T22:29:23+00:00
 excerpt: More prework for the Developing Deliverable Strategies course.

@@ -1,6 +1,6 @@
 ---
 title: Tools updates
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2017-01-30T14:48:07+00:00
 slug: tools-updates 

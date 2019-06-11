@@ -1,6 +1,6 @@
 ---
 title: The designer deaf baby thing
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-09T19:51:44+00:00
 slug: the-designer-deaf-baby-thing 

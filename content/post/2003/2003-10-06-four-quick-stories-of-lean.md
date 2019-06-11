@@ -1,6 +1,6 @@
 ---
 title: Four Quick Stories of Lean
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-06T13:28:23+00:00
 excerpt: Here are four useful illustrations of Lean Joe Ely has come across in the past week.

@@ -1,6 +1,6 @@
 ---
 title: UK ISPs stand up to Home Office plans
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-22T10:55:34+00:00
 slug: uk-isps-stand-up-to-home-office-plans 

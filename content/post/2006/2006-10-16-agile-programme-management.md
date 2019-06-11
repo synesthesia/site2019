@@ -1,6 +1,6 @@
 ---
 title: Agile Programme Management
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-10-16T12:28:14+00:00
 slug: agile-programme-management 

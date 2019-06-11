@@ -1,6 +1,6 @@
 ---
 title: 'DSDM Atern: The next step in agile!'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T16:06:22+00:00
 slug: dsdm-atern-the-next-step-in-agile 

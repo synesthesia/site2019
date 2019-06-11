@@ -1,6 +1,6 @@
 ---
 title: Lean Programme Shaping – Models
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-12-14T09:32:05+00:00
 excerpt: |

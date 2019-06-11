@@ -1,6 +1,6 @@
 ---
 title: Cloud Security Conference – The Cloud Circle
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2011-12-03T09:35:19+00:00
 excerpt: 'Brief notes on the Cloud Security Conference '

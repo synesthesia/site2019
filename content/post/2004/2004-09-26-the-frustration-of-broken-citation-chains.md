@@ -1,6 +1,6 @@
 ---
 title: The frustration of broken citation chains
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-26T19:11:20+00:00
 draft: true

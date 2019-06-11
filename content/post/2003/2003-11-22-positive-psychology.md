@@ -1,6 +1,6 @@
 ---
 title: Positive Psychology
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-22T20:29:56+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: The tools I use fall into two camps…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-21T20:56:36+00:00
 slug: the-toools-i-use 

@@ -1,6 +1,6 @@
 ---
 title: Does Your Career Meet Your Personal Needs?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-24T13:18:12+00:00
 excerpt: Career Activism

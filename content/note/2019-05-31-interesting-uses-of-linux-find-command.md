@@ -1,6 +1,6 @@
 ---
 title: Interesting uses of Linux “find” command
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2019-05-31T08:36:37+00:00
 slug: interesting-uses-of-linux-find-command 

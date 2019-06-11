@@ -1,6 +1,6 @@
 ---
 title: Foiling Cross Site Attacks
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-11T08:50:29+00:00
 excerpt: 'Useful article [PDF] on defending PHP sites from Cross-Site Request Forgeries and Cross-Site Scripting attacks'

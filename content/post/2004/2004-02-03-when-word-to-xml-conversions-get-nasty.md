@@ -1,6 +1,6 @@
 ---
 title: When Word-to-XML Conversions Get Nasty
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-03T21:11:09+00:00
 excerpt: 'Mike Gross,  Chief Technology Officer at Data Conversion Laboratory, Inc., reveals the five ways your conversion engine can get broken when converting MS Word documents to XML.'

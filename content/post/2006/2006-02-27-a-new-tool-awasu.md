@@ -1,6 +1,6 @@
 ---
 title: 'A new tool: Awasu'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-02-27T08:27:51+00:00
 slug: a-new-tool-awasu 

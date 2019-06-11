@@ -1,6 +1,6 @@
 ---
 title: High Intensity Interval Training
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-21T11:00:31+00:00
 slug: high-intensity-interval-training 

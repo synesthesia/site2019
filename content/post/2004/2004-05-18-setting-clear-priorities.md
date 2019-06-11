@@ -1,6 +1,6 @@
 ---
 title: Setting Clear Priorities
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-18T12:32:38+00:00
 excerpt: "Advice by Esther Derby on how to focus on what's important"

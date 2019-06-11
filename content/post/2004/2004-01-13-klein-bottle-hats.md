@@ -1,6 +1,6 @@
 ---
 title: Klein Bottle Hats
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-13T16:41:57+00:00
 excerpt: Perfect for people with zero-volume heads!

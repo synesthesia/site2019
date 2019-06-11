@@ -1,6 +1,6 @@
 ---
 title: Reflection 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-09T23:14:52+00:00
 excerpt: Adding a loop to the learning cycle

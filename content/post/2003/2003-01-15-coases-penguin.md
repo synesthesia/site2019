@@ -1,6 +1,6 @@
 ---
 title: Coase&amp;s Penguin
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-15T11:16:09+00:00
 excerpt: Link to, and extract from "Coase&amp;s Penguin, or, Linux and The Nature of the Firm"

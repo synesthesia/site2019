@@ -1,6 +1,6 @@
 ---
 title: Learning Organisations and Constraints
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-05T12:20:20+00:00
 slug: learning-organisations-and-constraints 

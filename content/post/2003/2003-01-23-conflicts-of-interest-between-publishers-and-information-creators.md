@@ -1,6 +1,6 @@
 ---
 title: Conflicts of interest between publishers and information creators
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-23T15:24:35+00:00
 excerpt: Link to (and commentary on) "Copyright Contradictions in Scholarly Publishing" by John Willinsky.

@@ -1,6 +1,6 @@
 ---
 title: Appliances as small pieces loosely joined
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-13T22:52:25+00:00
 excerpt: Fascinating series of posts by Leslie Michael Orchard applying the principles of "small pieces loosely joined" to computing hardware and appliances.

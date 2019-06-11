@@ -1,6 +1,6 @@
 ---
 title: Turn of the Year, revisited
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-12-31T23:59:59+00:00
 excerpt: A Happy New Year to all my readers!

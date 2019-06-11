@@ -1,6 +1,6 @@
 ---
 title: Building a living glossary
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-12T16:03:04+00:00
 excerpt: 'Building a living glossary - Denham Grey'

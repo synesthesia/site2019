@@ -1,6 +1,6 @@
 ---
 title: No Margin for Error
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-24T13:03:32+00:00
 excerpt: Gotchas with CSS margin collapse

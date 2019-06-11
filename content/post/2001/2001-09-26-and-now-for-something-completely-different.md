@@ -1,6 +1,6 @@
 ---
 title: And now for something completely different
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-09-26T19:36:59+00:00
 slug: and-now-for-something-completely-different 

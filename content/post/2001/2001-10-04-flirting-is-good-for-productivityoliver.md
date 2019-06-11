@@ -1,6 +1,6 @@
 ---
 title: Flirting is Good for Productivity!
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-04T00:23:31+00:00
 slug: flirting-is-good-for-productivityoliver 

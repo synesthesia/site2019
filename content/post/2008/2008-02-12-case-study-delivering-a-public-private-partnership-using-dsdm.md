@@ -1,6 +1,6 @@
 ---
 title: 'Case Study: Delivering a Public-Private Partnership using DSDM'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T11:34:08+00:00
 slug: case-study-delivering-a-public-private-partnership-using-dsdm 

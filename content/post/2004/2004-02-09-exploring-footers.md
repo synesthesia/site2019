@@ -1,6 +1,6 @@
 ---
 title: Exploring Footers
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-09T15:04:21+00:00
 excerpt: This article explores the ways you can position footers using web standards, although the same techniques may be used to vertically position other elements.

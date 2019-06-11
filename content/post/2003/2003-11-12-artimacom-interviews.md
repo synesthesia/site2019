@@ -1,6 +1,6 @@
 ---
 title: Artima.com Interviews
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-12T16:55:04+00:00
 excerpt: Loads of useful stuff on programming

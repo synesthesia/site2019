@@ -1,6 +1,6 @@
 ---
 title: A List I Don’t Mind
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-07-12T10:49:47+00:00
 excerpt: |

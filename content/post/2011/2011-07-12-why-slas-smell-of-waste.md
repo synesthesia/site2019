@@ -1,6 +1,6 @@
 ---
 title: Why SLAs smell of waste
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2011-07-12T07:36:45+00:00
 slug: why-slas-smell-of-waste 

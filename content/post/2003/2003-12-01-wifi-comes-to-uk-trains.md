@@ -1,6 +1,6 @@
 ---
 title: Wifi comes to UK Trains
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-01T12:42:58+00:00
 slug: wifi-comes-to-uk-trains 

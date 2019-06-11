@@ -1,6 +1,6 @@
 ---
 title: Applying the Theory Of Constraints
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-12T13:10:19+00:00
 excerpt: "First practical steps in applying Goldratt's Theory of Constraints to real-life problems"

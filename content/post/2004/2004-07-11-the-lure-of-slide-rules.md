@@ -1,6 +1,6 @@
 ---
 title: The Lure of Slide Rules
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-11T14:47:14+00:00
 slug: the-lure-of-slide-rules 

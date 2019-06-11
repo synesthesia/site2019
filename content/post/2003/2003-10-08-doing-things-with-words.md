@@ -1,6 +1,6 @@
 ---
 title: Doing things with words
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-08T13:15:02+00:00
 excerpt: "Anne Galloway is Doing Things With Words 'But mostly I like thinking about the relationships between words, contexts and who we can - and cannot - be.'"

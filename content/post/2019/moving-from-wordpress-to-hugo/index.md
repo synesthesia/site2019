@@ -46,3 +46,7 @@ projects: []
 slug: removing-malicious-content-from-wordpress-posts 
 aliases: ["/worknotes/removing-malicious-content-from-wordpress-posts"]
 
+` find . -name "*.md" -exec sed -i 's|author: Julian|authors: [\"synesthesia\"]|g' {} \; `
+
+
+

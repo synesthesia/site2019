@@ -1,6 +1,6 @@
 ---
 title: Blogs, life, systems?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-25T11:21:59+00:00
 excerpt: Blogs as a form of "time-binding"

@@ -1,6 +1,6 @@
 ---
 title: Blogger’s block, collapsing facets and the number 150
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-30T00:02:08+00:00
 excerpt: "Joi Ito blames his 'blogger's block' on a growing awareness of his audience"

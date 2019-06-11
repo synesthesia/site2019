@@ -1,6 +1,6 @@
 ---
 title: London Atrocities
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-07-09T09:52:56+00:00
 slug: london-atrocities 

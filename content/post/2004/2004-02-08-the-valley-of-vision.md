@@ -1,6 +1,6 @@
 ---
 title: The Valley of Vision
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-08T21:04:43+00:00
 excerpt: Another day, another walk...

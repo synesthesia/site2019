@@ -1,6 +1,6 @@
 ---
 title: The Art of Getting Things Done
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-03T06:34:35+00:00
 slug: the-art-of-getting-things-done 

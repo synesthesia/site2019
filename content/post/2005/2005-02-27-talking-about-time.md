@@ -1,6 +1,6 @@
 ---
 title: Talking about Time
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-02-27T15:11:27+00:00
 slug: talking-about-time 

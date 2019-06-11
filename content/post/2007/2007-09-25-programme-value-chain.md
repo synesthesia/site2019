@@ -1,6 +1,6 @@
 ---
 title: Programme Value Chain
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-25T14:24:47+00:00
 slug: programme-value-chain 

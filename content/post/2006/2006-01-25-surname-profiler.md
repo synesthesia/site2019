@@ -1,6 +1,6 @@
 ---
 title: Surname Profiler
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-01-25T22:57:33+00:00
 slug: surname-profiler 

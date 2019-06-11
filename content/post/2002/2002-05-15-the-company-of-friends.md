@@ -1,6 +1,6 @@
 ---
 title: The Company of Friends
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-05-15T16:23:13+00:00
 slug: the-company-of-friends 

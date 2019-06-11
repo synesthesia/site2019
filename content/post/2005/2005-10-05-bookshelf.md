@@ -1,6 +1,6 @@
 ---
 title: Bookshelf
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-10-05T07:15:20+00:00
 slug: bookshelf 

@@ -1,6 +1,6 @@
 ---
 title: Personal Knowledge, Universal Knowledge
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-21T13:46:58+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: Delivering successful IT-enabled business change
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-05-20T10:15:54+00:00
 slug: delivering-successful-it-enabled-business-change 

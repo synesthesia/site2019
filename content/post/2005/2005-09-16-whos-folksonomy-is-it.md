@@ -1,6 +1,6 @@
 ---
 title: Whose folksonomy is it?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-16T07:00:36+00:00
 slug: whos-folksonomy-is-it 

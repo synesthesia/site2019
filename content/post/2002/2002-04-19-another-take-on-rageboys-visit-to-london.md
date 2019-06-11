@@ -1,6 +1,6 @@
 ---
 title: Another take on RageBoy’s visit to London
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-19T18:47:26+00:00
 slug: another-take-on-rageboys-visit-to-london 

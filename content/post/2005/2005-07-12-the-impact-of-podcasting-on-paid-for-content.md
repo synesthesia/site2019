@@ -1,6 +1,6 @@
 ---
 title: The Impact Of Podcasting On Paid-for Content
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-07-12T13:35:39+00:00
 excerpt: |

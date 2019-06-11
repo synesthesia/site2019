@@ -1,6 +1,6 @@
 ---
 title: Can absence make a team grow stronger
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-10T13:13:09+00:00
 excerpt: Can absence make a team grow stronger? Erik van Bekkum comments on HBR article about teams that work better from a distance.

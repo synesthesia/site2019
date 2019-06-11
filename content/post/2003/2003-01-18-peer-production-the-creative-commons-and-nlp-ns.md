@@ -1,6 +1,6 @@
 ---
 title: 'Peer Production, the Creative Commons and NLP  /  NS'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-18T15:19:28+00:00
 excerpt: Opinion piece advocating the application of ideas from peer-production efforts (e.g. Open Source) to the development of knowledge in the NLP and Neuro-Semantics fields

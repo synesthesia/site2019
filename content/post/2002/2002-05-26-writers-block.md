@@ -1,6 +1,6 @@
 ---
 title: Writer’s block?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-05-26T21:34:16+00:00
 slug: writers-block 

@@ -1,6 +1,6 @@
 ---
 title: Suburban Jungle
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-23T07:00:00+00:00
 slug: suburban-jungle 

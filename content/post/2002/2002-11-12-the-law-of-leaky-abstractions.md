@@ -1,6 +1,6 @@
 ---
 title: The Law of Leaky Abstractions
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-12T10:41:03+00:00
 excerpt: "learn how to do it manually first, then use the wizzy tool to save time"

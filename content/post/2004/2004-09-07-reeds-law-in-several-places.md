@@ -1,6 +1,6 @@
 ---
 title: Reed’s law in several places
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-07T19:15:56+00:00
 excerpt: |

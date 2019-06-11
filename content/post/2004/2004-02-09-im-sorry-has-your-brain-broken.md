@@ -1,6 +1,6 @@
 ---
 title: I’m sorry, has your brain broken?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-09T20:52:03+00:00
 excerpt: "Self-taught scientist Steve Grand built his own intelligent android. Now he's seeking intelligent life among the newsreaders, television producers and yoghurt advertisers who label things as 'science'"

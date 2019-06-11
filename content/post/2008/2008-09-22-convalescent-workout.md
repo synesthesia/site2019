@@ -1,6 +1,6 @@
 ---
 title: Convalescent Workout
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-22T15:17:29+00:00
 slug: convalescent-workout 

@@ -1,6 +1,6 @@
 ---
 title: The Neighbourhood
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-07T16:13:24+00:00
 excerpt: Use of GeoURL to find the neighbours

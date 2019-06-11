@@ -1,6 +1,6 @@
 ---
 title: Lean Programme Shaping – Finding the Value Stream
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-11-03T11:27:29+00:00
 excerpt: This is the second post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.

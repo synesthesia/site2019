@@ -1,6 +1,6 @@
 ---
 title: 'Site updates: MT-Textile, Wiki feed'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-23T13:49:26+00:00
 excerpt: Testing MT-Textile, also added feed of Wiki updates

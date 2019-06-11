@@ -1,6 +1,6 @@
 ---
 title: Playing the Live Jazz of Project Management
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-22T12:41:17+00:00
 excerpt: 'Ths similarities between project management and playing improvisational jazz [PDF file]'

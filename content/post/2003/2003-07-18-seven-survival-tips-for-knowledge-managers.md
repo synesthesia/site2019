@@ -1,6 +1,6 @@
 ---
 title: Seven Survival Tips for Knowledge Managers
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-18T17:30:15+00:00
 excerpt: '<a href="https://blogs.salon.com/0002007/">Dave Pollard</a> offers <a href="https://blogs.salon.com/0002007/2003/07/16.html#a312" title="How to Save the World">Seven Survival Tips for Knowledge Managers</a>'

@@ -1,6 +1,6 @@
 ---
 title: Ruby Garden
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-15T18:52:34+00:00
 excerpt: Ruby wiki...

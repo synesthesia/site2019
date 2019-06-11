@@ -1,6 +1,6 @@
 ---
 title: Links roundup for for 2008-03-20 through 2008-04-21
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-04-22T07:21:28+00:00
 slug: links-roundup-for-for-2008-03-20-through-2008-04-21 

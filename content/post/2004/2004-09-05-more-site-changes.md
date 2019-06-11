@@ -1,6 +1,6 @@
 ---
 title: More site changes
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-05T21:43:43+00:00
 slug: more-site-changes 

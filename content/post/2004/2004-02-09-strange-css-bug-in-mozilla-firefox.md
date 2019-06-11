@@ -1,6 +1,6 @@
 ---
 title: Strange CSS bug in Mozilla Firefox
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-09T18:26:49+00:00
 excerpt: Weird CSS bug in Firefox

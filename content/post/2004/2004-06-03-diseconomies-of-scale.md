@@ -1,6 +1,6 @@
 ---
 title: Diseconomies of Scale
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-03T06:55:53+00:00
 slug: diseconomies-of-scale 

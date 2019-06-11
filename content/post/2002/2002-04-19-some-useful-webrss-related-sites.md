@@ -1,6 +1,6 @@
 ---
 title: Some useful web/RSS related sites
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-19T13:15:09+00:00
 slug: some-useful-webrss-related-sites 

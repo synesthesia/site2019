@@ -1,6 +1,6 @@
 ---
 title: Update on linking blogs by category
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-15T11:36:12+00:00
 slug: update-on-linking-blogs-by-category 

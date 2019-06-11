@@ -1,6 +1,6 @@
 ---
 title: Federated Wiki
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2016-02-02T14:22:44+00:00
 slug: federated-wiki 

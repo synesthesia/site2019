@@ -1,6 +1,6 @@
 ---
 title: Gurteen Knowledge Conference and XKM
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-23T21:37:14+00:00
 excerpt: Pointers to Matt Mowers summaries of the Gurteen Knowledge conference and his eXtreme Knowledge Management wiki.

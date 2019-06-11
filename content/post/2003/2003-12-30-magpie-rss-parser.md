@@ -1,6 +1,6 @@
 ---
 title: Magpie RSS Parser
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-30T17:43:24+00:00
 excerpt: XML-based RSS parser in PHP

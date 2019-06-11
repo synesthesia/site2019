@@ -1,6 +1,6 @@
 ---
 title: A couple of tools
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-20T09:34:47+00:00
 excerpt: As requested by various people at Blogwalk, details of a couple of content tools I use / am investigating

@@ -1,6 +1,6 @@
 ---
 title: A guide to Theory of Constraints
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T14:24:02+00:00
 slug: a-guide-to-theory-of-constraints 

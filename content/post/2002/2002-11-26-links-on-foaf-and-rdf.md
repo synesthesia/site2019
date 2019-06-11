@@ -1,6 +1,6 @@
 ---
 title: Links on FOAF and RDF
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-26T19:46:36+00:00
 excerpt: Links about FOAF and RDF

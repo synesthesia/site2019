@@ -1,6 +1,6 @@
 ---
 title: GMail invites
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-24T09:01:35+00:00
 excerpt: 'I have some - comment here if you want one'

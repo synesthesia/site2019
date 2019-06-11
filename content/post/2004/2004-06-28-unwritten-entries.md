@@ -1,6 +1,6 @@
 ---
 title: Unwritten Entries
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-28T12:42:00+00:00
 slug: unwritten-entries 

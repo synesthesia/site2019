@@ -1,6 +1,6 @@
 ---
 title: Theory-in-Use meets Neuro-Semantics
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-17T23:29:30+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: 'Case Study: Using Agile: the QA perspective'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T17:12:07+00:00
 slug: case-study-using-agile-the-qa-perspective 

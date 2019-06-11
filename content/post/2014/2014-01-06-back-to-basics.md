@@ -1,6 +1,6 @@
 ---
 title: Back to basics
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2014-01-06T09:29:45+00:00
 slug: back-to-basics 

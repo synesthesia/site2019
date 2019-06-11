@@ -1,6 +1,6 @@
 ---
 title: The periodic table of dessert
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-23T19:16:20+00:00
 excerpt: |

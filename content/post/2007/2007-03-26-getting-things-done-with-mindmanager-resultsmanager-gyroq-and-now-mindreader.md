@@ -1,6 +1,6 @@
 ---
 title: Getting Things Done with Mindmanager, ResultsManager, GyroQ, and now MindReader
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-03-26T12:04:06+00:00
 slug: getting-things-done-with-mindmanager-resultsmanager-gyroq-and-now-mindreader 

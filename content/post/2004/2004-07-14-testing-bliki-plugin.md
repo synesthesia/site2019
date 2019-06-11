@@ -1,6 +1,6 @@
 ---
 title: Testing bliki plugin
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-14T22:11:41+00:00
 draft: true

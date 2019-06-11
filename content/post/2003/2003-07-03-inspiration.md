@@ -1,6 +1,6 @@
 ---
 title: Inspiration
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-03T13:04:22+00:00
 excerpt: Inspiring quotes from Jack Ricchiuto and Rilke

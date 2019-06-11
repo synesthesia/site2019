@@ -1,6 +1,6 @@
 ---
 title: Getting Things Done
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-02-28T22:00:30+00:00
 excerpt: "My experiences implementing David Allen's Getting Things Done method."

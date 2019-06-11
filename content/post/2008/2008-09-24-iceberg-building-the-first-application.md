@@ -1,6 +1,6 @@
 ---
 title: Iceberg – building the first application
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-24T10:52:33+00:00
 slug: iceberg-building-the-first-application 

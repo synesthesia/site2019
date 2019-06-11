@@ -1,6 +1,6 @@
 ---
 title: Writing Efficient CSS
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-12T17:03:08+00:00
 excerpt: "Learn some 'secrets' of efficient CSS coding, enabling you to pare that style sheet right down to the bare bones..."

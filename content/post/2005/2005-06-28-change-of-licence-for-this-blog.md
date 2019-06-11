@@ -1,6 +1,6 @@
 ---
 title: Change of Licence for This Blog
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-06-28T22:54:00+00:00
 slug: change-of-licence-for-this-blog 

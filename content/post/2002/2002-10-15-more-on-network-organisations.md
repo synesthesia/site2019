@@ -1,6 +1,6 @@
 ---
 title: More on Network Organisations
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-15T10:20:27+00:00
 slug: more-on-network-organisations 

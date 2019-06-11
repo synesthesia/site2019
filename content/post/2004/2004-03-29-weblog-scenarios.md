@@ -1,6 +1,6 @@
 ---
 title: Weblog Scenarios
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-29T16:14:10+00:00
 excerpt: Dale Pike identifies seven useful scenarios for weblogs in a professional knowledge context

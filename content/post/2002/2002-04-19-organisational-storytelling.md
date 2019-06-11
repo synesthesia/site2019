@@ -1,6 +1,6 @@
 ---
 title: Organisational Storytelling
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-19T13:27:27+00:00
 slug: organisational-storytelling 

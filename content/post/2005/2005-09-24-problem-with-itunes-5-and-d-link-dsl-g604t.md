@@ -1,6 +1,6 @@
 ---
 title: Problem with iTunes 5 and D-Link DSL-G604T
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-24T19:00:17+00:00
 slug: problem-with-itunes-5-and-d-link-dsl-g604t 

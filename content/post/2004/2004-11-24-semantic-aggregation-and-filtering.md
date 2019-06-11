@@ -1,6 +1,6 @@
 ---
 title: Semantic aggregation and filtering
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-24T22:25:00+00:00
 excerpt: Building on some ideas from Dale Pike about the usefulness of semantic focus when looking at both technology and micro-content I propose some specific additions to our knowledge-management tools.

@@ -1,6 +1,6 @@
 ---
 title: NLP Anchors
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-11T15:20:23+00:00
 slug: nlp-anchors 

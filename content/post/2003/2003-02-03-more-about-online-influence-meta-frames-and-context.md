@@ -1,6 +1,6 @@
 ---
 title: More about online influence, meta-frames and context
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-03T17:13:05+00:00
 slug: more-about-online-influence-meta-frames-and-context 

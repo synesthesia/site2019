@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0 and Beyond: Social is Good for Business'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T12:50:25+00:00
 slug: web-20-and-beyond-social-is-good-for-business 

@@ -1,6 +1,6 @@
 ---
 title: Parsing FOAF with PHP
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-07T18:40:27+00:00
 excerpt: An introduction to parsing FOAF and RDF using the RAP parser for PHP

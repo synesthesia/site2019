@@ -1,6 +1,6 @@
 ---
 title: Internet and Democracy
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-10T00:50:43+00:00
 excerpt: Democracy is in crisis. New technology gives the means for the authentic voice of the people to be heard, but it will still require changes to institutions.

@@ -1,6 +1,6 @@
 ---
 title: Agile Programme Shaping – First Thoughts
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-10-25T12:51:35+00:00
 excerpt: This is the first of a number of exploratory posts to express and refine my thinking on the subject. I want to pull together a selection of experiences with programme shaping by looking at them through the filter of lean/agile theory

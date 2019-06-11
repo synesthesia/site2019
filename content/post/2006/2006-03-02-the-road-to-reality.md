@@ -1,6 +1,6 @@
 ---
 title: The Road to Reality
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-02T09:11:00+00:00
 slug: the-road-to-reality 

@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0: Social Media In Action'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-06T11:32:00+00:00
 slug: web-20-social-media-in-action 

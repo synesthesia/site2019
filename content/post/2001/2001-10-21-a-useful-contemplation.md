@@ -1,6 +1,6 @@
 ---
 title: A Useful Contemplation?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-21T21:40:32+00:00
 slug: a-useful-contemplation 

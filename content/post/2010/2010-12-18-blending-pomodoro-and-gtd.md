@@ -1,6 +1,6 @@
 ---
 title: Blending Pomodoro and GTD
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2010-12-18T14:14:05+00:00
 slug: blending-pomodoro-and-gtd 

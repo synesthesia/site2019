@@ -1,6 +1,6 @@
 ---
 title: Account based Marketing and Dynamics CRM
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2017-02-09T09:31:52+00:00
 slug: account-based-marketing-and-dynamics-crm 

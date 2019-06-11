@@ -1,6 +1,6 @@
 ---
 title: Under Reconstruction
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-10-13T19:14:51+00:00
 slug: under-reconstruction 

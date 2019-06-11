@@ -1,6 +1,6 @@
 ---
 title: Iceberg – other thoughts
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-10-08T17:54:05+00:00
 slug: iceberg-other-thoughts 

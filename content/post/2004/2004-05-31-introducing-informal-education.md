@@ -1,6 +1,6 @@
 ---
 title: introducing informal education
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-31T22:38:26+00:00
 slug: introducing-informal-education 

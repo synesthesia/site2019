@@ -1,6 +1,6 @@
 ---
 title: Testing bubbl.us plugin for WordPress
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-03-29T22:25:14+00:00
 slug: testing-bubblus-plugin-for-wordpress 

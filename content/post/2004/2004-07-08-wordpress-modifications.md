@@ -1,6 +1,6 @@
 ---
 title: WordPress Modifications
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-08T10:36:23+00:00
 slug: wordpress-modifications 

@@ -1,6 +1,6 @@
 ---
 title: Who Owns My Social Graph?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-10T14:00:56+00:00
 slug: who-owns-my-social-graph 

@@ -1,6 +1,6 @@
 ---
 title: Ten Mistakes Writers Don’t See
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-26T16:39:48+00:00
 excerpt: "Pat Holt says 'Like many editorial consultants, I've been concerned about the amount of time I've been spending on easy fixes that the author shouldn't have to pay for.'"

@@ -1,6 +1,6 @@
 ---
 title: Iceberg Workflow Automation Platform – Installation
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-24T10:22:12+00:00
 slug: iceberg-workflow-automation-platform-installation 

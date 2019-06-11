@@ -1,6 +1,6 @@
 ---
 title: The physics of high heels
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-19T13:10:25+00:00
 slug: the-physics-of-high-heels 

@@ -1,6 +1,6 @@
 ---
 title: Collaborative Note-taking
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-08T11:45:27+00:00
 slug: collaborative-note-taking 

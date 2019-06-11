@@ -1,6 +1,6 @@
 ---
 title: More on Meta States Around Eldred
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-01T14:57:39+00:00
 excerpt: 'Progress update on mapping meta-states of the copyright  v. creative commons debate'

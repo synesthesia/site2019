@@ -1,6 +1,6 @@
 ---
 title: Acceptance Test Driven Development
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T20:27:31+00:00
 slug: acceptance-test-driven-development 

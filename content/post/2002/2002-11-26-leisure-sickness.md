@@ -1,6 +1,6 @@
 ---
 title: Leisure Sickness
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-26T20:44:57+00:00
 slug: leisure-sickness 

@@ -1,6 +1,6 @@
 ---
 title: Long break
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-05-09T09:58:58+00:00
 slug: long-break 

@@ -1,6 +1,6 @@
 ---
 title: Comment on “Stop Blaming the Tools when Collaboration Fails”
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2017-02-06T10:27:24+00:00
 slug: comment-on-stop-blaming-the-tools-when-collaboration-fails 

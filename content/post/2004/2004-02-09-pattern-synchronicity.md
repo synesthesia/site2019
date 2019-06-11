@@ -1,6 +1,6 @@
 ---
 title: Pattern Synchronicity
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-09T13:41:11+00:00
 excerpt: Flemming and I have both been thinking about patterns.

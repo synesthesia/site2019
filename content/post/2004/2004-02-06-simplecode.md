@@ -1,6 +1,6 @@
 ---
 title: SimpleCode
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-06T11:15:08+00:00
 excerpt: Perl script to turn ordinary markup into entity-coded XHTML markup

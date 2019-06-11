@@ -1,6 +1,6 @@
 ---
 title: Lean Programme Shaping – Amplifying Learning
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-11-19T11:30:09+00:00
 excerpt: This is the fifth post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.

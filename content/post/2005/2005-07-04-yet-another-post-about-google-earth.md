@@ -1,6 +1,6 @@
 ---
 title: Yet another post about Google Earth
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-07-04T21:21:03+00:00
 excerpt: 'Lots of people have raved about <a href="https://earth.google.com/">Google Earth</a> (<a href="https://weblog.garyturner.net/archives/001769.html">Gary</a> for one), but for me one of the coolest features has to be the ability to overlay your own graphics which then become locked in place and move with the earth model...'

@@ -1,6 +1,6 @@
 ---
 title: The Applied Science of Forgiveness?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-11-21T22:43:04+00:00
 slug: the-applied-science-of-forgiveness 

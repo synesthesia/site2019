@@ -1,6 +1,6 @@
 ---
 title: Wiki upgrade and other changes
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-10T20:08:15+00:00
 excerpt: |

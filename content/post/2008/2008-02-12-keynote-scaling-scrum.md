@@ -1,6 +1,6 @@
 ---
 title: 'Keynote: Scaling Scrum'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T15:30:59+00:00
 slug: keynote-scaling-scrum 

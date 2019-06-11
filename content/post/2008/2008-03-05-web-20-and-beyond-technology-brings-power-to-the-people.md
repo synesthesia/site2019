@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0 and Beyond: Technology Brings Power To The People'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T15:11:05+00:00
 slug: web-20-and-beyond-technology-brings-power-to-the-people 

@@ -1,6 +1,6 @@
 ---
 title: Which comes first, technology or social norms?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-29T23:49:59+00:00
 excerpt: Joi Ito asks the question...

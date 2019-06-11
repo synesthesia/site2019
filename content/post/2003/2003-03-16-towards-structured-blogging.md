@@ -1,6 +1,6 @@
 ---
 title: Towards Structured Blogging
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-03-16T19:43:51+00:00
 slug: towards-structured-blogging 

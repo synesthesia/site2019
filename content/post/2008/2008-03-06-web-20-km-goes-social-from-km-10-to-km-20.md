@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0: KM Goes Social: From KM 1.0 to KM 2.0'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-06T10:14:37+00:00
 slug: web-20-km-goes-social-from-km-10-to-km-20 

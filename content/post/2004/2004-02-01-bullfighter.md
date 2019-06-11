@@ -1,6 +1,6 @@
 ---
 title: Bullfighter
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-01T11:58:54+00:00
 excerpt: Stripping The Bull Out Of Business. A consulting jargon fighter from Deloitte

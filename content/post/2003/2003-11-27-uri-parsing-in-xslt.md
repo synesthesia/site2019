@@ -1,6 +1,6 @@
 ---
 title: URI Parsing in XSLT
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-27T13:33:43+00:00
 excerpt: some named templates, which recursively call themselves to process the URI piece-by-piece

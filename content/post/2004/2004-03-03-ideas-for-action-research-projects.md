@@ -1,6 +1,6 @@
 ---
 title: Ideas for Action Research Projects
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-03T19:14:52+00:00
 excerpt: |

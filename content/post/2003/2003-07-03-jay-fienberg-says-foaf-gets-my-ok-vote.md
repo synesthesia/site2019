@@ -1,6 +1,6 @@
 ---
 title: Jay Fienberg says “FOAF gets my OK vote”
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-03T17:31:22+00:00
 excerpt: Useful collection of links on FOAFy things

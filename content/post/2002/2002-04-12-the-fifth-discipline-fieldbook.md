@@ -1,6 +1,6 @@
 ---
 title: The Fifth Discipline Fieldbook
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-12T14:21:37+00:00
 slug: the-fifth-discipline-fieldbook 

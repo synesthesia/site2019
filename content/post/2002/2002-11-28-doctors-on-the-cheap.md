@@ -1,6 +1,6 @@
 ---
 title: Doctors on the cheap
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-28T12:20:35+00:00
 excerpt: News story on how one man is producing doctors for the UK NHS at 2% of the normal cost

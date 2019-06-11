@@ -1,6 +1,6 @@
 ---
 title: Neurobiological basis of romantic love
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-27T13:36:17+00:00
 excerpt: In new studies, scientists are discovering the neurobiological underpinnings of romantic love.

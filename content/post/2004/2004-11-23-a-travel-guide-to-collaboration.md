@@ -1,6 +1,6 @@
 ---
 title: A Travel Guide To Collaboration
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-23T13:31:31+00:00
 slug: a-travel-guide-to-collaboration 

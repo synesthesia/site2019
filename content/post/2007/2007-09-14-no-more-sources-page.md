@@ -1,6 +1,6 @@
 ---
 title: No more Sources page
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-14T12:51:44+00:00
 slug: no-more-sources-page 

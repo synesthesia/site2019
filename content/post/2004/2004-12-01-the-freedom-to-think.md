@@ -1,6 +1,6 @@
 ---
 title: The freedom to think
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-01T11:19:20+00:00
 excerpt: On the value of blogging new-to-me ideas even if others have had them before

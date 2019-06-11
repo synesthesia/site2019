@@ -1,6 +1,6 @@
 ---
 title: 'CSS Design: Going to Print'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-01T13:43:09+00:00
 excerpt: One of the wonderful things about CSS is that it allows authors to create media-specific styles for a single document.

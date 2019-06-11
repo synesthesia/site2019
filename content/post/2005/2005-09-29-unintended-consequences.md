@@ -1,6 +1,6 @@
 ---
 title: Unintended consequences…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-29T06:45:19+00:00
 slug: unintended-consequences 

@@ -1,6 +1,6 @@
 ---
 title: European Software Patents
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-14T08:01:36+00:00
 draft: true

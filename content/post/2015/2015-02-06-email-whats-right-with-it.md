@@ -1,6 +1,6 @@
 ---
 title: Email – what’s right with it?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-02-06T12:58:19+00:00
 slug: email-whats-right-with-it 

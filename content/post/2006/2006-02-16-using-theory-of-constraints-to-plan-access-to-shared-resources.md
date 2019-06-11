@@ -1,6 +1,6 @@
 ---
 title: Using Theory of Constraints to Plan Access To Shared Resources
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-02-16T13:57:40+00:00
 excerpt: Clarke Ching points to a document from Network Rail showing the application of TOC to planning shared use of a critical piece of infrastructure. Lessons here for other industries I think...

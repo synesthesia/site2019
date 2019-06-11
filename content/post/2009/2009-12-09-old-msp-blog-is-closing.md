@@ -1,6 +1,6 @@
 ---
 title: Old MSP Blog is Closing
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-12-09T08:17:50+00:00
 excerpt: "I'm closing one of my old blogs, and will be re-directing content to a category on this blog."

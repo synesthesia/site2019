@@ -1,6 +1,6 @@
 ---
 title: For once, a tale of good customer service
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-27T07:11:33+00:00
 slug: for-once-a-tale-of-good-customer-service 

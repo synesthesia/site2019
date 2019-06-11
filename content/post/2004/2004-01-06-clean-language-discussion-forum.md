@@ -1,6 +1,6 @@
 ---
 title: Clean Language discussion forum
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-06T17:41:57+00:00
 excerpt: 'Phil Swallow has pointed me to his new <a href="www.cleanforum.com">discussion forum</a> for exploring Metaphor, Clean Language, Clean Space and Symbolic Modelling.  I quote a couple of definitions of Clean Language, and also cite a critique of the approach from a Neuro-Semantics / Meta-States perspective.'

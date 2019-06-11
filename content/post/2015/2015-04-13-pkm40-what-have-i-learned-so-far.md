@@ -1,6 +1,6 @@
 ---
 title: PKM40 – what have I learned so far?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-04-13T08:15:56+00:00
 excerpt: What have I learned so far on the PKM 40 course? What do I want to achieve from the rest of the course? What do I want to do differently around personal knowledge management?

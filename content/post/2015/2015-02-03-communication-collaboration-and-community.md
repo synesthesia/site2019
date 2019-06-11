@@ -1,6 +1,6 @@
 ---
 title: Communication, Collaboration and Community
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-02-03T14:30:02+00:00
 slug: communication-collaboration-and-community 

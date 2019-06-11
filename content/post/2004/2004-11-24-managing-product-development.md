@@ -1,6 +1,6 @@
 ---
 title: Managing Product Development
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-24T11:22:59+00:00
 excerpt: 'Clarke Ching points to a great article by Johanna Rothman on writing - especially the importance of knowing if you are an extravert!'

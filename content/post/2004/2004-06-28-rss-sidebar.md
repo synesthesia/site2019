@@ -1,6 +1,6 @@
 ---
 title: RSS sidebar
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-28T11:47:05+00:00
 slug: rss-sidebar 

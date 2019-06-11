@@ -1,6 +1,6 @@
 ---
 title: Looking forward to Agile Approaches for Delivering Business Value
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-08T11:47:33+00:00
 slug: looking-forward-to-agile-approaches-for-delivering-business-value 

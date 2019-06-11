@@ -1,6 +1,6 @@
 ---
 title: Social Origins of Good Ideas
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-28T13:26:15+00:00
 slug: social-origins-of-good-ideas 

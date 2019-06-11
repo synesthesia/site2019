@@ -1,6 +1,6 @@
 ---
 title: Reinventing Radio
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-16T10:19:21+00:00
 excerpt: |

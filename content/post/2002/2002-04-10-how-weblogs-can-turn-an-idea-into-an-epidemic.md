@@ -1,6 +1,6 @@
 ---
 title: How Weblogs Can Turn an Idea into an Epidemic
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-10T10:01:43+00:00
 slug: how-weblogs-can-turn-an-idea-into-an-epidemic 

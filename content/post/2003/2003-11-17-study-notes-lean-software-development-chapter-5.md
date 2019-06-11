@@ -1,6 +1,6 @@
 ---
 title: 'Study notes  – “Lean Software Development” Chapter 5'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: -001-11-30T00:00:00+00:00
 excerpt: 'Summary notes from chapter 5 of <a href="https://www.amazon.co.uk/exec/obidos/ASIN/0321150783/ref%3Dase%5Ffivegocrazyinmid">Lean Software Development</a> by Mary and Tom Poppendieck'

@@ -1,6 +1,6 @@
 ---
 title: A weirdness with xunit
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2015-10-01T15:31:27+00:00
 excerpt: Today was rebuilding a solution that had been updated to xunit2, and kept getting random test failures, usually with some kind of conflict with Rhino Mocks. The fix seemed to be to turn off the parallel testing.

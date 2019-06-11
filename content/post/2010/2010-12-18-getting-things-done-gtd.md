@@ -1,6 +1,6 @@
 ---
 title: Getting Things Done (GTD)
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2010-12-18T13:57:00+00:00
 excerpt: Why I like Nozbe for Getting Things Done

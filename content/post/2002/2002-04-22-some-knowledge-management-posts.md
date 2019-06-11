@@ -1,6 +1,6 @@
 ---
 title: Some Knowledge Management posts
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-22T23:05:14+00:00
 slug: some-knowledge-management-posts 

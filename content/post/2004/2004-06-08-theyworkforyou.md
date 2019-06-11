@@ -1,6 +1,6 @@
 ---
 title: TheyWorkForYou
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-08T07:15:31+00:00
 excerpt: "Public beta of a new site that let's you find out your MP's voting record, what he/she has said in various debates etc."

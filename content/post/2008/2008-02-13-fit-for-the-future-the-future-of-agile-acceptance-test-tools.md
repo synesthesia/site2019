@@ -1,6 +1,6 @@
 ---
 title: 'Fit for the Future: The future of Agile Acceptance Test Tools'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T12:04:17+00:00
 slug: fit-for-the-future-the-future-of-agile-acceptance-test-tools 

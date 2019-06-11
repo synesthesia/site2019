@@ -1,6 +1,6 @@
 ---
 title: Testing Compendium and the Illusion of Explanatory Depth
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-29T23:13:05+00:00
 excerpt: 'Trying out the Compendium software leads to a speculation about how little most of us  normally dig into a given area of knowledge...'

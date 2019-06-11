@@ -1,6 +1,6 @@
 ---
 title: Integrated Quicklinks Tutorial
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-07T11:36:06+00:00
 excerpt: A brief tutorial for MoveableType on combining regular weblog entries with quicklinks (basically, entries from two blogs each using a different template) into one column.

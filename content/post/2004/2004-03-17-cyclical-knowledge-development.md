@@ -1,6 +1,6 @@
 ---
 title: Cyclical knowledge development
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-17T13:14:07+00:00
 slug: cyclical-knowledge-development 

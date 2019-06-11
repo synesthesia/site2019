@@ -1,6 +1,6 @@
 ---
 title: Developing Deliverable Strategies – Trams Study 3
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-05-09T19:11:00+00:00
 slug: developing-deliverable-strategies-trams-study-3 

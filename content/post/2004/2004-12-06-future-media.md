@@ -1,6 +1,6 @@
 ---
 title: Future Media
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-06T12:49:41+00:00
 excerpt: IBM have released an interesting view of the Media in 2010 but it still assumes there is a role for "trusted brand" intermediaries.

@@ -1,6 +1,6 @@
 ---
 title: ILAs shut down
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-25T22:37:46+00:00
 slug: ilas-shut-downthe-uk-government 

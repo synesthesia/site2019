@@ -1,6 +1,6 @@
 ---
 title: Project Rhythms
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-03T17:45:55+00:00
 slug: project-rhythms 

@@ -1,6 +1,6 @@
 ---
 title: 'The up- and down-sides of the cloud?'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-07-21T08:34:39+00:00
 slug: the-up-and-down-sides-of-the-cloud 

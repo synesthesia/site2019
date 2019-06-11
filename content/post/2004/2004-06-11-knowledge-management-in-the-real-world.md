@@ -1,6 +1,6 @@
 ---
 title: Knowledge Management in the Real World
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T13:20:01+00:00
 slug: knowledge-management-in-the-real-world 

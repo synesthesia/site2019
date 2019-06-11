@@ -1,6 +1,6 @@
 ---
 title: Someone else has the same problem about blogging
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-09-26T06:15:30+00:00
 slug: someone-else-has-the-same-problem-about-blogging 

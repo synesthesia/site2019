@@ -1,6 +1,6 @@
 ---
 title: Showing your face
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-03T18:58:31+00:00
 slug: showing-your-face 

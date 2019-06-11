@@ -1,6 +1,6 @@
 ---
 title: The boundaries of GTD
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-11T12:34:27+00:00
 slug: the-boundaries-of-gtd 

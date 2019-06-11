@@ -1,6 +1,6 @@
 ---
 title: Project Portfolio Links
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-02T19:05:51+00:00
 excerpt: Frank Patrick has collected a whole bunch of useful links on Project Portfolio Management

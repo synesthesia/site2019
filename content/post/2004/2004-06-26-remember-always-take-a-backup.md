@@ -1,6 +1,6 @@
 ---
 title: Remember, always take a backup
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-26T18:00:24+00:00
 slug: remember-always-take-a-backup 

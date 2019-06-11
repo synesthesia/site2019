@@ -1,6 +1,6 @@
 ---
 title: Open Content and Just-in-Time Books
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-28T12:05:51+00:00
 slug: open-content-and-just-in-time-books 

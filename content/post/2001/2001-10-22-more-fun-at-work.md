@@ -1,6 +1,6 @@
 ---
 title: More fun at work…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-22T11:51:01+00:00
 slug: more-fun-at-work 

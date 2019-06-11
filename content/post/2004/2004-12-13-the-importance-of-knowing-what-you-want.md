@@ -1,6 +1,6 @@
 ---
 title: The importance of knowing what you want
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-13T22:30:33+00:00
 slug: the-importance-of-knowing-what-you-want 

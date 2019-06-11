@@ -1,6 +1,6 @@
 ---
 title: The Boy Outside the Classroom
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-13T21:26:03+00:00
 excerpt: Observations by Denny Coates about seperateness remind me of an image from my past and the things it has changed into.

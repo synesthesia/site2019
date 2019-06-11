@@ -1,6 +1,6 @@
 ---
 title: Genes for depression are gender specific
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-08T01:02:06+00:00
 slug: genes-for-depression-are-gender-specific 

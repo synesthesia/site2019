@@ -1,6 +1,6 @@
 ---
 title: Knowledge Sharing Environments
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-23T16:48:16+00:00
 slug: knowledge-sharing-environments 

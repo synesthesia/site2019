@@ -1,6 +1,6 @@
 ---
 title: Enterprise Architecture
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-08T08:51:00+00:00
 excerpt: 'On Monday this week I sent myself on a one day course from "Architecting The Enterprise":https://www.architecting-the-enterprise.com/  -  a management introduction to the "TOGAF":https://www.opengroup.org/architecture/togaf/ enterprise architecture framework.'

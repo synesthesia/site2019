@@ -1,6 +1,6 @@
 ---
 title: Quality Management Strategies – 4
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-25T16:19:59+00:00
 slug: quality-management-strategies-4 

@@ -1,6 +1,6 @@
 ---
 title: Saturday night, London Town
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-20T19:34:08+00:00
 slug: saturday-night-london-town 

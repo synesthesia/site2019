@@ -1,6 +1,6 @@
 ---
 title: Flow, or not
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-08-29T13:50:47+00:00
 slug: flow-or-not 

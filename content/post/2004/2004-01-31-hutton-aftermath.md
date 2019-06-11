@@ -1,6 +1,6 @@
 ---
 title: Hutton Aftermath
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-31T15:31:58+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: Broadcatching Roundup
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T12:48:08+00:00
 slug: broadcatching-roundup 

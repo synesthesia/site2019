@@ -1,6 +1,6 @@
 ---
 title: SAP management blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-28T17:53:52+00:00
 excerpt: 'Even SAP have <a href="https://www50.sap.com/community/pub/blogs.aspx">blogs</a> now.'

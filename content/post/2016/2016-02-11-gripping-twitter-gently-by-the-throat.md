@@ -1,6 +1,6 @@
 ---
 title: Gripping Twitter gently by the throat
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2016-02-11T09:05:52+00:00
 excerpt: Taking control of the Twitter stream by moving my activity to lists... (in progress)

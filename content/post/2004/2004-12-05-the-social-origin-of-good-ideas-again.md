@@ -1,6 +1,6 @@
 ---
 title: The Social Origin Of Good Ideas (again)
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-05T17:17:20+00:00
 excerpt: I finally get around to reading the Burt paper on the Social Origin of Good Ideas.

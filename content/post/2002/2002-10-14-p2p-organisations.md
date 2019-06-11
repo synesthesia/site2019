@@ -1,6 +1,6 @@
 ---
 title: P2P Organisations
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-14T12:41:04+00:00
 slug: p2p-organisations 

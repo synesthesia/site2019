@@ -1,6 +1,6 @@
 ---
 title: Technology Predictor Success Matrix
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-14T21:43:26+00:00
 excerpt: 'Tim Bray: This is the first in a series of essays on a simple but important question: Which new technologies will make it, and which will fail?'

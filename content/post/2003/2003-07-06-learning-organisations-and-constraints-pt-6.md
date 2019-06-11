@@ -1,6 +1,6 @@
 ---
 title: Learning Organisations and Constraints pt 6
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-06T11:31:03+00:00
 excerpt: Extending the Current Reality Tree to address clarity reservations...

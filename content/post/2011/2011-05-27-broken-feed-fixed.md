@@ -1,6 +1,6 @@
 ---
 title: Broken feed fixed
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2011-05-27T10:30:06+00:00
 slug: broken-feed-fixed 

@@ -1,6 +1,6 @@
 ---
 title: Why wiki doesn’t work – one person’s experience
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-10-28T21:05:39+00:00
 excerpt: |

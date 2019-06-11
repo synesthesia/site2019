@@ -1,6 +1,6 @@
 ---
 title: The Document Triangle
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-12T10:51:21+00:00
 excerpt: The interdependence of the structure, information and presentation dimensions

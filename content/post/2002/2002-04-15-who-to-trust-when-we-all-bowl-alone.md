@@ -1,6 +1,6 @@
 ---
 title: Who to trust when we all bowl alone?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-15T15:51:56+00:00
 slug: who-to-trust-when-we-all-bowl-alone 

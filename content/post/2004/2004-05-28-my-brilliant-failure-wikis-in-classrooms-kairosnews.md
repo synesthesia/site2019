@@ -1,6 +1,6 @@
 ---
 title: 'My Brilliant Failure: Wikis In Classrooms | Kairosnews'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-28T16:51:59+00:00
 slug: my-brilliant-failure-wikis-in-classrooms-kairosnews 

@@ -1,6 +1,6 @@
 ---
 title: The Emergence of CI
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-03T21:33:46+00:00
 excerpt: George Por offers an online experiment to explore the factors contributing to the growth of collective intelligence

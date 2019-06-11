@@ -1,6 +1,6 @@
 ---
 title: An unremarkable coincidence
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-04-29T11:56:45+00:00
 slug: an-unremarkable-coincidence 

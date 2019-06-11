@@ -1,6 +1,6 @@
 ---
 title: Living “on purpose”
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-19T14:55:15+00:00
 slug: living-on-purpose 

@@ -1,6 +1,6 @@
 ---
 title: The Science of Scrunch
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-05T16:12:35+00:00
 slug: the-science-of-scrunch 

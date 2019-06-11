@@ -1,6 +1,6 @@
 ---
 title: Trying a gym class – BodyPump
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-11T12:22:39+00:00
 slug: trying-a-gym-class-bodypump 

@@ -1,6 +1,6 @@
 ---
 title: Footprints in cyberspace
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-09-25T23:51:54+00:00
 slug: footprints-in-cyberspace 

@@ -1,6 +1,6 @@
 ---
 title: Water – it’s not rocket science!
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-11T12:30:51+00:00
 slug: water-its-not-rocket-science 

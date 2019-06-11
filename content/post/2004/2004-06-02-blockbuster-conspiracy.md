@@ -1,6 +1,6 @@
 ---
 title: Blockbuster Conspiracy
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-02T09:49:23+00:00
 slug: blockbuster-conspiracy 

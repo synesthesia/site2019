@@ -1,6 +1,6 @@
 ---
 title: The Phenomenology of Synaesthesia
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-30T11:46:47+00:00
 excerpt: PDF of paper by V.S. Ramachandran and E.M. Hubbard

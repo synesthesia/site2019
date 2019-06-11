@@ -1,6 +1,6 @@
 ---
 title: iSociety Report on Technology in UK workplaces
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-25T11:05:49+00:00
 excerpt: Recent iSociety report on the state of IT in UK industry.

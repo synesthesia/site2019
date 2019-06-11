@@ -1,6 +1,6 @@
 ---
 title: Is it madness or brilliance or both?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-18T18:40:18+00:00
 slug: is-it-madness-or-brilliance-or-both 

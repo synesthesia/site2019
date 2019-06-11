@@ -1,6 +1,6 @@
 ---
 title: 'Boyd & Military Strategy'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-10T13:38:24+00:00
 excerpt: Collection of papers by John Boyd (of OODA fame)

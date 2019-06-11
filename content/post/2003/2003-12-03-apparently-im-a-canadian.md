@@ -1,6 +1,6 @@
 ---
 title: Apparently I’m a Canadian
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-03T20:07:49+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: 'A Square Peg in a Round Hole: Agile and fixed-price contracts'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T14:41:46+00:00
 slug: a-square-peg-in-a-round-hole-agile-and-fixed-price-contracts 

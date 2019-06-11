@@ -1,6 +1,6 @@
 ---
 title: Web 2.0 and Beyond – Social Computing and the Knowledge-Powered Enterprise
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T11:41:57+00:00
 slug: web-20-and-beyond-social-computing-and-the-knowledge-powered-enterprise 

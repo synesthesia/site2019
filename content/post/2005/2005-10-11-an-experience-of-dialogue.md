@@ -1,6 +1,6 @@
 ---
 title: An experience of Dialogue
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-10-11T20:43:12+00:00
 excerpt: 'I describe an experimental evening of Bohmian Dialogue, co-hosted by <a href="https://www.johnniemoore.com/blog">Johnnie Moore</a>, Alok Singh and Mark Hodge.'

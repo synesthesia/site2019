@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0: Who’s Afraid of Identity?'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-06T14:01:22+00:00
 slug: web-20-whos-afraid-of-identity 

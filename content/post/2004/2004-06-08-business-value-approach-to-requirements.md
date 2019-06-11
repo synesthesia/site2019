@@ -1,6 +1,6 @@
 ---
 title: Business value approach to requirements
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-08T16:49:16+00:00
 slug: business-value-approach-to-requirements 

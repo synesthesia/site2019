@@ -1,6 +1,6 @@
 ---
 title: Hire talent and passion over skill and experience
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-10T14:26:01+00:00
 excerpt: The importance of looking beyond skills and competencies in recruitment.

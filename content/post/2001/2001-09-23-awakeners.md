@@ -1,6 +1,6 @@
 ---
 title: Awakeners
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-09-23T16:42:23+00:00
 slug: awakeners 

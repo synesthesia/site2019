@@ -1,6 +1,6 @@
 ---
 title: New Gym, New Start
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-09T18:00:00+00:00
 slug: new-gym-new-start 

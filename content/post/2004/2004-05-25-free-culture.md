@@ -1,6 +1,6 @@
 ---
 title: Free Culture
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-25T00:42:03+00:00
 excerpt: Suw Charman has an excellent post on the whole Lawrence Lessig "Free Culture" thing. Drawing on that I start to bounce around a few thoughts about the factors that differentiate areas receptive to the Creative Commons idea and ponder how to link in the commercial needs of large media companies...

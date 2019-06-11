@@ -1,6 +1,6 @@
 ---
 title: Where to intervene in a system
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-08-31T15:08:21+00:00
 slug: where-to-intervene-in-a-system 

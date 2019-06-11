@@ -1,6 +1,6 @@
 ---
 title: Hypertasking
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-08T08:40:12+00:00
 slug: hypertasking 

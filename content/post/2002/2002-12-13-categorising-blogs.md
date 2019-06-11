@@ -1,6 +1,6 @@
 ---
 title: Categorising Blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-13T10:31:56+00:00
 excerpt: Hammersley, Azhar and others grapple with linking blogs by category

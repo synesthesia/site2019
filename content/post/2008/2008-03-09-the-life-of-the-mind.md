@@ -1,6 +1,6 @@
 ---
 title: The Life Of The Mind
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-09T17:15:53+00:00
 slug: the-life-of-the-mind 

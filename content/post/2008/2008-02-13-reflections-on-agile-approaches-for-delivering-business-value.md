@@ -1,6 +1,6 @@
 ---
 title: Reflections on Agile Approaches for Delivering Business Value
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T20:34:47+00:00
 slug: reflections-on-agile-approaches-for-delivering-business-value 

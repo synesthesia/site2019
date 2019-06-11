@@ -1,6 +1,6 @@
 ---
 title: 'Selectutorial: CSS selectors'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-01T21:44:14+00:00
 excerpt: |

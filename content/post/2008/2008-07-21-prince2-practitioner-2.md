@@ -1,6 +1,6 @@
 ---
 title: PRINCE2 Practitioner
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-07-21T15:25:08+00:00
 slug: prince2-practitioner-2 

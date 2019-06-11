@@ -1,6 +1,6 @@
 ---
 title: Quantum Theory of Trust
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-10T19:15:00+00:00
 excerpt: "Professor Karen Stephenson's theory"

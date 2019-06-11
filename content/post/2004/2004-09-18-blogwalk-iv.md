@@ -1,6 +1,6 @@
 ---
 title: Blogwalk IV
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-18T09:30:36+00:00
 excerpt: 'Had a fantastic day at Blogwalk IV - more posts to follow over the next few days.'

@@ -1,6 +1,6 @@
 ---
 title: Lean Project Management – it’s about what you notice
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-24T12:34:42+00:00
 slug: lean-project-management-its-about-what-you-notice 

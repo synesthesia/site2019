@@ -1,6 +1,6 @@
 ---
 title: Is knowledge work improvable?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-07T13:13:39+00:00
 excerpt: Melding process and organic approaches to the improvement of knowledge-creating processes

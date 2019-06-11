@@ -1,6 +1,6 @@
 ---
 title: Zempt – multi platform posting for Moveable Type
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-07T15:39:31+00:00
 excerpt: Zempt, a multi-platform multi-blog interface to MoveableType

@@ -1,6 +1,6 @@
 ---
 title: Pattern Languages and Business Strategy
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-06-28T22:10:21+00:00
 slug: pattern-languages-and-business-strategy 

@@ -1,6 +1,6 @@
 ---
 title: Library Addition – Benefits Realisation Management
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-10-01T09:26:26+00:00
 slug: library-addition-benefits-realisation-management 

@@ -1,6 +1,6 @@
 ---
 title: Some other Blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-05-26T23:06:47+00:00
 slug: some-other-blogs 

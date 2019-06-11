@@ -1,6 +1,6 @@
 ---
 title: Shopping around for DVD rental by post
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-10T12:04:51+00:00
 slug: shopping-around-for-dvd-rental-by-post 

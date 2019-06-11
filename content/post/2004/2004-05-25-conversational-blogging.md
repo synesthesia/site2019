@@ -1,6 +1,6 @@
 ---
 title: Conversational Blogging
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-25T21:22:16+00:00
 slug: conversational-blogging 

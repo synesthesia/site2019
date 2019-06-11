@@ -1,6 +1,6 @@
 ---
 title: Solution-focused Coaching part 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-09T13:40:04+00:00
 excerpt: Collection of further reading on Solution-Focused Coaching

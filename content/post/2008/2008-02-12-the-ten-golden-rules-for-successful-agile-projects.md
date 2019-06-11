@@ -1,6 +1,6 @@
 ---
 title: The Ten Golden Rules for Successful Agile Projects
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T09:53:09+00:00
 slug: the-ten-golden-rules-for-successful-agile-projects 

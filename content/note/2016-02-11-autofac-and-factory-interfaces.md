@@ -1,6 +1,6 @@
 ---
 title: AutoFac and factory interfaces
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2016-02-11T15:46:13+00:00
 excerpt: |

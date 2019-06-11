@@ -1,6 +1,6 @@
 ---
 title: OpenOffice
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-08T07:06:08+00:00
 slug: openoffice 

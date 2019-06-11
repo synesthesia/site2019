@@ -1,6 +1,6 @@
 ---
 title: Hazlitt on Old Books
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-08T01:21:53+00:00
 slug: hazlitt-on-old-books-as 

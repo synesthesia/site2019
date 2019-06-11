@@ -1,6 +1,6 @@
 ---
 title: Stylesheet tweaks
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-21T17:08:23+00:00
 excerpt: |

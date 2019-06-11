@@ -1,6 +1,6 @@
 ---
 title: The Stakeholder Power/Impact Matrix In Practice
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-05-09T08:24:58+00:00
 slug: the-stakeholder-powerimpact-matrix-in-practice 

@@ -1,6 +1,6 @@
 ---
 title: Proactive Risk Management
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-06-28T19:19:06+00:00
 slug: proactive-risk-management 

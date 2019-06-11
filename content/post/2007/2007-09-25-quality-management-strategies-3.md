@@ -1,6 +1,6 @@
 ---
 title: Quality Management Strategies – 3
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-25T15:01:12+00:00
 slug: quality-management-strategies-3 

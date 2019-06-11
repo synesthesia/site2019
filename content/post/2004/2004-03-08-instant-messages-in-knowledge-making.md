@@ -1,6 +1,6 @@
 ---
 title: Instant Messages in Knowledge-Making
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-08T17:03:38+00:00
 excerpt: Spike Hall adds Instant Messaging to his structured process for knowledge workers...

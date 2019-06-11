@@ -1,6 +1,6 @@
 ---
 title: Ming on Dreaming
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T12:53:13+00:00
 slug: ming-on-dreaming 

@@ -1,6 +1,6 @@
 ---
 title: Blogs as stories
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-03-10T13:35:36+00:00
 slug: blogs-as-stories 

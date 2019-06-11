@@ -1,6 +1,6 @@
 ---
 title: Weblog metadata
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-15T14:45:42+00:00
 excerpt: Link to initiative to provide a metadata standard for knowledge-logging

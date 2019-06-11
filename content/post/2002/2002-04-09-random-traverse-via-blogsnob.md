@@ -1,6 +1,6 @@
 ---
 title: Random traverse via blogsnob
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-09T17:31:13+00:00
 slug: random-traverse-via-blogsnob 

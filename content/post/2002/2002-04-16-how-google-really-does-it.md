@@ -1,6 +1,6 @@
 ---
 title: How Google really does it
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-16T17:25:36+00:00
 slug: how-google-really-does-it 

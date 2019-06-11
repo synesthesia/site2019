@@ -1,6 +1,6 @@
 ---
 title: The Top 10 Ways Software Projects are Different
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-07T09:03:41+00:00
 excerpt: James Bullock explains for non-software project managers...

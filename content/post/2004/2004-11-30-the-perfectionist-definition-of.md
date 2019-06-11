@@ -1,6 +1,6 @@
 ---
 title: 'The perfectionist definition of  good enough'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-30T10:46:22+00:00
 excerpt: |

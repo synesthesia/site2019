@@ -1,6 +1,6 @@
 ---
 title: Executive Dashboards
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-02T07:45:27+00:00
 excerpt: "Boxes and Arrows article by Alex Kirtland on putting together 'Executive Dashboards'"

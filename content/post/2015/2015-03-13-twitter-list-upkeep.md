@@ -1,6 +1,6 @@
 ---
 title: Twitter List Upkeep
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-03-13T10:29:07+00:00
 slug: twitter-list-upkeep 

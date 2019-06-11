@@ -1,6 +1,6 @@
 ---
 title: Jesse’s Bookmarklets Site
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-25T13:49:46+00:00
 excerpt: Bookmarklets are free tools to help with repetitive or otherwise impossible tasks in your web browser

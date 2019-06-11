@@ -1,6 +1,6 @@
 ---
 title: Blogroll additions
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-13T22:49:52+00:00
 slug: blogroll-additions 

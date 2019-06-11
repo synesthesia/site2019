@@ -1,6 +1,6 @@
 ---
 title: Ten Pitfalls Keeping You From Your Career Goals
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-10T14:36:29+00:00
 excerpt: "'common pitfalls that can keep you you from reaching your perfect new job.'"

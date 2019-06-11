@@ -1,6 +1,6 @@
 ---
 title: Personal Intellectual Capital
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-13T09:24:14+00:00
 excerpt: "Jay Cross says 'Ultimately, you're responsible for the life you lead. It's up to you to learn what you need to succeed. That makes you responsible for your own knowledge management, learning architecture, instructional design and evaluation.'"

@@ -1,6 +1,6 @@
 ---
 title: All we needed was…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-15T11:48:34+00:00
 slug: all-we-needed-wasmen-are 

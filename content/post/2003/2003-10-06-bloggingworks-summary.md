@@ -1,6 +1,6 @@
 ---
 title: Bloggingworks Summary
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-06T07:43:33+00:00
 excerpt: Series of posts by Jack Vinson summarising Bloggingworks workshops about blogging in business

@@ -1,6 +1,6 @@
 ---
 title: Wiki blues
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-19T17:32:01+00:00
 excerpt: Problems upgrading Twiki

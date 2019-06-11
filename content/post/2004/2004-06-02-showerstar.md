@@ -1,6 +1,6 @@
 ---
 title: Showerstar
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-02T09:52:24+00:00
 slug: showerstar 

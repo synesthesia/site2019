@@ -1,6 +1,6 @@
 ---
 title: Finding grid coordinates from UK Postcode
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-19T12:48:03+00:00
 excerpt: With no guarantees to its accuracy, here you can download a list of UK postcode area codes and their grid coordinates.

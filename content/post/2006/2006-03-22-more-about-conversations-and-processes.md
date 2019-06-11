@@ -1,6 +1,6 @@
 ---
 title: More about conversations and processes
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-22T21:56:29+00:00
 slug: more-about-conversations-and-processes 

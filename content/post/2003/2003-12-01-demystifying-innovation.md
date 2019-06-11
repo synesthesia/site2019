@@ -1,6 +1,6 @@
 ---
 title: Demystifying Innovation
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-01T16:48:56+00:00
 excerpt: (PDF) A model that makes the process of recognizing and measuring innovativeness a bit easier and less subjective. The study starts by defining innovation as a robust creative process that turns out a very distinct output with significant impact on the market.

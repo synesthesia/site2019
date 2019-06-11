@@ -1,6 +1,6 @@
 ---
 title: MoD approach to Benefits Realisation Management
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-10-17T11:41:03+00:00
 slug: mod-approach-to-benefits-realisation-management 

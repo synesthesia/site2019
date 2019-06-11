@@ -1,6 +1,6 @@
 ---
 title: The Reality of Running Away from Stuff
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-17T17:28:05+00:00
 slug: the-reality-of-running-away-from-stuff 

@@ -1,6 +1,6 @@
 ---
 title: Dream weblog / wiki tool
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T12:35:11+00:00
 excerpt: Lilia Efimova is writing about her dream weblog / wiki tool...

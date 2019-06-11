@@ -1,6 +1,6 @@
 ---
 title: Unpredictable Emergence of Learning
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-10T23:15:52+00:00
 excerpt: An interesting synchronicity of posts that relate to the learning that happens between areas of expertise.

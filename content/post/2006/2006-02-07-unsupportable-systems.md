@@ -1,6 +1,6 @@
 ---
 title: Unsupportable Systems
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-02-07T21:46:49+00:00
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: Meta States around Eldred
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-27T10:59:30+00:00
 slug: meta-states-around-eldred 

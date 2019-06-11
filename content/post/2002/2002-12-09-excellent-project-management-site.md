@@ -1,6 +1,6 @@
 ---
 title: Excellent Project Management Site
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-09T01:06:30+00:00
 excerpt: Link to excellent project management site

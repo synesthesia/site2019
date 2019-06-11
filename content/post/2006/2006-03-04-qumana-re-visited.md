@@ -1,6 +1,6 @@
 ---
 title: Qumana re-visited
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-04T12:39:27+00:00
 slug: qumana-re-visited 

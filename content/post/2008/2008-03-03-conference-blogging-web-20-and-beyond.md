@@ -1,6 +1,6 @@
 ---
 title: Conference Blogging – Web 2.0 and Beyond
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-03T17:15:23+00:00
 slug: conference-blogging-web-20-and-beyond 

@@ -1,6 +1,6 @@
 ---
 title: Coaching As Knowledge Creation
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-30T18:30:51+00:00
 excerpt: |

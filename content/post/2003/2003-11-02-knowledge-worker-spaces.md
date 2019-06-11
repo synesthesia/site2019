@@ -1,6 +1,6 @@
 ---
 title: Knowledge Worker Spaces
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-02T16:48:59+00:00
 excerpt: "Lilia categorises knowledge work as 'a system of activity in three interrelated spaces': Idea Space, People Space, I Space"

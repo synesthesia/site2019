@@ -1,6 +1,6 @@
 ---
 title: Update on Getting Things Done
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-08T12:02:46+00:00
 excerpt: Update on Getting Things Done

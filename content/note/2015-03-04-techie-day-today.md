@@ -1,6 +1,6 @@
 ---
 title: Techie day today
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2015-03-04T14:54:58+00:00
 excerpt: |

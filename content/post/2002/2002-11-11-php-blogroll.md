@@ -1,6 +1,6 @@
 ---
 title: PHP Blogroll
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-11T01:30:01+00:00
 slug: php-blogroll 

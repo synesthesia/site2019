@@ -1,6 +1,6 @@
 ---
 title: An experiment in working aloud
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-02-17T15:25:21+00:00
 excerpt: Setting up a simple toolchain to capture notes as a I work, and publish them in a way that is distinct from the rest of the site

@@ -1,6 +1,6 @@
 ---
 title: A Vampire-free zone…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-02T00:05:54+00:00
 excerpt: "Blog meetup - 'Doc':https://doc.weblogs.com/, 'Cory':https://www.craphound.com/, 'Danah':https://www.zephoria.org/thoughts/, 'Suw':https://chocnvodka.blogware.com/blog, 'Matt':https://matt.blogs.it/, 'James':https://www.imajes.info/, 'Tom':https://www.plasticbag.org/, 'Gary':https://weblog.garyturner.net/index.html, 'Tom':https://www.sparklefluff.com/blatantoptimism/, 'Paul':https://www.paranoidfish.org/ and 'Euan':https://www.theobviousblog.net/  plus others who I have no URL for..."

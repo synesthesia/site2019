@@ -1,6 +1,6 @@
 ---
 title: Wiki problems
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-04T18:21:35+00:00
 excerpt: 'wiki problems - updated with more info 07/07/03'

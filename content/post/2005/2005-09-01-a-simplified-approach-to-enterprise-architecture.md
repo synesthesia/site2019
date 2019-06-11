@@ -1,6 +1,6 @@
 ---
 title: A Simplified Approach to Enterprise Architecture
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-01T11:50:29+00:00
 excerpt: |

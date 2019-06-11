@@ -1,6 +1,6 @@
 ---
 title: Fun and science combined
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-16T22:41:49+00:00
 slug: fun-and-science-combined 

@@ -1,6 +1,6 @@
 ---
 title: 'Collaboration Pattern: Lightning Conductor'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-12T13:04:54+00:00
 excerpt: "First draft collaboration pattern extracted from Sam Ruby's experience with the !Echo wiki"

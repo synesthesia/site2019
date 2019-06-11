@@ -1,6 +1,6 @@
 ---
 title: UML Profile for Benefits Realisation Management – 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2010-12-30T16:07:32+00:00
 slug: uml-profile-for-benefits-realisation-management-2 

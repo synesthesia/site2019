@@ -1,6 +1,6 @@
 ---
 title: Bringing it all together
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-04T09:47:32+00:00
 excerpt: Most web services projects are missing out on choreography, a vital extra layer that assembles multiple services into coherent business processes

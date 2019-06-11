@@ -1,6 +1,6 @@
 ---
 title: Unleashing the Ideavirus
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-22T23:38:18+00:00
 slug: unleashing-the-ideavirus 

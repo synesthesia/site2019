@@ -1,6 +1,6 @@
 ---
 title: 'Looking forwards: Action Research'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-31T12:45:00+00:00
 excerpt: |

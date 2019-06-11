@@ -1,6 +1,6 @@
 ---
 title: Commenting changes
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-26T18:11:25+00:00
 excerpt: |

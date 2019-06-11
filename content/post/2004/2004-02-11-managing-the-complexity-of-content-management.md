@@ -1,6 +1,6 @@
 ---
 title: Managing the Complexity of Content Management
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-10T23:44:56+00:00
 excerpt: Content management systems suck. Or so you would think from the strife heard from analysts and practitioners alike.

@@ -1,6 +1,6 @@
 ---
 title: DWP Process Failure
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2012-01-23T13:47:56+00:00
 slug: dwp-process-failure 

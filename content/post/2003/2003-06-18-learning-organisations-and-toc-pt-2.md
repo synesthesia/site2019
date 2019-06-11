@@ -1,6 +1,6 @@
 ---
 title: Learning Organisations and TOC pt 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-18T10:09:08+00:00
 excerpt: |

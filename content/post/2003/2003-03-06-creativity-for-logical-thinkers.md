@@ -1,6 +1,6 @@
 ---
 title: Creativity for Logical Thinkers
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-03-06T19:52:29+00:00
 excerpt: Summary of training seminar on creative tools

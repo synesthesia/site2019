@@ -1,6 +1,6 @@
 ---
 title: 'BlogWalk IV : IntraBliki'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-19T09:10:32+00:00
 excerpt: |

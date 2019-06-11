@@ -1,6 +1,6 @@
 ---
 title: Web-based Mindmapping
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-03-28T06:45:01+00:00
 slug: web-based-mindmapping 

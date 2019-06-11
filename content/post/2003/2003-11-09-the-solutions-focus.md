@@ -1,6 +1,6 @@
 ---
 title: The Solutions Focus
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-09T15:28:02+00:00
 excerpt: Website about solution-focused coaching

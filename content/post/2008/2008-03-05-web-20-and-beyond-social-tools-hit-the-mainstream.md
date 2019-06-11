@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0 and beyond: Social Tools Hit The Mainstream'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T10:26:23+00:00
 slug: web-20-and-beyond-social-tools-hit-the-mainstream 

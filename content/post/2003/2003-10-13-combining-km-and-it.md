@@ -1,6 +1,6 @@
 ---
 title: Combining KM and IT
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-13T13:58:08+00:00
 excerpt: "Dave Pollard thinks  'that for pragmatic reasons KM should be organizationally part of IT, rather than a separate department or a part of HR or Sales & Marketing'"

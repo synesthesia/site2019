@@ -1,6 +1,6 @@
 ---
 title: The Power of Context
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-27T21:49:22+00:00
 excerpt: "Amy Gahran writes about the power of context to stimulate new idea creation and develops a few ideas for creativity enhancements to KM tools. I share a few of my own associations (including Tony Goodson's writing on bricolage) and push the tools ideas a little further."

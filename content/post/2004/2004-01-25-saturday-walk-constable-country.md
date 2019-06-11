@@ -1,6 +1,6 @@
 ---
 title: 'Saturday Walk: Constable Country'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-25T19:34:32+00:00
 excerpt: ...and more walking, this time passing the scene of several famous paintings by John Constable

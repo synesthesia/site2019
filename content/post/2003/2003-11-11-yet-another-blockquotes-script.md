@@ -1,6 +1,6 @@
 ---
 title: Yet another blockquotes script
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-11T07:15:39+00:00
 excerpt: "Dunstan Orchard improves Simon Willison's script by handling non-URL citations"

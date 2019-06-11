@@ -1,6 +1,6 @@
 ---
 title: Virtual Audio Cable
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-10T11:09:43+00:00
 excerpt: Virtual Audio Cable is a Windows multimedia driver allowing you to transfer audio (wave) streams from one application to another.

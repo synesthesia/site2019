@@ -1,6 +1,6 @@
 ---
 title: Social categorisation – whose perspective?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-29T20:05:23+00:00
 excerpt: "Denham Grey writes about the use of concept extraction to categorise text - I add the nuance of applying this in the reader's context rather than the writer's."

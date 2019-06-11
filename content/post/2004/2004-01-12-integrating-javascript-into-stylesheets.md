@@ -1,6 +1,6 @@
 ---
 title: Integrating javascript into stylesheets
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-12T11:56:09+00:00
 slug: integrating-javascript-into-stylesheets 

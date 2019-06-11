@@ -1,6 +1,6 @@
 ---
 title: Testing MTTextile 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: -001-11-30T00:00:00+00:00
 excerpt: "Installed 'MTTextile 2 plugin (MTTextile2)':https://www.bradchoate.com/mt-plugins/textile from Brad Choate - mostly wonderful, one bug still unresolved..."

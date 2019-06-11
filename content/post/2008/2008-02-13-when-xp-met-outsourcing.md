@@ -1,6 +1,6 @@
 ---
 title: When XP Met Outsourcing
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T15:33:47+00:00
 slug: when-xp-met-outsourcing 

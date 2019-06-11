@@ -1,6 +1,6 @@
 ---
 title: Stress expert calls for special ‘grumpiness banned’ day
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-16T17:57:34+00:00
 slug: stress-expert-calls-for-special-grumpiness-banned-day 

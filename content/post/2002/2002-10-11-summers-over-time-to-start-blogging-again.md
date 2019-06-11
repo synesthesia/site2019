@@ -1,6 +1,6 @@
 ---
 title: Summer’s over, time to start blogging again
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-11T12:22:13+00:00
 slug: summers-over-time-to-start-blogging-again 

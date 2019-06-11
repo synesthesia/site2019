@@ -1,6 +1,6 @@
 ---
 title: MIT Weblog Survey
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-06-27T18:19:01+00:00
 slug: mit-weblog-survey 

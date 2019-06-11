@@ -1,6 +1,6 @@
 ---
 title: Invisible dogma and learning organisations
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-06-17T22:00:00+00:00
 excerpt: Wondering how to combine the Theory of Constraints approach and Thinking Tools with the insights into organisational defense routines from Action Science in order to specify better technology solutions for businesses.

@@ -1,6 +1,6 @@
 ---
 title: People, Process, and Predicting Project Success
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-06T17:38:10+00:00
 excerpt: Great people, people with sufficient functional skills and domain expertise can trump process, good or bad. Good process, process appropriate for the context, will help those people. But great people can overcome bad process to deliver a good product.

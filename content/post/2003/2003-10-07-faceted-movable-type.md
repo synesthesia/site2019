@@ -1,6 +1,6 @@
 ---
 title: Faceted Movable Type
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-07T13:13:30+00:00
 excerpt: '*Pixelcharmer explains how to build a faceted classification scheme in MT'

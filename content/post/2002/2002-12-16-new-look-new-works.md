@@ -1,6 +1,6 @@
 ---
 title: New look, new works…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-16T02:00:00+00:00
 excerpt: New look site, new engine under the lid

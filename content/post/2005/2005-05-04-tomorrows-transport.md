@@ -1,6 +1,6 @@
 ---
 title: Tomorrow’s Transport
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-05-04T11:37:28+00:00
 draft: true

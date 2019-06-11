@@ -1,6 +1,6 @@
 ---
 title: Back to Win Wenger Again
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-22T21:41:48+00:00
 slug: back-to-win-wenger-again 

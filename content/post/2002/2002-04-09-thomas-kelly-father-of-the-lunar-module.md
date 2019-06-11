@@ -1,6 +1,6 @@
 ---
 title: Thomas Kelly “Father of The Lunar Module”
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-09T10:19:06+00:00
 slug: thomas-kelly-father-of-the-lunar-module 

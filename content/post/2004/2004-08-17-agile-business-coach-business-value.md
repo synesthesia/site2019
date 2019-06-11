@@ -1,6 +1,6 @@
 ---
 title: 'Agile Business Coach: Business Value'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-08-17T08:54:28+00:00
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: Pay As You Learn
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-08T12:05:00+00:00
 slug: pay-as-you-learn 

@@ -1,6 +1,6 @@
 ---
 title: Managing for Serendipity
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-12T10:03:15+00:00
 excerpt: "...or why we should lay off 'best practice' in KM. PDF of 2003 paper by Dave Snowden"

@@ -1,6 +1,6 @@
 ---
 title: Kanban team weekly Review and Retrospective
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2011-06-23T07:10:06+00:00
 slug: kanban-team-weekly-review-and-retrospective 

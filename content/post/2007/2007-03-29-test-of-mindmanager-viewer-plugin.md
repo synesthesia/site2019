@@ -1,6 +1,6 @@
 ---
 title: Test of Mindmanager Viewer plugin
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-03-29T22:51:00+00:00
 slug: test-of-mindmanager-viewer-plugin 

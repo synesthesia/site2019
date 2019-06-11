@@ -1,6 +1,6 @@
 ---
 title: Spiral Dynamics
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-11-12T01:08:03+00:00
 slug: spiral-dynamicsinteresting-site-by-keith 

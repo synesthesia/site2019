@@ -1,6 +1,6 @@
 ---
 title: overhaulin
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-27T06:42:57+00:00
 slug: overhaulin 

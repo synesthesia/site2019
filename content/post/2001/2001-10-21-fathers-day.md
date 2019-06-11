@@ -1,6 +1,6 @@
 ---
 title: Father’s Day?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-21T11:22:14+00:00
 slug: fathers-day 

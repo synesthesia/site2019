@@ -1,6 +1,6 @@
 ---
 title: Site changes – Wikis
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-08-10T14:18:31+00:00
 slug: site-changes-wikis 

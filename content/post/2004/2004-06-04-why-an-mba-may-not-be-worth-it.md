@@ -1,6 +1,6 @@
 ---
 title: Why an MBA May Not Be Worth It
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-04T12:34:40+00:00
 slug: why-an-mba-may-not-be-worth-it 

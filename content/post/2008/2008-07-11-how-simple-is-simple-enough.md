@@ -1,6 +1,6 @@
 ---
 title: How simple is “simple enough”?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-07-11T14:04:07+00:00
 slug: how-simple-is-simple-enough 

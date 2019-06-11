@@ -1,6 +1,6 @@
 ---
 title: Measuring the Software Process
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-12T14:33:48+00:00
 slug: measuring-the-software-process 

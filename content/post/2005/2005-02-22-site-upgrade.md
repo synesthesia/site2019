@@ -1,6 +1,6 @@
 ---
 title: Site Upgrade
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-02-22T13:19:28+00:00
 slug: site-upgrade 

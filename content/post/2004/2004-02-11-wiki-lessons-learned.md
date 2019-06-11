@@ -1,6 +1,6 @@
 ---
 title: Wiki Lessons Learned
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-11T13:37:23+00:00
 excerpt: "Summarising Sam Ruby's slides about the !Echo wiki experience from ETCon. I think he may have spotted some candidate collaboration patterns..."

@@ -1,6 +1,6 @@
 ---
 title: Developing Deliverable Strategies
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-04-22T15:48:02+00:00
 slug: developing-deliverable-strategies 

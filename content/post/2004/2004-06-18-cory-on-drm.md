@@ -1,6 +1,6 @@
 ---
 title: Cory on DRM
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-18T14:52:06+00:00
 excerpt: Cory Doctorow has "posted":https://craphound.com/msftdrm.txt the talk on DRM(Digital Rights Management) he gave this week to Microsoft Research

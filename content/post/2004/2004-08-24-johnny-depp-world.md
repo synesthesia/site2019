@@ -1,6 +1,6 @@
 ---
 title: Johnny Depp World
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-08-24T10:46:10+00:00
 excerpt: 'Another modern parenting milestone - my daughter has her first <a href="https://mildred-deppspage.blogspot.com/">blog</a>...'

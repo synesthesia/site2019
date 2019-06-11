@@ -1,6 +1,6 @@
 ---
 title: Leading Agile Teams
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T14:26:34+00:00
 slug: leading-agile-teams 

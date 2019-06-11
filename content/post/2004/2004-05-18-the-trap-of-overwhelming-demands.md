@@ -1,6 +1,6 @@
 ---
 title: The Trap of Overwhelming Demands
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-18T12:30:45+00:00
 excerpt: In this excerpt from the new book A Bias for Action, Heike Bruch and the late Sumantra Ghoshal look at a work hazard that managers often confront.

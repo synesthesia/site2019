@@ -1,6 +1,6 @@
 ---
 title: Persistent Login Cookie Best Practice
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-19T12:37:27+00:00
 excerpt: 'Persistent login cookies are the cookies that are stored with your browser when you click the �remember me� button on the login form [...] The following recipe for persistent cookies requires no crypto more powerful than a good random number generator.'

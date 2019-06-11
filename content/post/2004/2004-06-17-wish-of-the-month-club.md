@@ -1,6 +1,6 @@
 ---
 title: Wish-of-the-Month Club
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-17T11:04:13+00:00
 slug: wish-of-the-month-club 

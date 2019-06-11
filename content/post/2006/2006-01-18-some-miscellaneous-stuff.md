@@ -1,6 +1,6 @@
 ---
 title: Some miscellaneous stuff
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-01-18T21:29:26+00:00
 slug: some-miscellaneous-stuff 

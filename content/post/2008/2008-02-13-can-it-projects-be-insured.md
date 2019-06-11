@@ -1,6 +1,6 @@
 ---
 title: Can IT Projects be Insured?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T13:13:30+00:00
 slug: can-it-projects-be-insured 

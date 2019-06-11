@@ -1,6 +1,6 @@
 ---
 title: Update on Strategy Reading
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-08-31T15:58:52+00:00
 slug: update-on-strategy-reading 

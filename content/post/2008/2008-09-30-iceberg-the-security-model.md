@@ -1,6 +1,6 @@
 ---
 title: Iceberg – the security model
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-30T10:54:37+00:00
 slug: iceberg-the-security-model 

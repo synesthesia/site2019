@@ -1,6 +1,6 @@
 ---
 title: What is The Plural of Wiki?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-07-15T21:37:18+00:00
 slug: what-is-the-plural-of-wiki 

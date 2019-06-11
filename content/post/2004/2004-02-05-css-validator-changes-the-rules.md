@@ -1,6 +1,6 @@
 ---
 title: CSS Validator Changes the Rules
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-05T17:15:01+00:00
 excerpt: The W3C�s CSS validation service has changed the way it interprets CSS authoring practices. Many sites that were designed valid no longer validate.

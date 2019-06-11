@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0: Business in Virtual Worlds, How we got here with Web 2.0'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T16:31:01+00:00
 slug: web-20-business-in-virtual-worlds-how-we-got-here-with-web-20 

@@ -1,6 +1,6 @@
 ---
 title: 'Looking backwards: Gratitude'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-31T12:30:00+00:00
 slug: looking-backwards-gratitude 

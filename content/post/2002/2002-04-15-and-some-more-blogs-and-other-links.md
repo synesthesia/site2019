@@ -1,6 +1,6 @@
 ---
 title: And some more blogs and other links
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-15T13:24:40+00:00
 slug: and-some-more-blogs-and-other-links 

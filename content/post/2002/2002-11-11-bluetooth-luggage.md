@@ -1,6 +1,6 @@
 ---
 title: Bluetooth Luggage
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-11T20:55:41+00:00
 excerpt: Bluetooth-enabled luggage

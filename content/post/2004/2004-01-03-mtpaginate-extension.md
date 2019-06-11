@@ -1,6 +1,6 @@
 ---
 title: MTpaginate extension
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-03T10:39:44+00:00
 slug: mtpaginate-extension 

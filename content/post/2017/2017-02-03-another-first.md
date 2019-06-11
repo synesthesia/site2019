@@ -1,6 +1,6 @@
 ---
 title: Another first
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2017-02-03T12:08:44+00:00
 slug: another-first 

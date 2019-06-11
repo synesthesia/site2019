@@ -1,6 +1,6 @@
 ---
 title: Communication Filters
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-03-15T12:22:41+00:00
 excerpt: "Some thoughts about Shelley Powers' model of intellect / spirit/ heart communication filters."

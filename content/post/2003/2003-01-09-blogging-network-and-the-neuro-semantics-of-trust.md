@@ -1,6 +1,6 @@
 ---
 title: Blogging network and the neuro-semantics of trust
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-09T17:38:08+00:00
 slug: blogging-network-and-the-neuro-semantics-of-trust 

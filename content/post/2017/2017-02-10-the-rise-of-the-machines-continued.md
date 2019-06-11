@@ -1,6 +1,6 @@
 ---
 title: The rise of the machines (continued)
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2017-02-10T08:00:08+00:00
 slug: the-rise-of-the-machines-continued 

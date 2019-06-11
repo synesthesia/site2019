@@ -1,6 +1,6 @@
 ---
 title: How Do Scrum and CCPM Compare?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-14T15:30:29+00:00
 excerpt: Hal Macomber posts comparison of the two methods by Clarke Ching

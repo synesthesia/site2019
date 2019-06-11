@@ -1,6 +1,6 @@
 ---
 title: the sea, the sea
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-12T13:52:07+00:00
 slug: the-sea-the-sea 

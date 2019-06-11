@@ -1,6 +1,6 @@
 ---
 title: Some UK blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-16T19:51:49+00:00
 slug: some-uk-blogs 

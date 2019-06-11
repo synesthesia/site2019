@@ -1,6 +1,6 @@
 ---
 title: Programming Ruby
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-15T17:55:10+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: Enterprise SaaS and Mashups
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-16T08:54:19+00:00
 slug: enterprise-saas-and-mashups 

@@ -1,6 +1,6 @@
 ---
 title: Flashbacks
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-05-13T13:58:39+00:00
 slug: flashbacks 

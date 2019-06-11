@@ -1,6 +1,6 @@
 ---
 title: Making meaning
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-12T11:19:10+00:00
 excerpt: Denham Grey explains how we come to share meaning and the relation between meaning, understanding, ontology and knowledge.

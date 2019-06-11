@@ -1,6 +1,6 @@
 ---
 title: Living without email – quick update
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-03-24T20:23:01+00:00
 excerpt: |

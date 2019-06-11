@@ -1,6 +1,6 @@
 ---
 title: Leaving Ecademy
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-12-06T12:30:09+00:00
 excerpt: '<a href="https://www.zylstra.org/blog/archives/001514.html">Ton sums it up well</a>. As soon as I get a response from Ecademy support telling me how to remove <a href="https://www.ecademy.com/account.php?id=22690">my profile</a> it will be gone.'

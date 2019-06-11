@@ -1,6 +1,6 @@
 ---
 title: KM and learning
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-11T21:57:21+00:00
 excerpt: Mathemagenic, a blog about Knowledge Management and Learning

@@ -1,6 +1,6 @@
 ---
 title: OpenGIS Documents
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-02T09:53:59+00:00
 slug: opengis-documents 

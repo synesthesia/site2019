@@ -1,6 +1,6 @@
 ---
 title: So what is an application?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-17T13:00:00+00:00
 slug: so-what-is-an-application 

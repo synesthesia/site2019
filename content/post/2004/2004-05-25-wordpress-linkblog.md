@@ -1,6 +1,6 @@
 ---
 title: In line linkblog with WordPress
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-25T19:10:33+00:00
 excerpt: Editing Wordpress template to show inline linkblog

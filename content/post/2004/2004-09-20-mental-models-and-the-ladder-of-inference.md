@@ -1,6 +1,6 @@
 ---
 title: Mental models and the ladder of inference
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-20T18:57:02+00:00
 excerpt: 'The Ladder of Influence - exploring mental models in a group'

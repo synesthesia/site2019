@@ -1,6 +1,6 @@
 ---
 title: On the move
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-23T22:28:33+00:00
 excerpt: In the process of moving to Wordpress. Some feature not working yet.

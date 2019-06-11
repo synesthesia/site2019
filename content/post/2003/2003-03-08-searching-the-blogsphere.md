@@ -1,6 +1,6 @@
 ---
 title: Searching the blogsphere
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-03-08T02:18:17+00:00
 slug: searching-the-blogsphere 

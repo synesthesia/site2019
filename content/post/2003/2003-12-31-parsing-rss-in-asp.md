@@ -1,6 +1,6 @@
 ---
 title: Parsing RSS in ASP
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-31T10:40:02+00:00
 excerpt: Gathering News Headline Feeds using ASP

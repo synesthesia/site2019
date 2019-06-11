@@ -1,6 +1,6 @@
 ---
 title: Social Bookmarking
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-02-23T09:05:21+00:00
 excerpt: What is Social Bookmarking, and why would I use it? A "Narrate Your Work" post.

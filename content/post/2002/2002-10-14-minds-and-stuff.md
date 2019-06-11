@@ -1,6 +1,6 @@
 ---
 title: Minds and stuff…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-10-14T23:19:31+00:00
 slug: minds-and-stuff 

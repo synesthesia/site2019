@@ -1,6 +1,6 @@
 ---
 title: MSP07 Launched
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-14T09:02:10+00:00
 slug: msp07-launched 

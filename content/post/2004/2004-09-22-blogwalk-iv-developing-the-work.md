@@ -1,6 +1,6 @@
 ---
 title: Blogwalk IV – developing the work
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-22T22:16:00+00:00
 excerpt: |

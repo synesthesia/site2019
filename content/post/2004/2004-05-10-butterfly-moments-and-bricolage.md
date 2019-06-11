@@ -1,6 +1,6 @@
 ---
 title: Butterfly Moments and Bricolage
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-10T15:01:55+00:00
 excerpt: "Tony Goodson on how indulging in 'tinkering about' somehow primes him for 'Butterfly Moments' that change his world."

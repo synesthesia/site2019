@@ -1,6 +1,6 @@
 ---
 title: Blogroll Additions – KM blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-22T12:02:05+00:00
 slug: blogroll-additions-2 

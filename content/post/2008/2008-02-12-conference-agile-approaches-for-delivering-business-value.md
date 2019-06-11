@@ -1,6 +1,6 @@
 ---
 title: 'Conference: Agile Approaches for Delivering Business Value'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-12T09:39:04+00:00
 slug: conference-agile-approaches-for-delivering-business-value 

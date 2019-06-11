@@ -1,6 +1,6 @@
 ---
 title: Learning XML / XSLT / XPATH
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-19T17:43:22+00:00
 excerpt: Learning XPATH etc

@@ -1,6 +1,6 @@
 ---
 title: It’s all made from paper and glue…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-09-09T13:28:53+00:00
 slug: its-all-made-from-paper-and-glue 

@@ -1,6 +1,6 @@
 ---
 title: Still here
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-03T00:09:28+00:00
 excerpt: |

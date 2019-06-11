@@ -1,6 +1,6 @@
 ---
 title: A taste of Neuro-Linguistic Programming
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-10T15:30:00+00:00
 excerpt: Introductory article on NLP

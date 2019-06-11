@@ -1,6 +1,6 @@
 ---
 title: RAWA
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-08T19:38:22+00:00
 slug: rawathe-revolutionary-association-of-the 

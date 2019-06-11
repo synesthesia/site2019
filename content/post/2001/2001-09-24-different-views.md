@@ -1,6 +1,6 @@
 ---
 title: Different Views?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-09-24T09:47:25+00:00
 slug: different-views 

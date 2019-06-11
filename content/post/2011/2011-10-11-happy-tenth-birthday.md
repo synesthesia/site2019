@@ -1,6 +1,6 @@
 ---
 title: Happy (belated) Tenth Birthday
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2011-10-11T07:00:28+00:00
 slug: happy-tenth-birthday 

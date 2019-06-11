@@ -1,6 +1,6 @@
 ---
 title: eggbaconchipsandbeans
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-18T15:20:45+00:00
 excerpt: In celebration of the greasy spoon

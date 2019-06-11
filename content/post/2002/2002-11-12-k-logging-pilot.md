@@ -1,6 +1,6 @@
 ---
 title: K-Logging Pilot
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-12T20:33:17+00:00
 excerpt: Experiences introducing K-logging into a company

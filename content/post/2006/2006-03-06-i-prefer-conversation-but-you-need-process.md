@@ -1,6 +1,6 @@
 ---
 title: I prefer conversation, but you need process
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-06T15:04:07+00:00
 excerpt: A conversation about Information as Scaffolding makes me realise some of the contradictions in my approach to things, and leads to speculation about how to make out-sourced services work in a wierarchical way...

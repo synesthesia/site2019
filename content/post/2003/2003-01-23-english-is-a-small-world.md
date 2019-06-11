@@ -1,6 +1,6 @@
 ---
 title: English is a small world
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-23T12:04:48+00:00
 slug: english-is-a-small-world 

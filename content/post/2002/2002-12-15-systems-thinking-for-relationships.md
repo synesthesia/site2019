@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking for Relationships
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-12-15T12:20:40+00:00
 excerpt: Application of ideas from "The Tipping Point" combined with NLP to resolving relationship conflicts

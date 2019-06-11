@@ -1,6 +1,6 @@
 ---
 title: Updated feeds to use Feedburner
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-21T19:13:33+00:00
 excerpt: |

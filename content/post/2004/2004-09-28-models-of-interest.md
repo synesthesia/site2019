@@ -1,6 +1,6 @@
 ---
 title: Models of interest
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-28T18:21:27+00:00
 slug: models-of-interest 

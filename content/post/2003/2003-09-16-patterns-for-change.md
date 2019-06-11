@@ -1,6 +1,6 @@
 ---
 title: Patterns for Change
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-09-16T10:54:50+00:00
 excerpt: Patterns for introducing ideas into organisations.

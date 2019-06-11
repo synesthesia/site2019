@@ -1,6 +1,6 @@
 ---
 title: Gym Reflections part 3
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-09-19T13:11:17+00:00
 slug: gym-reflections-part-3 

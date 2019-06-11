@@ -1,6 +1,6 @@
 ---
 title: Keeping Your Options Open
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T13:40:11+00:00
 slug: keeping-your-options-open 

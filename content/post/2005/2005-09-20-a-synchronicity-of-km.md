@@ -1,6 +1,6 @@
 ---
 title: A synchronicity of KM?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-20T18:30:09+00:00
 slug: a-synchronicity-of-km 

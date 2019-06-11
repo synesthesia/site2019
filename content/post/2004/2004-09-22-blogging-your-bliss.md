@@ -1,6 +1,6 @@
 ---
 title: Blogging your bliss
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-22T22:40:05+00:00
 slug: blogging-your-bliss 

@@ -1,6 +1,6 @@
 ---
 title: More on Systems Archetypes
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-10T15:04:29+00:00
 slug: more-on-systems-archetypes 

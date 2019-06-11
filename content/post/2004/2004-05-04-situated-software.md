@@ -1,6 +1,6 @@
 ---
 title: Situated Software
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-04T12:02:01+00:00
 excerpt: "Commentary by MonkeyX on Clay Shirky's 'Situated Software' essay"

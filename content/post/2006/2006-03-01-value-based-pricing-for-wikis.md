@@ -1,6 +1,6 @@
 ---
 title: Value-based pricing for wikis
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-01T22:23:26+00:00
 excerpt: |

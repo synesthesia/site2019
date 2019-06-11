@@ -1,6 +1,6 @@
 ---
 title: Emergent behaviour
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-22T10:14:38+00:00
 slug: emergent-behaviour 

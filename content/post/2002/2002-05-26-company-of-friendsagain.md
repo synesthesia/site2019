@@ -1,6 +1,6 @@
 ---
 title: Company of Friends..again…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-05-26T19:47:59+00:00
 slug: company-of-friendsagain 

@@ -1,6 +1,6 @@
 ---
 title: Learning Organisations and Constraints – more
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-07-04T14:10:21+00:00
 excerpt: |

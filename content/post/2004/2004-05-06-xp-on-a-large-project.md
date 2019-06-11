@@ -1,6 +1,6 @@
 ---
 title: XP on a Large Project
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-06T11:12:48+00:00
 excerpt: Keith Ray points to document by Thoughtworks

@@ -1,6 +1,6 @@
 ---
 title: Listening to fathers
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-07T18:52:19+00:00
 excerpt: Discussion of report from UK charity Parentline Plus on the issues facing fathers.

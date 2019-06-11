@@ -1,6 +1,6 @@
 ---
 title: Testing Wiki interface
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-30T18:01:43+00:00
 slug: testing-wiki-interface 

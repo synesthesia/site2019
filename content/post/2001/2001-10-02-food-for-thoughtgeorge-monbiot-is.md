@@ -1,6 +1,6 @@
 ---
 title: Food for thought…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-02T11:56:11+00:00
 slug: food-for-thoughtgeorge-monbiot-is 

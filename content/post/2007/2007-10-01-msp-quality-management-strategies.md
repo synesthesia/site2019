@@ -1,6 +1,6 @@
 ---
 title: MSP – Quality Management Strategies
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-10-01T09:12:37+00:00
 slug: msp-quality-management-strategies 

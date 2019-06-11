@@ -1,6 +1,6 @@
 ---
 title: Today seems to be about knowledge management
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2015-02-18T09:00:45+00:00
 excerpt: |

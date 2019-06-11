@@ -1,6 +1,6 @@
 ---
 title: GPS Drawing Gallery
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-11T14:15:40+00:00
 slug: gps-drawing-gallery 

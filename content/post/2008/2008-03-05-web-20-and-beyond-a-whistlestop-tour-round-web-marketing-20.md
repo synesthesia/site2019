@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0 and Beyond: A Whistlestop Tour Round Web Marketing 2.0'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-05T12:20:57+00:00
 slug: web-20-and-beyond-a-whistlestop-tour-round-web-marketing-20 

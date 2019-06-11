@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0: Deploying, measuring and succeeding with Social Software'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-06T14:44:50+00:00
 slug: web-20-deploying-measuring-and-succeeding-with-social-software 

@@ -1,6 +1,6 @@
 ---
 title: In defence of freedom?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-10-16T22:56:08+00:00
 slug: in-defence-of-freedom 

@@ -1,6 +1,6 @@
 ---
 title: Mapping the process of Knowledge Making
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-16T13:19:36+00:00
 excerpt: "Developing Spike Hall's model of an online tool for collaborative production of knowledge."

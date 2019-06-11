@@ -1,6 +1,6 @@
 ---
 title: Are You Deciding On Purpose
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-08T01:14:38+00:00
 slug: are-you-deciding-on-purpose 

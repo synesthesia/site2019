@@ -1,6 +1,6 @@
 ---
 title: Coaching as Mutual Knowledge Creation – 2
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-02-03T09:58:13+00:00
 slug: coaching-as-mutual-knowledge-creation-2 

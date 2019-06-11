@@ -1,6 +1,6 @@
 ---
 title: Lean Programme Shaping – Exploring Waste
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-11-05T11:29:11+00:00
 excerpt: This is the fourth post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.

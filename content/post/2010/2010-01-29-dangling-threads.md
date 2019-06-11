@@ -1,6 +1,6 @@
 ---
 title: Dangling Threads
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2010-01-29T12:18:10+00:00
 slug: dangling-threads 

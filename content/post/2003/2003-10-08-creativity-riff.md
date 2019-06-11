@@ -1,6 +1,6 @@
 ---
 title: Creativity Riff
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-08T00:39:35+00:00
 excerpt: Notes from creativity workshop, links to collections of links on creativity and evidence that maybe the old saying "you need to be a little mad to be creative" has some truth

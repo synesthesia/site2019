@@ -1,6 +1,6 @@
 ---
 title: Da Vinci Notebooks
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-08T17:44:15+00:00
 excerpt: |

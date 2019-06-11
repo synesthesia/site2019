@@ -1,6 +1,6 @@
 ---
 title: 'Saturday Walk: Pangbourne'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-18T10:30:00+00:00
 excerpt: More walking!

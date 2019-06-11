@@ -1,6 +1,6 @@
 ---
 title: More project management goodies
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-28T15:09:08+00:00
 slug: more-project-management-goodies 

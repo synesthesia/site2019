@@ -1,6 +1,6 @@
 ---
 title: Developing Deliverable Strategies – Post Course Reading
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-06-04T04:44:27+00:00
 slug: developing-deliverable-strategies-post-course-reading 

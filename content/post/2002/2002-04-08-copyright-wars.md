@@ -1,6 +1,6 @@
 ---
 title: Copyright wars
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-08T11:45:07+00:00
 slug: copyright-wars 

@@ -1,6 +1,6 @@
 ---
 title: Questions Matter
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-13T17:11:21+00:00
 excerpt: Denham Grey on the importance of questions

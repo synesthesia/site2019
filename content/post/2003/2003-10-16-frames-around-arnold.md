@@ -1,6 +1,6 @@
 ---
 title: Frames Around Arnold
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-10-16T14:22:09+00:00
 excerpt: "George Lakoff on the frames of reference that were used in the media coverage of Arnold Schwartzenegger's election victory."

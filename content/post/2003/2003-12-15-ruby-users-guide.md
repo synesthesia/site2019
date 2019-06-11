@@ -1,6 +1,6 @@
 ---
 title: Ruby Users’ Guide
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-15T17:54:11+00:00
 excerpt: ...get you started at invoking and using ruby

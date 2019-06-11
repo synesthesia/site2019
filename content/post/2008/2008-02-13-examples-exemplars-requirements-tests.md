@@ -1,6 +1,6 @@
 ---
 title: Examples, Exemplars, Requirements, Tests
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-02-13T10:23:40+00:00
 slug: examples-exemplars-requirements-tests 

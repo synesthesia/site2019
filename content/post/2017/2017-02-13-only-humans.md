@@ -1,6 +1,6 @@
 ---
 title: Only Humans
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2017-02-13T12:28:57+00:00
 slug: only-humans 

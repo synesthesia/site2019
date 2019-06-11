@@ -1,6 +1,6 @@
 ---
 title: How The Mind Works
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2001-09-22T18:08:54+00:00
 slug: how-the-mind-works 

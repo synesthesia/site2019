@@ -1,6 +1,6 @@
 ---
 title: Lean Programme Shaping – More on Flow
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2009-11-05T09:10:35+00:00
 excerpt: This is the third post in a series of thought experiments on applying Lean/Agile principles to the early shaping stages of a programme.

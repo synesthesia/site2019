@@ -1,6 +1,6 @@
 ---
 title: Mindmapping Software Survey
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-09-26T12:10:12+00:00
 slug: mindmapping-software-survey 

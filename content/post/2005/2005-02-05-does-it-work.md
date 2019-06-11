@@ -1,6 +1,6 @@
 ---
 title: Does it work?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-02-05T11:08:34+00:00
 slug: does-it-work 

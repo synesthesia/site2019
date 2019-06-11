@@ -1,6 +1,6 @@
 ---
 title: Why do we do this?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-03-09T13:28:11+00:00
 excerpt: Thoughts about the perennial "why do I blog"

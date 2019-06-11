@@ -1,6 +1,6 @@
 ---
 title: The Power of Difference
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-11-12T17:05:02+00:00
 slug: the-power-of-difference 

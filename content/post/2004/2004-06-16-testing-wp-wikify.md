@@ -1,6 +1,6 @@
 ---
 title: Testing WP-Wikify
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-06-16T20:05:32+00:00
 draft: true

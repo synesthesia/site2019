@@ -1,6 +1,6 @@
 ---
 title: Supporting enterprise KM with weblogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-12T11:58:15+00:00
 excerpt: "Notes and slides from Michael Angeles' presentation to Computers in Libraries conference about 'Supporting enterprise knowledge management with weblogs: A weblog services roadmap'"

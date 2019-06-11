@@ -1,6 +1,6 @@
 ---
 title: Five and a half weeks
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-01-20T08:00:00+00:00
 slug: five-and-a-half-weeks 

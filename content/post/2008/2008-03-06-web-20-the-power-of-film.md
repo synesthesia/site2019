@@ -1,6 +1,6 @@
 ---
 title: 'Web 2.0: The Power of Film'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-03-06T12:36:26+00:00
 slug: web-20-the-power-of-film 

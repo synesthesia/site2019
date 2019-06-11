@@ -1,6 +1,6 @@
 ---
 title: Iceberg – Creating the First User Story (1)
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2008-09-24T12:49:40+00:00
 slug: iceberg-creating-the-first-user-story-1 

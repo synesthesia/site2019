@@ -1,6 +1,6 @@
 ---
 title: 'Saturday Walk: Otford'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-11T19:25:13+00:00
 excerpt: I keep one of my New Year resolutions about getting out walking and not for the first time wonder about the physics of mud...

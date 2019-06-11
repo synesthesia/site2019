@@ -1,6 +1,6 @@
 ---
 title: Credit Where It’s Due
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-06-25T14:36:27+00:00
 slug: credit-where-its-due 

@@ -1,6 +1,6 @@
 ---
 title: Mentoring for Change
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-11-09T15:25:43+00:00
 excerpt: "Lots of coaching-related articles at home page for Mike Munro-Turner's coaching and mentoring practice"

@@ -1,6 +1,6 @@
 ---
 title: Tracking entry referrers with PHP in MT
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-08T11:13:07+00:00
 excerpt: Tracking entry referrers with PHP in MT

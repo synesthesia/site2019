@@ -1,6 +1,6 @@
 ---
 title: Tags everywhere
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2006-03-24T17:47:08+00:00
 slug: tags-everywhere 

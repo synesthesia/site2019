@@ -1,6 +1,6 @@
 ---
 title: Starting the Journey to a Social Business
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-03-31T08:52:41+00:00
 excerpt: What benefits are companies getting from social enterprise? What lies behind this? What are the key challenges?

@@ -1,6 +1,6 @@
 ---
 title: Actionable Knowledge
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-02T10:21:59+00:00
 excerpt: "Several people have blogged about the frustration of not moving blog-ideas to 'actionable knowledge'. I suggest that one cause of this block may be the filters we all apply to how much we share on an open channel about what happens in our lives."

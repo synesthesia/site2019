@@ -1,6 +1,6 @@
 ---
 title: Spring has Sprung
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-03-20T19:00:17+00:00
 slug: spring-has-sprung 

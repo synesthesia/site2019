@@ -1,6 +1,6 @@
 ---
 title: Blog Tennis
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-11T15:45:22+00:00
 slug: blog-tennis 

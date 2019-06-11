@@ -1,6 +1,6 @@
 ---
 title: Personal Knowledge Management – why and what
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-03-16T09:26:06+00:00
 slug: personal-knowledge-management-why-and-what 

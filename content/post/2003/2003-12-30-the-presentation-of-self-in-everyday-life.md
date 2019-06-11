@@ -1,6 +1,6 @@
 ---
 title: The Presentation of Self in Everyday Life
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-29T23:54:01+00:00
 excerpt: "Erving Goffman's The Presentation of Self in Everyday Life, published in 1959, provides a detailed description and analysis of process and meaning in mundane interaction"

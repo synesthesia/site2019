@@ -1,6 +1,6 @@
 ---
 title: Modelling Benefits in UML
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2010-12-20T14:14:33+00:00
 slug: modelling-benefits-in-uml 

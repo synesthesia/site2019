@@ -1,6 +1,6 @@
 ---
 title: abbr-cadabra
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-26T17:22:20+00:00
 excerpt: 'Fixing &lt;abbr&gt; in IE without code'

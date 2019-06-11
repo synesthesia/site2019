@@ -1,6 +1,6 @@
 ---
 title: Getting to grips with “Freedom Evolves”
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-11-14T19:29:18+00:00
 excerpt: 'Just getting to grips with <a href="https://www.synesthesia.co.uk/blog/wiki/Freedom%20Evolves">Freedom Evolves</a>'

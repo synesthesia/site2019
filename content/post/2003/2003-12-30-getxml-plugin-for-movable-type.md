@@ -1,6 +1,6 @@
 ---
 title: GetXML Plugin for Movable Type
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-30T11:20:54+00:00
 excerpt: Movable Type plugin implements a set of template tags for retrieving data in XML format and displaying the data on your MT-generated pages

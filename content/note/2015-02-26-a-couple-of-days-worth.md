@@ -1,6 +1,6 @@
 ---
 title: a couple of days worth
-author: Julian
+authors: ["synesthesia"]
 type: note
 date: 2015-02-26T08:03:54+00:00
 excerpt: |

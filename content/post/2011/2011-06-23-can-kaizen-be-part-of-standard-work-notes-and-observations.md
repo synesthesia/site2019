@@ -1,6 +1,6 @@
 ---
 title: Can Kaizen be part of Standard Work – notes and observations
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2011-06-23T12:01:01+00:00
 slug: can-kaizen-be-part-of-standard-work-notes-and-observations 

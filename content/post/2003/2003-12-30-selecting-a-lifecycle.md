@@ -1,6 +1,6 @@
 ---
 title: Selecting a Lifecycle
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-30T15:29:30+00:00
 excerpt: 'Useful summary from  Johanna Rothman on choosing a project lifecycle'

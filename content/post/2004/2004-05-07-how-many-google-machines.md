@@ -1,6 +1,6 @@
 ---
 title: How many Google machines
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-05-07T17:01:04+00:00
 excerpt: Tristan Louis has worked out how many computers Google has by reverse-engineering their IPO

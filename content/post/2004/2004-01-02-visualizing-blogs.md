@@ -1,6 +1,6 @@
 ---
 title: Visualizing Blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-02T17:43:25+00:00
 excerpt: Using Treemap to visualise blogs

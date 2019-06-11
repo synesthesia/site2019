@@ -1,6 +1,6 @@
 ---
 title: The Country In Your Heart
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-07-05T09:38:29+00:00
 slug: the-country-in-your-heart 

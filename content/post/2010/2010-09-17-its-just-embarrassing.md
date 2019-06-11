@@ -1,6 +1,6 @@
 ---
 title: It’s just embarrassing…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2010-09-17T13:20:11+00:00
 slug: its-just-embarrassing 

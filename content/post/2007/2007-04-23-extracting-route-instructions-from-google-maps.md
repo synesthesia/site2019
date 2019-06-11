@@ -1,6 +1,6 @@
 ---
 title: Extracting Route Instructions from Google Maps
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2007-04-23T06:06:31+00:00
 slug: extracting-route-instructions-from-google-maps 

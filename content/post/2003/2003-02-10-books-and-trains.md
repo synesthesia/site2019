@@ -1,6 +1,6 @@
 ---
 title: Books and trains
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-02-10T20:02:54+00:00
 slug: books-and-trains 

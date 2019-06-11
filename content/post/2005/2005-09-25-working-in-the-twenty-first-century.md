@@ -1,6 +1,6 @@
 ---
 title: Working in the Twenty-First Century
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2005-09-25T09:33:57+00:00
 slug: working-in-the-twenty-first-century 

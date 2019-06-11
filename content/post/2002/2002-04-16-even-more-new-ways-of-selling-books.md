@@ -1,6 +1,6 @@
 ---
 title: Even more new ways of selling books
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-16T15:37:37+00:00
 slug: even-more-new-ways-of-selling-books 

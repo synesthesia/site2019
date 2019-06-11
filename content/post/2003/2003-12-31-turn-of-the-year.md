@@ -1,6 +1,6 @@
 ---
 title: Turn of the year
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-12-31T12:37:00+00:00
 slug: turn-of-the-year 

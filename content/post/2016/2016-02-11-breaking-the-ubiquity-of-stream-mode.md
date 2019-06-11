@@ -1,6 +1,6 @@
 ---
 title: Breaking the ubiquity of Stream Mode
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2016-02-11T09:00:01+00:00
 excerpt: Recognising the tensions from over-immersion in timeline-based media, and taking some positive steps to improve sense-making....

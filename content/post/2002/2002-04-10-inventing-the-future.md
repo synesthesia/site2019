@@ -1,6 +1,6 @@
 ---
 title: Inventing the Future
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2002-04-10T07:44:34+00:00
 slug: inventing-the-future 

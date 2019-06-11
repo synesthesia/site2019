@@ -1,6 +1,6 @@
 ---
 title: More on the evolving network between blogs
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2003-01-08T13:24:53+00:00
 excerpt: More on the evolving debate about inter-blog links as a social network and a lazyweb request for a web-based tool to present a grpahical analysis of the incoming and outgoing links networks from a page...

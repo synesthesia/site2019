@@ -1,6 +1,6 @@
 ---
 title: 'Styling  in IE'
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-01-12T11:33:43+00:00
 excerpt: 'Internet Explorer for Windows does not support the <abbr> element that should be used on web pages for proper markup of abbreviations.  Marek Prokop has a client-side way of fixing this.</abbr>'

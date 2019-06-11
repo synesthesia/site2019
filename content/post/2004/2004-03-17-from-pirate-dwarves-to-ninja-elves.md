@@ -1,6 +1,6 @@
 ---
 title: From pirate dwarves to ninja elves…
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-03-17T09:53:05+00:00
 excerpt: 'Tom Coates has found a new way of categorising people - the dwarf/elf and pirate/ninja axes...'

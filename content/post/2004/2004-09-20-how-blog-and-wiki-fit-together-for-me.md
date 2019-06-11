@@ -1,6 +1,6 @@
 ---
 title: How blog and wiki fit together (for me)
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2004-09-20T19:00:00+00:00
 excerpt: The roles of a personal wiki and a blog in combination

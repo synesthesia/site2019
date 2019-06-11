@@ -1,6 +1,6 @@
 ---
 title: Email – what’s wrong with it?
-author: Julian
+authors: ["synesthesia"]
 type: post
 date: 2015-02-06T12:37:00+00:00
 slug: email-whats-wrong-with-it 
