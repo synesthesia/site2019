@@ -5,10 +5,7 @@ type: post
 date: 2011-06-23T07:10:06+00:00
 slug: kanban-team-weekly-review-and-retrospective 
 aliases: ["/2011/06/23/kanban-team-weekly-review-and-retrospective"]
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
+tags: ["kanban", "kaizen", "standard work"]
 
 ---
 <div class="zemanta-img" style="margin: 1em; display: block;">

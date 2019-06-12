@@ -5,10 +5,7 @@ type: post
 date: 2012-01-23T13:47:56+00:00
 slug: dwp-process-failure 
 aliases: ["/2012/01/23/dwp-process-failure"]
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
+tags: ["family", "service failure"]
 
 ---
 How many times do you have to tell the Government something?<figure style="width: 300px" class="wp-caption aligncenter">

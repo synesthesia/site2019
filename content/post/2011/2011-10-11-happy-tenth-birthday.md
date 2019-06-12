@@ -5,13 +5,11 @@ type: post
 date: 2011-10-11T07:00:28+00:00
 slug: happy-tenth-birthday 
 aliases: ["/2011/10/11/happy-tenth-birthday"]
-aktt_notify_twitter:
-  - no
-
+tags: ["blogging"]
 ---
 <div class="zemanta-img" style="margin: 1em; display: block;">
   <p>
-    <a href="https://www.flickr.com/photos/23334460@N00/3273518391"><img title="birthday cake" src="https://www.synesthesia.co.uk/blog/wp/uploads/2011/10/3273518391_c98d57e3bd_m.jpg" alt="birthday cake" width="240" height="224" /></a>
+    <a href="https://www.flickr.com/photos/23334460@N00/3273518391"><img title="birthday cake" src="/uploads/2011/10/3273518391_c98d57e3bd_m.jpg" alt="birthday cake" width="240" height="224" /></a>
   </p>
 </div>
 

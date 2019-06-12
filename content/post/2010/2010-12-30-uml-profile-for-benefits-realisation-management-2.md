@@ -5,11 +5,7 @@ type: post
 date: 2010-12-30T16:07:32+00:00
 slug: uml-profile-for-benefits-realisation-management-2 
 aliases: ["/2010/12/30/uml-profile-for-benefits-realisation-management-2"]
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
-
+tags: ["Benefits Realisation Management", "UML"]
 ---
 This is a follow on from [UML Profile for Benefits Realisation Management &#8211; 1][1]. In  that post I described the basic UML profile I have created for modelling project benefits in line with [Bradley][2] and [Ward & Daniels][3]
 

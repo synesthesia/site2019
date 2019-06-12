@@ -6,16 +6,7 @@ date: 2012-01-30T15:10:09+00:00
 excerpt: How can the emergent theory and practice of paragogy help the product development process?
 slug: can-paragogy-help-technology-production 
 aliases: ["/2012/01/30/can-paragogy-help-technology-production"]
-aktt_notify_twitter:
-  - yes
-geo_latitude:
-  - 51.566234
-geo_longitude:
-  - -0.130116
-geo_public:
-  - 1
-aktt_tweeted:
-  - 1
+tags: ["paragogy"]
 
 ---
 **A sticky idea&#8230;**

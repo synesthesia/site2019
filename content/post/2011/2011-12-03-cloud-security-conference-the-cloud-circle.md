@@ -6,11 +6,7 @@ date: 2011-12-03T09:35:19+00:00
 excerpt: 'Brief notes on the Cloud Security Conference '
 slug: cloud-security-conference-the-cloud-circle 
 aliases: ["/2011/12/03/cloud-security-conference-the-cloud-circle"]
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
-
+tags: ["security", "cloud"]
 ---
 <div class="mceTemp">
   <dl class="wp-caption zemanta-img aligncenter" style="width: 310px;">

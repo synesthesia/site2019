@@ -5,9 +5,7 @@ type: post
 date: 2011-06-23T12:01:01+00:00
 slug: can-kaizen-be-part-of-standard-work-notes-and-observations 
 aliases: ["/2011/06/23/can-kaizen-be-part-of-standard-work-notes-and-observations"]
-aktt_notify_twitter:
-  - no
-
+tags: ["kaizen", "standard work", "kanban"]
 ---
 <a title="JOe Dager's website" href="https://business901.com/" target="_blank">Joe Dager</a> (<a title="Joe Dager's Twitter profile" href="https://twitter.com/#!/business901" target="_blank">@business901</a>) has posted a video interview with [Dr. Michael Balle, the Gemba Coach at the Lean Enterprise Institute][1] about [Kaizen Teams without Kaizen Events][2], or [Can Kaizen be part of Standard Work][2]?
 
