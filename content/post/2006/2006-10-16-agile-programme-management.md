@@ -5,8 +5,7 @@ type: post
 date: 2006-10-16T12:28:14+00:00
 slug: agile-programme-management 
 aliases: ["/2006/10/16/agile-programme-management"]
-aktt_notify_twitter:
-  - no
+tags: [ "Programme Management"]
 
 ---
 Via [Brad Appleton][1]&#8216;s excellent post of links to [Agile Programme Management][2] resources, a paper on [Combining Agile Methods with Stage-Gate Project Management.][3]

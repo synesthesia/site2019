@@ -2,8 +2,10 @@
 authors: ["synesthesia"]
 type: post
 date: 2006-03-09T08:40:39+00:00
-draft: true
-url: /?p=873
+draft: false
+slug: ambient-social-knowledge
+tags: ["knowledge networks"]
+
 
 ---
 Lee Bryant has posted his ETech slides, [Humanising the Enterprise through Ambient Social Knowledge][1]

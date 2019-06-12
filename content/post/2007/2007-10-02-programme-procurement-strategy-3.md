@@ -5,8 +5,7 @@ type: post
 date: 2007-10-02T09:49:19+00:00
 slug: programme-procurement-strategy-3 
 aliases: ["/2007/10/02/programme-procurement-strategy-3"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 I&#8217;ve clarified the process I have in mind, based on the [previous][1] [two][2] posts:

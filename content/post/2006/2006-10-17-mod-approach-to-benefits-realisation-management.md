@@ -5,8 +5,7 @@ type: post
 date: 2006-10-17T11:41:03+00:00
 slug: mod-approach-to-benefits-realisation-management 
 aliases: ["/2006/10/17/mod-approach-to-benefits-realisation-management"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management", "Benefits Management"]
 
 ---
 Relocated from MSP blog at <https://www.synesthesia.co.uk/msp/2006/10/17/mod-approach-to-benefits-realisation-management/>

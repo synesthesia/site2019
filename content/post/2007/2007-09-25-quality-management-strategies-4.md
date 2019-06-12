@@ -5,8 +5,7 @@ type: post
 date: 2007-09-25T16:19:59+00:00
 slug: quality-management-strategies-4 
 aliases: ["/2007/09/25/quality-management-strategies-4"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 At some point we will have to identify the **who** of Quality Management – who will carry out all of the activities.

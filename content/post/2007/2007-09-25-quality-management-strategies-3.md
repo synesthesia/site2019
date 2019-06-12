@@ -5,9 +5,7 @@ type: post
 date: 2007-09-25T15:01:12+00:00
 slug: quality-management-strategies-3 
 aliases: ["/2007/09/25/quality-management-strategies-3"]
-aktt_notify_twitter:
-  - no
-
+tags: ["MSP", "Programme Management"]
 ---
 In the last two posts of this series I have started down the line of understanding the value chain of a programme, and therefore **what** it is we need to quality assure.
 

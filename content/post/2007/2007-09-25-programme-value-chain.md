@@ -5,8 +5,7 @@ type: post
 date: 2007-09-25T14:24:47+00:00
 slug: programme-value-chain 
 aliases: ["/2007/09/25/programme-value-chain"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 I found this diagram useful to explain how the various activities and plans within a programme combine to add value for the programme sponsoring group and stakeholders:

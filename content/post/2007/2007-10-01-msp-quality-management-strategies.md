@@ -5,7 +5,7 @@ type: post
 date: 2007-10-01T09:12:37+00:00
 slug: msp-quality-management-strategies 
 aliases: ["/2007/10/01/msp-quality-management-strategies"]
-
+tags: ["MSP", "Programme Management"]
 ---
 On [my other blog][1] I’ve been posting my process as I worked through the creation of a [Quality Management Strategy][2].
 

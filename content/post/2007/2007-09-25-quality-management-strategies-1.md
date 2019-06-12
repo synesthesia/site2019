@@ -5,8 +5,7 @@ type: post
 date: 2007-09-25T10:48:07+00:00
 slug: quality-management-strategies-1 
 aliases: ["/2007/09/25/quality-management-strategies-1"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 I’ve been thinking about how to put together a [Quality Management Strategy][1] for the programme I am shaping. Question is, where to start…

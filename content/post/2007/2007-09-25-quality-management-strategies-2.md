@@ -5,8 +5,7 @@ type: post
 date: 2007-09-25T11:28:27+00:00
 slug: quality-management-strategies-2 
 aliases: ["/2007/09/25/quality-management-strategies-2"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 Why do we need a [Quality Management Strategy?][1]

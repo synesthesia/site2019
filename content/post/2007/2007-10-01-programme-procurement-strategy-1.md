@@ -5,8 +5,7 @@ type: post
 date: 2007-10-01T10:34:43+00:00
 slug: programme-procurement-strategy-1 
 aliases: ["/2007/10/01/programme-procurement-strategy-1"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 I need to put together an analysis of procurement options for the programme I am shaping, as first steps in devising a procurement strategy.

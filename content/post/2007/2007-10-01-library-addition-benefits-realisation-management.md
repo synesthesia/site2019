@@ -5,8 +5,7 @@ type: post
 date: 2007-10-01T09:26:26+00:00
 slug: library-addition-benefits-realisation-management 
 aliases: ["/2007/10/01/library-addition-benefits-realisation-management"]
-aktt_notify_twitter:
-  - no
+tags: ["books","Benefits Realisation Management"]
 
 ---
 I’ve just got my hands on [Benefit Realisation Management: A Practical Guide to Achieving Benefits Through Change][1] by Gerald Bradley.

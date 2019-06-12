@@ -5,8 +5,7 @@ type: post
 date: 2007-09-26T07:44:31+00:00
 slug: quality-management-strategies-5 
 aliases: ["/2007/09/26/quality-management-strategies-5"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 Further reference to the [[MSP]] manual (p77, 2003 version) identifies three areas of programme activities where quality management is involved:

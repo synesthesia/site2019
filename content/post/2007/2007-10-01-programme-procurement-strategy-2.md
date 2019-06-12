@@ -5,8 +5,7 @@ type: post
 date: 2007-10-01T15:37:51+00:00
 slug: programme-procurement-strategy-2 
 aliases: ["/2007/10/01/programme-procurement-strategy-2"]
-aktt_notify_twitter:
-  - no
+tags: ["MSP", "Programme Management"]
 
 ---
 In [Programme Procurement Strategy &#8211; 1][1] I briefly reviewed the approach from the [OGC Risk Allocation Model for Project Strategy and Procurement][2].
