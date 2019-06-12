@@ -48,3 +48,5 @@ Took half a day to cleanup.
 
 Time to take seriously the idea of a static site generator.
 
+Details in the posts linked below...
+
