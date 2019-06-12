@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Why Hugo?"
-subtitle: "Part 1 of Moving from WordPress to Hugo"
+summary: "Part 1 of Moving from WordPress to Hugo"
 slug: moving-wp-to-hugo-01
 subtitle: ""
 summary: ""
@@ -28,9 +28,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["wp-to-hugo"]
 ---
-
 Part 1 of [Moving from WordPress to Hugo]({{< ref "/project/wp-to-hugo/index.md" >}})
-
+<!--more-->
 I've been lucky with my WordPress installations - only a couple of malware infections in 15+ years. But the last one was extremely painful to fix - after I had re-installed every file in the deployment I finally found that the attack had manged to rewrite every post in the database with a link to an adware injector script.
 
 Half a day of personal time to rebuild a site that I don't want to close, but which hasn't had a lot of use in the last couple of years, is just too much: the time had come!

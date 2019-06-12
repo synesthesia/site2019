@@ -47,3 +47,4 @@ Yet another WordPress malware attack on my personal site that managed to place a
 Took half a day to cleanup.
 
 Time to take seriously the idea of a static site generator.
+

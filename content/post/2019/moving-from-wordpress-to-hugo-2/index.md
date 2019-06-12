@@ -3,14 +3,14 @@
 
 title: "Setting up Hugo locally and choosing a theme"
 slug: moving-wp-to-hugo-02
-subtitle: ""
+subtitle: "Part 2 of Moving from WordPress to Hugo"
 summary: ""
 authors: []
-tags: []
-categories: []
-date: 2019-06-12T12:00:00+01:00
+tags: ["wordpress","hugo", "static site generators"]
+categories: ["Technology"]
+date: 2019-06-12T08:00:00+01:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,25 +28,36 @@ image:
 projects: ["wp-to-hugo"]
 ---
 
-` find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \; `
+Part 2 of [Moving from WordPress to Hugo]({{< ref "/project/wp-to-hugo/index.md" >}})
+<!--more-->
+## Setting up Hugo
 
-` grep -iRl "type: note" ./post | while read f; do mv "$f" note; done `
+Very little to add to the [official instructions](https://gohugo.io/getting-started/installing/)
 
- ` sed -E "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" `
+I use a Windows laptop, so at first I tried the [Chocolatey installation](https://gohugo.io/getting-started/installing/#chocolatey-windows), however this only installs standard Hugo. The [theme I chose](#choosing-a-theme) requires the extended version of Hugo, so I uninstalled the Chocolatey build and re-installed as a [direct download](https://github.com/gohugoio/hugo/releases).
 
- ` find ./post -type f -exec sed  -i -E  -e "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" {} \; `
+Add the install directory to the path environment variable, reboot, and you're ready to go.
 
- ` find ./post -type f -exec sed  -i -E  -e "s/]\//]" {} \; `
+## Choosing a theme
 
- url: /worknotes/removing-malicious-content-from-wordpress-posts/
+A quick browse around the Hugo [templates](https://gohugo.io/templates/) and [theme creation](https://gohugo.io/themes/creating/) documentation convinced me that if I started trying to write a theme from scratch it would extend this project significantly. 
 
- ` find ./note -type f -exec sed  -i -E  -e "s/url: (\/worknotes\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\1\2\"]/" {} \; `
- `  find ./note -type f -exec sed  -i -E  -e "s/]\//]/" {} \; `
+Luckily there's a [large choice of community themes](https://themes.gohugo.io/) already available for Hugo. After bit of clicking around, and trying a couple locally, I decided to go for the [Academic](https://sourcethemes.com/academic/) theme from [George Cushen](https://georgecushen.com/) because it seemed to be both full-featured yet very flexible.
 
-slug: removing-malicious-content-from-wordpress-posts 
-aliases: ["/worknotes/removing-malicious-content-from-wordpress-posts"]
+Again, there are [excellent installation instructions](https://sourcethemes.com/academic/docs/install/) for the theme and the provided [kickstart](https://github.com/sourcethemes/academic-kickstart) site so I won't document the detail here.
 
-` find . -name "*.md" -exec sed -i 's|author: Julian|authors: [\"synesthesia\"]|g' {} \; `
+The initial configuration tasks were [based on the instructions](https://sourcethemes.com/academic/docs/get-started/#customize-it):
 
+1. Edit the files in `/config`
+2. Edit the `/content/home/about.md` page
+3. Edit the `/content/authors` settings
+4. Create some test content
+5. Copy the contents of `/themes/academic/archetypes` to `/archetypes` <br />
+  (didn't see this one in the instructions but without it the archetypes don't get picked up on `hugo new -kind post post/mypost`) 
 
+Then 
+```shell
+hugo server -D
+```
 
+and check the site at http://localhost:1313
