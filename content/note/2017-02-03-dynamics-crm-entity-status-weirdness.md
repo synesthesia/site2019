@@ -5,7 +5,7 @@ type: note
 date: 2017-02-03T11:46:33+00:00
 slug: dynamics-crm-entity-status-weirdness 
 aliases: ["/worknotes/dynamics-crm-entity-status-weirdness"]
-tags: ["Dynamcis365"]
+tags: ["Dynamics365"]
 
 ---
 ## Background
