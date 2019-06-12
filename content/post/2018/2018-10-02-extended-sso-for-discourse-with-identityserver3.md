@@ -1,11 +1,11 @@
 ---
 title: Extended SSO for Discourse with IdentityServer3
 authors: ["synesthesia"]
-type: note
+type: post
 date: 2018-10-02T18:30:40+00:00
 slug: extended-sso-for-discourse-with-identityserver3 
 aliases: ["/worknotes/extended-sso-for-discourse-with-identityserver3"]
-tags: ["IdentityServer", "Discourse"]
+tags: ["IdentityServer", "Discourse", "code"]
 
 ---
 **Background**
