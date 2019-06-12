@@ -5,7 +5,7 @@ type: post
 date: 2017-02-06T10:27:24+00:00
 slug: comment-on-stop-blaming-the-tools-when-collaboration-fails 
 aliases: ["/2017/02/06/comment-on-stop-blaming-the-tools-when-collaboration-fails"]
-
+tags: ["Collaboration"]
 ---
 Another &#8220;down the rabbit hole&#8221; [post and comment stream][1] from [Luis Suarez][2] with a great contribution in the comments from [Martin White][3]
 
