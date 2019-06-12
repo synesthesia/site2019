@@ -5,6 +5,7 @@ type: note
 date: 2019-05-31T08:36:37+00:00
 slug: interesting-uses-of-linux-find-command 
 aliases: ["/worknotes/interesting-uses-of-linux-find-command"]
+tags: ["linux"]
 
 ---
 Find all files for given user and change ownership 

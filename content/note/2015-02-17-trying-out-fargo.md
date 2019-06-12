@@ -5,24 +5,8 @@ type: note
 date: 2015-02-17T09:18:39+00:00
 excerpt: Fargo is an outliner in the cloud, uses Dropbox for data persistence. I'm using FeedPress to insert the RSS feed of the published site as custom post types in my WordPress site
 slug: trying-out-fargo 
+tags: ["Fargo"]
 aliases: ["/worknotes/trying-out-fargo"]
-        
-syndication_source:
-  - WorkNotes
-syndication_source_uri:
-  - https://synesthesiaworknotes.smallpict.com/
-syndication_source_id:
-  - https://synesthesiaworknotes.smallpict.com/rss.xml
-syndication_feed:
-  - https://synesthesiaworknotes.smallpict.com/rss.xml
-syndication_feed_id:
-  - 8
-syndication_permalink:
-  - https://synesthesiaworknotes.smallpict.com/2015/02/17/tryingOutFargo.html
-syndication_item_hash:
-  - 2b913ce9907a45a6e68008c90786ad74
-  - 61fe9dab284be96a3e4cfb9b2a21fa55
-
 ---
 Fargo is an outliner in the cloud
 

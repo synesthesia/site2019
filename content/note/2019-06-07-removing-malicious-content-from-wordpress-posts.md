@@ -1,6 +1,7 @@
 ---
 title: Removing malicious content from WordPress posts
 authors: ["synesthesia"]
+tags: ["wordpress"]
 type: note
 date: 2019-06-07T10:43:49+00:00
 slug: removing-malicious-content-from-wordpress-posts 

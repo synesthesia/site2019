@@ -5,6 +5,7 @@ type: note
 date: 2018-10-02T18:30:40+00:00
 slug: extended-sso-for-discourse-with-identityserver3 
 aliases: ["/worknotes/extended-sso-for-discourse-with-identityserver3"]
+tags: ["IdentityServer", "Discourse"]
 
 ---
 **Background**
