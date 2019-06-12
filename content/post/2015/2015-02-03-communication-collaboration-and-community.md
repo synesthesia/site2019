@@ -5,7 +5,7 @@ type: post
 date: 2015-02-03T14:30:02+00:00
 slug: communication-collaboration-and-community 
 aliases: ["/2015/02/03/communication-collaboration-and-community"]
-
+tags: ["social capital", "online networks", "collaboration", "gamification"]
 ---
 &nbsp;
 

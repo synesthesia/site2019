@@ -6,7 +6,7 @@ date: 2015-04-13T08:15:56+00:00
 excerpt: What have I learned so far on the PKM 40 course? What do I want to achieve from the rest of the course? What do I want to do differently around personal knowledge management?
 slug: pkm40-what-have-i-learned-so-far 
 aliases: ["/2015/04/13/pkm40-what-have-i-learned-so-far"]
-
+tags: ["PKM", "reflection"]
 ---
 I&#8217;m currently following [Harold Jarche][1]&#8216;s &#8220;[Personal Knowledge Management in 40 days][2]&#8221; course. We&#8217;re just over half way through, and Harold recently challenged us to reflect on what we have learned so far, and what we would like to achieve.
 

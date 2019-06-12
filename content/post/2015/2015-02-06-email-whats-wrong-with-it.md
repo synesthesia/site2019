@@ -5,7 +5,7 @@ type: post
 date: 2015-02-06T12:37:00+00:00
 slug: email-whats-wrong-with-it 
 aliases: ["/2015/02/06/email-whats-wrong-with-it"]
-
+tags: ["no_email", "collaboration"]
 ---
 Many have written on the issues that email causes, here are some highlights:
 

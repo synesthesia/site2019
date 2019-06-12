@@ -5,7 +5,7 @@ type: post
 date: 2015-03-16T09:26:06+00:00
 slug: personal-knowledge-management-why-and-what 
 aliases: ["/2015/03/16/personal-knowledge-management-why-and-what"]
-
+tags: ["narrate your work", "PKM"]
 ---
 I&#8217;m refocusing my study and practice around [Personal Knowledge Management][1] (and taking Harold Jarche&#8217;s [Personal Knowledge mastery in 40 days][2] course).
 

@@ -6,7 +6,7 @@ date: 2015-02-17T15:25:21+00:00
 excerpt: Setting up a simple toolchain to capture notes as a I work, and publish them in a way that is distinct from the rest of the site
 slug: an-experiment-in-working-aloud 
 aliases: ["/2015/02/17/an-experiment-in-working-aloud"]
-
+tags: ["narrate your work"]
 ---
 As part of the site revamp, I wanted a place where I could put &#8220;<a href="https://scripting.com/stories/2009/08/09/narrateYourWork.html" target="_blank">narrating my work</a>&#8221; type posts that were outside of the main site flow &#8211; the nature of these are that they are often quick and partial, and I find having them in the main flow inhibits my writing.
 

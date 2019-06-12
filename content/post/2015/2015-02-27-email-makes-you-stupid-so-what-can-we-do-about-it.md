@@ -5,7 +5,7 @@ type: post
 date: 2015-02-27T08:48:56+00:00
 slug: email-makes-you-stupid-so-what-can-we-do-about-it 
 aliases: ["/2015/02/27/email-makes-you-stupid-so-what-can-we-do-about-it"]
-
+tags: ["no_email", "collaboration"]
 ---
 <p style="text-align: justify;">
   <a href="https://www.elsua.net/">Luis Suarez</a> (<a href="https://twitter.com/elsua">@elsua</a>), curator of the <a href="https://plus.google.com/communities/112379942033795190661">Life without eMail</a> G+ community, has posted a Vodcast co-presented with <a href="https://claireburge.com/">Claire Burge</a> (<a href="https://twitter.com/claireburge">@claireburge</a>)

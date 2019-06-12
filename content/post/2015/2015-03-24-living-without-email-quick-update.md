@@ -7,7 +7,7 @@ excerpt: |
   A little bit about the latest "No Email" pioneering by Luis Suarez, and a simple experiment I'm doing myself
 slug: living-without-email-quick-update 
 aliases: ["/2015/03/24/living-without-email-quick-update"]
-
+tags: ["no_email"]
 ---
 For quite some time [Luis Suarez][1] has been championing a [Life Without Email][2], not just on his [blog][2], but (amongst other places) in the [Google+ community of the same name][3].
 

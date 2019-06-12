@@ -5,7 +5,7 @@ type: post
 date: 2014-01-06T09:29:45+00:00
 slug: back-to-basics 
 aliases: ["/2014/01/06/back-to-basics"]
-
+tags: ["blogging", "reflection", "Chief Engineer"]
 ---
 A blog redesign, and a metaphor for 2014…
 

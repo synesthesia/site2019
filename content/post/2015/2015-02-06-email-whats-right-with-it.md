@@ -5,7 +5,7 @@ type: post
 date: 2015-02-06T12:58:19+00:00
 slug: email-whats-right-with-it 
 aliases: ["/2015/02/06/email-whats-right-with-it"]
-
+tags: ["no_email", "collaboration"]
 ---
 No tool is all good or all bad, so following on from &#8220;[Email – what&#8217;s wrong with it?][1]&#8220;, here are some of the reasons why it is useful: 
 
