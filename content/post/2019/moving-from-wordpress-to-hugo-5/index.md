@@ -3,14 +3,14 @@
 
 title: "Hugo hosting and deployment"
 slug: moving-wp-to-hugo-05
-subtitle: ""
+subtitle: "Part 5 of Moving from WordPress to Hugo"
 summary: ""
-authors: []
-tags: []
-categories: []
-date: 2019-06-15T12:00:00+01:00
+authors: ["synesthesia"]
+tags: ["wordpress","hugo", "static site generators"]
+categories: ["Technology"]
+date: 2019-06-12T08:30:00+01:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,5 +27,38 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["wp-to-hugo"]
 ---
-
 Part 5 of [Moving from WordPress to Hugo]({{< ref "/project/wp-to-hugo/index.md" >}}) 
+<!--more-->
+Probably the easiest place to start hosting Hugo for free is [Netlify](https://www.netlify.com/)
+
+Deployment is simply:
+* create account on Netlify
+* connect Github repo for the site definition
+* press deploy
+
+In part it is this easy because the Academic Kickstarter comes pre-configured with a `netlify.toml` file in the project root that contains the necessary configuration for Netlify. Once Netlify has read the repository the configuraiton values are read from this file
+
+```TOML
+[build]
+  command = "hugo --gc --minify -b $URL"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.55.6"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+```
+
+Once I was happy the site was building and deploying I set the domain in Netlify to my proper domain, then edited the DNS settings on my DNS host to point to the new site.
+
+After the usual wait for DNS to propagate, the site went live...
+
+
