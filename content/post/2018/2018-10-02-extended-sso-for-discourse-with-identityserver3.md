@@ -34,6 +34,8 @@ To extend John&#8217;s approach we modified it so that instead of displaying a l
 
   * register an application in our IdentityServer as a proxy for Discourse
   * carry out an (almost) standard Authorization Code authentication process from our custom controller against the Identity Server
-  * the only difference is that because we are running inside the IdentityServer web piipeline we don&#8217;t need to redeem the authorization code agaisnt the token endpoint, but can ignore any generated tokens and query the Owin Context in the same way John does.
+  * the only difference is that because we are running inside the IdentityServer web pipeline we don&#8217;t need to redeem the authorization code against the token endpoint, but can ignore any generated tokens and query the OWIN Context in the same way John does.
 
 Our version is shown below
+
+{{< gist synesthesia 5b32cc3f43d414a2a41030571c36381e "DiscourseController.cs" >}}
