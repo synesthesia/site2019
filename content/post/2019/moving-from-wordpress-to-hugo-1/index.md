@@ -2,13 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Why Hugo?"
+subtitle: "Part 1 of Moving from WordPress to Hugo"
 slug: moving-wp-to-hugo-01
 subtitle: ""
 summary: ""
 authors: []
-tags: []
-categories: []
-date: 2019-06-07T12:00:00+01:00
+tags: ["wordpress","hugo", "static site generators"]
+categories: ["Technology"]
+date: 2019-06-11T12:00:00+01:00
 featured: false
 draft: false
 
@@ -28,25 +29,34 @@ image:
 projects: ["wp-to-hugo"]
 ---
 
-` find . -name "*.md" -exec sed -i 's|syn_worknote|note|g' {} \; `
+Part 1 of [Moving from WordPress to Hugo]({{< ref "/project/wp-to-hugo/index.md" >}})
 
-` grep -iRl "type: note" ./post | while read f; do mv "$f" note; done `
+I've been lucky with my WordPress installations - only a couple of malware infections in 15+ years. But the last one was extremely painful to fix - after I had re-installed every file in the deployment I finally found that the attack had manged to rewrite every post in the database with a link to an adware injector script.
 
- ` sed -E "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" `
+Half a day of personal time to rebuild a site that I don't want to close, but which hasn't had a lot of use in the last couple of years, is just too much: the time had come!
 
- ` find ./post -type f -exec sed  -i -E  -e "s/url: \/([[:digit:]]*\/[[:digit:]]*\/[[:digit:]]*\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\/\1\2\"]" {} \; `
+This is not a novel idea - quite a few people have blogged [^1] about moving off WordPress to static generators, especially Hugo.  
 
- ` find ./post -type f -exec sed  -i -E  -e "s/]\//]" {} \; `
+ {{< figure src="hugo.png" width="300" link="https://gohugo.io/" rel="nofollow noopener" target="_blank">}}
 
- url: /worknotes/removing-malicious-content-from-wordpress-posts/
+For me the key benefits are:
 
- ` find ./note -type f -exec sed  -i -E  -e "s/url: (\/worknotes\/)([a-zA-Z0-9\-]*)/slug: \2 \naliases: [\"\1\2\"]/" {} \; `
- `  find ./note -type f -exec sed  -i -E  -e "s/]\//]/" {} \; `
+* much less vulnerable to malware
+* lower hosting costs for a faster site
+* simple text-editor creation of content
+* content in Git (the code always has been)
+* easy to keep multiple copies of content to avoid vendor lock-in
+* Hugo is fast to generate the site, and very simple (single executable)
+* free high-performance hosting from [Netlify](https://www.netlify.com/), [GitHubPages](https://pages.github.com/) and probably others
 
-slug: removing-malicious-content-from-wordpress-posts 
-aliases: ["/worknotes/removing-malicious-content-from-wordpress-posts"]
-
-` find . -name "*.md" -exec sed -i 's|author: Julian|authors: [\"synesthesia\"]|g' {} \; `
+[^1]: These are some of the sources I found researching this:
+    
+    * [Switching from WordPress to Hugo - Smashing Magazine](https://www.smashingmagazine.com/2019/05/switch-wordpress-hugo/)
+    * [I finally migrated my blog from WordPress to Hugo](https://julienrenaux.fr/2019/02/14/from-wordpress-to-hugo/)
+    * [Migrating from WordPress to Hugo - GoMakeThings](https://gomakethings.com/migrating-from-wordpress-to-hugo/)
+    * [Moving from Wordpress to Hugo - R&eacute;gis Philibert](https://regisphilibert.com/blog/2019/01/from-wordpress-to-hugo-a-mindset-transition/)
+    * [Moving from Wordpress to Hugo - Philipp Hauer](https://phauer.com/2017/moving-wordpress-hugo/)
+    * [WordPress to Static Site Generator (Hugo) Migration and Deployment - HackerNoon](https://hackernoon.com/wordpress-to-static-site-generator-hugo-migration-and-deployment-788a69b93e66)
 
 
 
