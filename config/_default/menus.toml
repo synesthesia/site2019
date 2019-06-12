@@ -30,7 +30,10 @@
   url = "https://wiki.synesthesia.co.uk/"
   weight = 50
 
-
+[[main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 55
 
 [[main]]
   name = "Contact"

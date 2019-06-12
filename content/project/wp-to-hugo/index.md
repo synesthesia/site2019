@@ -4,7 +4,7 @@
 title: "Migrating from WordPress to Hugo"
 summary: ""
 authors: [synesthesia]
-tags: ["Personal Knowledge Management", "web", "hugo", "academic theme"]
+tags: [ "web", "hugo", "academic theme"]
 categories: []
 date: 2019-06-09T16:18:50+01:00
 
