@@ -10,7 +10,7 @@ tags: ["wordpress","hugo", "static site generators"]
 categories: ["Technology"]
 date: 2019-06-12T08:10:00+01:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
