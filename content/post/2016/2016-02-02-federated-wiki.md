@@ -5,6 +5,7 @@ type: post
 date: 2016-02-02T14:22:44+00:00
 slug: federated-wiki 
 aliases: ["/2016/02/02/federated-wiki"]
+tags: ["FedWiki"]
 
 ---
 Started playing with [Federated Wiki][1] [over here][2]

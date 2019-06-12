@@ -6,9 +6,9 @@ date: 2016-02-11T09:00:01+00:00
 excerpt: Recognising the tensions from over-immersion in timeline-based media, and taking some positive steps to improve sense-making....
 slug: breaking-the-ubiquity-of-stream-mode 
 aliases: ["/2016/02/11/breaking-the-ubiquity-of-stream-mode"]
-
+tags: ["PKM", "FedWiki"]
 ---
-A <a href="https://www.elsua.net/2015/10/20/10th-year-blogiversary-the-unfinished-journey-of-blogging-and-why-it-matters/" target="_blank">blog post</a> by [Luis Suarez][1] has served nicely as a catalyst to start crystallizing some thoughts from the last couple of weeks.
+A <a href="http://www.elsua.net/2015/10/20/10th-year-blogiversary-the-unfinished-journey-of-blogging-and-why-it-matters/" target="_blank">blog post</a> by [Luis Suarez][1] has served nicely as a catalyst to start crystallizing some thoughts from the last couple of weeks.
 
 ### Discomfort
 
