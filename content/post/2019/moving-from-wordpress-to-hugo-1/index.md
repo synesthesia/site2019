@@ -6,7 +6,7 @@ summary: "Part 1 of Moving from WordPress to Hugo"
 slug: moving-wp-to-hugo-01
 subtitle: ""
 summary: ""
-authors: []
+authors: ["synesthesia"]
 tags: ["wordpress","hugo", "static site generators"]
 categories: ["Technology"]
 date: 2019-06-11T12:00:00+01:00

@@ -5,7 +5,7 @@ title: "Setting up Hugo locally and choosing a theme"
 slug: moving-wp-to-hugo-02
 subtitle: "Part 2 of Moving from WordPress to Hugo"
 summary: ""
-authors: []
+authors: ["synesthesia"]
 tags: ["wordpress","hugo", "static site generators"]
 categories: ["Technology"]
 date: 2019-06-12T08:00:00+01:00
