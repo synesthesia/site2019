@@ -21,7 +21,7 @@ One of the major differences between a programme and a project is the very much 
 
 So the process(es) we invent and document in a [Quality Management Strategy][1] must be designed from the start to accommodate change in any of the inputs. That implies ongoing review at a number of nested levels.
 
-<a rel="attachment wp-att-1656" href="https://www.synesthesia.co.uk/blog/archives/2007/09/25/quality-management-strategies-3/nested-loops-of-quality/"><img class="aligncenter size-full wp-image-1656" title="Nested Loops of Quality" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2007/09/nested-loops-of-quality.png" alt="Nested Loops of Quality" width="429" height="650" /></a>
+<a rel="attachment wp-att-1656" href="https://www.synesthesia.co.uk/blog/archives/2007/09/25/quality-management-strategies-3/nested-loops-of-quality/"><img class="aligncenter size-full wp-image-1656" title="Nested Loops of Quality" src="https://www.synesthesia.co.uk/blog/wp/uploads/2007/09/nested-loops-of-quality.png" alt="Nested Loops of Quality" width="429" height="650" /></a>
 
 Earlier posts in this series
 

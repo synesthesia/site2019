@@ -13,7 +13,7 @@ I had a good example the other day of the potential of the [Stakeholder Power/Im
 
 I was discussing with a colleague the framing of another potential programme, and quite informally drew a rough matrix in front of him. I explained the meaning of the two axes and then with him discussed our first impressions of who should appear on the chart, and where they should be placed.
 
-<img class="aligncenter size-medium wp-image-1580" title="Stakeholder Power-Impact Matrix" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2009/12/power-impact-matrix-300x257.png" alt="Stakeholder Power-Impact Matrix" width="300" height="257" /><a rel="attachment wp-att-1580" href="https://www.synesthesia.co.uk/blog/archives/2006/05/09/the-stakeholder-powerimpact-matrix-in-practice/power-impact-matrix/"><br /> </a>
+<img class="aligncenter size-medium wp-image-1580" title="Stakeholder Power-Impact Matrix" src="https://www.synesthesia.co.uk/blog/wp/uploads/2009/12/power-impact-matrix-300x257.png" alt="Stakeholder Power-Impact Matrix" width="300" height="257" /><a rel="attachment wp-att-1580" href="https://www.synesthesia.co.uk/blog/archives/2006/05/09/the-stakeholder-powerimpact-matrix-in-practice/power-impact-matrix/"><br /> </a>
 
 We found the exercise illuminating, not least because the small discipline of deciding where each person or group should go triggered us to articulate some deep-seated and potentially difficult issues around certain individuals
 

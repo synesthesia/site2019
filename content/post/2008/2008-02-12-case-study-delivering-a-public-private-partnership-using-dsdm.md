@@ -79,7 +79,7 @@ Key learning from project manager:
   * Prototypes as early as possible
   * Effective team-building
 
-<ins datetime="2008-02-14T10:02:32+00:00">Update: Link to <a href="https://www.kubernetes.co.uk/wp-content/uploads/2008/02/unicom-npwd-case-study-final-presentation.pdf">presentation</a> on Jeremy Renwick&#8217;s site.</ins>
+<ins datetime="2008-02-14T10:02:32+00:00">Update: Link to <a href="https://www.kubernetes.co.uk/wp/uploads/2008/02/unicom-npwd-case-study-final-presentation.pdf">presentation</a> on Jeremy Renwick&#8217;s site.</ins>
 
  [1]: https://www.unicom.co.uk/product_detail.asp?prdid=1547
  [2]: https://www.environment-agency.gov.uk/

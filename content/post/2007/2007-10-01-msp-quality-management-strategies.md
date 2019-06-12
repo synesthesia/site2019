@@ -15,7 +15,7 @@ One key learning point was that the management of benefits, whilst considered by
 
 Another insight was the importance of considering quality as a series of “nested loops”…
 
-<img src="https://www.synesthesia.co.uk/msp/wp-content/uploads/nested-loops-of-quality.png" alt="nested loops of quality" border="0" />
+<img src="https://www.synesthesia.co.uk/msp/wp/uploads/nested-loops-of-quality.png" alt="nested loops of quality" border="0" />
 
  [1]: https://www.synesthesia.co.uk/msp/
  [2]: https://synesthesia.co.uk/msp/wiki/QualityManagementStrategy

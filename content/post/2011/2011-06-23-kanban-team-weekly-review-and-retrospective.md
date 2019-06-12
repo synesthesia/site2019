@@ -12,7 +12,7 @@ aktt_tweeted:
 
 ---
 <div class="zemanta-img" style="margin: 1em; display: block;">
-  <figure style="width: 300px" class="wp-caption aligncenter"><a href="https://commons.wikipedia.org/wiki/File:PDCA-Two-Cycles.svg"><img title="A diagram to show the two PDCA cycles. The fir..." src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2011/06/300px-PDCA-Two-Cycles.svg_.png" alt="A diagram to show the two PDCA cycles. The fir..." width="300" height="127" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
+  <figure style="width: 300px" class="wp-caption aligncenter"><a href="https://commons.wikipedia.org/wiki/File:PDCA-Two-Cycles.svg"><img title="A diagram to show the two PDCA cycles. The fir..." src="https://www.synesthesia.co.uk/blog/wp/uploads/2011/06/300px-PDCA-Two-Cycles.svg_.png" alt="A diagram to show the two PDCA cycles. The fir..." width="300" height="127" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>
 
 &nbsp;

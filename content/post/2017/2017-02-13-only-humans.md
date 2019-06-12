@@ -5,6 +5,7 @@ type: post
 date: 2017-02-13T12:28:57+00:00
 slug: only-humans 
 aliases: ["/2017/02/13/only-humans"]
+tags: ["AI", "Future Work"]
 
 ---
 [Harold Jarche][1] has posted a brief [review][2] of &#8220;[Only Humans Need Apply][3]&#8221; by  Thomas H Davenport <a href="https://www.amazon.co.uk/Only-Humans-Need-Apply-Machines/dp/0062438611/ref=as_li_ss_il?_encoding=UTF8&ie=UTF8&message=&ref_=nav_custrec_signin&riskType=expiredCard&successUpdatingPreference=1&updatePaymentsPortalPreferenceSuccess=true&linkCode=li2&tag=synesthesia-21&linkId=a0ae4d6f6b9e1660e10428c2426557e5" target="_blank"><img class="alignleft" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0062438611&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=synesthesia-21" border="0" /></a><img style="border: none !important; margin: 5px 5px 5px 0px !important;" src="https://ir-uk.amazon-adsystem.com/e/ir?t=fivegocrazyinmid&l=li2&o=2&a=0062438611" alt="" width="1" height="1" border="0" />.

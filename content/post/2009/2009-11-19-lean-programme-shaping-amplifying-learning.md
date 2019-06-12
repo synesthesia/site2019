@@ -34,7 +34,7 @@ As we learn more about these areas we progressively build and refine our product
 This sort of learning process can be likened to the Deming [Plan-Do-Check-Act][6] cycle (PDCA).
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-1493 aligncenter" title="PDCA-Cycle-400" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2009/11/PDCA-Cycle-400.png" alt="PDCA Cycle" width="400" height="275" />
+  <img class="size-full wp-image-1493 aligncenter" title="PDCA-Cycle-400" src="https://www.synesthesia.co.uk/blog/wp/uploads/2009/11/PDCA-Cycle-400.png" alt="PDCA Cycle" width="400" height="275" />
 </p>
 
 So our question becomes &#8220;how do we iterate the learning cycle faster during programme shaping?&#8221;. Drawing on the agile software approach, I suggest the following themes:

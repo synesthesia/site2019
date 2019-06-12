@@ -5,7 +5,7 @@ type: post
 date: 2017-02-10T08:00:08+00:00
 slug: the-rise-of-the-machines-continued 
 aliases: ["/2017/02/10/the-rise-of-the-machines-continued"]
-
+tags: ["AI", "Future Work"]
 ---
 Following on from [The machines may eat your job, but that might not be a bad thing][1], I notice that [Joanne Jacobs][2]  has written [Who will work? Education, automation and jobs][3]  in which she references the (Obama) White House report &#8220;[Artificial Intelligence, Automation, and the Economy][4]&#8221; , which in turn was informed by the [Frey and Osborne paper][5] I referenced.
 

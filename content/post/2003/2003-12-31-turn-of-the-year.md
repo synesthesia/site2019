@@ -10,5 +10,5 @@ aktt_notify_twitter:
 
 ---
 <div class="inlineimg">
-  <img class="aligncenter size-medium wp-image-1755" title="Janus, Roman God of Beginnings" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2003/12/Janus-Vatican-300x263.jpg" alt="Janus, Roman God of Beginnings" width="300" height="263" />
+  <img class="aligncenter size-medium wp-image-1755" title="Janus, Roman God of Beginnings" src="https://www.synesthesia.co.uk/blog/wp/uploads/2003/12/Janus-Vatican-300x263.jpg" alt="Janus, Roman God of Beginnings" width="300" height="263" />
 </div>

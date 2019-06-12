@@ -24,7 +24,7 @@ Nevertheless an interesting site.
  [1]: https://www.spatial-literacy.org/UCLnames/default.aspx
  [2]: https://www.synesthesia.co.uk/blog/archives/2006/01/18/some-miscellaneous-stuff/
  [3]: https://www.spatial-literacy.org/UCLnames/NameSelection.aspx?name=ELVE&year=1881&altyear=1998&country=GB&type=name
- [4]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2006/01/elve-1881-GB.thumbnail.png
+ [4]: https://www.synesthesia.co.uk/blog/wp/uploads/2006/01/elve-1881-GB.thumbnail.png
  [5]: https://www.spatial-literacy.org/UCLnames/Map.aspx?name=ELVEY&year=1998&altyear=1881&country=GB&type=name
- [6]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2006/01/elve-1998-GB.thumbnail.png
+ [6]: https://www.synesthesia.co.uk/blog/wp/uploads/2006/01/elve-1998-GB.thumbnail.png
  [7]: https://www.knipe.org.uk/blogs/garry/

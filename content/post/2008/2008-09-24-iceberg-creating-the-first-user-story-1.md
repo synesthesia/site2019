@@ -13,11 +13,11 @@ Again, I’m using the [Iceberg User Guide][4] to guide me. The first thing that
 
 I’ve created a new application, and added two new objects – Project and Project Issue. The next thing I want to do is tell the system that these two are related:
 
-[<img class="aligncenter size-full wp-image-1275" title="issuetracker-classdiag01" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/09/issuetracker-classdiag01.png" alt="" width="298" height="129" />][5]
+[<img class="aligncenter size-full wp-image-1275" title="issuetracker-classdiag01" src="https://www.synesthesia.co.uk/blog/wp/uploads/2008/09/issuetracker-classdiag01.png" alt="" width="298" height="129" />][5]
 
 Counter-intuitively you do this by modifying the Form for an object rather than the object itself – by adding a field which is of type Select List you create a dropdown field that creates a one-to-many link
 
-<img class="aligncenter size-full wp-image-1276" title="iceberg-addlinkedfield" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/09/iceberg-addlinkedfield.png" alt="" width="340" height="335" />
+<img class="aligncenter size-full wp-image-1276" title="iceberg-addlinkedfield" src="https://www.synesthesia.co.uk/blog/wp/uploads/2008/09/iceberg-addlinkedfield.png" alt="" width="340" height="335" />
 
 Another thing that you immediately notice is that the listbox used to select the relevant object for the other side of the relationship shows all objects in the system (Iceberg out of the box seems to come pre-populated with certain common objects), reinforcing the point that this is a platform / environment rather than just an application framework. I imagine the idea is that everyone within a company or workgroup would look at the same instance of Iceberg and see a common set of inter-linked applications.
 
@@ -29,6 +29,6 @@ OK, time to get thoroughly stuck&#8230; (see the [next post][7])
  [2]: https://www.synesthesia.co.uk/blog/archives/2008/09/24/iceberg-building-the-first-application/
  [3]: https://www.synesthesia.co.uk/wikka/IssueTracker
  [4]: https://www.learniceberg.com/1_Getting_Started
- [5]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/09/issuetracker-classdiag01.png
+ [5]: https://www.synesthesia.co.uk/blog/wp/uploads/2008/09/issuetracker-classdiag01.png
  [6]: https://www.learniceberg.com/support/comments.php?DiscussionID=43
  [7]: https://www.synesthesia.co.uk/blog/archives/2008/09/25/iceberg-creati…t-user-story-2iceberg-creating-the-first-user-story-2/

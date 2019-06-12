@@ -5,8 +5,8 @@ type: post
 date: 2017-02-07T08:38:53+00:00
 slug: machines-will-eat-your-job 
 aliases: ["/2017/02/07/machines-will-eat-your-job"]
-featured_image: -content/uploads/2017/02/robot-507811_640.jpg
-
+featured_image: /uploads/2017/02/robot-507811_640.jpg
+tags: ["AI", "Future Work"]
 ---
 ## Introduction
 

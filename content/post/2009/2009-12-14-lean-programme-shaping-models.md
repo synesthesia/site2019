@@ -35,7 +35,7 @@ For most this will involve some number of iterations of capturing and designing 
 
 **Modelling the Programme Design**
 
-<img class="floatrightmargin size-medium wp-image-1732" title="UML Example - Mapping Projects to Capabilities" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2009/12/UML-Example-Mapping-Projects-to-Capabilities-300x190.jpg" alt="UML Example - Mapping Projects to Capabilities" width="200" height="127" />
+<img class="floatrightmargin size-medium wp-image-1732" title="UML Example - Mapping Projects to Capabilities" src="https://www.synesthesia.co.uk/blog/wp/uploads/2009/12/UML-Example-Mapping-Projects-to-Capabilities-300x190.jpg" alt="UML Example - Mapping Projects to Capabilities" width="200" height="127" />
 
 The other area where models are vital is in describing how the programme will work and what it will deliver – in other words, the design of the programme itself. Programme documentation has always been a way of sharing a model of how things will work and what will be achieved, but I think there are lessons we can learn from other disciplines to make the documentation more useful.
 

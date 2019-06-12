@@ -25,7 +25,7 @@ I’ve blogged before about using [general purpose UML modelling tools to help p
 
 An example benefits map using the UML approach is shown here, produced using [Sparx Enterprise Architect][7]:
 
-[<img class="aligncenter size-full wp-image-22406" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Benefits Map" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/sample-ben-map.gif" alt="" width="485" height="592" />][8]
+[<img class="aligncenter size-full wp-image-22406" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Benefits Map" src="https://www.synesthesia.co.uk/blog/wp/uploads/2010/12/sample-ben-map.gif" alt="" width="485" height="592" />][8]
 
 I have created a [UML Profile][9] (which I will write more about later), which extends the Requirement metaclass provided in Enterprise Architect by stereotyping to create the five core Benefits Realisation Management objects:
 
@@ -85,7 +85,7 @@ I have created a [UML Profile][9] (which I will write more about later), which e
 
 Readers familiar with Benefits maps will have spotted something different about the arrows. Most graphical presentations use an arrow from the precursor enabler, change  or benefit to the subsequent change, benefit or objective:
 
-[<img class="aligncenter size-full wp-image-22472" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Simple Benefits Map" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/simple-ben-map.gif" alt="" width="293" height="104" />][10]
+[<img class="aligncenter size-full wp-image-22472" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Simple Benefits Map" src="https://www.synesthesia.co.uk/blog/wp/uploads/2010/12/simple-ben-map.gif" alt="" width="293" height="104" />][10]
 
 Unfortunately this is not UML compliant, so  I have chosen to model using UML dependency and realisation relationships:
 
@@ -93,7 +93,7 @@ Unfortunately this is not UML compliant, so  I have chosen to model using UML d
   <table border="4" cellspacing="0" cellpadding="2" width="500" align="center">
     <tr>
       <td style="text-align: center;" width="166" valign="top">
-        <a href="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/dependency.gif"><img class="aligncenter size-full wp-image-22476" title="dependency" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/dependency.gif" alt="" width="75" height="37" /></a>
+        <a href="https://www.synesthesia.co.uk/blog/wp/uploads/2010/12/dependency.gif"><img class="aligncenter size-full wp-image-22476" title="dependency" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/dependency.gif" alt="" width="75" height="37" /></a>
       </td>
       
       <td style="text-align: center;" width="166" valign="top">
@@ -107,7 +107,7 @@ Unfortunately this is not UML compliant, so  I have chosen to model using UML d
     
     <tr>
       <td style="text-align: center;" width="166" valign="top">
-        <a href="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/realisation.gif"><img class="aligncenter size-full wp-image-22477" title="realisation" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/realisation.gif" alt="" width="91" height="50" /></a>
+        <a href="https://www.synesthesia.co.uk/blog/wp/uploads/2010/12/realisation.gif"><img class="aligncenter size-full wp-image-22477" title="realisation" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/realisation.gif" alt="" width="91" height="50" /></a>
       </td>
       
       <td style="text-align: center;" width="166" valign="top">
@@ -136,6 +136,6 @@ What approaches have you used to document project benefits in a graphical format
  [5]: https://www.changedirector.com/Solutions/Benefits-%20Management
  [6]: https://www.synesthesia.co.uk/blog/archives/2009/12/14/lean-programme-shaping-models/
  [7]: https://www.sparxsystems.com/
- [8]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/sample-ben-map.gif
+ [8]: https://www.synesthesia.co.uk/blog/wp/uploads/2010/12/sample-ben-map.gif
  [9]: https://www.uml-diagrams.org/profile-diagrams.html#profile
- [10]: https://www.synesthesia.co.uk/blog/wp-content/uploads/2010/12/simple-ben-map.gif
+ [10]: https://www.synesthesia.co.uk/blog/wp/uploads/2010/12/simple-ben-map.gif

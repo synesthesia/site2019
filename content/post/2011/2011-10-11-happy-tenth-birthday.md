@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 <div class="zemanta-img" style="margin: 1em; display: block;">
   <p>
-    <a href="https://www.flickr.com/photos/23334460@N00/3273518391"><img title="birthday cake" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2011/10/3273518391_c98d57e3bd_m.jpg" alt="birthday cake" width="240" height="224" /></a>
+    <a href="https://www.flickr.com/photos/23334460@N00/3273518391"><img title="birthday cake" src="https://www.synesthesia.co.uk/blog/wp/uploads/2011/10/3273518391_c98d57e3bd_m.jpg" alt="birthday cake" width="240" height="224" /></a>
   </p>
 </div>
 

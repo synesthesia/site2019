@@ -9,7 +9,7 @@ aliases: ["/2008/04/29/an-unremarkable-coincidence"]
 ---
 A few months ago I spent some time exploring my wife’s family tree. One fragment of jigsaw was a census return from 1851 showing one of her 3–greats-grandfathers, then age 16, living with his parents at 13 Cambridge Street in Soho.
 
-<a href="https://www.synesthesia.co.uk/blog/archives/2008/04/29/an-unremarkable-coincidence/1851-census-abstract/" rel="attachment wp-att-1152" title="1851 census abstract"><img src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/04/1851-fisher-002.jpg" alt="1851 census abstract" width="400" /></a>
+<a href="https://www.synesthesia.co.uk/blog/archives/2008/04/29/an-unremarkable-coincidence/1851-census-abstract/" rel="attachment wp-att-1152" title="1851 census abstract"><img src="https://www.synesthesia.co.uk/blog/wp/uploads/2008/04/1851-fisher-002.jpg" alt="1851 census abstract" width="400" /></a>
 
 I looked at the current London street map and found there is no Cambridge Street in Soho any more, and that was the end of my curiosity.
 
@@ -23,7 +23,7 @@ One of the key tools used by Snow was to plot the course of the outbreak on a [m
 
 The slightly more detailed general [Board of Health Map][5] based on Snow’s work also shows the old house numbers – and this shows number 13, just 7 doors down from the infamous pump which spread the disease.
 
-<a href="https://www.synesthesia.co.uk/blog/archives/2008/04/29/an-unremarkable-coincidence/general-board-of-health-map/" rel="attachment wp-att-1153" title="General Board of Health map"><img src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2008/04/broadstreet-gbhmap.jpg" alt="General Board of Health map" width="500" /></a>
+<a href="https://www.synesthesia.co.uk/blog/archives/2008/04/29/an-unremarkable-coincidence/general-board-of-health-map/" rel="attachment wp-att-1153" title="General Board of Health map"><img src="https://www.synesthesia.co.uk/blog/wp/uploads/2008/04/broadstreet-gbhmap.jpg" alt="General Board of Health map" width="500" /></a>
 
 The coincidence is that a direct ancestor of my wife lived in a house which, three years after evidence of their residence, was in the centre of a particularly virulent and well-documented outbreak of cholera. Today, in a modern city, that would be worthy of comment: in Victorian London perhaps less so.
 

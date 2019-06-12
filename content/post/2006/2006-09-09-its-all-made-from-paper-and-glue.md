@@ -15,6 +15,6 @@ With only a couple of loose pages of notes so far, it already looked like I was 
 
 This might sound very basic, but for me the physical act of putting together a study log has already started to make it feel as if I have the material &#8220;at my fingertips&#8221; (the power of metaphor!)
 
-<img class="aligncenter size-full wp-image-1716" title="MSP Study Book" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2006/09/book-med.jpg" alt="MSP Study Book" width="450" height="337" />
+<img class="aligncenter size-full wp-image-1716" title="MSP Study Book" src="https://www.synesthesia.co.uk/blog/wp/uploads/2006/09/book-med.jpg" alt="MSP Study Book" width="450" height="337" />
 
  [1]: https://www.pearcemayfield.com/msp/index.html

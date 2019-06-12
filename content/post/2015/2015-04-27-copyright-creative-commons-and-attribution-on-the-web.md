@@ -30,7 +30,7 @@ _Some colleagues were asking about Creative Commons, so I pulled together these 
   <table style="border-collapse: collapse;" border="0">
     <colgroup> <col style="width: 64px;" /> <col style="width: 125px;" /> <col style="width: 428px;" /></colgroup> <tr>
       <td style="border: solid #a3a3a3 1.0pt; padding: 5px;">
-        <a href="https://creativecommons.org/characteristic/by"><img src="https://www.synesthesia.co.uk/wp/wp-content/uploads/2015/04/042715_1539_CopyrightCr1.gif" alt="" /></a><span style="font-family: Times New Roman; font-size: 12pt;"><br /> </span></p> 
+        <a href="https://creativecommons.org/characteristic/by"><img src="https://www.synesthesia.co.uk/wp/wp/uploads/2015/04/042715_1539_CopyrightCr1.gif" alt="" /></a><span style="font-family: Times New Roman; font-size: 12pt;"><br /> </span></p> 
         
         <p style="text-align: center;">
           </td> 
@@ -45,7 +45,7 @@ _Some colleagues were asking about Creative Commons, so I pulled together these 
           
           <tr>
             <td style="border-top: none; border-left: solid #a3a3a3 1.0pt; border-bottom: solid #a3a3a3 1.0pt; border-right: solid #a3a3a3 1.0pt; padding: 5px;">
-              <a href="https://creativecommons.org/characteristic/sa"><img src="https://www.synesthesia.co.uk/wp/wp-content/uploads/2015/04/042715_1539_CopyrightCr2.gif" alt="" /></a>
+              <a href="https://creativecommons.org/characteristic/sa"><img src="https://www.synesthesia.co.uk/wp/wp/uploads/2015/04/042715_1539_CopyrightCr2.gif" alt="" /></a>
             </td>
             
             <td style="border-top: none; border-left: none; border-bottom: solid #a3a3a3 1.0pt; border-right: solid #a3a3a3 1.0pt; padding: 5px;">
@@ -59,7 +59,7 @@ _Some colleagues were asking about Creative Commons, so I pulled together these 
           
           <tr>
             <td style="border-top: none; border-left: solid #a3a3a3 1.0pt; border-bottom: solid #a3a3a3 1.0pt; border-right: solid #a3a3a3 1.0pt; padding: 5px;">
-              <a href="https://creativecommons.org/characteristic/nd"><img src="https://www.synesthesia.co.uk/wp/wp-content/uploads/2015/04/042715_1539_CopyrightCr3.gif" alt="" /></a>
+              <a href="https://creativecommons.org/characteristic/nd"><img src="https://www.synesthesia.co.uk/wp/wp/uploads/2015/04/042715_1539_CopyrightCr3.gif" alt="" /></a>
             </td>
             
             <td style="border-top: none; border-left: none; border-bottom: solid #a3a3a3 1.0pt; border-right: solid #a3a3a3 1.0pt; padding: 5px;">
@@ -73,7 +73,7 @@ _Some colleagues were asking about Creative Commons, so I pulled together these 
           
           <tr>
             <td style="border-top: none; border-left: solid #a3a3a3 1.0pt; border-bottom: solid #a3a3a3 1.0pt; border-right: solid #a3a3a3 1.0pt; padding: 5px;">
-              <a href="https://creativecommons.org/characteristic/nc"><img src="https://www.synesthesia.co.uk/wp/wp-content/uploads/2015/04/042715_1539_CopyrightCr4.gif" alt="" /></a>
+              <a href="https://creativecommons.org/characteristic/nc"><img src="https://www.synesthesia.co.uk/wp/wp/uploads/2015/04/042715_1539_CopyrightCr4.gif" alt="" /></a>
             </td>
             
             <td style="border-top: none; border-left: none; border-bottom: solid #a3a3a3 1.0pt; border-right: solid #a3a3a3 1.0pt; padding: 5px;">

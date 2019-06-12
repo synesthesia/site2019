@@ -12,7 +12,7 @@ aktt_tweeted:
 
 ---
 <div class="zemanta-img" style="margin: 1em; display: block;">
-  <figure style="width: 300px" class="wp-caption aligncenter"><a href="https://commons.wikipedia.org/wiki/File:SLA_2.JPG"><img title="SLA 2" src="https://www.synesthesia.co.uk/blog/wp-content/uploads/2011/07/300px-SLA_21.jpg" alt="SLA 2" width="300" height="187" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
+  <figure style="width: 300px" class="wp-caption aligncenter"><a href="https://commons.wikipedia.org/wiki/File:SLA_2.JPG"><img title="SLA 2" src="https://www.synesthesia.co.uk/blog/wp/uploads/2011/07/300px-SLA_21.jpg" alt="SLA 2" width="300" height="187" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>
 
 #### 
