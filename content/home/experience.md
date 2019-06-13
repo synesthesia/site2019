@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Current Positions"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,58 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Director of Information Services"
+  company = "SSAT the schools teachers and students network"
+  company_url = "https://www.ssatuk.co.uk"
+  location = "London"
+  date_start = "2012-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Application development
+  * Technology support
+  * Brand and Marketing
+  * Finance management
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Board member"
+  company = "Islington and Shoreditch Housing Association"
+  company_url = "https://www.isha.co.uk/"
+  location = "London"
+  date_start = "2011-09-01"
+  date_end = ""
+  description = """
+  As a non-executive Member of the association I serve on the Board, setting the strategic direction of the Association, approving budgets and treasury provision, monitoring performance and ensuring adherence to standards.
+  """
+
+#[[experience]]
+#  title = "Head of Information Services"
+#  company = "The Specialist Schools Trust"
+#  company_url = ""
+#  location = "London"
+#  date_start = "2010-01-01"
+#  date_end = "2012-05-31"
+#  description = """
+#  Responsibilities included:
+#  
+#  * Application development
+#  * Technology support
+#  """
+#[[experience]]
+#  title = "Head of Business Systems"
+#  company = "BBC Resources Ltd"
+#  company_url = "https://bbcstudioworks.com/"
+#  location = "London"
+#  date_start = "2002-01-01"
+#  date_end = "2009-04-01"
+#  description = """
+#  Responsibilities included:
+#  
+#  * Outsourcing of technology services
+#  * Supplier management
+#  * Vendor due diligence during company sale
+#  """
 
 +++
