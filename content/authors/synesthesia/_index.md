@@ -80,10 +80,20 @@ email: ""
 #- Visitors
 ---
 
-I take a proactive and commercially astute approach to applying innovative technology to business problems. I'm experienced in working at senior management and board level to inform the strategic process, and just as comfortable working hands-on with marketing specialists, designers and developers in a CTO role.
+I started my professional life as a technologist when TV screens (and the cameras that fed them pictures) still had vacuum tubes in them. And now I will just as happily work with multi-skilled teams to devise modern applications to help your business.
+
+The linking thread is an lifelong curiosity about how things work, and how people use technology to get "the job" done.
+
+Along the way I've developed a fascination about how we develop and share knowledge, either as individuals or collectively.
+
+I like to think I am both proactive and pragmatic in applying innovative technology to business problems. I'm experienced in working at senior management and board level to inform the strategic process, and just as comfortable working hands-on with marketing specialists, designers and developers in a CTO role.
 
 During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses.
 
 I also have experience of board-level engagement with a social enterprise delivering housing to persons in need.
 
-I completely blame [Euan Semple](http://euansemple.com/theobvious) for introducing me to this strange idea of blogging back in 2001. As you can see from this site it has been an on-off-on-off-on sort of thing since then. I'm rather amused that the web has gone full circle in a lot of cases to simple files served by a lightweight server, even though these days we have lots of tools to build as complex a site as we like from those files.
+As far as I'm concerned, this blogging thing is entirely [Euan Semple's](http://euansemple.com/theobvious) fault for introducing me to it back in 2001. As you can see from this site it has been an on-off-on-off-on sort of thing since then. 
+
+This blog is likely to meander and stutter, there's 18 years of history right here to prove that, but it's "not dead yet"...
+
+
