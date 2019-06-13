@@ -68,7 +68,7 @@ This works perfectly if you only want to publish to GitHub, but for this site I 
 * [Netlify](https://app.netlify.com/) for the [main site](https://www.synesthesia.co.uk)
 * [GitHub Pages](https://synesthesia.gitgub.io) as secondary backup of my published site
 
-If you add the published GitHub Pages repo as a submodule in the site source (as suggwsted in the Hugo docs) then the Netlify build falls over with permission errors.
+If you add the published GitHub Pages repo as a submodule in the site source (as suggested in the Hugo docs) then the Netlify build falls over with permission errors.
 
 Even if you give Netlify access to the second repository it still fails, but as can be seen from [Github Applicaiton settings](https://github.com/settings/installations), Netlify only secures read access to code:
 ![Netlify Github Permissions](netlify-github-permissions.png)
