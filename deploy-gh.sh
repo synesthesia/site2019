@@ -13,7 +13,7 @@ git clone git@github.com:synesthesia/synesthesia.github.io.git public
 
 # build the site
 
-hugo -t academic
+hugo -t academic --gc --minify -b https://synesthesia.github.io
 
 # Go to the build folder
 cd public
