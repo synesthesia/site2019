@@ -9,7 +9,7 @@ categories: []
 tags: []
 lastmod: {{ .Date }}
 featured: false
-draft: false
+draft: true
 type: note
 
 # Featured image

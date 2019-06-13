@@ -10,7 +10,7 @@ categories: []
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
-draft: false
+draft: true
 type: post
 
 
