@@ -65,7 +65,7 @@ cd ..
 
 This works perfectly if you only want to publish to GitHub, but for this site I publish to two locations:
 
-* [Netlify](https://app.netlify.com/) for the [main site[(https://www.synesthesia.cvo.uk)]
+* [Netlify](https://app.netlify.com/) for the [main site](https://www.synesthesia.co.uk)
 * [GitHub Pages](https://synesthesia.gitgub.io) as secondary backup of my published site
 
 If you add the published GitHub Pages repo as a submodule in the site source (as suggwsted in the Hugo docs) then the Netlify build falls over with permission errors.
