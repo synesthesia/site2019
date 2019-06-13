@@ -4,7 +4,9 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
+authors: ["synesthesia"]
 categories: []
+tags: []
 lastmod: {{ .Date }}
 featured: false
 draft: false
