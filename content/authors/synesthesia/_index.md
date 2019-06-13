@@ -82,11 +82,11 @@ email: ""
 
 I started my professional life as a technologist when TV screens (and the cameras that fed them pictures) still had vacuum tubes in them. And now I will just as happily work with multi-skilled teams to devise modern applications to help your business.
 
-The linking thread is an lifelong curiosity about how things work, and how people use technology to get "the job" done.
+The linking thread is a lifelong curiosity about how things work, and how people use technology to get "the job" done.
 
 Along the way I've developed a fascination about how we develop and share knowledge, either as individuals or collectively.
 
-I like to think I am both proactive and pragmatic in applying innovative technology to business problems. I'm experienced in working at senior management and board level to inform the strategic process, and just as comfortable working hands-on with marketing specialists, designers and developers in a CTO role.
+I like to think I am both proactive and pragmatic in applying innovative technology to business problems. I'm experienced in working at senior management and board level to inform and co-create strategy, and just as comfortable working hands-on with marketing specialists, designers and developers in a CTO role.
 
 During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses.
 
