@@ -1,18 +1,14 @@
-	---
+---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
 categories: []
-date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
 draft: false
 type: note
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
