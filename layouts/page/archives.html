@@ -8,7 +8,7 @@
         <h3 class="archive-year">{{ .Key }}</h3>
 
         <ul class="archive-list">
-            {{ range (where .Pages "Type" "post") }}
+            {{ range (where .Pages "Type" "in" (slice "post" "note")) }}
                 <li>
                     {{ .PublishDate.Format "02 Jan" }}
                     -

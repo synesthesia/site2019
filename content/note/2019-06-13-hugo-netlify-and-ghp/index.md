@@ -8,6 +8,7 @@ authors: ["synesthesia"]
 categories: ["Technology"]
 tags: ["hugo", "static site generators", "GitHub pages"]
 lastmod: 2019-06-13T11:58:58+01:00
+date: 2019-06-13T11:58:58+01:00
 featured: false
 draft: false
 type: note
