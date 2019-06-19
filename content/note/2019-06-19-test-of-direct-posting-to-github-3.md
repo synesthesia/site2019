@@ -1,0 +1,18 @@
+---
+type: note
+slug: "2019-06-19-test-of-direct-posting-to-github-3"
+featured: false
+draft: false
+title: "Test of direct posting to github 3"
+subtitle: 
+summary: 
+authors: ["synesthesia"]
+categories: ["quick notes"]
+tags: []
+date: 2019-06-19T09:25:00-01:00
+---
+
+# Test of direct posting to github 3
+
+This is a test of posting from Drafts directly via the GitHub api.
+
