@@ -4,6 +4,10 @@ image:
 cache:
   - node_modules
 
+environment:
+  GIT_TOKEN:
+    secure: L7sB0mhk4yVtAASxtqQHK6PJwIjjylMgsv7fM5lv6FnBUW083AjOU+LYi/vNnP8z
+
 install:
   - cmd: git submodule update --init --recursive
   - ps: Start-FileDownload 'https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Windows-64bit.zip'
@@ -18,3 +22,14 @@ before_build:
 
 build_script:
   - hugo --gc --minify -b https://synesthesia.github.io -t academic
+
+on_success:
+  - git config --global credential.helper store
+  - ps: Add-Content "$HOME\.git-credentials" "https://$($env:GIT_TOKEN):x-oauth-basic@github.com`n"
+  - git config --global user.email "Julian.Elve@gmail.com"
+  - git config --global user.name "Julian Elve"
+  - cd public
+  - git add .
+  - git commit -m "Rebuild"
+  - git push origin master
+  - cd ..
