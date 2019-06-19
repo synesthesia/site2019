@@ -4,7 +4,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["synesthesia"]
 tags: []
 categories: []
 date: {{ .Date }}
