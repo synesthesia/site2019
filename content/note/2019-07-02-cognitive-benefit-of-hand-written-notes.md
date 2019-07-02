@@ -8,7 +8,7 @@ subtitle:
 summary: 
 authors: ["synesthesia"]
 categories: ["quick notes"]
-tags: []
+tags: ["learning", "cognition"]
 date: 2019-07-02T06:11:00+01:00
 ---
 
