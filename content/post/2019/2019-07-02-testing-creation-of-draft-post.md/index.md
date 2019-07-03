@@ -1,5 +1,5 @@
 ---
-type: note
+type: post
 slug: "2019-07-02-testing-creation-of-draft-post"
 featured: false
 draft: true
