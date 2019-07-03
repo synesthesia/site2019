@@ -1,3 +1,21 @@
+{{/* Attempt to load superuser. */}}
+  {{ $superuser_name := "" }}
+  {{ $superuser_username := "" }}
+  {{ $superuser_role := "" }}
+  {{ range first 1 (where (where site.Pages "Section" "authors") "Params.superuser" true) }}
+    {{ $superuser_name = .Params.name }}
+    {{ $superuser_username = path.Base (path.Split .Path).Dir }}
+    {{ $superuser_role = .Params.role }}
+  {{ end }}
+
+  {{ $person_page_path :=  (printf "/authors/%s" $superuser_username) }}
+  {{ $person_page := site.GetPage $person_page_path }}
+  {{ if not $person_page }}
+    {{ errorf "Could not find an author page at `%s`." $person_page_path }}
+  {{end}}
+  {{ $person := $person_page.Params }}
+  {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
 <footer class="site-footer">
   {{ with site.GetPage "privacy.md" }}
   <p class="powered-by">
@@ -6,7 +24,7 @@
   {{ end }}
 
   <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot;{{ end }}
+     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot;{{ end }}
 
      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike
     </a>
@@ -21,4 +39,13 @@
     </span>
     {{ end }}
   </p>
+  <div class ="h-card" style="display:none">
+    <a class="u-url" rel="me" href="{{ .Site.BaseURL  }}">{{$superuser_name}}</a>
+    {{ with site.Params.email }}<a href="mailto:{{ . }}" rel="me" class="u-email" />{{.}}</a> {{ end }}
+    {{ if $avatar }}
+      {{ $avatar_image := $avatar.Fill "200x200 Center" }}
+      <img class="u-photo" src="{{ $avatar_image.RelPermalink }}" >
+    {{ end}}
+
+  </div>
 </footer>
