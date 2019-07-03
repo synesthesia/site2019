@@ -1,3 +1,13 @@
+{{/* Attempt to load superuser. */}}
+  {{ $superuser_name := "" }}
+  {{ $superuser_username := "" }}
+  {{ $superuser_role := "" }}
+  {{ range first 1 (where (where site.Pages "Section" "authors") "Params.superuser" true) }}
+    {{ $superuser_name = .Params.name }}
+    {{ $superuser_username = path.Base (path.Split .Path).Dir }}
+    {{ $superuser_role = .Params.role }}
+  {{ end }}
+
 <footer class="site-footer">
   {{ with site.GetPage "privacy.md" }}
   <p class="powered-by">
@@ -6,9 +16,7 @@
   {{ end }}
 
   <p class="powered-by">
-    {{$baseurl := ""}}
-    {{$baseurl = .Site.BaseURL }}
-    {{ with site.Copyright }}<a class="h-card" rel="me"  href="{{ $baseurl }}">{{ replace . "{year}" now.Year | markdownify}}</a> &middot;{{ end }}
+     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot;{{ end }}
 
      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike
     </a>
@@ -23,4 +31,7 @@
     </span>
     {{ end }}
   </p>
+  <div class ="hcard" style="display:none">
+    &copy; <a class="h-card" rel="me"  href="{{ .Site.BaseURL  }}">{{$superuser_name}}</a>
+  </div>
 </footer>
