@@ -4,3 +4,4 @@
 {{ with site.Params.indieweb.github }}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.indieweb.linkedin }}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.indieweb.gitlab }}<link rel="me" href="{{ . }}" /> {{ end }}
+{{ with site.Params.email }}<link href="mailto:{{ . }}" rel="me" /> {{ end }}
