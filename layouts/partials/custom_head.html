@@ -5,7 +5,7 @@
 {{ with site.Params.indieweb.linkedin }}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.indieweb.gitlab }}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.email }}<link href="mailto:{{ . }}" rel="me" /> {{ end }}
-{{ with site.params.webmentionio}}
+{{ with site.Params.indieweb.webmentionio}}
 <link rel="webmention" href="{{ . }}}/webmention" />
 <link rel="pingback" href="{{ . }}}/xmlrpc" />
 {{ end }}
