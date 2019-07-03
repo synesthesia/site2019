@@ -6,7 +6,9 @@
   {{ end }}
 
   <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot;{{ end }}
+    {{$baseurl := ""}}
+    {{$baseurl = .Site.BaseURL }}
+    {{ with site.Copyright }}<a class="h-card" rel="me"  href="{{ $baseurl }}">{{ replace . "{year}" now.Year | markdownify}}</a> &middot;{{ end }}
 
      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike
     </a>
