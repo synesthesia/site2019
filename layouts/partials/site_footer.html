@@ -31,7 +31,8 @@
     </span>
     {{ end }}
   </p>
-  <div class ="hcard" style="display:none">
-    &copy; <a class="h-card u-url u-uid" rel="me"  href="{{ .Site.BaseURL  }}">{{$superuser_name}}</a>
+  <div class ="h-card" style="display:none">
+    <a class="u-url u-uid"  href="{{ .Site.BaseURL  }}">{{$superuser_name}}</a>
+    {{ with site.Params.email }}<a href="mailto:{{ . }}" rel="me" class="u-email" />{{.}}</a> {{ end }}
   </div>
 </footer>
