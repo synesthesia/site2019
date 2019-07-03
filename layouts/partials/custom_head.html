@@ -1,0 +1,6 @@
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+{{ with site.Params.twitter }}<link rel="me" href="https://twitter.com/{{ . }}" /> {{ end }}
+{{ with site.Params.indieweb.github }}<link rel="me" href="{{ . }}" /> {{ end }}
+{{ with site.Params.indieweb.linkedin }}<link rel="me" href="{{ . }}" /> {{ end }}
+{{ with site.Params.indieweb.gitlab }}<link rel="me" href="{{ . }}" /> {{ end }}

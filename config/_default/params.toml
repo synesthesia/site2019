@@ -159,3 +159,9 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+[indieweb]
+  github = "https://github.com/synesthesia"
+  linkedin = "https://www.linkedin.com/in/julianelve/"
+ # twitter = "https://twitter.com/synesthesia"
+  gitlab = "https://gitlab.com/synesthesia1"
