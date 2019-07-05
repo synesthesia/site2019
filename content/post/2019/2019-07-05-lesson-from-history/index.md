@@ -40,7 +40,7 @@ Among the tweeters, Otto English, who used the quote in his [article](https://by
 
 {{< tweet 1146408406829412352 >}}
 
-and the academice, diplomat and author Dr Jennifer Cassidy:
+and the academic, diplomat and author Dr Jennifer Cassidy:
 
 {{< tweet 1146112460828631040 >}}
 
