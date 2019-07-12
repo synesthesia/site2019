@@ -10,6 +10,7 @@ authors: ["synesthesia"]
 categories: ["quick notes"]
 tags: ["ios","tools","drafts","workingcopy"]
 date: 2019-07-12T15:08:00+01:00
+projects: ["wp-to-hugo"]
 ---
 
 [Drafts](https://getdrafts.com) is a genuinely useful text creation tool for iOS devices.
