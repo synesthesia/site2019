@@ -20,8 +20,8 @@
   {{ if not (in (slice "talk" "page") $page.Type) }}
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
-    {{ $date2 :=$page.Lastmod.Format  "2006-01-02 15:04:05"}}
-    {{ if eq $page.Type "publication" }}
+    {{ $date2 :=$page.Lastmod.Format  "2006-01-h02 15:04:05"}}
+    {{ if and (eq $page.Type "publication") (eq $page.Type "post") }}
       {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
