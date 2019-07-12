@@ -17,6 +17,6 @@ projects: ["wp-to-hugo"]
 
 With the Pro version you can extend the tool with custom actions, either from the [community](http://actions.getdrafts.com), or written yourself (Javascript).
 
-Collecting / writing / adapting useful scripts for working with this blog from my phone[here](https://github.com/synesthesia/drafts-scripts/blob/master/README.md).
+Collecting / writing / adapting useful scripts for working with this blog from my phone [here](https://github.com/synesthesia/drafts-scripts/blob/master/README.md).
 
 To complete the setup, I recommend the [Working Copy](https://workingcopyapp.com) git client.
