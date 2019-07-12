@@ -8,7 +8,7 @@ subtitle:
 summary: 
 authors: ["synesthesia"]
 categories: ["quick notes"]
-tags: []
+tags: ["LUIS","cognitive services", "automation"]
 date: 2019-07-12T03:22:00+01:00
 ---
 
