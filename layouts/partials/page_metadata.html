@@ -26,21 +26,18 @@
   
 
   {{ if not (in (slice "talk" "page") $page.Type) }}
-  
-      <span class="article-date">
-    {{with $page.Params.Date}}
-      {{ $date3 = .Format site.Params.date_format }}
-      {{ $date4 = .Format  "2006-01-h02 15:04:05"}}
-    {{end}}
+    <span class="article-date">
+      {{with $page.Params.Date}}
+        {{ $date3 = .Format site.Params.date_format }}
+        {{ $date4 = .Format  "2006-01-h02 15:04:05"}}
+      {{end}}
       {{ if  eq $page.Type "publication" }}
-        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
+        {{ $date3 = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
       {{ else }}
-          {{ if ne $page.Params.Lastmod $page.Params.Date }}
+        {{ if ne $page.Params.Lastmod $page.Params.Date }}
             {{ i18n "published" }}
         {{ end }}
       {{ end }}
-      <!--<time class="dt-published" datetime="YYYY-MM-DD HH:MM:SS">The Date</time>-->
-      <!-- "2006-01-02 15:04:05" -->
       <time class="dt-published" datetime="{{ $date4 }}">{{ $date3 }}</time>
     </span>
     
@@ -48,24 +45,23 @@
       {{ if  eq $page.Type "publication" }}
         {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
       {{ else }}
-          {{ if ne $page.Params.Lastmod $page.Params.Date }}
-            {{ i18n "last_updated" }}
+        {{ if ne $page.Params.Lastmod $page.Params.Date }}
+          {{ i18n "last_updated" }}
         {{ end }}
       {{ end }}
-      <!--<time class="dt-published" datetime="YYYY-MM-DD HH:MM:SS">The Date</time>-->
-      <!-- "2006-01-02 15:04:05" -->
+      
       <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
     </span>
 
-  {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    {{ if $page.Params.publication_short }}
-      {{ $page.Params.publication_short | markdownify }}
-    {{ else if $page.Params.publication }}
-      {{ $page.Params.publication | markdownify }}
-    {{ end }}
-  </span>
+    {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
+      <span class="middot-divider"></span>
+      <span class="pub-publication">
+        {{ if $page.Params.publication_short }}
+          {{ $page.Params.publication_short | markdownify }}
+        {{ else if $page.Params.publication }}
+          {{ $page.Params.publication | markdownify }}
+        {{ end }}
+      </span>
   {{ end }}
 
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
