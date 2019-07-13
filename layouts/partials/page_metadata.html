@@ -56,17 +56,6 @@
       <!-- "2006-01-02 15:04:05" -->
       <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
     </span>
-    {{ if ne $page.Params.Lastmod $page.Params.Date }}
-    span>
-    
-    <span class="article-date">
-      {{ if  eq $page.Type "publication" }}
-        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
-      {{
-  
-
-    {{ end }}
-  {{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
