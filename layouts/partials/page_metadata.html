@@ -34,8 +34,8 @@
     </span>
     {{ if ne $page.Params.Lastmod $page.Params.Date }}
     <span class="article-date">
-      {{ $date3 := $page.Params.Date site.Params.date_format }}
-      {{ $date4 :=$page.Params.Date  "2006-01-h02 15:04:05"}}
+      {{ $date3 := $page.Params.Date.Format  site.Params.date_format }}
+      {{ $date4 :=$page.Params.Date.Format  "2006-01-h02 15:04:05"}}
       {{ if  eq $page.Type "publication" }}
         {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
       {{ else }}
