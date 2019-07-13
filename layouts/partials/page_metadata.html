@@ -26,22 +26,8 @@
   
 
   {{ if not (in (slice "talk" "page") $page.Type) }}
-    
-    <span class="article-date">
-      {{ if  eq $page.Type "publication" }}
-        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
-      {{ else }}
-          {{ if ne $page.Params.Lastmod $page.Params.Date }}
-            {{ i18n "last_updated" }}
-        {{ end }}
-      {{ end }}
-      <!--<time class="dt-published" datetime="YYYY-MM-DD HH:MM:SS">The Date</time>-->
-      <!-- "2006-01-02 15:04:05" -->
-      <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
-    </span>
-    {{ if ne $page.Params.Lastmod $page.Params.Date }}
   
-    <span class="article-date">
+      <span class="article-date">
     {{with $page.Params.Date}}
       {{ $date3 = .Format site.Params.date_format }}
       {{ $date4 = .Format  "2006-01-h02 15:04:05"}}
@@ -57,6 +43,28 @@
       <!-- "2006-01-02 15:04:05" -->
       <time class="dt-published" datetime="{{ $date4 }}">{{ $date3 }}</time>
     </span>
+    
+    <span class="article-date">
+      {{ if  eq $page.Type "publication" }}
+        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
+      {{ else }}
+          {{ if ne $page.Params.Lastmod $page.Params.Date }}
+            {{ i18n "last_updated" }}
+        {{ end }}
+      {{ end }}
+      <!--<time class="dt-published" datetime="YYYY-MM-DD HH:MM:SS">The Date</time>-->
+      <!-- "2006-01-02 15:04:05" -->
+      <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
+    </span>
+    {{ if ne $page.Params.Lastmod $page.Params.Date }}
+    span>
+    
+    <span class="article-date">
+      {{ if  eq $page.Type "publication" }}
+        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
+      {{
+  
+
     {{ end }}
   {{ end }}
 
