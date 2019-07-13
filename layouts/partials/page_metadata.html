@@ -2,6 +2,12 @@
 {{ $share := .share | default false }}
 {{ $page := .page }}
 
+{{ $date := $page.Lastmod.Format site.Params.date_format }}
+{{ $date2 := $page.Lastmod.Format  "2006-01-h02 15:04:05"}}
+{{ $date3 := $date}}
+{{ $date4 := $date2}}
+  
+  
 <meta content="{{ $page.Params.Date }}" itemprop="datePublished">
 <meta content="{{ $page.Params.LastMod }}" itemprop="dateModified">
 
@@ -16,11 +22,12 @@
   </div>
   {{ end }}
   {{ end }}
+  
+  
 
   {{ if not (in (slice "talk" "page") $page.Type) }}
+    
     <span class="article-date">
-      {{ $date := $page.Lastmod.Format site.Params.date_format }}
-      {{ $date2 :=$page.Lastmod.Format  "2006-01-h02 15:04:05"}}
       {{ if  eq $page.Type "publication" }}
         {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
       {{ else }}
@@ -33,8 +40,7 @@
       <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
     </span>
     {{ if ne $page.Params.Lastmod $page.Params.Date }}
-    {{$date3 := $date}}
-    {{$date4 := $date2}}
+  
     <span class="article-date">
     {{with $page.Params.Date}}
       {{ $date3 = .Format site.Params.date_format }}
