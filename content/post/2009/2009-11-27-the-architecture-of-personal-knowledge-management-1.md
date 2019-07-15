@@ -3,6 +3,7 @@ title: The Architecture of Personal Knowledge Management – 1
 authors: ["synesthesia"]
 type: post
 date: 2009-11-27T13:03:51+00:00
+lastmod: 2019-07-15T08:00:00+00:00
 excerpt: "Back in July Harold Jarche posted a useful deconstruction of the processes involved in web-based personal knowledge management (PKM). Building on this, and in order to make a lot of implicit stuff in my head explicit, I've started developing the model into a full mapping of processes to tools."
 slug: the-architecture-of-personal-knowledge-management-1 
 aliases: ["/2009/11/27/the-architecture-of-personal-knowledge-management-1"]
@@ -10,13 +11,17 @@ aktt_notify_twitter:
   - no
 
 ---
+<ins datetime="2019-07-15">
+Unfortunately the links to a personal instance of Wikka have not survived various hosting changes, nor can I find the source files from which I developed the architecture drawings. Ten years on I still think it is informative to think through the performance of PKM processes in terms of roles, and this is something to revisit.
+</ins> 
+
 Back in July Harold Jarche posted  [a useful deconstruction of the processes involved in web-based personal knowledge management][1] (PKM). Building on this, and in order to make a lot of implicit stuff in my head explicit, I&#8217;ve started developing the model into a full mapping of processes to tools.
 
 I&#8217;ve chosen to use [Archimate][2] as a modelling language, and as I develop the model offline I will be posting views of it to pages liked from [this wiki page][3].
 
 Harold&#8217;s model looks like this:
 
-[<img class="aligncenter" title="PKM Processes - by Harold Jarche" src="https://www.jarche.com/wp/uploads/2008/06/pkm-flow.jpg" alt="" width="434" height="278" />][1]
+[<img class="aligncenter" title="PKM Processes - by Harold Jarche" src="http://jarche.com/wp-content/uploads/2008/06/pkm-flow.jpg" alt="" width="434" height="278" />][1]
 
 As I began to unpick Harold&#8217;s [seven processes][1] I realised that although they are primarily focused on &#8220;self&#8221;, one key aspect to understand them is to identify the different roles that &#8220;self&#8221; (and &#8220;others&#8221;) play. This aspect of the model so far is shown in the [Introductory View][4] :
 
