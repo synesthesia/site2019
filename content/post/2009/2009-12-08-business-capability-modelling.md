@@ -3,18 +3,18 @@ title: Business Capability Modelling
 authors: ["synesthesia"]
 type: post
 date: 2009-12-08T09:06:24+00:00
+lastmod: 2019-08-15T08:08:00+00:00
 excerpt: 'Summarising a couple of articles on Business Capability Modelling in Architecture & Governance Magazine'
 slug: business-capability-modelling 
 aliases: ["/2009/12/08/business-capability-modelling"]
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
+tags: ["Enterprise Architecture"]
 
 ---
+<ins datetime="2019-07-15">(2019-07-15) Source links seem to be broken now, however there is a new article from the same author (Leonard Greski) -  [Assessing the Value of Software Applications with Business Capability Models](https://www.architectureandgovernance.com/strategy-planning/assessing-the-value-of-software-applications-with-business-capability-models/)</ins>
+
 I’ve just been reading a couple of articles on this topic in the online version of <a title="Link to source publication" href="https://www.architectureandgovernance.com/" target="_blank">Architecture and Governance Magazine</a>. _(registration required to read full article text)._
 
-In <a title="Link to source article" href="https://architectureandgovernance.com/content/business-capability-modeling-theory-practice" target="_blank">Business Capability Modeling: Theory & Practice</a>, author <a title="LinkedIn profile for Leonard Greski" href="https://www.linkedin.com/pub/leonard-greski/2/463/930" target="_blank">Leonard Greski</a> gives a good overview of the process steps:
+In <a title="Business Capability Modeling: Theory & Practice" href="https://architectureandgovernance.com/content/business-capability-modeling-theory-practice" target="_blank">Business Capability Modeling: Theory & Practice</a>, author <a title="LinkedIn profile for Leonard Greski" href="https://www.linkedin.com/pub/leonard-greski/2/463/930" target="_blank">Leonard Greski</a> gives a good overview of the process steps:
 
 <blockquote cite="https://architectureandgovernance.com/content/business-capability-modeling-theory-practice">
   <p>
@@ -45,4 +45,3 @@ In the second article <a title="Link to source article" href="https://www.archit
 
 _(NB I’ve looked for a blog by Leonard, but can’t find one, hence linking to his LinkedIn profile.)_
 
-<a href="about:Business Capability Modelling: Building the Hierarchy" target="_blank"></a>

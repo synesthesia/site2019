@@ -6,10 +6,11 @@ date: 2009-11-16T09:32:55+00:00
 excerpt: Louise Ross from the Chartered Institute of Management Accountants has created a blog post and paper to guide CIMA members on constructing business cases for Enterprise 2.0 efforts
 slug: the-roi-of-enterprise-2-0-an-accountants-view 
 aliases: ["/2009/11/16/the-roi-of-enterprise-2-0-an-accountants-view"]
-aktt_notify_twitter:
-  - no
+tags: ["web2.0"]
 
 ---
+<ins datetime="2019-07-15">(2019-07-15) Updated metadata. Sadly CIMA seem to have retired the community blogs site so the core post and paper referenced in this post are now lost to the world</ins>
+
 [Louise Ross][1] from the Chartered Institute of Management Accountants has created a [blog post][2] and [paper][3] to guide CIMA members on constructing business cases for Enterprise 2.0 efforts. [via [Bill Ives][4]].
 
 In the paper Louise sets out 20 brief case studies from various companies, and surveys typical commercial uses for a wide range of social tools. She goes on to pick out several key questions that organisations should consider: is the organisation suited to this approach; is there a real community to tap into; when and where to implement; is the information “good”; and is the company prepared for the changes that might come? She then spends several pages on more general guidance on how to construct the business case and investment analysis.
@@ -22,7 +23,6 @@ As a member of the Internet-using public I’m always a little sceptical of comp
 
 Sadly CIMA don’t seem to get it – to comment on the blog you have to be registered with their system, and although I tried I was baulked by a combination of server errors, account verification emails which never arrived, and some pages which seemed to suggest you could only register if you are a CIMA member. So if anyone from CIMA reads this, please take note of your own experts!
 
-([cross-posted][7] from my professional blog)
 
  [1]: https://community.cimaglobal.com/node/196
  [2]: https://community.cimaglobal.com/blogs/louise-rosss-blog/more-enthusiasm-web-20
@@ -30,4 +30,4 @@ Sadly CIMA don’t seem to get it – to comment on the blog you have to be regi
  [4]: https://billives.typepad.com/portals_and_km/2009/11/making-the-business-case-for-enterprise-20-an-london-accountants-advice-.html
  [5]: https://www.euansemple.com/theobvious/2008/6/10/most-companies-who-try-to-do-enterprise-20-will-fail.html
  [6]: https://blog.wirearchy.com/2009/11/14/looking-to-the-past-for-enterprise-2-0-adoption-principles/
- [7]: https://www.elve.co.uk/2009/11/16/the-roi-of-enterprise-2-0-an-accountants-view/
+
