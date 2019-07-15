@@ -7,7 +7,7 @@ lastmod: 2019-07-15T11:00:00+00:00
 slug: uml-profile-for-benefits-realisation-management-1
 aliases: ["/2010/12/21/uml-profile-for-benefits-realisation-management-1/"]
 tags: ["UML", "Benefits Realisation Management"]
-
+projects: ["ea-uml-addons"]
 ---
 I wrote yesterday about [using a general purpose UML modelling tool to create project Benefit Maps]({{< ref "/post/2010/2010-12-20-modelling-benefits-in-uml/index.md" >}}).
 

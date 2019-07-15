@@ -7,6 +7,7 @@ lastmod: 2019-07-15T10:00:00+00:00
 slug: modelling-benefits-in-uml
 aliases: ["/2010/12/20/modelling-benefits-in-uml/"]
 tags: ["UML", "Benefits Realisation Management"]
+projects: ["ea-uml-addons"]
 ---
 [Benefits Realisation Management][1] is one of those classic programme / project disciplines that "everyone" agrees is a great idea, which in my experience is more overlooked than observed.
 
