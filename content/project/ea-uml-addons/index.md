@@ -39,5 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-A collection of posts about extending Sparx Enterprise Architect.
+
+I've been a user of [Sparx Enterprise Architect](https://sparxsystems.com/) for many years - when you need to put together a model of some project it's really useful. Although there are plenty of other UML tools around, one of the features I really like is the ability to extend the modelling language to suit your own requirements.
+
+This project pulls together notes about small customisations I have made.
+
 
