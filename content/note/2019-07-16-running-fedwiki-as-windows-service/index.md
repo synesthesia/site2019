@@ -33,6 +33,8 @@ Although the main feature is the ability to fork content from other wikis, and t
 
 The most stable distribution of wiki is written in node, so will run anywhere that node will. It's really useful to have wiki run continuously, so in this approach we use [node-windows](http://github.com/coreybutler/node-windows) to install wiki as a windows service.
 
+{{% toc %}}
+
 ## Preparation
 
 * install [node and npm](https://nodejs.org/en/download/)
