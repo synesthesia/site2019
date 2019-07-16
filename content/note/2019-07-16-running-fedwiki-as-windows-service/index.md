@@ -9,7 +9,7 @@ categories: ["tools"]
 tags: ["fedwiki"]
 date: 2019-07-16T10:03:40+01:00
 featured: false
-draft: true
+draft: false
 type: note
 
 # Featured image
