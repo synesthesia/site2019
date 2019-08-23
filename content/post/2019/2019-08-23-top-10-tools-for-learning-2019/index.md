@@ -51,7 +51,7 @@ Usually my first source for information from selected parts of my network. Use o
 
 ##  OneNote
 
-Still has a place for work note-taking that sits within our Offoce365 environment.
+Still has a place for work note-taking that sits within our Office365 environment.
 
 ## Github
 
