@@ -2,7 +2,7 @@
 type: post
 slug: "top-10-tools-for-learning-2019"
 featured: false
-draft: true
+draft: false
 title: "Top 10 tools For learning 2019"
 subtitle: 
 summary: 
