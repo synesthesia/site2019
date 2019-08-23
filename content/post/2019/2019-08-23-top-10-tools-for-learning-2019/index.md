@@ -7,8 +7,8 @@ title: "Top 10 tools For learning 2019"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["draft posts"]
-tags: []
+categories: ["PKM"]
+tags: ["PKM", "tools"]
 date: 2019-08-23T09:25:00+01:00
 ---
 
