@@ -41,7 +41,7 @@ Today we found that for approximately 100 users this process had failed because 
 * iterate over the list of user Ids, and for each: 
   * lookup the user record in CRM
   * query two records to get the relevant data keys
-  * write back the updated user record to a custom REST APi on the SSO service (secured by bearer token)
+  * write back the updated user record to a custom REST API on the SSO service (secured by bearer token)
 
 ## Creating a tool
 
@@ -85,17 +85,17 @@ client_secret=CLIENTSECRET
 ```
 The HTTP action then looks like:
 
-{{< figure src="gettoken.png" title="Example HTTP action to retrieve access token from Azure AD" numbered="true" lightbox="true" width="400">}}
+{{< figure src="gettoken.png" title=" Example HTTP action to retrieve access token from Azure AD" numbered="true" lightbox="true" width="400">}}
 
 For convenience I then composed the token result with the "Bearer" label to make up content I would need to include in a requst header later:
 
-{{< figure src="token.png" title="Compose token value into required header value" numbered="true" lightbox="true" width="400">}}
+{{< figure src="token.png" title=" Compose token value into required header value" numbered="true" lightbox="true" width="400">}}
 
 ### Iterating over the data
 
 After the [List Rows present in a Table](https://docs.microsoft.com/en-us/connectors/excelonlinebusiness/#list-rows-present-in-a-table) action place an "Apply to Each" action from the `New Step` dialog:
 
-{{< figure src="foreach.png" title="Add 'Apply to Each' action" numbered="true" lightbox="true" width="400">}}
+{{< figure src="foreach.png" title=" Add 'Apply to Each' action" numbered="true" lightbox="true" width="400">}}
 
 All the subsequent actions are placed within the Apply To Each block.
 
@@ -107,7 +107,7 @@ In our example we had to query two records to collect the data we needed.
 
 The first one holds the remote SSO Id (our source data) in a text field, so although there is a 1:1 match between the two systems we needed to use a query to find the relevant record. This is done using a ["List records"](https://docs.microsoft.com/en-us/connectors/dynamicscrmonline/#list-records) action with a suitable filter expression.
 
-{{< figure src="listrecords.png" title="Query list of records in Dynamics" numbered="true" lightbox="true" width="400">}}
+{{< figure src="listrecords.png" title=" Query list of records in Dynamics" numbered="true" lightbox="true" width="400">}}
 
 
 Because this action returns an array of records, in subsequent processing remember to select the first record, e.g. 
@@ -126,7 +126,7 @@ The record we obtained from the first step contains a lookup field to the second
 
 We can then use that value as the record Id in a standard [Get Record](https://docs.microsoft.com/en-us/connectors/dynamicscrmonline/#get-record) action:
 
-{{< figure src="getrecord.png" title="Retrieve a single record from Dynamics" numbered="true" lightbox="true" width="400">}}
+{{< figure src="getrecord.png" title=" Retrieve a single record from Dynamics" numbered="true" lightbox="true" width="400">}}
 
 ### Posting back to the SSO system
 
@@ -134,13 +134,13 @@ We can then use that value as the record Id in a standard [Get Record](https://d
 
 The SSO API requires data in a format very loosely based on [SCIM](http://www.simplecloud.info/) so I used a [Compose](https://docs.microsoft.com/en-us/flow/data-operations#use-the-compose-action) action to build the request:
 
-{{< figure src="compose-sso-request.png" title="compose body of update request" numbered="true" lightbox="true" width="400">}}
+{{< figure src="compose-sso-request.png" title=" Compose body of update request" numbered="true" lightbox="true" width="400">}}
 
 #### Sending updated data
 
 The final step was to assemble the API endpoint, the request body and the authorization token into an HTTP request:
 
-{{< figure src="sso-update.png" title="Send update request" numbered="true" lightbox="true" width="400">}}
+{{< figure src="sso-update.png" title=" Send update request" numbered="true" lightbox="true" width="400">}}
 
 
 ## Conclusion
