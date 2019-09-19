@@ -3,7 +3,7 @@
 
 title: "Filtering Information by Social Distance"
 subtitle: ""
-summary: ""
+summary: "Building on earlier experiments in organising information sources based on degree of social connection."
 authors: ["synesthesia"]
 tags: ["PKM", "blogging history", "social distance", "information overload", "blogwalk"]
 categories: ["PKM"]
