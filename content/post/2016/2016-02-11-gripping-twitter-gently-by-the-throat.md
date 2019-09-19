@@ -6,7 +6,8 @@ date: 2016-02-11T09:05:52+00:00
 excerpt: Taking control of the Twitter stream by moving my activity to lists... (in progress)
 slug: gripping-twitter-gently-by-the-throat 
 aliases: ["/2016/02/11/gripping-twitter-gently-by-the-throat"]
-tags: ["PKM"]
+tags: ["PKM", "information overload"]
+categories: ["PKM"]
 ---
 In <a href="https://www.synesthesia.co.uk/2016/02/11/breaking-the-ubiquity-of-stream-mode/" target="_blank">Breaking the Ubiquity of Stream&nbsp;Mode</a> I wrote that, inspired by <a href="https://www.elsua.net/2015/09/23/is-twitter-where-connections-go-to-die-the-unfollowing-experiment/" target="_blank">&#8220;Is Twitter Where Connections Go to Die? – The Unfollowing Experiment&#8221;</a>, &nbsp;I would start taking overt control of my Twitter use.
 

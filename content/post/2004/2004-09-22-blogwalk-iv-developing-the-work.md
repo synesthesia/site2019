@@ -3,10 +3,11 @@ title: Blogwalk IV – developing the work
 authors: ["synesthesia"]
 type: post
 date: 2004-09-22T22:16:00+00:00
-excerpt: |
-  Suw Charman's done a great job of <a href="https://headshift.com/archives/002150.cfm">capturing</a> the 11 core themes from the <a href="https://www.synesthesia.co.uk/blog/archives/2004/09/18/blogwalk-iv/">Blogwalk</a> "<a href="https://headshift.com/archives/002152.cfm">Window Wiki</a>". As people reflect on the event there is discussion about how to best develop the ideas from this session and how to ensure better learning next time.
+summary: "Suw Charman's done a great job of capturing the 11 core themes from the Blogwalk 'Window Wiki'. As people reflect on the event there is discussion about how to best develop the ideas from this session and how to ensure better learning next time."
 slug: blogwalk-iv-developing-the-work 
 aliases: ["/2004/09/22/blogwalk-iv-developing-the-work"]
+tags: ["blogwalk"]
+categories: ["PKM", "UnConferences"]
 
 ---
 Over at [Headshift][1] [Suw Charman][2] has done a [great job][3] of capturing the 11 core themes from the [Blogwalk][4] &#8220;[Window Wiki][5]&#8220;. As people reflect on the event there is discussion about how to best develop the ideas from this session and how to ensure better learning next time. Here&#8217;s my three-ha&#8217;porth, modified slightly from my own [comment][6] to that discussion:
