@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: ["synesthesia"]
 categories: ["Technology"]
-tags: ["Microsoft Flow", "tools"]
+tags: ["MSFlow", "tools"]
 lastmod: 2019-09-18T10:34:24+01:00
 featured: false
 draft: false
