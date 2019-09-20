@@ -1,0 +1,18 @@
+<div id="webmentions">
+    {{ $t := (printf "https://webmention.io/api/mentions%s" "?target=%s") }}
+
+    {{ printf "%#v" (urls.Parse .Permalink ).Path }}
+    {{ $u := printf "'https://www.synesthesia.co.uk%s'"  (urls.Parse .Permalink ).Path  | urlize }}
+
+    {{ printf "%#v" $u }}
+
+    {{ printf "%#v" $t }}
+
+    {{ $j := (printf $t $u) }}
+
+    {{ printf "%#v" $j }}
+
+    {{ getJSON $j }}
+
+
+</div>
