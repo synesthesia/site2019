@@ -2,6 +2,7 @@ var Webmention = require('./lib/webmention');
 var sendMention = require('./lib/send');
 var  ms = require('ms');
 var parse = require('url').parse;
+var encoding = require('encoding');
 
 exports.handler = function(event, context, callback) {
 //console.log('deploy-succeeded');
