@@ -1,7 +1,7 @@
 [build]
   #command = "hugo --gc --minify -b $URL"
-  command = "yarn prod"
-  publish = "do-build"
+  command = "yarn do-build"
+  publish = "public"
   functions = "functions"
 
 [build.environment]
