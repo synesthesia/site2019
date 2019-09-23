@@ -1,18 +1,74 @@
-<div id="webmentions">
-    {{ $t := (printf "https://webmention.io/api/mentions%s" "?target=%s") }}
 
-    {{ printf "%#v" (urls.Parse .Permalink ).Path }}
-    {{ $u := printf "'https://www.synesthesia.co.uk%s'"  (urls.Parse .Permalink ).Path  | urlize }}
+  {{ $j := (printf (printf "https://webmention.io/api/mentions%s" "?target=%s") ( print "https://" (printf "www.synesthesia.co.uk%s"  (urls.Parse .Permalink ).Path  | urlize ) ) ) }}
 
-    {{ printf "%#v" $u }}
+  {{ $wm := getJSON (replace $j "\"" "") }}
 
-    {{ printf "%#v" $t }}
+  {{ with $wm.links }}
+    <div id="webmentions">
+      <a id="webmentions-anchor"></a>
+      <h4>Network</h4>
+      {{ $.Scratch.Set "__like_cnt" 0 }}
+      {{ $.Scratch.Set "__repost_cnt" 0 }}
+      {{ range . }}
+        {{/* partial "debugprint.html" (index . "activity") */}}
+        {{ $activity := (index . "activity") }}
+        {{ $activity_type := (index $activity "type") }}
+        {{ $data := (index . "data") }}
+        {{/* partial "debugprint.html" $data */}}
+        {{ $author_obj := (index $data "author") }}
+        {{ $author_name := (index $author_obj "name") }}
+        {{ $author_photo := (index $author_obj "photo") }}
+        {{ $author_url := (index $author_obj "url") }}
+        {{ $mention_string := (index $data "content") }}
+        {{ $mention_url := (index $data "url") }}
+        {{ with (index $data "published") }}
+            {{ $.Scratch.Set "__published_date" (. | replaceRE "T.*" "" | dateFormat "Mon Jan 2, 2006") }}
+        {{ end }}
+        {{ if (eq $activity_type "reply") }}
+            {{/* partial "debugprint.html" $data */}}
+            <dl class="webmention comment">
+                <dt>
+                    Comment by <a href="{{ $author_url }}">{{ $author_name }}</a> on {{ $.Scratch.Get "__published_date" }}
+                    {{ printf "<a href=\"%s\">" $mention_url | safeHTML }}
+                    {{ printf "<i class=\"%s fa-link fa-xs\"></i>" "far" | safeHTML }}
+                    {{ printf "</a>" | safeHTML }}
+                </dt>
+                <dd>
+                    {{ $mention_string | safeHTML }}
+                </dd>
+            </dl>
+        {{ else if (eq $activity_type "link") }}
+            {{/* partial "debugprint.html" $data */}}
+            <dl class="webmention mention">
+                <dt>
+                    Mentioned by <a href="{{ $author_url }}">{{ $author_name }}</a> on {{ $.Scratch.Get "__published_date" }}
+                    {{ printf "<a href=\"%s\">" $mention_url | safeHTML }}
+                    {{ printf "<i class=\"%s fa-link fa-xs\"></i>" "far" | safeHTML }}
+                    {{ printf "</a>" | safeHTML }}
+                </dt>
+                <dd>
+                    {{ $mention_string | safeHTML }}
+                </dd>
+            </dl>
+        {{ else if (eq $activity_type "like") }}
+            {{ $.Scratch.Add "__like_cnt" 1 }}
+        {{ else if (eq $activity_type "repost") }}
+            {{ $.Scratch.Add "__repost_cnt" 1 }}
+        {{ else }}
+            {{ $activity }}
+        {{ end }}
+    {{ end }}
+    {{ if (ge ($.Scratch.Get "__like_cnt") 1) }}
+        <p>
+            <strong>Likes</strong>: {{ $.Scratch.Get "__like_cnt" }}
+        </p>
+    {{ end }}
+    {{ if (ge ($.Scratch.Get "__repost_cnt") 1) }}
+        <p>
+            <strong>Reposts</strong>: {{ $.Scratch.Get "__repost_cnt" }}
+        </p>
+    {{ end }}
 
-    {{ $j := (printf $t $u) }}
 
-    {{ printf "%#v" $j }}
-
-    {{ getJSON $j }}
-
-
-</div>
+    </div> <!-- webmentions -->
+  {{ end }}
