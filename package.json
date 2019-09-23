@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "netlify-lambda install src/functions",
-    "do-build": "hugo --gc --minify -b $URL && netlify-lambda build src/functions",
+    "do-build": "netlify-lambda build src/functions && hugo --gc --minify -b $URL ",
     "build:app": "hugo --gc --minify -b $URL",
     "build:lambda": "netlify-lambda build src/functions"
   },
