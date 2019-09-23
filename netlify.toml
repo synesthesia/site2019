@@ -2,6 +2,7 @@
   #command = "hugo --gc --minify -b $URL"
   command = "yarn build"
   publish = "public"
+  functions = "functions"
 
 [build.environment]
   HUGO_VERSION = "0.58.2"

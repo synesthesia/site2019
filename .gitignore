@@ -1,3 +1,6 @@
 public/
 .idea/
 node_modules/
+functions/
+!functions/.gitkeep
+

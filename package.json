@@ -1,12 +1,13 @@
 {
-  "name": "@ssat/syn2019",
+  "name": "syn2019",
   "version": "1.0.0",
   "description": "My Hugo-based personal website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "run-p build:**",
-    "build:app": "hugo --gc --minify -b $URL"
+    "build:app": "hugo --gc --minify -b $URL",
+    "build-lambda": "netlify-lambda build src/functions"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "homepage": "https://github.com/synesthesia/site2019#readme",
   "devDependencies": {
     "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "netlify-lambda": "^1.6.3"
   }
 }
