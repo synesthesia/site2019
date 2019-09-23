@@ -1,0 +1,22 @@
+{
+  "name": "syn2019-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy-succeeded.js",
+  "directories": {
+    "lib": "lib/**"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "follow-redirects": "^1.9.0",
+    "li": "^1.3.0",
+    "microformat-node": "^2.0.1",
+    "node-fetch": "^2.6.0",
+    "rss-parser": "^3.7.2"
+  }
+}
