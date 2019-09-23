@@ -12,7 +12,7 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $URL"
+  command = "netlify-lambda build src/functions && hugo --gc --minify --buildFuture -b $URL"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $URL"
+  command = "netlify-lambda build src/functions && hugo --gc --minify -b $URL"
