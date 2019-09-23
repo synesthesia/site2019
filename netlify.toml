@@ -1,7 +1,7 @@
 [build]
   #command = "hugo --gc --minify -b $URL"
   command = "yarn prod"
-  publish = "public"
+  publish = "do-build"
   functions = "functions"
 
 [build.environment]
@@ -12,7 +12,7 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b $URL"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify -b $URL"
