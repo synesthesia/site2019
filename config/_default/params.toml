@@ -258,3 +258,6 @@ plugins_js  = []
  # twitter = "https://twitter.com/synesthesia"
   gitlab = "https://gitlab.com/synesthesia1"
   webmentionio = "https://webmention.io/www.synesthesia.co.uk"
+
+[feed]
+  mainSections = ["post", "note", "project"]
