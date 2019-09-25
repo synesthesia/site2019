@@ -29,7 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I was delighted to be tweeted by Ton Zylstra, an old blogging contact from the Triassic era of blogs...
+I was delighted to be tweeted by Ton Zijlstra, an old blogging contact from the Triassic era of blogs...
 {{< tweet 1173571836770172928 >}}
 
 Thanks to Ton's little prompt I realise I remember [Blogwalk IV]({{< relref "/post/2004/2004-09-18-blogwalk-iv.md" >}}), and reading back over the posts here and elsewhere I'm struck by how much is still relevant 15 years later - but that's for another post (as is an update on IndieWeb).
