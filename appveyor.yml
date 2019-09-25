@@ -14,9 +14,9 @@ environment:
 
 install:
   - cmd: git submodule update --init --recursive
-  - ps: Start-FileDownload 'https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Windows-64bit.zip'
+  - ps: Start-FileDownload 'https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_extended_0.58.3_Windows-64bit.zip'
   - ps: mkdir hugo
-  - ps: 7z x hugo_extended_0.58.0_Windows-64bit.zip -y
+  - ps: 7z x hugo_extended_0.58.3_Windows-64bit.zip -y
   - cmd: npm i -D postcss-cli
 
 before_build:
