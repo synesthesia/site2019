@@ -4,8 +4,8 @@
 title: "Rebooting Dynamics"
 summary: ""
 authors: [synesthesia]
-tags: [ "Dynamics365", "CI"]
-categories: []
+categories: ["Microsoft Power Platform"]
+tags: ["Power Platform", "Dynamics 365", "CI"]
 date: 2019-10-09T16:18:50+01:00
 draft: true
 
