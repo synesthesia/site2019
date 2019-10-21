@@ -2,7 +2,7 @@
 type: post
 slug: "leaders-or-followers"
 featured: false
-draft: true
+draft: false
 title: "Leaders or followers?"
 subtitle: 
 summary: 
