@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Current Positions"
+title = "Current and Recent Positions"
 subtitle = ""
 
 # Date format for experience
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   company_url = "https://www.isha.co.uk/"
   location = "London"
   date_start = "2011-09-01"
-  date_end = ""
+  date_end = "2019-11-06"
   description = """
-  As a non-executive Member of the association I serve on the Board, setting the strategic direction of the Association, approving budgets and treasury provision, monitoring performance and ensuring adherence to standards.
+  As a non-executive Member of the association I served on the Board, setting the strategic direction of the Association, approving budgets and treasury provision, monitoring performance and ensuring adherence to standards.
   """
 
 #[[experience]]
