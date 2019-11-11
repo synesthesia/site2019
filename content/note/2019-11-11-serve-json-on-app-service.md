@@ -3,7 +3,7 @@
 
 title: "Serve Json on Azure  App Service"
 subtitle: ""
-summary: "How to solve broken local search when serving a Hugo site fro mAzure App Service"
+summary: "How to solve broken local search when serving a Hugo site from Azure App Service"
 authors: ["synesthesia"]
 tags: ["Hugo", "Azure"]
 categories: ["quick notes"]
