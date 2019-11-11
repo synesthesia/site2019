@@ -45,4 +45,4 @@ The fix, via [StackOverflow](https://stackoverflow.com/questions/48137750/azure-
 </configuration> 
 ```
 
-As an aside it's worth noting that with this combination of technologies (plus Azure DevOps to do the CI/CD build) I could set up a good-looking internal-only comms site in under an hour. With such a light payload it could easily sit on an existing App Service Plan, so the resource cost is zero.
+As an aside it's worth noting that with this combination of technologies (plus Azure DevOps to do the CI/CD build) I could set up a good-looking internal-only comms site in under an hour. With such a light payload it could easily sit on an existing App Service Plan, so the marginal resource cost is zero.
