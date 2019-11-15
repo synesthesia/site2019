@@ -196,7 +196,9 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  #   3: Utterances (https://utteranc.es/)
+
+  engine = 3
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true, note = true}
@@ -205,6 +207,8 @@ plugins_js  = []
   [comments.disqus]
     shortname = "synesthesia-1"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
+
+
 
 
 ############################
