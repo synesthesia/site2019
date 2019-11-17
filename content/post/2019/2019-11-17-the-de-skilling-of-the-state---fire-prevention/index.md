@@ -1,14 +1,14 @@
 ---
 type: post
-slug: "the-de-skilling-of-the-state---fire-prevention"
+slug: "the-de-skilling-of-the-state-fire-prevention"
 featured: false
-draft: true
-title: "The de-skilling of the state - fire prevention"
+draft: false
+title: "Fire safety and the de-skilling of the state"
 subtitle: 
-summary: 
+summary: "Pointer to article that highlights the link between lower fire safety and historic changes to the systems of governance in the UK"
 authors: ["synesthesia"]
-categories: ["draft posts"]
-tags: ["politics"]
+categories: ["Links"]
+tags: ["politics", "housing", "safety"]
 date: 2019-11-17T12:39:00-00:00
 ---
 
