@@ -25,7 +25,7 @@ Having already moved a few plugins I knew there were some challenges in getting 
 
 Although we are migrating all of our server-side business logic into a single Dynamics solution, we intend to keep multiple assemblies (and therefore multiple VS projects) to provide more manageable encapsulation of code.
 
-The "obvious" answer was to replace the shared service and shared model assemblies with [shared source projects](https://dev.to/rionmonster/sharing-is-caring-using-shared-projects-in-aspnet-e17) linked form the workflow and plugin assemblies. 
+The "obvious" answer was to replace the shared service and shared model assemblies with [shared source projects](https://dev.to/rionmonster/sharing-is-caring-using-shared-projects-in-aspnet-e17) linked from the workflow and plugin assemblies. 
 
 That left the challenge of [generating the earlybound classes](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/org-service/create-early-bound-entity-classes-code-generation-tool).
 
@@ -43,7 +43,7 @@ The second major area of work has been to get our unit tests working correctly, 
 
 The major task has been refactoring legacy tests to use a consistent approach - we now use xunit, FakeXrmEasy and FluentAssertions as our standard tools, with AutoFixture and XBehave added where needed. 
 
-Some of our legacy tests were using MSTest, Moq and Castle Windsor (as an auto mocking container) in various combinations, so these have been refactored out - not only does this make for consistency, but also terser easier-to-read tests. 
+Some of our legacy tests were using MSTest, Moq and Castle Windsor (as an auto mocking container) in various combinations, so these have been refactored out - not only does this make for consistency but also terser, easier-to-read tests. 
 
 Running tests showed up a couple of issues where the code we were working on called custom actions that we haven't yet ported. On reflection this is a strong "smell" that our previous split of functionality into separate Dynamics solutions wasn't right. Now we are moving to all back-end logic in a single Dynamics solution the easy refactor is to replace the call to the custom action with a direct  call to the service class that backs it.
 
