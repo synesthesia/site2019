@@ -252,9 +252,16 @@ plugins_js  = []
   api_key = ""
   zoom = 15
 
-  #############################
-  ## IndieWeb
-  ##############################
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = "UA-417495-1"
+  google_tag_manager = ""
+
+#############################
+## IndieWeb
+##############################
 
 [indieweb]
   github = "https://github.com/synesthesia"
