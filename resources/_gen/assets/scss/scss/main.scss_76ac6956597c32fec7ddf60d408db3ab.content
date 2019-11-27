@@ -8984,3 +8984,7 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+ins {
+  text-decoration: none;
+  background-color: yellow; }
