@@ -2,7 +2,7 @@
 type: post
 slug: "shibboleth"
 featured: false
-draft: false
+draft: true
 title: "Shibboleth"
 subtitle: 
 summary: 
