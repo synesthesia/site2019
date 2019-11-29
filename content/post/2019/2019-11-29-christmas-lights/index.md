@@ -2,13 +2,13 @@
 type: post
 slug: "christmas-lights"
 featured: false
-draft: true
+draft: false
 title: "Christmas Lights"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["draft posts"]
-tags: []
+categories: ["world"]
+tags: ["lights"]
 date: 2019-11-29T06:51:00-00:00
 ---
 
@@ -16,7 +16,9 @@ Some evenings our route home takes us past a house in North London that always h
 
 This year they have surpassed themselves with a scrolling seasonal greeting:
 
-%3C%20youtube%20%20BDz2zWCF4g4%20%20%3E
+{{< youtube  BDz2zWCF4g4 >}}
+
+
 
 Some will look down their noses at such an overt display - it's a long way from the subdued decorations in neighbourhoods such as Mayfair, Beacon Hill or the Upper East Side - but I find these things always give boost of positive feeling on a dark and wet evening!
 
