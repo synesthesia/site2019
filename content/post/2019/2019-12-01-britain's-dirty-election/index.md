@@ -2,13 +2,13 @@
 type: post
 slug: "britain's-dirty-election"
 featured: false
-draft: true
+draft: false
 title: "Britain's Dirty Election"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["draft posts"]
-tags: []
+categories: []
+tags: ["politics"]
 date: 2019-12-01T21:23:00-00:00
 ---
 
