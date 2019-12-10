@@ -41,10 +41,6 @@ How do you best resolve the “what do to” and “getting it done” pressures
 
 Let me know in the comments.
 
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=28c6b5af-d519-4517-918b-9232bd2d6c49" alt="" /><span class="zem-script more-info pretty-attribution"></span>
-</div>
-
  [1]: http://en.wikipedia.org/wiki/Getting_Things_Done
  [2]: /2010/12/18/getting-things-done-gtd/
  [3]: http://zenhabits.net/how-not-to-multitask-work-simpler-and/

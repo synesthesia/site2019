@@ -38,9 +38,7 @@ How do you Get Things Done?
 
 Comments please!
 
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/pixy.gif?x-id=6bdc015a-712c-4017-b3f2-7887eb768886" alt="" /><span class="zem-script more-info pretty-attribution"></span>
-</div>
+
 
  [1]: http://en.wikipedia.org/wiki/Getting_Things_Done
  [2]: http://www.nozbe.com/a-53437730
