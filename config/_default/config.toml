@@ -63,52 +63,15 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # adding alternate markup config for Hugo 0.60 onwards
 [markup]
-defaultMarkdownHandler = "goldmark"
-  [markup.blackFriday]
-    angledQuotes = false
-    footnoteAnchorPrefix = ""
-    footnoteReturnLinkContents = ""
-    fractions = true
-    hrefTargetBlank = true
-    latexDashes = true
-    nofollowLinks = false
-    noreferrerLinks = false
-    plainIDAnchors = true
-    skipHTML = false
-    smartDashes = true
-    smartypants = true
-    smartypantsQuotesNBSP = false
-    taskLists = true
-    extensions = ["backslashLineBreak"]
-
+  defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
     [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xHTML = false
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
   [markup.highlight]
-    codeFences = true
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = "monokai"
-    tabWidth = 4
+    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   [markup.tableOfContents]
-    endLevel = 3
     startLevel = 2
+    endLevel = 3
 
 [imaging]
   resampleFilter = "lanczos"
