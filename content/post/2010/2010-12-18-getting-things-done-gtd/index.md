@@ -13,11 +13,11 @@ tags: ["GTD", "productivity"]
   <div>
     <dl class="wp-caption alignright" style="width: 250px;">
       <dt class="wp-caption-dt">
-        <a href="http://www.flickr.com/photos/79538062@N00/4407962892"><img title="063/365 - getting-things-done thursday" src="http://farm5.static.flickr.com/4007/4407962892_9e7693ef1f_m.jpg" alt="063/365 - getting-things-done thursday" /></a>
+        <a href="https://www.flickr.com/photos/79538062@N00/4407962892"><img title="063/365 - getting-things-done thursday" src="https://farm5.static.flickr.com/4007/4407962892_9e7693ef1f_m.jpg" alt="063/365 - getting-things-done thursday" /></a>
       </dt>
       
       <dd class="wp-caption-dd zemanta-img-attribution" style="font-size: 0.8em;">
-        Image by <a href="http://www.flickr.com/photos/79538062@N00/4407962892">jypsygen</a> via Flickr
+        Image by <a href="https://www.flickr.com/photos/79538062@N00/4407962892">jypsygen</a> via Flickr
       </dd>
     </dl>
   </div>
