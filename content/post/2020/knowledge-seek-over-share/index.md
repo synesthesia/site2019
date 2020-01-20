@@ -3,10 +3,10 @@
 
 title: "Knowledge - Seek Over Share?"
 subtitle: ""
-summary: ""
+summary: "To stimulate the flow of knowledge, first stimulate demand."
 authors: ["synesthesia"]
 tags: ["Knowledge Management", "PKM"]
-categories: ["Knowlwedge Management", "Management Practices"]
+categories: ["Knowledge Management", "Management Practices"]
 date: 2020-01-20T06:46:03Z
 lastmod: 2020-01-20T06:46:03Z
 featured: false
