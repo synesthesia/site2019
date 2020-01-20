@@ -54,7 +54,9 @@ As a final summary I quote the author's conclusion:
 >The West’s current relationship to the past is not the passive victimhood of an individual dementia sufferer, but rather an actively constructed, jealously guarded toxic refusal to engage with facts that are well-known but emotionally and politically inconvenient, and with other experiences that are devastating to the collective self-regard of huge segments of societies that have no visible desire to come to terms with reality.
 >
 
-
 *As an aside, I was ever-so-slightly surprised  to be able to write a sentence that started "I have just finished reading" - normally the only time I can say that is on holiday - it's a credit to the author (and the benefit of a long train journey) that this was a book I actually completed...*
+
+*Update 20/01/2020 - have now discovered how to pull out all the highlights I grabbed in Kindle - you can read them [in this later post]({{< ref "/post/2020/2020-01-20-cultural-dementia-highlights/index.md" >}})*
+
 
 
