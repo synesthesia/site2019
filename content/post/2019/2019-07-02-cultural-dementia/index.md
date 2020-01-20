@@ -10,7 +10,7 @@ categories: ["books"]
 date: 2019-07-02T07:29:31+01:00
 lastmod: 2019-07-02T07:29:31+01:00
 featured: false
-draft: true
+draft: false
 type: post
 
 
