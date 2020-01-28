@@ -12,11 +12,7 @@ tags: ["GTD", "productivity"]
     <dl class="wp-caption alignright" style="width: 310px;">
       <dt class="wp-caption-dt">
         <a href="https://commons.wikimedia.org/wiki/File:Il_pomodoro.jpg"><img title="Pomodoro Timer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Il_pomodoro.jpg/300px-Il_pomodoro.jpg" alt="Pomodoro Timer" width="300" height="300" /></a>
-      </dt>
-      
-      <dd class="wp-caption-dd zemanta-img-attribution" style="font-size: 0.8em;">
-        Image via <a href="https://commons.wikimedia.org/wiki/File:Il_pomodoro.jpg">Wikipedia</a>
-      </dd>
+      </dt>          
     </dl>
   </div>
 </div>
