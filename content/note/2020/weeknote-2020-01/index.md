@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Weeknote 2020-01"
+title: "Weeknote 2020-W01"
 subtitle: ""
 summary: "New Year, new habits"
 authors: ["synesthesia"]
