@@ -5,7 +5,7 @@ title: "WeekNote 2020 W03"
 subtitle: ""
 summary: "Week ending 17/01/2020"
 authors: ["synesthesia"]
-tags: ["weeknotes"]
+tags: []
 categories: ["weeknotes"]
 date: 2020-01-17T17:57:42Z
 lastmod: 2020-01-17T17:57:42Z

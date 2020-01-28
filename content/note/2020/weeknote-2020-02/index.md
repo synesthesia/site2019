@@ -5,7 +5,7 @@ title: "WeekNote 2020-W02"
 subtitle: ""
 summary: "First week instrumenting work with PomoDoneApp"
 authors: ["synesthesia"]
-tags: ["weeknotes"]
+tags: []
 categories: ["weeknotes"]
 date: 2020-01-11T08:56:55Z
 lastmod: 2020-01-11T08:56:55Z
