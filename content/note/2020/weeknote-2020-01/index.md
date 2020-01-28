@@ -5,7 +5,7 @@ title: "Weeknote 2020-W01"
 subtitle: ""
 summary: "New Year, new habits"
 authors: ["synesthesia"]
-tags: []
+tags: ["weeknotes"]
 categories: ["weeknotes"]
 date: 2020-01-04T16:38:13Z
 lastmod: 2020-01-04T16:38:13Z
