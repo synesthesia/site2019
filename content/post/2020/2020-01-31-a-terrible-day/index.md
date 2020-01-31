@@ -2,13 +2,13 @@
 type: post
 slug: "a-terrible-day"
 featured: false
-draft: true
+draft: false
 title: "A terrible day"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["draft posts"]
-tags: []
+categories: ["society"]
+tags: ["Brexit"]
 date: 2020-01-31T18:06:00-00:00
 ---
 
