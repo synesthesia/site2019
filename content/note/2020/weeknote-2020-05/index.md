@@ -10,7 +10,7 @@ categories: ["weeknotes"]
 date: 2020-01-31T15:03:12Z
 lastmod: 2020-01-31T15:03:12Z
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,7 +41,7 @@ Looking at the cumulative results over the last 5 weeks, it looks like the ratio
 
 {{< figure src="hours-2020-01-to-05.jpg" title="Ratio of focus time to working time, 2020 weeks 1-5" lightbox="true" >}}
 
-This probably a good time to document the standards I am trying to adopt in terms of how I am (in practice) classifying time in this experiment. Please note this is about practical measurement and not any kind of attempt to match to contracted hours (like most people I do more than those).
+This is probably a good time to document the standards I am trying to adopt in terms of how I am (in practice) classifying time in this experiment. Please note this is about practical measurement and not any kind of attempt to match to contracted hours (like most people I do more than those).
 
 |Item|Definition|
 |----|----|
@@ -53,6 +53,12 @@ This probably a good time to document the standards I am trying to adopt in term
 In practice the last category will be over-stated - often because I forgot to switch on a timer.
 
 ## Other highlights
+
+**Starting Phase 2 of our work** to provide online interaction that is much more responsive to customer interests. Another example of how a prior meeting had missed a key point because one of the main stakeholders was away. So often it's about making sure the right conversations happen.
+
+Working with a different set of colleagues **teasing out the value proposition** of a new service we might offer.
+
+And **lightbulb moment of the week** - after realising that the  planned rework of our Dynamics 365 stack was not moving anywhere near fast enough, we can give our users a much better experience (and stay inside some hard deadlines from Microsoft) by putting a new Unified Interface app on top of the existing customisations. A first alpha was in front of one key group within a day.
 
 
 
