@@ -1,13 +1,13 @@
 ---
 type: post
-slug: "adventures-in-music"
+slug: "2020-02-02-adventures-in-music"
 featured: false
-draft: true
+draft: false 
 title: "Adventures in music"
 subtitle: 
-summary: 
+summary: "An engaging documentary, but you need to dig deeper"
 authors: ["synesthesia"]
-categories: ["draft posts"]
+categories: ["TV"]
 tags: ["neuroscience","books","music","tv"]
 date: 2020-02-02T21:04:00-00:00
 ---
