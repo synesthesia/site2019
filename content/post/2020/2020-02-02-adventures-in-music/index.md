@@ -1,6 +1,6 @@
 ---
 type: post
-slug: "2020-02-02-adventures-in-music"
+slug: "adventures-in-music"
 featured: false
 draft: false 
 title: "Adventures in music"
