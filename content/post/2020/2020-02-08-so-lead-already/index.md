@@ -2,19 +2,19 @@
 type: post
 slug: "so-lead-already"
 featured: false
-draft: true
+draft: false
 title: "So lead already"
 subtitle: 
-summary: 
+summary: "Now the UK needs leaders"
 authors: ["synesthesia"]
-categories: ["draft posts"]
-tags: ["politics"]
+categories: ["politics"]
+tags: ["politics", "Brexit"]
 date: 2020-02-08T11:44:00-00:00
 ---
 
 Chris Grey is direct as always - [Brexiters need to stop campaigning and start governing](https://chrisgreybrexitblog.blogspot.com/2020/02/brexiters-need-to-stop-campaigning-and.html).
 
-He reminds us all,  pro-Remain and pro-Leave alike, that Brexit has formally happened and now there are new priorities.
+He reminds us all, pro-Remain and pro-Leave alike, that Brexit has formally happened and now there are new priorities.
 
 > In particular, the issue is whether Brexiters – who now, unequivocally, form the government – are able to shift from campaigning to, indeed, governing.
 
