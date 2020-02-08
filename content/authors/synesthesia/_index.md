@@ -94,6 +94,10 @@ I also have experience of board-level engagement with a social enterprise delive
 
 As far as I'm concerned, this blogging thing is entirely [Euan Semple's](http://euansemple.blog/) fault for introducing me to it back in 2001. As you can see from this site it has been an on-off-on-off-on sort of thing since then. 
 
-This blog is likely to meander and stutter, there's 18 years of history right here to prove that, but it's "not dead yet"...
+This blog is likely to meander and stutter, there's 19 years of history right here to prove that, but it's "not dead yet"...
+
+It shouldn't need saying but my opinions represent only me, and are not in any way endorsed by or associated with any organisation I work with.
+
+Feel free to comment, but I reserve the right to delete anything that is offensive, off track or spam.
 
 
