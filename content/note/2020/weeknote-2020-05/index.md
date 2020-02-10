@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "WeekNote 2020 W05"
-subtitle: ""
-summary: ""
+subtitle: "A slight increase in focus time from last week, but still notably below start of the month."
+summary: "A slight increase in focus time from last week, but still notably below start of the month."
 authors: ["synesthesia"]
 tags: []
 categories: ["weeknotes"]
