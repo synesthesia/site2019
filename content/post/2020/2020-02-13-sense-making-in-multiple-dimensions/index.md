@@ -39,11 +39,12 @@ In [the comments](http://www.elsua.net/2020/02/11/unlearning/#comment-6582892) L
 
 For me this cross-links to Mike Caulfield's metaphor of [the Garden and the Stream](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) where he advocates wiki-like media (in particular [Federated Wiki](http://fed.wiki.org/view/welcome-visitors/view/federated-wiki)) as *"a different way to think your online activity, no matter what tool you use [and] a different way of collaborating as well"*. His key point is that "Garden" media allow the author to express  the inter- relationship of concepts regardless of time:
 >The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another
+
 whereas Stream-based media are organised by time. In this category he lumps blogging with social platforms such as Twitter.
 
 An adaptation of Caulfield's views is offered by [Frank McPherson](https://frankmcpherson.blog/) who considers the true characteristic of the Stream as being [ephemerality rather than the fact of it being presented in a time-based way](https://fedwiki.frankmcpherson.net/view/welcome-visitors/view/the-garden-and-the-stream).
 
-When you consider these two characteristics - ephemerality and time-based organisation - whilst platforms such as Twitter fit absolutely within the Stream metaphor, a blog can straddle both ends of the spectrum depending on how it is used. Some posts really are throw-aways of the moment, whereas others can show the development of an idea over time - indeed [a flowing series of half-baked ideas](https://jarche.com/2015/02/my-pkm-story/). 
+When you consider these two characteristics, ephemerality and time-based organisation, whilst platforms such as Twitter fit absolutely within the Stream metaphor, a blog can straddle both ends of the spectrum depending on how it is used. Some posts really are throw-aways of the moment, whereas others can show the development of an idea over time; [a flowing series of half-baked ideas](https://jarche.com/2015/02/my-pkm-story/). 
 
 For Caulfield there is a deep power in media that allows topological relationships between concepts to emerge, and (perhaps a little rhetorically) he asserts:
 >that our survival as a species depends on us getting past the sweet, salty fat of 'the web as conversation' and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected.
