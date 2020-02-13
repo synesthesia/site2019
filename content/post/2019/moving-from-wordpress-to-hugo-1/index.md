@@ -36,8 +36,6 @@ Half a day of personal time to rebuild a site that I don't want to close, but wh
 
 This is not a novel idea - quite a few people have blogged [^1] about moving off WordPress to static generators, especially Hugo.  
 
- {{< figure src="hugo.png" width="300" link="https://gohugo.io/" rel="nofollow noopener" target="_blank">}}
-
 For me the key benefits are:
 
 * much less vulnerable to malware
