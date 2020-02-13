@@ -10,7 +10,7 @@ categories: ["How I Learn"]
 date: 2020-02-13T07:03:49Z
 lastmod: 2020-02-13T07:03:49Z
 featured: false
-draft: true
+draft: false
 type: post
 
 
