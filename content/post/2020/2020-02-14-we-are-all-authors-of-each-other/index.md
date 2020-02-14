@@ -5,7 +5,7 @@ title: "We Are All Authors of Each Other"
 subtitle: ""
 summary: "Doc Searls on how the internet changes people"
 authors: ["synesthesia"]
-tags: ["internet", "continual_learning"]
+tags: ["internet", "continual_learning", "culture"]
 categories: ["Quotes"]
 date: 2020-02-14T07:49:36Z
 lastmod: 2020-02-14T07:49:36Z
