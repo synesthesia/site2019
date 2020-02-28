@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FedWiki Install on 64bit Ubuntu"
+title: "FedWiki Install on 64 bit Ubuntu"
 subtitle: ""
 summary: "Setting up smallest federated wiki on a new server"
 authors: ["synesthesia"]
@@ -11,6 +11,7 @@ lastmod: 2020-02-28T13:00:24Z
 featured: false
 draft: false
 type: note
+aliases: ["/note/2020/02/28/fedwiki-install-on-64bit-ubuntu/"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,11 +30,13 @@ projects: []
 ---
 I recently had to migrate my wiki to a 64 bit server in order to deploy the most recent updates. These instructions relate to Ubuntu 18.04 64 bit on Digital Ocean.
 
-**Backup old wiki files**
+{{% toc %}} 
+
+## Backup old wiki files
 
 As this was to support a migration, before setting up anything new I took a local copy of the `/home/wiki/.wiki` directory on my existing server.
 
-**Create SSH key pair for wiki user**
+## Create SSH key pair for wiki user
 
 These instructions assume that you can run shell locally - e.g. via Git bash if on Windows
 
@@ -47,13 +50,13 @@ local> ssh-keygen -t rsa
 
 When asked where to store the key enter `~/wikiuser/.ssh/id_rsa`
 
-**Create new server**
+## Create new server
 
 Log in to Digital Ocean account and create new droplet. The smallest size is more than enough for a personal wiki farm that gets almost zero traffic. I assume you have got an SSH key uploaded to Digital Ocean and you tell Digital Ocean to install this on the new machine
 
 Make a note of the new machine IP address, I refer to this later as IPADDRESS 
 
-**Set up server**
+## Set up server
 
 ```shell
 # copy public key for the new user to temp file on new server
@@ -76,7 +79,7 @@ root@IPADDRESS> ufw enable
 root@IPADDRESS> exit
 ```
 
-**Second phase of installation**
+## Second phase of installation
 
 From now on we will login remotely as the wiki user.
 Do whatever your local SSH software needs to use the key created for the wiki user, then...
@@ -109,7 +112,7 @@ wiki@IPADDRESS> systemctl status nginx # check output to see nginx is running
 wiki@IPADDRESS>sudo npm install -g wiki
 ```
 
-**Configure wiki to start and stop correctly**
+## Configure wiki to start and stop correctly
 
 ```shell
 wiki@IPADDRESS> sudo vi /etc/systemd/service/wiki.service  
@@ -136,7 +139,7 @@ wiki@IPADDRESS> curl http://127.0.0.1:3000
 wiki@IPADDRESS> sudo systemctl stop wiki
 ```
 
-**Set up nginx proxy**
+## Set up nginx proxy
 
 ```shell
 wiki@IPADDRESS> sudo vi /etc/nginx/sites-available/wiki
@@ -174,6 +177,10 @@ wiki@IPADDRESS> sudo systemctl restart nginx
 wiki@IPADDRESS> exit
 ```
 
-At this point you should have a server running wiki - point your browser at http://127.0.0.1 and you should see an empty federated wiki site.
+## Nest steps
 
-In the next post I will document how to port an existing wiki onto this new server.
+At this point you should have a server running wiki - point your browser at http://IPADDRESS and you should see an empty federated wiki site.
+
+In the [next post]({{< relref "../2020-03-03-move-a-wiki/index.md"   >}}) I will document how to port an existing wiki onto this new server.
+
+
