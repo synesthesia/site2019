@@ -5,7 +5,7 @@ title: "FedWiki Install on 64bit Ubuntu"
 subtitle: ""
 summary: "Setting up smallest federated wiki on a new server"
 authors: ["synesthesia"]
-categories: [HowTo"]
+categories: ["HowTo"]
 tags: ["linux", "fedwiki", "DigitalOcean", "ubuntu"]
 lastmod: 2020-02-28T13:00:24Z
 featured: false
