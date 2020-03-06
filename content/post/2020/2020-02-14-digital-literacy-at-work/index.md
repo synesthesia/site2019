@@ -3,14 +3,15 @@
 
 title: " Digital Literacy at Work"
 subtitle: ""
-summary: ""
+summary: "A model of digital literacy from academia that might apply at work too."
+
 authors: ["synesthesia"]
-tags: ["skills"]
+tags: ["skills", "digital literacy"]
 categories: ["Digital Literacy"]
-date: 2020-02-14T15:55:59Z
-lastmod: 2020-02-14T15:55:59Z
+date: 2020-03-06T15:55:59Z
+lastmod: 2020-03-06T15:55:59Z
 featured: false
-draft: true
+draft: false
 type: post
 
 
@@ -37,6 +38,8 @@ Although the original work was around the needs of learners (of all ages) in edu
 
 Tracey's presentation is written specifically from the perspective of encouraging users to make good use of a set of specific digital tools (in her case the Microsoft Office 365 suite) but I think the model is more general than that. 
 
+Capturing here for future reference,
+
 {{< figure src="digital-literacy-8.jpg" title="8 facets of digital literacy - adapted from JISC 2011" lightbox="true" >}}
 
 Looking for definitions, I found and adapted from [Payton and Hague 2010](https://www.nfer.ac.uk/publications/FUTL06/FUTL06casestudies.pdf), giving us:
@@ -51,3 +54,5 @@ Looking for definitions, I found and adapted from [Payton and Hague 2010](https:
 |E-Safety|The ability to stay safe when using digital technologies, and to understand what constitutes appropriate use and appropriate content|
 |Practical & Functional Skills|Knowing how to use a range of different technologies competently and having the skills and flexibility to adapt this knowledge to learn how to use new technologies|
 |Proficient Communicator|Being able to clearly express ideas so that others can understand them. Having an understanding of the different modes in which meaning can be represented and showing an awareness of the needs of particular audiences. Understanding how technology can support this and how to communicate effectively using  different types of technology.|
+
+
