@@ -41,7 +41,7 @@ Wednesday and Thursday flew by, and in hindsight it's amazing the progress we ma
 * Postponing face to face CPD delivery over the next couple of months
 * Started exploring options to offer online alternatives based around services we already have - Microsoft Teams, Discourse and Moodle
 * Sales and marketing priorities adjusted to focus on services which provide sustained revenue
-*	Starting work on a free digital offer
+*	Starting work on a free digital offer to support our members - schools are in unprecedented situation 
 * Supporting staff who are normally office-based make the transition to distributed working
 * Working with teams who had only used the chat functions in Microsoft Teams to adopt the more powerful features
 * Setting up ad-hoc processes for teams to support each other psychologically whilst distributed
