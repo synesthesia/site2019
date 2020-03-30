@@ -7,7 +7,7 @@ title: "Government briefings"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["draft posts"]
+categories: ["world", "politics"]
 tags: ["life in the time of corona"]
 date: 2020-03-30T18:57:00+01:00
 ---
