@@ -1,14 +1,14 @@
 ---
 type: note
-slug: "2020-03-30-weeknote-2020-w13"
+slug: "weeknote-2020-w13"
 featured: false
-draft: true
+draft: false
 title: "WeekNote 2020 W13"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["quick notes"]
-tags: ["life in the time of corona"]
+categories: ["weeknotes"]
+tags: ["Life in the time of Corona"]
 date: 2020-03-30T18:26:00+01:00
 ---
 
