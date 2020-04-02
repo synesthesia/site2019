@@ -11,6 +11,12 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
+[context.staging.environment]
+  HUGO_ENV = "staging"
+
+[context.staging]
+  command = "netlify-lambda build src/functions && hugo --gc --minify --buildFuture --buildDrafts -b $URL"
+
 [context.deploy-preview]
   command = "netlify-lambda build src/functions && hugo --gc --minify --buildFuture -b $URL"
 
