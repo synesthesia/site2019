@@ -10,7 +10,7 @@ categories: ["Data Journalism"]
 date: 2020-04-02T12:58:06+01:00
 lastmod: 2020-04-02T12:58:06+01:00
 featured: false
-draft: true
+draft: false
 type: post
 
 
