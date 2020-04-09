@@ -2,7 +2,7 @@
 type: note
 slug: "2020-04-09-weeknote-2020-w15"
 featured: false
-draft: true
+draft: false
 title: "WeekNote 2020 W15"
 subtitle: 
 summary: "Adaptations..."
