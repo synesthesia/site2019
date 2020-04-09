@@ -3,11 +3,11 @@ type: note
 slug: "2020-04-09-weeknote-2020-w15"
 featured: false
 draft: true
-title: "WeekNote 2020-W15"
+title: "WeekNote 2020 W15"
 subtitle: 
-summary: 
+summary: "Adaptations..."
 authors: ["synesthesia"]
-categories: ["quick notes"]
+categories: ["weeknotes"]
 tags: ["zoom","moodle","msteams","life in the time of corona"]
 date: 2020-04-09T13:13:00+01:00
 ---
