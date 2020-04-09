@@ -31,7 +31,7 @@ Serious media are starting to ask probing questions about the lack of testing, t
 
 And finally...
 
-%3C%20tweet%201247616188890222592%20%3E
+{{< tweet 1247616188890222592 >}}
 
 
 
