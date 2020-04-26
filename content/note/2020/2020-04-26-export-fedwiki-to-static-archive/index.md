@@ -21,3 +21,12 @@ A tool to create a static archive from a Federated Wiki instance or farm.
     - retrieve page json
     - convert to HTML
     - save as file
+    
+    
+## Update
+
+Consider [this](http://about.fed.wiki/view/welcome-visitors/view/curl-this-site) or [this](http://about.fed.wiki/view/welcome-visitors/view/curl-a-page) for possible retrieval shortcut and insight to json data structure
+
+
+
+
