@@ -1,0 +1,23 @@
+---
+type: note
+slug: "2020-04-26-[idea]-export-fed-wiki-to-static-archive"
+featured: false
+draft: true
+title: "[idea] Export Fed Wiki to static archive"
+subtitle: 
+summary: 
+authors: ["synesthesia"]
+categories: ["quick notes"]
+tags: ["todo","tools"]
+date: 2020-04-26T15:27:00+01:00
+---
+
+A tool to create a static archive from a Federated Wiki instance or farm.
+
+- pass base url(s) as parameter
+- iterate over wikis
+  - Retrieve site map
+  - iterate pages
+    - retrieve page json
+    - convert to HTML
+    - save as file
