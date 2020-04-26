@@ -1,8 +1,8 @@
 ---
 type: note
-slug: "2020-04-26-[idea]-export-fed-wiki-to-static-archive"
+slug: "2020-04-26-export-fed-wiki-to-static-archive"
 featured: false
-draft: true
+draft: false
 title: "[idea] Export Fed Wiki to static archive"
 subtitle: 
 summary: 
