@@ -7,7 +7,7 @@ title: "WeekNote 2020 W16-19"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: [“weeknotes”]
+categories: ['weeknotes']
 tags: []
 date: 2020-05-08T15:50:00+01:00
 ---
@@ -35,4 +35,4 @@ My only previous experience with infrastructure-as-code has been building out Az
 
 Terraform is in general quite straightforward, although I did have to learn a few tricks to resync my state with the remote build after a couple of manual changes.
 
-Ansible is clearly very powerful, and with that power there's quite a learning curve. Still it quite there with the full stack installation, and after that I want to get some common maintenance operations under playbook control.
+Ansible is clearly very powerful, and with that power there's quite a learning curve. Still not quite there with the full stack installation, and after that I want to get some common maintenance operations under playbook control.
