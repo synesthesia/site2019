@@ -80,7 +80,7 @@ email: ""
 #- Visitors
 ---
 
-I started my professional life as a technologist when TV screens (and the cameras that fed them pictures) still had vacuum tubes in them. And now I will just as happily work with multi-skilled teams to devise modern applications to help your business.
+I started my professional life as a technologist when TV screens (and the cameras that fed them pictures) still had vacuum tubes in them, and that’s where I started, learning the nuts and bolts of keeping a small TV station on the air. And now I will just as happily work with multi-skilled teams to devise modern applications to help your business.
 
 The linking thread is a lifelong curiosity about how things work, and how people use technology to get "the job" done.
 
