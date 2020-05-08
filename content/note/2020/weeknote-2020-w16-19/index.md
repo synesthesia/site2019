@@ -1,13 +1,13 @@
 ---
 type: note
-slug: "2020-05-08-weeknote-2029-w16-19"
+slug: "weeknote-2020-w16-19"
 featured: false
-draft: true
-title: "Weeknote 2029 W16-19"
+draft: false
+title: "WeekNote 2020 W16-19"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["quick notes"]
+categories: [“weeknotes”]
 tags: []
 date: 2020-05-08T15:50:00+01:00
 ---
@@ -23,6 +23,7 @@ With a much reduced team, my time has been split between operational support to 
 In parallel with the immediate tasks I have been thinking ahead to how we might expand platform capacity, and incorporate other tools alongside Moodle to broaden the online experience.
 
 At a fundamental level this is about the basic building blocks of web servers, resilient file storage, database, load balancers. I want the build to be "infrastructure as code" for three reasons: 
+
 1. to make it easier to adapt from one cloud to another 
 2. once the design is proven I can tear down the resources until we need them.
 3. to document the design
