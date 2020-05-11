@@ -165,5 +165,5 @@ Note:Charlie Munger, Berkshire Hathaway
 >Page: 120
 We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance (contextual interference) and with a deliberate effort (retrieval).
 
-[^1]: Ahrens, Sönke. [How to Take Smart Notes](https://www.amazon.co.uk/How-Take-Smart-Notes-Nonfiction/dp/1542866502): One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers. North Charleston, SC: CreateSpace, 2017.
+[^1]: Ahrens, Sönke. [How to Take Smart Notes](https://www.amazon.co.uk/How-Take-Smart-Notes-Nonfiction/dp/1542866502): One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers. North Charleston, SC: CreateSpace, 2017. [Zotero](https://www.zotero.org/julianelve/items/Y3CX8K7X/library)
 
