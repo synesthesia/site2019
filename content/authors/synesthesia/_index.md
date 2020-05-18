@@ -96,8 +96,10 @@ As far as I'm concerned, this blogging thing is entirely [Euan Semple's](http://
 
 This blog is likely to meander and stutter, there's 19 years of history right here to prove that, but it's "not dead yet"...
 
-It shouldn't need saying but my opinions represent only me, and are not in any way endorsed by or associated with any organisation I work with.
+It shouldn't need saying but my opinions represent only me, and are not in any way endorsed by or associated with any organisation I work with. 
+
+This site, and the [linked wikis](https://wiki.synesthesia.co.uk), are primarily a learning conversation with my future self conducted in public. It's very unlikely that anything you read here would be my last word on a subject, nor does it necessarily represent all that I know on the topic. 
 
 Feel free to comment, but I reserve the right to delete anything that is offensive, off track or spam.
 
-
+Unless otherwise stated everything is published on a CC-BY-NC-SA basis, feel free to copy and adapt for your own non-commercial uses provided you acknowledge me as the source. For commercial use please [contact me](#contact). If you believe I have used your material inappropriately please also [contact me](#contact) so the situation can be resolved.
