@@ -1,18 +1,18 @@
 ---
 type: note
-slug: "2020-06-09-flipgrid-for-learning"
+slug: "flipgrid-for-learning"
 featured: false
-draft: true
+draft: false
 title: "Flipgrid for Learning"
 subtitle: 
-summary: 
+summary: "FlipGrid is a tool to allow short video interactions from a group of students or delegates"
 authors: ["synesthesia"]
-categories: ["quick notes"]
-tags: []
+categories: ["Notes"]
+tags: ["msteams","edtech","flipgrid","collaboration", "video"]
 date: 2020-06-09T07:54:00+01:00
 ---
 
-## Introduction to Flipgrid
+## Introduction to FlipGrid
 
 Short video guide from [Phil Whitehead](https://mobile.twitter.com/PhilEdTech) on using [FlipGrid](https://info.flipgrid.com) for learning
 
@@ -23,12 +23,12 @@ FlipGrid is a video-response system, allowing students to respond by video on th
 - multiple topics per grid
 - question / resource / response
 - sharing codes 
-- integration to Teams, GC etc
+- integration to Teams, Google Classroom etc
 - response can be edited before submit
 - wide range of teacher features
-- FlipGrid AR allows viewing responses in AR from scanning QR
+- FlipGrid AR allows viewing responses in AR from scanning QR code - example uses include interactive exhibitions, presenting work to external moderator
 
-https://youtu.be/z3y7BrhLEC8
+{{< youtube z3y7BrhLEC8 >}}
 
 Questions to explore further
 
