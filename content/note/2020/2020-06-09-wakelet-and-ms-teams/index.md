@@ -1,13 +1,13 @@
 ---
 type: note
-slug: "2020-06-09-wakelet-and-ms-teams"
+slug: "wakelet-and-ms-teams"
 featured: false
-draft: true
+draft: false
 title: "Wakelet and MS Teams"
 subtitle: 
 summary: 
 authors: ["synesthesia"]
-categories: ["quick notes"]
+categories: ["Notes"]
 tags: ["msteams","edtech","wakelet","collaboration"]
 date: 2020-06-09T07:29:00+01:00
 ---
@@ -18,6 +18,6 @@ Useful short video guide from [Phil Whitehead](https://mobile.twitter.com/PhilEd
 - adding a Wakelet to a channel tab
 - posting a Wakelet into a channel conversation
 - posting a Wakelet into a chat
-- grabbing links from posts into a Wakelet
+- grabbing links from posts into Wakelet
 
-%3CYouTube%200vzvoXlTM6k%20%3E
+{{< youtube 0vzvoXlTM6k >}}
