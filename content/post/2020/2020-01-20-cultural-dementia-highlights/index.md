@@ -6,7 +6,7 @@ subtitle: "The passages I grabbed in Kindle"
 summary: "My Kindle highlights"
 authors: ["synesthesia"]
 tags: ["books", "social science", "history"]
-categories: ["Books"]
+categories: ["Books", "Media notes"]
 date: 2020-01-20T07:49:23Z
 lastmod: 2020-01-20T07:49:23Z
 featured: false

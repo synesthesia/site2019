@@ -7,7 +7,7 @@ title: "Wakelet and MS Teams"
 subtitle: 
 summary: "Overview of using Wakelet curation tool inside MS Teams"
 authors: ["synesthesia"]
-categories: ["Notes"]
+categories: ["Media notes"]
 tags: ["msteams","edtech","wakelet","collaboration", "pkm", "curation"]
 date: 2020-06-09T07:29:00+01:00
 ---
