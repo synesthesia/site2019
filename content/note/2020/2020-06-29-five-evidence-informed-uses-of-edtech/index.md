@@ -37,7 +37,8 @@ Key points Mark makes:
 * Think about how technology will improve teaching and learning befopre you use it
 * Does it Enhance learning, Support Teaching, Speed up processes? (cf SAMR model) 
 * References [Understanding How We Learn](https://www.learningscientists.org/book) [^1], e.g. Retrieval Practice, Dual Coding, Elaboration, Interleaving, Concrete Examples, Spaced Practice, Interleaving
-* References [Using Digital technology to Improve Learning](https://educationendowmentfoundation.org.uk/news/new-eef-guidance-report-published-using-digital-technology-to-improve-learning/) [^2] EEF report on ICT Toolkit - highlighting that two high-return techniques are Feedback and Meta-Cognition & Self-Regulation
+* References [Using Digital technology to Improve Learning](https://educationendowmentfoundation.org.uk/news/new-eef-guidance-report-published-using-digital-technology-to-improve-learning/) [^2] EEF report on use of digitial technology
+* References other EEF analyses on Teaching and Learning to identify high-return techniques that can be improved with technology: [Feedback](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/feedback/) and [Meta-Cognition & Self-Regulation](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/meta-cognition-and-self-regulation/)
 * Use technology (e.g. animations on slides) to shorten feedback loops and improve explanations / models - "explain at the point it should be explained"
 * Improve impact of Retrieval Practice (ref Ebbinghaus Forgetting Curve) e,g, quizzes, forms (e.g. products such as Quizziz)
 * Exploit [Dual Coding](https://en.wikipedia.org/wiki/Dual-coding_theory) e.g. infographics
