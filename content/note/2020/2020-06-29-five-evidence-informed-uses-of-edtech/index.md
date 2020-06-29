@@ -3,13 +3,13 @@
 
 title: "Five Evidence Informed Uses of Edtech"
 subtitle: "Notes on presentation by Mark Anderson"
-summary: ""
+summary: "Notes on presentation by Mark Anderson"
 authors: ["synesthesia"]
 categories: ["media notes"]
 tags: ["edtech", "e-learning"]
 lastmod: 2020-06-29T07:56:39+01:00
 featured: false
-draft: true
+draft: false
 type: note
 
 # Featured image
