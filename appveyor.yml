@@ -14,7 +14,7 @@ environment:
 
 install:
   - cmd: git submodule update --init --recursive
-  - ps: Start-FileDownload 'https://github.com/gohugoio/hugo/releases/download/v0.63.1/hugo_extended_0.63.1_Windows-64bit.zip'
+  - ps: Start-FileDownload 'https://github.com/gohugoio/hugo/releases/download/v0.72.0/hugo_extended_0.72.0_Windows-64bit.zip'
   - ps: mkdir hugo
   - ps: 7z x hugo_extended_0.72.0_Windows-64bit.zip -y
   - cmd: npm i -D postcss-cli
@@ -22,7 +22,7 @@ install:
 before_build:
   # Output useful info for debugging.
   - hugo version
-  - git clone https://github.com/synesthesia/synesthesia.github.io.git public
+  - git clone https://github.com/synesthesia/synesthesia.github.io.old.git public
 
 build_script:
   - hugo --gc --minify -b https://synesthesia.github.io -t academic
