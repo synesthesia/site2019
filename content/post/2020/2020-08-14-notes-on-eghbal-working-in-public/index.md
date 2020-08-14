@@ -31,7 +31,7 @@ projects: []
 ---
 #  Notes on "Eghbal: Working in Public"
 
-Just finished [Working in Public: The Making and Maintenance of Open Source Software](https://amzn.eu/5MqboO9) by Nadia Eghbal.
+Just finished [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.co.uk/dp/B08BDGXVK9/ref=nodl_?ref_=k4w_ss_store_rh) by Nadia Eghbal.
 
 ## Introduction
 
