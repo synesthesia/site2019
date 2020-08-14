@@ -29,11 +29,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-#  Notes on "Eghbal: Working in Public"
+## Introduction
 
 Just finished [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.co.uk/dp/B08BDGXVK9/ref=nodl_?ref_=k4w_ss_store_rh) by Nadia Eghbal.
-
-## Introduction
 
 Initially Eghbal focused her research on the lack of funding for Open Source, and started with a research question of ["what is not venture-backable in tech right now?"](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58), later amended by the addition of "_but that tech needs_".
 
