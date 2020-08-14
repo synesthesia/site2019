@@ -141,6 +141,6 @@ The book is certainly enjoyable and well-annotated. Eghbal's [wider publications
 
 There is no magic bullet within these pages about open source funding, but there are pointers to directions that platforms in particular might take.
 
-There's wider coverage of the root causes of creator burnout, and on-depth discussions of both what is possible to motivate that now and what platforms might do to improve support for open source developers.
+There's wider coverage of the root causes of creator burnout, and in-depth discussions of both what is possible to motivate that now and what platforms might do to improve support for open source developers.
 
-Lastly and on a personal level It's made me re-evaluate some of my own interactions with projects: I can perhaps hope that I will be less extractive in my interactions!
+Lastly and on a personal level it's made me re-evaluate some of my own interactions with projects: I can perhaps hope that I will be less extractive in my interactions!
