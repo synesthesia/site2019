@@ -35,7 +35,7 @@ Just finished [Working in Public: The Making and Maintenance of Open Source Soft
 
 ## Introduction
 
-Initially Eghbal focused her research on the lack of funding for Open Source, and started with a research question of "[what is not venture-back able in tech right now?](https://link.medium.com/, later amended by the addition of "_but that tech needs_".
+Initially Eghbal focused her research on the lack of funding for Open Source, and started with a research question of ["what is not venture-backable in tech right now?"](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58), later amended by the addition of "_but that tech needs_".
 
 As her work progressed she became aware that many open source maintainers were reporting feelings of overwhelm and burnout, so pivoted her investigations in that direction.
 
