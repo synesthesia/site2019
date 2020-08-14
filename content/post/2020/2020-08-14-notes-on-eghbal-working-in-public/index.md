@@ -129,7 +129,7 @@ The content of open source (the code) behaves like a public good, so direct mone
 Eghbal looks at content-producing industries more broadly to consider other forms of monetisation such as:
 - freemium - some free content and some only for pay
 - subscription - not just monetising access to "the club" but further deterring spurious extractive interactions
-- more generally still, finding niches and "optimising for fewer people laying more"
+- more generally still, finding niches and "optimising for fewer people paying more"
 
 She further suggests that, like journalism, open-source is hampered by inherited models of how things work, but ends on an optimistic tone, seeing potential for continued change.
 
@@ -141,4 +141,4 @@ There is no magic bullet within these pages about open source funding, but there
 
 There's wider coverage of the root causes of creator burnout, and in-depth discussions of both what is possible to motivate that now and what platforms might do to improve support for open source developers.
 
-Lastly and on a personal level it's made me re-evaluate some of my own interactions with projects: I can perhaps hope that I will be less extractive in my interactions!
+Lastly and on a personal level it's made me re-evaluate some of my own interactions with projects: I can perhaps hope that I will be less extractive in my future actions!
