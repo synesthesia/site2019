@@ -61,8 +61,8 @@ Drawing on earlier work on the Commons by Ostrom, within such communities social
 
 Eghbal analyses open source projects against the axes of contributor growth and user growth to identify four broad types:
 
-|| High user growth | Low user growth |
-|====|====|====|
+|   | High user growth | Low user growth |
+|-----|----|----|
 | High developer growth | Federations | Clubs |
 | Low developer growth | Stadiums | Toys |
 
