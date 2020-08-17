@@ -6,8 +6,8 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
-- jobs:
-  webmentions:
+jobs:
+  - webmentions:
     name: Web Mentions
     runs-on: ubuntu-latest
     steps:
