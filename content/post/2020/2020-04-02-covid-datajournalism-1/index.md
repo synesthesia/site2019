@@ -67,8 +67,4 @@ and cumulatively
 
 As a London resident I think it will be interesting to dig into the [data provided by the UK Government down to Local Authority level](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14).
 
-## And why...?
 
-In the video embedded in this tweet John Burn-Murdoch explains why log scales, why absolute numbers etc...
-
-{{< tweet 1244519429825802240 >}}
