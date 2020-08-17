@@ -7,7 +7,7 @@ on:
     - cron: "0 */6 * * *"
 
 jobs:
-  - webmentions:
+  webmentions:
     name: Web Mentions
     runs-on: ubuntu-latest
     steps:
