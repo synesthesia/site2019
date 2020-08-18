@@ -8,7 +8,7 @@ fetchWebmentions().then(webmentions => {
     const slug = webmention["wm-target"]
       .replace("https://www.synesthesia.co.uk/", "")
       .replace(/\/$/, "")
-      .replace("/", "--");
+      .replace("/\//g", "--");
 
     //const filename = `${__dirname}/data/webmentions/${slug}.json`;
     const filename = `./data/webmentions/${slug}.json`;
