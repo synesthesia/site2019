@@ -10,8 +10,8 @@ fetchWebmentions().then(webmentions => {
       .replace(/\/$/, "")
       .replace("/", "--");
 
-    const filename = `${__dirname}/data/webmentions/${slug}.json`;
-
+    //const filename = `${__dirname}/data/webmentions/${slug}.json`;
+    const filename = `./data/webmentions/${slug}.json`;
     if (!fs.existsSync(filename)) {
       fs.writeFileSync(filename, JSON.stringify([webmention], null, 2));
 
