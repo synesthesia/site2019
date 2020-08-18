@@ -3,6 +3,9 @@
 name: Webmentions
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: "0 */6 * * *"
 
@@ -18,19 +21,19 @@ jobs:
         uses: actions/setup-node@master
         with:
           node-version: 12.x
-          
+
       - name: Fetch webmentions
         env:
           WEBMENTIONS_TOKEN: ${{ secrets.WEBMENTIONS_TOKEN }}
         run: node ./scripts/webmentions.js
-          
+
       - name: Commit to repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: |
             Fetch webmentions
             skip-checks: true
-        run: |  
+        run: |
           git config user.email "julian.elve@gmail.com"
           git config user.name "Julian Elve"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/synesthesia/site2019.git
