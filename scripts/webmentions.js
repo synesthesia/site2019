@@ -30,6 +30,7 @@ fetchWebmentions().then(webmentions => {
 
 function fetchWebmentions() {
   const token = process.env.WEBMENTIONS_TOKEN;
+  console.log(token);
 
   const since = new Date();
   since.setDate(since.getDate() - 14);
@@ -40,7 +41,7 @@ function fetchWebmentions() {
     `&token=${token}` +
     `&since=${since.toISOString()}` +
     "&per-page=999";
-
+  console.log(url);
   return new Promise((resolve, reject) => {
     https
       .get(url, res => {
