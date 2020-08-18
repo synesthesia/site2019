@@ -12,8 +12,12 @@ fetchWebmentions().then(webmentions => {
 
     //const filename = `${__dirname}/data/webmentions/${slug}.json`;
     const filename = `./data/webmentions/${slug}.json`;
+    
     if (!fs.existsSync(filename)) {
-      fs.writeFileSync(filename, JSON.stringify([webmention], { recursive: true }, 2));
+      fs.promises.mkdir(
+      path.dirname(filename), { recursive: true })
+      .then(x =>
+      fs.promises.writeFile(filename, JSON.stringify([webmention], 2)));
 
       return;
     }
