@@ -38,7 +38,7 @@ function fetchWebmentions() {
   console.log(token);
 
   const since = new Date();
-  since.setDate(since.getDate() - 14);
+  since.setDate(since.getDate() - 500);
 
   const url =
     "https://webmention.io/api/mentions.jf2" +
