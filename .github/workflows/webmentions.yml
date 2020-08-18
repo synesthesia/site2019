@@ -25,7 +25,7 @@ jobs:
       - name: Fetch webmentions
         env:
           WEBMENTIONS_TOKEN: ${{ secrets.WEBMENTIONS_TOKEN }}
-        run: node ./scripts/webmentions.js
+        run: node ./webmentions.js
 
       - name: Commit to repository
         env:
