@@ -1,4 +1,4 @@
-# see https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/
+// see https://sebastiandedeyne.com/webmentions-on-a-static-site-with-github-actions/
 
 const fs = require("fs");
 const https = require("https");
