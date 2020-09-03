@@ -77,7 +77,7 @@ If you are working with an existing documentation project this step will have be
   ```bash
   >~/ $ gulp
   ```
-3. access the preview at `https://localhost:5000
+3. access the preview at `https://localhost:5000`
 4. edit the content, refresh the browser to see changes
 
 ## Pushing changes
