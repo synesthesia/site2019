@@ -2,7 +2,7 @@
 type: note
 slug: "documents-as-code"
 featured: false
-draft: true
+draft: false
 title: "Documents as Code"
 subtitle: 
 summary: "Managing documentation using code tools"
@@ -31,7 +31,7 @@ Whilst there will always be specialist domains such as aerospace where complex a
 
 Over the last decade a movement has been growing alongside the changes in software development that promotes the concept of treating [Documents as Code](https://www.writethedocs.org/guide/docs-as-code/):
 
-- write document source using simple text editors, with markup (such as Markdown or Asciidoc) to create formatting
+- write document source using simple text editors, with markup (such as [Markdown](https://en.wikipedia.org/wiki/Markdown), [reStructuredText](https://docutils.sourceforge.io/rst.html), or [AsciiDoc](https://asciidoctor.org/docs/what-is-asciidoc/)) to create formatting
 - store documents in version control systems, often alongside the application code they refer to
 - make use of the tools and workflows for distributed team working built in to distributed version control
 - automated build of documentation output (e.g. websites, PDF LaTex
@@ -48,8 +48,8 @@ The benefits of this approach include:
 
 One of the many tools that has emerged in this space is [Antora](https://antora.org). Antora is aimed squarely at the production of technical documentation websites with the following features:
 
- -source documents written in Asciidoc 
-- integrates with multiple Git repositories 
+- source documents written in [AsciiDoc](https://asciidoctor.org/docs/what-is-asciidoc/)
+- integrates with multiple Git repositories
 - support for versioning and branching
 - generates a static website bundle that can be deployed anywhere using standard techniques
 

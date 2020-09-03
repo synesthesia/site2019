@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Setting up technical documentation woth Antora"
+title: "Setting up technical documentation with Antora"
 summary: ""
 authors: ["synesthesia"]
 tags: [ "docsascode", "antora"]
 categories: []
 date: 2020-09-03T06:18:50+01:00
-draft: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -41,6 +41,6 @@ url_video: ""
 slides: ""
 ---
 
-Over the summer I've created a system of technical documentation websites driven by Antora.
+Over the summer I've created a system of technical documentation websites driven by [Antora](https://antora.org/).
 
-Details in the posts linked below...
+Details in the posts linked below... (series in progress)
