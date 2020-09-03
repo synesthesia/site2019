@@ -1,14 +1,15 @@
 ---
 type: note
-slug: "2020-09-03-documents-as-code"
+slug: "documents-as-code"
 featured: false
 draft: true
 title: "Documents as Code"
 subtitle: 
-summary: 
-authors: ["Julian Elve"]
-categories: ["quick notes"]
+summary: "Managing documentation using code tools"
+authors: ["synesthesia"]
+categories: ["notes"]
 tags: ["docsascode","antora"]
+projects: ["antora"]
 date: 2020-09-03T07:00:00+01:00
 ---
 
