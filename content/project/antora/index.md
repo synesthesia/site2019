@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Setting up technical documentation with Antora"
-summary: "Over the summer I've created a system of technical documentation websites driven by Antora - this series explains how"
+title: "Technical documentation with Antora"
+summary: "How to use the Antora documentation generator to create docs-as-code websites"
 authors: ["synesthesia"]
 tags: [ "docsascode", "antora"]
 categories: []
