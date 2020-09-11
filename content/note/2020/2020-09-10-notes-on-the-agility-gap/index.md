@@ -82,4 +82,4 @@ Key factors identified:
 
 [^3]: Deary, D. S., Walker, K. E. & Woods, D. D. (2013). [Resilience in the Face of a Superstorm:  A Transportation Firm Confronts Hurricane Sandy.](https://doi.org/10.1177/1541931213571072)  In Proceedings of the Human Factors and Ergonomics Society, 57th Annual Meeting (pp. 329-333). Santa Monica, CA: Human Factors and Ergonomics Society 
 
-[^4]: Ostrom, E. (2003). Toward a Behavioral Theory Linking Trust, Reciprocity, and Reputa8on. In E. Ostrom & J. Walker (Eds.), Trust and Reciprocity: Interdisciplinary Lessons from Experimental Research. Russell Sage Foundation, NY. 
+[^4]: Ostrom, E. (2003). Toward a Behavioral Theory Linking Trust, Reciprocity, and Reputation. In E. Ostrom & J. Walker (Eds.), Trust and Reciprocity: Interdisciplinary Lessons from Experimental Research. Russell Sage Foundation, NY. 
