@@ -34,7 +34,7 @@ Some quick notes on _"The Strategic Agility Gap"_ by [David Woods](https://ise.o
 
 The growth of new technologies and new levels of has led to new organisational capabilities. With these new capabilities has come greater levels of complexity and inter-dependence, which in turn lead to unpredicted and unpredictable areas of brittleness / lack of resilience.
 
-Combine these factors with an increasingly complex world and there can be unpredicted failures and outages. Examples include the impact of ransomware such a Wannacry.
+Combine these factors with an increasingly complex world and there can be unpredicted failures and outages. Examples include the impact of ransomware such as Wannacry.
 
 Coins phrase _strategic agility gap_ to describe the difference at which an organisation adapts / can adapt to change and the rise of new and unexpected challenges at larger scale.
 
