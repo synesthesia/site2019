@@ -1,0 +1,25 @@
+---
+type: note
+slug: "2020-09-19-#--weeknote-2020-wk-38"
+featured: false
+draft: true
+title: "#  Weeknote 2020 Wk 38"
+subtitle: 
+summary: 
+authors: ["Julian Elve"]
+categories: ["quick notes"]
+tags: []
+date: 2020-09-19T16:56:00+01:00
+---
+
+## Things I learned
+
+- Some of the possibilities from adding [Durable Entities](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities?tabs=csharp) to function apps. Looking at persisting current state of multiple distributed transactions from an integration to feed a dashboard
+
+- Finally got my hands on a version of Windows10 that would support [WSL2](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#whats-new-in-wsl-2). 
+
+- a bit of basic playing with [Docker for Windows](https://docs.docker.com/docker-for-windows/install/) and its [WSL2 integration](https://docs.docker.com/docker-for-windows/wsl/).
+
+- potentially the combination of these two will allow us to build some more performant dev environments for websites - faster dev environments mean less wasted time for developers
+
+
