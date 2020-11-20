@@ -30,3 +30,11 @@ image:
 projects: ["note-making-practice"]
 ---
 This post is part of my wider [enquiry into my note-making practices]({{< relref  "/project/note-making-practice/index.md" >}}).
+
+The key technical requirements for my new note-taking setup are as follows:
+
+* must be based on Markdown text files
+* optionally the ability to enhance publishing with mdx
+* able to seperate publishable files from private
+* must support any backup or versioning that will for text fils (e.g. dropbox, GitHub)
+* piblishing to static websit
