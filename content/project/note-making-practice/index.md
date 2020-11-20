@@ -48,8 +48,8 @@ This project note serves both documentation, by providing a place to structure h
 The areas I want to cover are:
 
 * [x] my note-making goals
-* [ ] the starting point
-* [ ] reinvigorating my permanent notes
-* [ ] bringing together work and personal note-making practice
+* [x] the starting point
+* [ ] new tools for note-making
+* [ ] reinventing my note-making practice
 * [ ] where next
 
