@@ -29,6 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["note-making-practice"]
 ---
+This post is part of my wider [enquiry into my note-making practices]({{< relref  "/project/note-making-practice/index.md" >}}). 
 ## Why do I make notes?
 
 One of those questions that seems ridiculously simple on first look, but which pull out more depth as you sit on it for a while.

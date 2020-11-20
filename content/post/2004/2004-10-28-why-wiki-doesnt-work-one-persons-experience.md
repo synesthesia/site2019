@@ -21,5 +21,5 @@ The obvious workaround that we will try for areas where we have to work jointly 
 
 I can sense a few vague ideas starting to bubble about how the tool itself could be changed but they aren&#8217;t making themselves articulable yet.
 
- [1]: https://www.synesthesia.co.uk/blog/archives/2004/09/20/how-blog-and-wiki-fit-together-for-me/
- [2]: https://www.synesthesia.co.uk/blog/archives/2004/10/05/projections-of-knowledge/
+ [1]: https://www.synesthesia.co.uk/2004/09/20/how-blog-and-wiki-fit-together-for-me/
+ [2]: https://www.synesthesia.co.uk/2004/10/05/projections-of-knowledge/
