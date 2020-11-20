@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Migrating from WordPress to Hugo"
-summary: ""
+title: "From WordPress to Hugo"
+summary: "The why and the how"
 authors: [synesthesia]
 tags: [ "web", "hugo", "academic theme"]
 categories: []

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enterprise Architect Addons"
-summary: "Some simple extensions for Sparx Enterprise Architect"
+title: "EA Addons"
+summary: "Some extensions for Sparx Enterprise Architect"
 authors: ["synesthesia"]
 tags: ["modelling", "UML"]
 categories: ["tools"]

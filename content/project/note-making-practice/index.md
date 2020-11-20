@@ -1,13 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Publish with Antora"
-summary: "Docs-as-code websites with Antora"
+title: "Note-Making Practice"
+summary: "Documenting changes to my tools and practice"
 authors: ["synesthesia"]
-tags: [ "docsascode", "antora"]
+tags: ["pkm","notemaking", "zettelkasten"]
 categories: []
-date: 2020-09-03T06:18:50+01:00
-draft: false
+date: 2020-11-20T08:31:02Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,7 +39,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Most of us take notes as some part of our life, either personal or professional.
 
-Over the summer I've created a system of technical documentation websites driven by [Antora](https://antora.org/).
+Over the summer and autumn of 2020 I have been reviewing my note-taking practices (and the technology that supports them) with the goal of reducing friction and giving myself a framework for higher-order learning.
 
-Details in the posts linked below... (series in progress)
+This project note serves both documentation, by providing a place to structure how I plan to write about my experiments, and later reflection, by providing a central point to index the relevant notes.
+
+The areas I want to cover are:
+
+* my note-making goals
+* where I started, and why change
+* reinvigorating my permanent notes
+* bringing together work and personal note-making practice
+* where next
+
