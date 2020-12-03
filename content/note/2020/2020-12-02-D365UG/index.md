@@ -119,7 +119,11 @@ Watch the video when it comes out for a walkthrough.
 
 I must admit I struggle to see a use case for this service in the absence of data export. At least when workgroups keep their key data in spreadsheets the data is accessible for later manipulation.
 
+## And finally...
 
+Although I'm a little sceptical about how well some of these topics fit into the online meeting medium, that's the only option right now. The User Group (which is independent of Microsoft) has always taken the position that it values usefulness and community over perfection, and this day illustrated that. 
+
+As always a number of the people presenting are well known "faces" in the PowerPlatform world, but as always there are people who you had not previously head of. Everyone there (either presenting or not) has in common that we make a chunk of our living from using these powerful tools to help organisations work more effectively. The spirit of mutual learning is very strong in every meeting, and for that reason I will continue to make the time to attend. 
 
 
 
