@@ -1,5 +1,1 @@
 
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/synesthesia/wowchemy-hugo-modules.git
-	branch = syn_integration
