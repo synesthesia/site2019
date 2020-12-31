@@ -86,6 +86,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   note = "/note/:year/:month/:day/:slug/"
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
 
 [module]
   [[module.imports]]
