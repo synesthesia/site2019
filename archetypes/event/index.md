@@ -8,7 +8,7 @@ location:
 summary:
 abstract:
 
-# Talk start and end times.
+# Event start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: {{ .Date }}
 date_end: {{ .Date }}
@@ -20,7 +20,7 @@ publishDate: {{ .Date }}
 authors: []
 tags: []
 
-# Is this a featured talk? (true/false)
+# Is this a featured event? (true/false)
 featured: false
 
 # Featured image

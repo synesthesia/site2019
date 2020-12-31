@@ -1,18 +1,18 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A Recent and Upcoming Events section created with the Pages widget.
+# This section displays recent events from `content/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Recent & Upcoming Events"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  # Page type to display. E.g. post, event, or publication.
+  page_type = "event"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
