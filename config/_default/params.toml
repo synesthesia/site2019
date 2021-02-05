@@ -294,5 +294,5 @@ plugins_js  = []
  ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
 
 [security.csp]
-  policy = "default-src 'self' youtube.com *.youtube.com, github.com *.github.com twitter.com *.twitter.com; style-src 'self' cdnjs.cloudflare.com fonts.googleapis.com"
+  policy = "default-src 'self' youtube.com *.youtube.com, github.com *.github.com twitter.com *.twitter.com; style-src 'self' cdnjs.cloudflare.com fonts.googleapis.com ; script-src self cdnjs.cloudflare.com www.googletagmanager.com identity.netlify.com;" 
   report_only = false
