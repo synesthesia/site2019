@@ -292,3 +292,7 @@ plugins_js  = []
 # Icon Pack Extensions
 [icon.pack]
  ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
+
+[security.csp]
+  policy = "default-src 'self' youtube.com *.youtube.com, github.com *.github.com twitter.com *.twitter.com"
+  report_only = false
