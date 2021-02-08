@@ -296,3 +296,6 @@ plugins_js  = []
 [security.csp]
   policy =  "default-src 'self'; script-src 'self' 'unsafe-inline' utteranc.es *.google-analytics.com cdnjs.cloudflare.com www.googletagmanager.com identity.netlify.com; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com; img-src *; media-src *; font-src *"
   report_only = false
+
+  [security.permissions]
+  policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
