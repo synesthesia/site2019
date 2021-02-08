@@ -1,17 +1,22 @@
-{{/* Display author list. */}}
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+  {{ range $index, $value := (.GetTerms $taxonomy) }}
+    {{- /* Highlight the author's name? */ -}}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
 
-{{ $taxonomy := "authors" }}
-{{ with .Param $taxonomy }}
-  {{ range $index, $value := . }}
-    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
-    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
     {{- if gt $index 0 }}, {{ end -}}
-    <span itemprop="author name" itemtype="http://schema.org/Person" rel="author" class="p-author h-card">
-      {{- with $profile_page -}}
-        <a href="{{.RelPermalink}}">{{$name}}</a>
+    <span class="{{ if $highlight_name }} author-highlighted {{end}} p-author h-card" rel="author" itemprop="author name", itemtype="http://schema.org/Person">
+      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
+      {{- if .RelPermalink -}}
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
-        {{$name}}
+        {{ .LinkTitle }}
       {{- end -}}
     </span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
-{{ end }}
+{{- end -}}
