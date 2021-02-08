@@ -16,20 +16,21 @@
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $portrait := ($person_page.Resources.ByType "image").GetMatch "*portrait*" }}
+{{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
 
 <!-- About widget -->
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
-      {{ if site.Params.gravatar }}
-      <img class="portrait u-photo" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image" alt="Avatar">
+      {{ if site.Params.avatar.gravatar }}
+      <img class="portrait u-photo {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image" alt="Avatar">
       {{ else if $portrait}}
       {{ $portrait_image := $portrait.Fill "200x200 Center" }}
       <img class="portrait u-photo" src="{{ $portrait_image.RelPermalink }}" itemprop="image" alt="Portrait">
       {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "200x200 Center" }}
-      <img class="portrait u-photo" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
+      <img class="portrait u-photo {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
       {{ end }}
 
       <div class="portrait-title">

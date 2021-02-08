@@ -142,7 +142,7 @@ address_format = "en-gb"
 ############################
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = true
+  gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
