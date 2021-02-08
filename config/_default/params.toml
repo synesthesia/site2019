@@ -2,6 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/
 
 ############################
+## License
+############################ 
+
+# Show a copyright license from creativecommons.org in the site footer?
+# Page specific copyright licenses are also possible by adding this option to a page's front matter.
+
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+
+
+############################
 ## Theme
 ############################
 
@@ -266,6 +276,7 @@ plugins_js  = []
 [marketing]
   google_analytics = "UA-417495-1"
   google_tag_manager = ""
+
 
 #############################
 ## IndieWeb
