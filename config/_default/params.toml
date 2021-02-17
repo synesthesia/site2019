@@ -159,8 +159,7 @@ address_format = "en-gb"
 
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
-
+main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -213,7 +212,7 @@ plugins_js  = []
   #   2: Commento (https://commento.io)
   #   3: Utterances (https://utteranc.es/)
 
-  engine = 3
+  provider = 3
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true, note = true}
@@ -234,10 +233,10 @@ plugins_js  = []
 ############################
 [search]
   # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  #   "": No search engine
+  #   "wowchemy": Built-in search engine
+  #   "algolia": Algolia (https://www.algolia.com)
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -246,8 +245,7 @@ plugins_js  = []
     api_key = ""
     index_name = ""
     show_logo = false
-
-
+    
 ############################
 ## Maps
 ############################
@@ -266,7 +264,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
+  provider = 0
   api_key = ""
   zoom = 15
 
@@ -299,7 +297,8 @@ plugins_js  = []
 [cms]
  # Enable the admin panel. See https://wowchemy.com/docs/install/
  netlify_cms = true
-  
+ branch = "master"
+
 # Icon Pack Extensions
 [icon.pack]
  ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
