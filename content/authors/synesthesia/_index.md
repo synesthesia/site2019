@@ -86,7 +86,7 @@ During my career I have developed substantial technology management experience w
 
 I also have experience of board-level engagement with a social enterprise delivering housing to persons in need.
 
-I started my professional life working as a broadcast engineer in UK regional television, and that’s where I first found my ability to think about joined-up systems while learning the nuts and bolts of keeping a small TV station on the air. Another key skill that I first practiced then, but have honed throughout ny career, is the ability to work with multi-skilled teams to devise and deliver solutions to enable business ends, often against time pressure.
+I started my professional life working as a broadcast engineer in UK regional television, and that’s where I first found my ability to think about joined-up systems while learning the nuts and bolts of keeping a small TV station on the air. Another key skill that I first practiced then, but have honed throughout my career, is the ability to work with multi-skilled teams to devise and deliver solutions to enable business ends, often against time pressure.
 
 The linking thread is a lifelong curiosity about how things work, and how people use technology to get "the job" done.
 
