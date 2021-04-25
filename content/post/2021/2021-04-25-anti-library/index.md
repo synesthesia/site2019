@@ -8,7 +8,7 @@ subtitle:
 summary: "On the importance of the books you havent read"
 authors: ["synesthesia"]
 categories: []
-tags: ["pkm", "Taleb"]
+tags: ["pkm", "Taleb", "anti-scholar"]
 date: 2021-04-25T10:58:00+01:00
 ---
 
@@ -20,7 +20,7 @@ As Maria Popova explains in [Umberto Eco’s Antilibrary: Why Unread Books Are M
 
 Taleb uses these concepts as part of his overall thesis that our collective vulnerability to "Black Swan" events is in part driven by an over-focus on what we know, vs what we don't know. The other side of that coin is the proposition that to _increase_ our exposure to _positive_ Black Swans we need to tinker around in the edges of our knowledge.
 
-I find this idea intuitively interesting and at the same a source of both comfort amd inspiration. Comfort, because I often feel that compared to many of the people in my knowledge network I am lazy at reading, and even lazier at distilling and sharing insight. Inspiration, because it suggests there is value in understanding why I collect books or other references even if I don't read them immediately - these are _weak signals_ about the thoughts that might be just beyond my conscious knowledge.
+I find this idea intuitively interesting and at the same a source of both comfort and inspiration. Comfort, because I often feel that compared to many of the people in my knowledge network I am lazy at reading, and even lazier at distilling and sharing insight. Inspiration, because it suggests there is value in understanding why I collect books or other references even if I don't read them immediately - these are _weak signals_ about the thoughts that might be just beyond my conscious knowledge.
 
 So how to make use of these weak signals?
 
@@ -32,4 +32,6 @@ When it comes to creating pragmatic approaches to personal knowledge, Ton Zjilst
 > - maybe I should  [write a blog post] for books I acquired but didn’t yet read, and share the reason I think it might be an interesting book. Have an anti-library stream
 > - When exploring a new question, consider which unread books may contain relevant insights (next to exploring what my notes already contain on the question at hand
 
-A final irony, _The Black Swan_ has been in my anti-library for a couple of years, sitting in my Kindle at the start of Part One!
+I can see things there I could easily adapt for my own practice.
+
+In a final irony, _The Black Swan_ has been in my anti-library for a couple of years, sitting in my Kindle at the start of Part One!
