@@ -2,7 +2,7 @@
 type: post
 slug: "anti-libraries-and-anti-scholars"
 featured: false
-draft: true
+draft: false
 title: "Anti-libraries and anti-scholars"
 subtitle: 
 summary: 
