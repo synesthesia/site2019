@@ -49,7 +49,7 @@ The areas I want to cover are:
 
 * [x] my note-making goals
 * [x] the starting point
-* [ ] new tools for note-making
+* [x] new tools for note-making
 * [ ] reinventing my note-making practice
 * [ ] where next
 
