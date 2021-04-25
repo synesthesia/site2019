@@ -41,7 +41,7 @@ I started this note last November, and the title implied that I’d settled on a
 The core elements I’m using right now are:
 
 - two git repositories, one private for daily working notes, a second one that is published to [my digital garden](https://garden.synesthesia.co.uk)
-- for desktop editing the private, quotidian working notes I currently favour [Obsidian](https://obsidian.md)
+- for desktop editing the private, quotidian working notes I have experimented with  [Obsidian](https://obsidian.md) and find it productive. However cost of the notes ecosystem is important, and an Obsidian licence for commercial work is an annual subscription, so I have reverted to using Foam, as below
 - desktop editing of the public digital garden is currently edited using the [Foam plugin](https://foambubble.github.io/foam/) on top of Visual Studio Code
 - publishing is a custom Gatsby.js site hosted on Netlify
 - Mobile git client is Working Copy
