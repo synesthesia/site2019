@@ -2,7 +2,7 @@
 
 title: "New Tools for Note Making"
 subtitle: ""
-summary: ""
+summary: "Toolset for desktop and mobile note-making"
 authors: ["synesthesia"]
 tags: ["pkm", "notemaking", "zettelkasten"]
 categories: []
