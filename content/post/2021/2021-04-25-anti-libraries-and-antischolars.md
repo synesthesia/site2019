@@ -1,14 +1,14 @@
 ---
 type: post
-slug: "#--anti-libraries-and-anti-scholars"
+slug: "anti-libraries-and-anti-scholars"
 featured: false
 draft: true
-title: "#  Anti-libraries and anti-scholars"
+title: "Anti-libraries and anti-scholars"
 subtitle: 
 summary: 
-authors: ["Julian Elve"]
-categories: ["draft posts"]
-tags: []
+authors: ["synesthesia"]
+categories: []
+tags: ["pkm", "Taleb"]
 date: 2021-04-25T10:58:00+01:00
 ---
 
