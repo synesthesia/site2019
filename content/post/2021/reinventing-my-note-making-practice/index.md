@@ -7,8 +7,8 @@ summary: ""
 authors: ["synesthesia"]
 tags: ["pkm", "notemaking", "zettelkasten"]
 categories: []
-date: 2020-11-20T16:17:02Z
-lastmod: 2020-11-20T16:17:02Z
+date: 2021-04-25T16:17:02Z
+lastmod: 2021-04-25T16:17:02Z
 featured: false
 draft: true
 type: post
