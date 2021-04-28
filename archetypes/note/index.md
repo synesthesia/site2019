@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "{{ replace .Name "-" " " | title }}"
+slug: "{{ replace .Name "-" " " | lower }}"
 subtitle: ""
 summary: ""
 authors: ["synesthesia"]
