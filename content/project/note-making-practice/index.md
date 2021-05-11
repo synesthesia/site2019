@@ -41,7 +41,7 @@ slides: ""
 ---
 Most of us take notes as some part of our life, either personal or professional.
 
-Over the summer and autumn of 2020 I have been reviewing my note-taking practices (and the technology that supports them) with the goal of reducing friction and giving myself a framework for higher-order learning.
+Since the summer and autumn of 2020, and now into the spring of 2021, I have been reviewing my note-taking practices (and the technology that supports them) with the goal of reducing friction and giving myself a framework for higher-order learning.
 
 This project note serves both documentation, by providing a place to structure how I plan to write about my experiments, and later reflection, by providing a central point to index the relevant notes.
 
@@ -50,6 +50,6 @@ The areas I want to cover are:
 * [x] my note-making goals
 * [x] the starting point
 * [x] new tools for note-making
-* [ ] reinventing my note-making practice
+* [x] reinventing my note-making practice
 * [ ] where next
 

@@ -35,7 +35,7 @@ I love this from [@aedwardslevey](https://twitter.com/aedwardslevy): [^1]
 
 > I’ve information anecdotal, chemical, and clinical
 > I know the COVID experts, and I quote-tweet fights on aerosols
->
+> 
 > List BioNTech to Zeneca, in order categorical
 > I’m very well acquainted, too, with matters virological
 > 
