@@ -1,6 +1,4 @@
----
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+—-
 title: "How to Make Schools Safer"
 subtitle: "What do Independendent Sage say?"
 summary: "Prof. Christina Pagel tweets about IndieSage's work to improve Covid safety in schools and workplaces."
@@ -15,20 +13,11 @@ featured: false
 draft: false
 type: post
 
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 One of the most compelling commentators I have been following throughout the pandemic is [Prof. Christina Pagel (@chrischirp)](https://twitter.com/chrischirp), Director of the [Clinical Operational Research Unit at UCL](http://t.co/5Os9k9vGTS) and a member of [Independent SAGE](https://www.independentsage.org/).
@@ -39,7 +28,7 @@ In a recent [Twitter thread](https://twitter.com/chrischirp/status/1434211010529
   
 * Independent Sage released a [plan for safer schools](https://www.independentsage.org/wp-content/uploads/2020/11/Safe-schools-v4b1.pdf), and a detailed safer workplaces charter
 
-* Key principles they advised for schools in Novemeber 2020 were:
+* Key principles they advised for schools in November 2020 were:
   
   * Distancing (implying smaller classes and reorganisation)
   * Ventilation
