@@ -1,0 +1,130 @@
+copyright_license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+
+theme: minimal
+day_night: true
+font: ''
+font_size: M
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+logo: ''
+highlight: true
+math: false
+diagram: false
+privacy_pack: false
+email: julian@elve.london
+phone: ''
+address: {}
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+office_hours: []
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Synesthesia'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:julianelve?call'
+  - icon: telegram
+    icon_pack: fab
+    name: Telegram Me
+    link: 'https://telegram.me/julianelve'
+sharing_image: ''
+twitter: synesthesia
+date_format: 'Jan 2, 2006'
+time_format: '15:04'
+address_format: en-gb
+avatar:
+  gravatar: false
+  shape: circle
+  main_menu:
+    enable: true
+    align: l
+    show_logo: true
+    highlight_active_link: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+  reading_time: true
+  comment_count: true
+  section_pager: true
+  docs_section_pager: true
+  sharing: true
+  link_authors: true
+  plugins_js: []
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+comments:
+  provider: 3
+  commentable:
+    page: true
+    post: true
+    docs: true
+    project: true
+    publication: true
+    talk: true
+    note: true
+  disqus:
+    shortname: synesthesia-1
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: 0
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: UA-417495-1
+  google_tag_manager: ''
+indieweb:
+  github: 'https://github.com/synesthesia'
+  linkedin: 'https://www.linkedin.com/in/julianelve/'
+  gitlab: 'https://gitlab.com/synesthesia1'
+  webmentionio: 'https://webmention.io/www.synesthesia.co.uk'
+feed:
+  mainSections:
+    - post
+    - note
+    - project
+cms:
+  netlify_cms: true
+  branch: master
+icon:
+  pack:
+    ai: true
+security:
+  csp:
+    policy: >-
+      default-src 'self'; frame-src utteranc.es *.youtube.com; connect-src
+      'self' www.google-analytics.com; script-src 'self' 'unsafe-inline'
+      'unsafe-eval' cdn.jsdelivr.net utteranc.es *.google-analytics.com
+      cdnjs.cloudflare.com www.googletagmanager.com identity.netlify.com;
+      style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com
+      fonts.googleapis.com; img-src *; object-src 'self' data:; media-src *;
+      font-src *
+    report_only: false
+  permissions:
+    policy: >-
+      accelerometer=(), camera=(), geolocation=(), gyroscope=(),
+      magnetometer=(), microphone=(), payment=(), usb=()

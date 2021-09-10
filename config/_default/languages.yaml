@@ -1,0 +1,14 @@
+en:
+  languageCode: en-us
+  #contentDir: content/en # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: Wo
+#        url: '#about'
+#        weight: 1

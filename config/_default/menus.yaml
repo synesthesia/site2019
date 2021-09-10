@@ -1,0 +1,39 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Posts
+    url: '#posts'
+    weight: 20
+  - name: Working in the Open
+    url: '#notes'
+    weight: 30
+  - name: Projects
+    url: '#projects'
+    weight: 40
+  - name: Digital Garden
+    url: 'https://garden.synesthesia.co.uk/'
+    weight: 45
+  - name: FedWiki
+    url: 'https://wiki.synesthesia.co.uk/'
+    weight: 50
+  - name: Tags
+    url: '#tags'
+    weight: 55
+  - name: Archive
+    url: /archives/
+    weight: 57
+  - name: Contact
+    url: '#contact'
+    weight: 90
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: files/cv.pdf
+#    weight: 70

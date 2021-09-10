@@ -1,0 +1,77 @@
+title: Synesthesia
+baseurl: 'https://www.synesthesia.co.uk/'
+copyright: '&copy; Julian Elve 2001 - {year}'
+disqusShortname: synesthesia-1
+enableGitInfo: false
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+paginate: 10
+enableEmoji: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _files$
+  - _cache$
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - headers
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm:
+    - HTML
+    - RSS
+mediaTypes:
+  application/manifest+json:
+    suffixes:
+      - webmanifest
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+blackfriday:
+  hrefTargetBlank: true
+  angledQuotes: false
+  latexDashes: true
+  extensions:
+    - backslashLineBreak
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+permalinks:
+  post: '/:year/:month/:day/:slug/'
+  note: '/note/:year/:month/:day/:slug/'
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
