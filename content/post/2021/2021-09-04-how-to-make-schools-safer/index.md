@@ -1,4 +1,4 @@
-—-
+---
 title: "How to Make Schools Safer"
 subtitle: "What do Independendent Sage say?"
 summary: "Prof. Christina Pagel tweets about IndieSage's work to improve Covid safety in schools and workplaces."
