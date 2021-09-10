@@ -2,7 +2,7 @@ title: Synesthesia
 baseurl: 'https://www.synesthesia.co.uk/'
 copyright: '&copy; Julian Elve 2001 - {year}'
 disqusShortname: synesthesia-1
-enableGitInfo: false
+enableGitInfo: true
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
@@ -75,3 +75,22 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+
+frontmatter:
+  date:
+  - date
+  - lastmod
+  - publishDate
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date 
+  - :git
+  - :filename
+  
