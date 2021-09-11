@@ -5,10 +5,10 @@ featured: false
 draft: false
 title: "British exceptionalism, again"
 subtitle: 
-summary: 
+summary: "World-leading case rates per-capita again"
 authors: ["synesthesia"]
 categories: []
-tags: []
+tags: ["Covid19"]
 date: 2021-09-11T08:58:00+01:00
 ---
 "Global Britain" [^1] stands out again! Sadly this time it is, once again, in terms of Covid-19 case rates, as this chart shows:
