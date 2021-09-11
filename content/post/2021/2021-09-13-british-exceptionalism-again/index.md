@@ -2,7 +2,7 @@
 type: post
 slug: "british-exceptionalism-again"
 featured: false
-draft: true
+draft: false
 title: "British exceptionalism, again"
 subtitle: 
 summary: 
@@ -11,5 +11,12 @@ categories: []
 tags: []
 date: 2021-09-13T08:58:00+01:00
 ---
+"Global Brtain" [^1] stands out again!
 
-Placeholder
+
+![](coronavirus-data-explorer.png)
+
+_chart [source](https://ourworldindata.org/covid-cases)
+
+[^1]: explain the phrase
+
