@@ -187,6 +187,8 @@ function getMentionContent(webmention) {
 
 	if (content) {
 
+        result.content = webmention.content.text; //default
+
         try {
             const cleanDOM = getCleanDOM(content);
 
@@ -268,8 +270,9 @@ function getMentionContent(webmention) {
             result.content = cleanHTML;
             result.isTruncated = (cleanHTML !== fullHTML);
         }
-        catch {
-            return webmention.content.text;
+        catch (error) {
+            console.warn(error.message)
+            return result;
         }
 	}
 
