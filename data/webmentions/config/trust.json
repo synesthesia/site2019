@@ -1,0 +1,17 @@
+{
+	"trusted": {
+		"domains": [
+			"synesthesia.co.uk.com",
+            "elve.london"
+		],
+		"twitterUsers": [
+			"synesthesia"
+		],
+		"webmentionHashes": []
+	},
+	"blocked": {
+		"domains": [],
+		"twitterUsers": [],
+		"webmentionHashes": []
+	}
+}
