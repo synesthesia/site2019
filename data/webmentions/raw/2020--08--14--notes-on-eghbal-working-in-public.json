@@ -1,0 +1,60 @@
+{
+	"70db445bde54635ac225ddeb53bb9d7e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Nadia",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/77a6a8eb3c659c284acc6bf5118237ddae49dc5d21e8c282f8f629fbd9081c1c.jpg",
+			"url": "https://twitter.com/nayafia"
+		},
+		"url": "https://twitter.com/nayafia/status/1294292447296536576",
+		"published": "2020-08-14T15:19:00+00:00",
+		"wm-received": "2020-08-15T05:24:57Z",
+		"wm-id": 840908,
+		"wm-source": "https://brid-gy.appspot.com/comment/twitter/Synesthesia/1294207332277202944/1294292447296536576",
+		"wm-target": "https://www.synesthesia.co.uk/2020/08/14/notes-on-eghbal-working-in-public/",
+		"content": {
+			"html": "Great notes! Thank you for reading!\n<a class=\"u-mention\" href=\"http://www.synesthesia.co.uk/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Synesthesia\"></a>",
+			"text": "Great notes! Thank you for reading!"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/2020/08/14/notes-on-eghbal-working-in-public/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	},
+	"4a5e6b50ba38bda83d0e6018b2ae8b4d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Nadia",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/77a6a8eb3c659c284acc6bf5118237ddae49dc5d21e8c282f8f629fbd9081c1c.jpg",
+			"url": "https://twitter.com/nayafia"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1294207332277202944#favorited-by-326511843",
+		"published": null,
+		"wm-received": "2020-08-15T05:24:58Z",
+		"wm-id": 840910,
+		"wm-source": "https://brid-gy.appspot.com/like/twitter/Synesthesia/1294207332277202944/326511843",
+		"wm-target": "https://www.synesthesia.co.uk/2020/08/14/notes-on-eghbal-working-in-public/",
+		"like-of": "https://www.synesthesia.co.uk/2020/08/14/notes-on-eghbal-working-in-public/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"6299b53a590cdb64f4f2e7667550f6c5": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "jimboy eat ice cream",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/3cf15b2ace5bfa4c2581ba0c9ce967052ce29ebec4c15863bbdd5131fabf401d.jpg",
+			"url": "https://twitter.com/wayanjimmy"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1294207332277202944#favorited-by-164896781",
+		"published": null,
+		"wm-received": "2020-08-15T05:24:58Z",
+		"wm-id": 840909,
+		"wm-source": "https://brid-gy.appspot.com/like/twitter/Synesthesia/1294207332277202944/164896781",
+		"wm-target": "https://www.synesthesia.co.uk/2020/08/14/notes-on-eghbal-working-in-public/",
+		"like-of": "https://www.synesthesia.co.uk/2020/08/14/notes-on-eghbal-working-in-public/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
