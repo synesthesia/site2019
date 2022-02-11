@@ -34,13 +34,18 @@ module.exports = async function processWebmentions() {
 
 	let counter = 0;
 	for (const file of files) {
-		const rawWebmentions = await loadJSON(`${rawDataPath}/${file}`);
-		const processedWebmentions = Object.entries(rawWebmentions)
-			.map(processWebmention)
-			.filter(webmention => webmention)
-			.sort((wm1, wm2) => new Date(wm1.date) - new Date(wm2.date));
-		counter += processedWebmentions.length;
-		saveJSON(`${processedDataPath}/${file}`, processedWebmentions);
+        try {
+            console.debug(`Processing ${file}`)
+            const rawWebmentions = await loadJSON(`${rawDataPath}/${file}`);
+            const processedWebmentions = Object.entries(rawWebmentions)
+                .map(processWebmention)
+                .filter(webmention => webmention)
+                .sort((wm1, wm2) => new Date(wm1.date) - new Date(wm2.date));
+            counter += processedWebmentions.length;
+            saveJSON(`${processedDataPath}/${file}`, processedWebmentions);
+        } catch (error) {
+            console.error(error.message);
+        }
 	}
 	console.log(`Processed ${counter} webmentions`);
 };
@@ -181,85 +186,91 @@ function getMentionContent(webmention) {
 	);
 
 	if (content) {
-		const cleanDOM = getCleanDOM(content);
 
-		if (!cleanDOM || !cleanDOM.textContent) {
-			return null;
-		}
+        try {
+            const cleanDOM = getCleanDOM(content);
 
-		// Turn images into links
-		for (const image of cleanDOM.querySelectorAll('img')) {
-			if (!image.getAttribute('src')) {
-				image.parentElement.removeChild(image);
-				continue;
-			}
-			const link = document.createElement('a');
-			link.setAttribute('href', image.getAttribute('src'));
-			const imageAlt = (image.getAttribute('alt') ? ` "${image.getAttribute('alt')}"` : '');
-			link.textContent = `[image${imageAlt}]`;
-			image.parentElement.replaceChild(link, image);
-		}
+            if (!cleanDOM || !cleanDOM.textContent) {
+                return null;
+            }
 
-		// Add nofollow to links and remove if empty
-		for (const link of cleanDOM.querySelectorAll('a')) {
-			if (!link.textContent.trim()) {
-				link.parentElement.removeChild(link);
-			}
-			link.setAttribute('nofollow', 'nofollow');
-		}
+            // Turn images into links
+            for (const image of cleanDOM.querySelectorAll('img')) {
+                if (!image.getAttribute('src')) {
+                    image.parentElement.removeChild(image);
+                    continue;
+                }
+                const link = document.createElement('a');
+                link.setAttribute('href', image.getAttribute('src'));
+                const imageAlt = (image.getAttribute('alt') ? ` "${image.getAttribute('alt')}"` : '');
+                link.textContent = `[image${imageAlt}]`;
+                image.parentElement.replaceChild(link, image);
+            }
 
-		// Turn headings into paragraphs
-		for (const heading of cleanDOM.querySelectorAll('h1, h2, h3, h4, h5, h6')) {
-			const paragraph = document.createElement('p');
-			paragraph.innerHTML = heading.innerHTML;
-			heading.parentElement.replaceChild(paragraph, heading);
-		}
+            // Add nofollow to links and remove if empty
+            for (const link of cleanDOM.querySelectorAll('a')) {
+                if (!link.textContent.trim()) {
+                    link.parentElement.removeChild(link);
+                }
+                link.setAttribute('nofollow', 'nofollow');
+            }
 
-		// Find the actual target link
-		const targetLink = [...cleanDOM.querySelectorAll('a')].find(link => {
-			// Ignore protocol, as http redirects to https
-			const protocol = /^https?:\/\//;
-			const href = link.getAttribute('href').replace(protocol, 'https://');
-			const target = webmention['wm-target'].replace(protocol, 'https://');
-			return href === target;
-		});
+            // Turn headings into paragraphs
+            for (const heading of cleanDOM.querySelectorAll('h1, h2, h3, h4, h5, h6')) {
+                const paragraph = document.createElement('p');
+                paragraph.innerHTML = heading.innerHTML;
+                heading.parentElement.replaceChild(paragraph, heading);
+            }
 
-		// The rest of this file is text manipulation, so we ditch the main DOM element
-		const fullHTML = cleanDOM.innerHTML;
-		let cleanHTML = cleanDOM.innerHTML;
+            // Find the actual target link
+            const targetLink = [...cleanDOM.querySelectorAll('a')].find(link => {
+                // Ignore protocol, as http redirects to https
+                const protocol = /^https?:\/\//;
+                const href = link.getAttribute('href').replace(protocol, 'https://');
+                const target = webmention['wm-target'].replace(protocol, 'https://');
+                return href === target;
+            });
 
-		// If the content is too long, we try a few things
-		if (cleanDOM.textContent.length > maxContentCharacterLength) {
+            // The rest of this file is text manipulation, so we ditch the main DOM element
+            const fullHTML = cleanDOM.innerHTML;
+            let cleanHTML = cleanDOM.innerHTML;
 
-			// If we have a target link in the content, then we only want the link and its siblings
-			if (targetLink) {
-				const targetLinkParent = targetLink.parentElement;
-				let parentHTML = targetLinkParent.innerHTML;
+            // If the content is too long, we try a few things
+            if (cleanDOM.textContent.length > maxContentCharacterLength) {
 
-				// Work out if we need ellipses
-				const split = cleanDOM.textContent.split(targetLinkParent.textContent);
-				if (split.pop() !== '') {
-					parentHTML = `${parentHTML}…`;
-				}
-				if (split.shift() !== '') {
-					parentHTML = `…${parentHTML}`;
-				}
+                // If we have a target link in the content, then we only want the link and its siblings
+                if (targetLink) {
+                    const targetLinkParent = targetLink.parentElement;
+                    let parentHTML = targetLinkParent.innerHTML;
 
-				cleanHTML = parentHTML;
-			}
+                    // Work out if we need ellipses
+                    const split = cleanDOM.textContent.split(targetLinkParent.textContent);
+                    if (split.pop() !== '') {
+                        parentHTML = `${parentHTML}…`;
+                    }
+                    if (split.shift() !== '') {
+                        parentHTML = `…${parentHTML}`;
+                    }
 
-			// Clip the HTML
-			cleanHTML = clip(cleanHTML, maxContentCharacterLength, {
-				html: true,
-				maxLines: maxContentLines
-			});
+                    cleanHTML = parentHTML;
+                }
 
-			// Get rid of spaces before a final ellipsis
-			cleanHTML = cleanHTML.replace(/\s+…$/g, '…');
-		}
+                // Clip the HTML
+                cleanHTML = clip(cleanHTML, maxContentCharacterLength, {
+                    html: true,
+                    maxLines: maxContentLines
+                });
 
-		result.content = cleanHTML;
-		result.isTruncated = (cleanHTML !== fullHTML);
+                // Get rid of spaces before a final ellipsis
+                cleanHTML = cleanHTML.replace(/\s+…$/g, '…');
+            }
+
+            result.content = cleanHTML;
+            result.isTruncated = (cleanHTML !== fullHTML);
+        }
+        catch {
+            return webmention.content.text;
+        }
 	}
 
 	// If there are photos, append to the content
