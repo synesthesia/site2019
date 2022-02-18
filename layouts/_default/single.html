@@ -1,5 +1,14 @@
 {{- define "main" -}}
 
+{{- /* Gather together all the content information */ -}}
+{{- /* ------------------------------------------- */ -}}
+
+	{{- /* Get content webmentions */ -}}
+	{{- $webmentionConfig := partial "config/webmention" . -}}
+	{{- $webmentions := (partial "content/data/webmentions" .) -}}
+
+{{ $pageType := singularize .Type }}
+
 <article class="article h-entry" itemscope itemtype="http://schema.org/Article">
 
   {{ partial "page_header.html" . }}
@@ -34,7 +43,29 @@
     </div>
     {{ end }}
 
-    {{ partial "webmentions.html" . }}
+    {{/* Webmentions */}}
+		{{ if $webmentionConfig.enabled }}
+			<aside id="responses">
+				<div class="article-widget">
+					<h3>Responses ({{ len $webmentions.all }})</h3>
+				  <form method="post" action="{{ $webmentionConfig.receiver }}" target="_blank" rel="noopener" class="webmention-form" data-component="webmention-form">
+					<input type="hidden" name="target" value="{{ .Permalink }}" />
+					<p>
+						You can respond to this {{ $pageType }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
+						and any tweets about it will be picked up automatically.
+          </p>
+          <p>
+						If you published a response to this elsewhere which does not show up below, <label for="webmention-source">let me know the URL</label>:
+					</p>
+					<div class="webmention-form__inputs">
+						<input id="webmention-source" type="url" name="source" required class="webmention-form__url" />
+						<input type="submit" value="Notify me!" class="webmention-form__submit" />
+					</div>
+				</form>
+				{{ partial "content/webmentions/list" $webmentions }}
+      </div>
+			</aside>
+		{{ end }}
 
     {{ partial "comments.html" . }}
 

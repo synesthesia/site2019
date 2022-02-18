@@ -1,0 +1,49 @@
+
+// Webmention form block
+.webmention-form {
+	@extend %base-typography;
+	margin-bottom: var(--spacing-line);
+
+	// Link elements
+	a {
+		color: var(--color-link);
+        &:visited {
+		    color: var(--color-link-visited);
+	    }
+	}
+}
+
+// Webmention form inputs element
+.webmention-form__inputs {
+	display: flex;
+}
+
+// Webmention form url element
+.webmention-form__url {
+	flex: 1;
+	max-width: 400px;
+	display: block;
+	padding: var(--spacing-rule);
+	border: solid var(--spacingvalue-xxxxs) rgba(0,0,0,0.54);
+	border-right: none;
+	border-radius: var(--spacing-rule) 0 0 var(--spacing-rule);
+}
+
+// Webmention form submit element
+.webmention-form__submit {
+	display: block;
+	padding: var(--spacing-rule);
+	border: solid var(--spacingvalue-xxxxs) rgba(0,0,0,0.54);
+	border-radius: 0 var(--spacing-rule) var(--spacing-rule) 0;
+	background-color: rgba(0, 0, 0, 0.05);
+
+	&:active {
+		background-color: var(--colorvalue-gray);
+	}
+}
+
+.webmention-form__url:focus,
+.webmention-form__url:focus + .webmention-form__submit {
+	outline: none;
+	border-color: var(--colorvalue-green);
+}
