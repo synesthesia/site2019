@@ -23,7 +23,7 @@ export async function onPreBuild({ utils }) {
 
 export async function onSuccess({ constants }) {
   const oldUrls = oldUrlsForBuild.get(process.env.BUILD_ID);
-  const newUrls = await readNewFeedToUrls(pathJoin('.', 'public', 'index.xml'));
+  const newUrls = await readNewFeedToUrls(pathJoin('.', constants.PUBLISH_DIR, 'index.xml'));
 
   console.log('Number of new URLs:', newUrls.size);
 
@@ -32,10 +32,11 @@ export async function onSuccess({ constants }) {
   // new at a time anyway.
   for (const url of newUrls) {
     if (pageRegex.test(url) && !oldUrls.has(url)) {
-      console.log('Dispatching webmentions for:', url);
+      const path = pathJoin('.', constants.PUBLISH_DIR, pathSep);
+      console.log('Dispatching webmentions for:', url, ' in:', path);
 
-      try {
-        await dispatchWebmentionsForUrl(url, process.env.URL, pathJoin('.', 'public', pathSep));
+       try {
+        await dispatchWebmentionsForUrl(url, process.env.URL, pathJoin('.', path);
         console.log('Done dispatching webmentions for:', url);
       } catch (error) {
         console.error(`Error dispatching webmentions for ${url}: ${error.stack || error.message}`);
