@@ -1,0 +1,81 @@
+{
+	"3989b79763d14d0803cfdafc393bac5f": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/6dbb6f93e63e3555d44cb9d509f21c53d81f68390846e058306fba33a62aa5a6.jpg",
+			"url": "https://twitter.com/ton_zylstra"
+		},
+		"url": "https://twitter.com/ton_zylstra/status/1236231310919729153",
+		"published": "2020-03-07T10:04:47+00:00",
+		"wm-received": "2020-03-07T13:52:53Z",
+		"wm-id": 765563,
+		"wm-source": "https://brid-gy.appspot.com/comment/twitter/Synesthesia/1235689707142606848/1236231310919729153",
+		"wm-target": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"content": {
+			"html": "indeed, everything starts out as miscellaneous and then a slow trickle to layers deeper in the onion. Usually for me f2f interaction, or online 1on1 interaction over a longer period is a trigger.\n<a class=\"u-mention\" href=\"http://www.synesthesia.co.uk/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Synesthesia\"></a>",
+			"text": "indeed, everything starts out as miscellaneous and then a slow trickle to layers deeper in the onion. Usually for me f2f interaction, or online 1on1 interaction over a longer period is a trigger."
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	},
+	"d97edc3eade96216fe4b7e975783f898": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "𝓢tephan Okhuijsen 😎",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/a56318175d83d6a32328391e428eb81a5aa185830f0a956c9d9cd0bd18f22836.jpg",
+			"url": "https://twitter.com/steeph"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1235689707142606848#favorited-by-7692762",
+		"published": null,
+		"wm-received": "2020-03-07T13:52:57Z",
+		"wm-id": 765564,
+		"wm-source": "https://brid-gy.appspot.com/like/twitter/Synesthesia/1235689707142606848/7692762",
+		"wm-target": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"like-of": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"2db666dcecbf81bb2431058f2458111e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/6dbb6f93e63e3555d44cb9d509f21c53d81f68390846e058306fba33a62aa5a6.jpg",
+			"url": "https://twitter.com/ton_zylstra"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1235689707142606848#favorited-by-25049203",
+		"published": null,
+		"wm-received": "2020-03-07T13:53:20Z",
+		"wm-id": 765565,
+		"wm-source": "https://brid-gy.appspot.com/like/twitter/Synesthesia/1235689707142606848/25049203",
+		"wm-target": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"like-of": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"1d55b266a24dbf953be13cbb9c250b2f": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/6dbb6f93e63e3555d44cb9d509f21c53d81f68390846e058306fba33a62aa5a6.jpg",
+			"url": "https://twitter.com/ton_zylstra"
+		},
+		"url": "https://twitter.com/ton_zylstra/status/1236230797893435394",
+		"published": "2020-03-07T10:02:44+00:00",
+		"wm-received": "2020-03-07T13:53:28Z",
+		"wm-id": 765566,
+		"wm-source": "https://brid-gy.appspot.com/repost/twitter/Synesthesia/1235689707142606848/1236230797893435394",
+		"wm-target": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"content": {
+			"text": "@ActivateLearn Interesting approach I hadn't thought of. I've reorganised my feeds based on social distance, an idea from @ton_zylstra , ht"
+		},
+		"repost-of": "https://www.synesthesia.co.uk/2019/09/25/filtering-information-by-social-distance-2/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}

@@ -4,4 +4,7 @@ node_modules/
 functions/
 !src/functions
 !functions/.gitkeep
+resources/_gen
+data/webmentions/processed
+.hugo_build.lock
 

@@ -1,0 +1,29 @@
+<div id="webmentions">
+    {{/* Replace "/" in the relative permalink of the post with "--" */}}
+    {{/* this matches the file names of our JSON files */}}
+    {{
+    $slug := .RelPermalink
+        | replaceRE "^/|/$" ""
+        | replaceRE "/" "--"
+    }}
+
+    {{/* Access Site.Data.webmentions.processed[slug] */}}
+    {{/* which is the JSON file matching our page */}}
+    {{/* default to an empty array if no mentions exist */}}
+    {{
+    $webmentions := index $.Site.Data.webmentions.processed $slug
+        | default slice
+    }}
+    <h3>Web Mentions</h3>
+    {{/* ...loop over webmentions and display them */}}
+    <ul>
+        
+    {{ range $webmentions }}
+        <li>
+        Mentioned by
+        <a href="{{ .url }}">{{ .author.name }}</a>:
+        {{ .content | safeHTML }}
+        </li>
+    {{ end }}
+    </ul>
+</div>

@@ -1,42 +1,52 @@
-# tba
+# adapted from work by Rowan Manning
+# https://github.com/rowanmanning/rowanmanning.com
+# https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB
 
-name: Webmentions
+name: Fetch webmentions
 
+# Run every 30 minutes
 on:
-  #push:
-  #  branches:
-  #    - master
-  #schedule:
-  #  - cron: "0 */6 * * *"
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
 
+# Jobs
 jobs:
   webmentions:
-    name: Web Mentions
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
-        uses: actions/checkout@master
 
-      - name: Set up Node.js
-        uses: actions/setup-node@master
+      - uses: actions/checkout@v2
+
+      # Set up Node.js and install dependencies
+      - uses: actions/setup-node@v1
         with:
-          node-version: 12.x
+          node-version: 16.x
+      - uses: actions/cache@v1
+        env:
+          cache-version: v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-${{ env.cache-version }}-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-${{ env.cache-version }}-
+            ${{ runner.os }}-
+      - run: yarn install
 
+      # Fetch and process webmentions
       - name: Fetch webmentions
         env:
           WEBMENTIONS_TOKEN: ${{ secrets.WEBMENTIONS_TOKEN }}
-        run: node ./webmentions.js
+        run: make fetch-webmentions
 
-      - name: Commit to repository
+      # Commit new webmentions to the repo
+      - name: Commit to the repo
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: |
-            Fetch webmentions
-            skip-checks: true
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         run: |
-          git config user.email "julian.elve@gmail.com"
-          git config user.name "Julian Elve"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/synesthesia/site2019.git
-          git checkout master
+          git config --global user.name "Julian Elve"
+          git config --global user.email "julian@elve.london"
+          git remote set-url origin "https://${GITHUB_ACTOR}:${DEPLOY_KEY}@github.com/${GITHUB_REPOSITORY}.git"
+          git checkout main
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin master)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Fetch webmentions"; git push origin main)

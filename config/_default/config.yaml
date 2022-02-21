@@ -1,5 +1,5 @@
 title: Synesthesia
-baseurl: 'https://www.synesthesia.co.uk/'
+#baseURL: 
 copyright: '&copy; Julian Elve 2001 - {year}'
 disqusShortname: synesthesia-1
 enableGitInfo: true
@@ -94,3 +94,23 @@ frontmatter:
   - :git
   - :filename
   
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+    - ^dart-sass-embedded$
+    - ^go$
+    - ^npx$
+    - ^postcss$
+    osEnv:
+    - (?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$
+  funcs:
+    getenv:
+    - ^HUGO_
+    - ^WC_
+  http:
+    methods:
+    - (?i)GET|POST
+    urls:
+    - .*
+

@@ -1,0 +1,20 @@
+{
+	"cd47fafdce7e062d3321b20a55b4ce84": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jane Davies",
+			"photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+			"url": "https://twitter.com/JaneDav16441555"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1390652173835456515#favorited-by-1377535830080753664",
+		"published": null,
+		"wm-received": "2021-05-08T07:00:01Z",
+		"wm-id": 1148632,
+		"wm-source": "https://brid.gy/like/twitter/Synesthesia/1390652173835456515/1377535830080753664",
+		"wm-target": "https://www.synesthesia.co.uk/2021/05/01/reinventing-my-note-making-practice/",
+		"like-of": "https://www.synesthesia.co.uk/2021/05/01/reinventing-my-note-making-practice/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
