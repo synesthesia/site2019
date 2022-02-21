@@ -6,7 +6,7 @@
 'use strict';
 
 const {program} = require('commander');
-const fetchWebmentions = require('./lib/action/fetch-webmentions');
+const fetchWebmentions = require('./lib/action/fetch-webmentions.cjs');
 
 // Program options
 program

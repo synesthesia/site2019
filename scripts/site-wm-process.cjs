@@ -5,7 +5,7 @@
 
 'use strict';
 
-const processWebmentions = require('./lib/action/process-webmentions');
+const processWebmentions = require('./lib/action/process-webmentions.cjs');
 const {program} = require('commander');
 
 // Program options

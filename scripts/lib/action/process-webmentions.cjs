@@ -9,7 +9,7 @@ const clip = require('text-clipper').default;
 const createDOMPurify = require('dompurify');
 const fs = require('fs/promises');
 const {JSDOM} = require('jsdom');
-const saveJSON = require('../util/save-json');
+const saveJSON = require('../util/save-json.cjs');
 const {trusted, blocked} = require('../../../data/webmentions/config/trust.json');
 
 // The ideal character limit and number of lines for webmentions
@@ -20,7 +20,7 @@ const maxContentLines = 6;
 const {window} = new JSDOM('');
 const {document} = window;
 const DOMPurify = createDOMPurify(window);
-const mkdir = require('../util/mkdir');
+const mkdir = require('../util/mkdir.cjs');
 
 module.exports = async function processWebmentions() {
 
