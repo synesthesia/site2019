@@ -4,7 +4,7 @@ import FeedMe from 'feedme';
 export default async function parseFeedToUrls(feedStream) {
   const parser = new FeedMe();
   const urls = new Set();
-  const onItem = item => urls.add(item.id);
+  const onItem = item => urls.add(item.guid);
 
   parser.on('item', onItem);
 
