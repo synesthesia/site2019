@@ -36,7 +36,7 @@ export async function onSuccess({ constants }) {
       console.log('Dispatching webmentions for:', url, ' in:', path);
 
        try {
-        await dispatchWebmentionsForUrl(url, process.env.URL, pathJoin('.', path);
+        await dispatchWebmentionsForUrl(url, process.env.URL, path);
         console.log('Done dispatching webmentions for:', url);
       } catch (error) {
         console.error(`Error dispatching webmentions for ${url}: ${error.stack || error.message}`);
