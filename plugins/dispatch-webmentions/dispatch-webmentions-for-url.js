@@ -6,7 +6,6 @@ import fetch from 'node-fetch';
 
 const IGNORED_HOSTNAMES = [
   'localhost',
-  'qubyte.codes',
   'webmention.io',
   'twitter.com',
   'github.com',
