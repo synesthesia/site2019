@@ -10,7 +10,7 @@ categories: []
 tags: []
 lastmod: 2022-02-21T17:54:18Z
 featured: false
-draft: false
+draft: true
 type: note
 
 # Featured image
