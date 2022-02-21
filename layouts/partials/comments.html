@@ -1,13 +1,17 @@
 {{ $commentable_map := site.Params.comments.commentable | default dict }}
 {{ $commentable_bool := index $commentable_map .Type | default false }}
 {{ if site.Params.comments.provider | and $commentable_bool | and (ne .Params.commentable false) | or .Params.commentable }}
-<section id="comments">
-  {{ if eq site.Params.comments.provider 1 }}
-    {{ partial "comments/disqus.html" . }}
-  {{ else if eq site.Params.comments.provider 2 }}
-    {{ partial "comments/commento.html" . }}
-  {{ else if eq site.Params.comments.provider 3 }}
-    {{ partial "comments/utterances.html" . }}
-  {{ end }}
-</section>
+  <aside id="comments">
+  	<div class="article-widget">
+      <h3>Comments</h3>
+      <p>As an alternative to using webmentions you may, if you prefer, leave a comment directly here:</p>
+      {{ if eq site.Params.comments.provider 1 }}
+        {{ partial "comments/disqus.html" . }}
+      {{ else if eq site.Params.comments.provider 2 }}
+        {{ partial "comments/commento.html" . }}
+      {{ else if eq site.Params.comments.provider 3 }}
+        {{ partial "comments/utterances.html" . }}
+      {{ end }}
+    </div>
+  </aside>
 {{ end }}
