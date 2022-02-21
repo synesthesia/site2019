@@ -12,6 +12,10 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
+[[context.production.plugins]]
+  package = "/plugins/dispatch-webmentions"
+
+
 [context.staging]
   #command = "netlify-lambda build src/functions && hugo --gc --minify --buildFuture --buildDrafts -b $URL"
   command = "make build-staging"
