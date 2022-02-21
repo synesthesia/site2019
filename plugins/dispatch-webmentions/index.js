@@ -7,7 +7,7 @@ import { dispatchWebmentionsForUrl } from './dispatch-webmentions-for-url.js';
 // This is probably unnecessary since each method in this module will only be
 // invoked once (and even then only in sequence).
 const oldUrlsForBuild = new Map();
-const pageRegex = new RegExp('^https://www.synesthesia.co.uk/(post|note|project)/.+');
+const pageRegex = new RegExp('^https://www.synesthesia.co.uk/.+');
 
 export async function onPreBuild({ utils }) {
   const feedUrl = `${process.env.URL}/index.xml`;
