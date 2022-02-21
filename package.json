@@ -2,6 +2,7 @@
   "name": "syn2019",
   "version": "1.0.0",
   "description": "My Hugo-based personal website",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,20 +28,10 @@
     "http-link-header": "^1.0.4",
     "jsdom": "^16.6.0",
     "mocha": "^9.0.2",
-    "node-fetch": "^3.2.0"
+    "node-fetch": "^3.2.0",
+    "p-retry": "^5.0.0"
   },
   "dependencies": {
-    "accessible-autocomplete": "^2.0.3",
-    "commander": "^8.0.0",
-    "dompurify": "^2.2.9",
-    "got": "^11.8.2",
-    "hotkeys-js": "^3.8.7",
-    "jsdom": "^19.0.0",
-    "lunr": "^2.3.9",
-    "microformats-parser": "^1.4.0",
-    "netlify-lambda": "^1.6.3",
-    "npm-run-all": "^4.1.5",
-    "netlify-lambda": "^1.6.3",
     "accessible-autocomplete": "^2.0.3",
     "commander": "^8.0.0",
     "dompurify": "^2.2.9",
@@ -49,6 +40,8 @@
     "jsdom": "^16.6.0",
     "lunr": "^2.3.9",
     "microformats-parser": "^1.4.0",
+    "netlify-lambda": "^1.6.3",
+    "npm-run-all": "^4.1.5",
     "text-clipper": "^2.1.0"
   }
 }
