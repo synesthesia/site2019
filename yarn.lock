@@ -2755,7 +2755,7 @@ glob-parent@^5.1.2, glob-parent@~5.1.2:
   dependencies:
     is-glob "^4.0.1"
 
-glob@7.2.0:
+glob@7.2.0, glob@^7.1.7:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/glob/-/glob-7.2.0.tgz#d15535af7732e02e948f4c41628bd910293f6023"
   integrity sha512-lmLf6gtyrPq8tTjSmrO94wBeQbFR3HbLHbuyD69wuyQkImp2hWqMGB47OX65FBkPffO641IP9jWa1z4ivqG26Q==
@@ -3924,6 +3924,13 @@ netlify-lambda@^1.6.3:
     toml "^2.3.3"
     webpack "^4.17.1"
     webpack-merge "^4.1.4"
+
+netlify-plugin-hugo-cache-resources@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/netlify-plugin-hugo-cache-resources/-/netlify-plugin-hugo-cache-resources-0.2.1.tgz#3546ada32e3c598dda518c846e99146698f3b4a7"
+  integrity sha512-G6x8egylbhpT4ROD6X2HoEO/EdTQNZUl/p7aMy6t1OsaarJRxAST/Q6vE2j8zZk+xmurYL8I3PQYsfk2eKfPZQ==
+  dependencies:
+    glob "^7.1.7"
 
 nice-try@^1.0.4:
   version "1.0.5"
