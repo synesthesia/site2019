@@ -1,4 +1,5 @@
-import { readFile } from 'node:fs/promises';
+import { readFile, lstat} from 'node:fs/promises';
+import { join as pathJoin, sep as pathSep } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import linkHeader from 'http-link-header';
 import { JSDOM } from 'jsdom';
@@ -107,7 +108,14 @@ export async function dispatchWebmentionsForUrl(url, baseUrl, publicDir) {
   const { pathname } = new URL(url);
   // The path must not start with a / because we want a relative resolution from
   // the public dir.
-  const resolvedUrl = new URL(pathname.slice(1), pathDirToUrl(publicDir));
+  var resolvedUrl = new URL(pathname.slice(1), pathDirToUrl(publicDir));
+
+  // hugo page bundle
+  if ( (await lstat(resolvedUrl)).isDirectory()) {
+    const newPath =  pathJoin(pathname.slice(1), 'index.html');
+    resolvedUrl = new URL(newPath, pathDirToUrl(publicDir));
+  }
+  
   const content = await readFile(resolvedUrl, 'utf8');
 
   for (const targetUrl of getValidUrlsFromDocument(content, url)) {
