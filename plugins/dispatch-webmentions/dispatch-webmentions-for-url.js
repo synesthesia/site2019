@@ -11,7 +11,8 @@ const IGNORED_HOSTNAMES = [
   'twitter.com',
   'github.com',
   'www.w3.org',
-  'paypal.me'
+  'paypal.me',
+  'www.synesthesia.co.uk'
 ];
 const ALLOWED_PROTOCOLS = [
   'https:',
