@@ -1,0 +1,12 @@
+{
+   "license-header-manager.excludeExtensions": [
+            ".sh",
+            ".xml",
+            ".html"
+    ],
+    "license-header-manager.excludeFolders": [
+        "node_modules",
+        "plugins",
+        "assets"
+    ]
+}
