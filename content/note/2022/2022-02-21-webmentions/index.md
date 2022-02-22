@@ -53,9 +53,9 @@ For all of this I am indebted to [Rowan Manning's approach](https://rowanmanning
 
 This is the other side of the coin. There are a range of approaches, but I decided to go with a Netlify build plugin [configured to only run on production builds](https://www.netlify.com/blog/2021/05/06/now-available-configure-build-plugins-by-deploy-context/).
 
-All the examples I could find work by processing the RSS feed for the site, and most take the approach of posting webmentions for any remote sites linked from the last (or a configurable last number of) posts. This will fall down if you ever screate more than one post in between publishes - rare but not impossible.
+All the examples I could find work by processing the RSS feed for the site, and most take the approach of posting webmentions for any remote sites linked from the last (or a configurable last number of) posts. This will fall down if you ever create more than one post in between publishes - rare but not impossible.
 
-I then found the approach documented by [Mark Everitt](https://qubyte.codes/blog/dispatching-webmentions-with-a-netlify-build-plugin) which compares the RSS feed before and after the build and pushes webmentions for all new items , and have adapted [his code](https://github.com/qubyte/qubyte-codes/tree/main/plugins/dispatch-webmentions).
+I then found the approach documented by [Mark Everitt](https://qubyte.codes/blog/dispatching-webmentions-with-a-netlify-build-plugin) which compares the RSS feed before and after the build and pushes webmentions for all new items, and have adapted [his code](https://github.com/qubyte/qubyte-codes/tree/main/plugins/dispatch-webmentions).
 
 
 ## Other things
