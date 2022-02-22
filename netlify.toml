@@ -4,6 +4,7 @@
   command = "make build"
   publish = "public"
   functions = "functions"
+  ignore = "git log -1 --pretty=%B | grep dependabot"
 
 [build.environment]
   HUGO_VERSION = "0.91.2"
