@@ -1,4 +1,4 @@
-# Synesthesia Website 2019
+# Synesthesia Website 2019 onwards
 
 My Hugo-based personal website
 
@@ -8,26 +8,23 @@ My Hugo-based personal website
 
 ## Licence
 
+See [LICENSE](LICENSE.md) for details.
+
+### Content 
+
 All content (the [/content](https://github.com/synesthesia/site2019/tree/master/content) subdirectory) is copyright (c) 2001-present Julian Elve and released under the Creative Commons CC [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
 
-All code additions and modifications made by Julian Elve are copyright (c) 2019-present Julian Elve and released under the [MIT](https://github.com/synesthesia/site2019/blob/master/LICENSE.md) licence
+You are free to share and adapt my content provided you comply with the following terms:
 
-## Third-party code
+- **Attribution** - You must give appropriate credit (as [defined in the licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests that I (Julian Elve) endorse you or your use.
 
-Site derived from [Academic Kickstart](https://github.com/sourcethemes/academic-kickstart)
+- **NonCommercial** — You may not use the material for commercial purposes.
 
-Site theme based on [Academic](https://sourcethemes.com/academic/)
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-nc-sa/4.0/) as the original.
 
-Both copyright (c) 2016-present George Cushen
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+### Code (including HTML, SCSS, scripts and makefiles)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
+For code license and attribution of third-party elements see [LICENSE](https://github.com/synesthesia/site2019/blob/master/LICENSE.md).
 

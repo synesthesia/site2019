@@ -1,5 +1,4 @@
-
-  {{ $j := (printf (printf "https://webmention.io/api/mentions%s" "?target=%s") ( print "https://" (printf "www.synesthesia.co.uk%s"  (urls.Parse .Permalink ).Path  | urlize ) ) ) }}
+{{ $j := (printf (printf "https://webmention.io/api/mentions%s" "?target=%s") ( print "https://" (printf "www.synesthesia.co.uk%s"  (urls.Parse .Permalink ).Path  | urlize ) ) ) }}
 
   {{ $wm := getJSON (replace $j "\"" "") }}
 
