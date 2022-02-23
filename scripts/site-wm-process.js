@@ -5,20 +5,16 @@
 
 'use strict';
 
+const processWebmentions = require('./lib/action/process-webmentions.js');
 const {program} = require('commander');
-const fetchWebmentions = require('./lib/action/fetch-webmentions.cjs');
 
 // Program options
 program
-	.name('site wm:fetch')
-	.requiredOption(
-		'-a, --api-key <apiKey>',
-		'the Webmention.io API key'
-	)
-	.description('fetch raw webmentions')
-	.action(async ({apiKey}) => {
+	.name('site wm:process')
+	.description('process raw webmentions')
+	.action(async () => {
 		try {
-			await fetchWebmentions(apiKey);
+			await processWebmentions();
 		} catch (error) {
 			console.error(error.message);
 			process.exitCode = 1;
