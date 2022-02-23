@@ -43,7 +43,7 @@ In the most recent iteration of changes I have:
 
 Key elements:
 - a Github action that runs every thirty minutes and calls a retrieval script
-- the retrieval script which pulls webmentions from [webmention.io](https://webmention.io/) and stores them as data files ine the source repo for the site
+- the retrieval script which pulls webmentions from [webmention.io](https://webmention.io/) and stores them as data files in the source repo for the site
 - a processing script that is run each time the site is built - this reads the raw webmentions and processes them into a form suitable for Hugo to digest
 - changes to page layouts to render a webmentions section
 
@@ -60,4 +60,5 @@ I then found the approach documented by [Mark Everitt](https://qubyte.codes/blog
 
 ## Other things
 
-_A note to myself - new functionality based on code developed by others, I need to spend some time to make the repo for this site openable, then make it public._
+~~_A note to myself - new functionality based on code developed by others, I need to spend some time to make the repo for this site openable, then make it public._~~
+<ins>now done - [here](https://github.com/synesthesia/site2019)</ins>
