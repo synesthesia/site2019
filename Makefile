@@ -19,10 +19,10 @@ start-dev:
 
 
 fetch-webmentions:
-	@./scripts/site.cjs wm:fetch --api-key $(WEBMENTIONS_TOKEN)
+	@./scripts/site.js wm:fetch --api-key $(WEBMENTIONS_TOKEN)
 
 process-webmentions:
-	@./scripts/site.cjs wm:process
+	@./scripts/site.js wm:process
 
 build: process-webmentions
 	@./node_modules/.bin/netlify-lambda build src/functions

@@ -10,7 +10,7 @@ const crypto = require('crypto');
 const fs = require('fs/promises');
 const got = require('got');
 const site = require('../../../data/webmentions/config/site.json');
-const mkdir = require('../util/mkdir.cjs');
+const mkdir = require('../util/mkdir.js');
 
 module.exports = async function fetchWebmentions(apiKey) {
 
