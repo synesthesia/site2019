@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "target": "ES6",
+        "moduleResolution": "node",
+        "sourceMap": true
+    }
+}

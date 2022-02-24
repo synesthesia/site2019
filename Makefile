@@ -24,16 +24,22 @@ fetch-webmentions:
 process-webmentions:
 	@./scripts/site.js wm:process
 
+build-functions:
+	@./node_modules/.bin/netlify-lambda build src/functions
+
 build: process-webmentions
 	@./node_modules/.bin/netlify-lambda build src/functions
 	@hugo --gc --minify --environment production -b $(URL)
+
+build-content: process-webmentions
+	@hugo --gc --minify --environment production -b $(URL)
+
 
 build-staging: process-webmentions
 	@./node_modules/.bin/netlify-lambda build src/functions
 	@hugo --gc --minify --buildFuture --buildDrafts --environment staging -b $(DEPLOY_PRIME_URL)
 
-build-preview: process-webmentions
-	@./node_modules/.bin/netlify-lambda build src/functions
+build-preview-content: process-webmentions
 	@hugo --gc --minify --buildFuture --environment staging -b $(DEPLOY_PRIME_URL)
 
 # Run the theme tests using mocha

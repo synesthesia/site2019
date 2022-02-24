@@ -1,10 +1,13 @@
 public/
 .idea/
 node_modules/
-functions/
+#functions/
 !src/functions
 !functions/.gitkeep
 resources/_gen
 data/webmentions/processed
 .hugo_build.lock
 
+
+# Local Netlify folder
+.netlify
