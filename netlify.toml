@@ -1,7 +1,7 @@
 [build]
   #command = "hugo --gc --minify -b $URL"
   #command = "yarn do-build"
-  command = "make build"
+  command = "make build-content"
   publish = "public"
   functions = "functions"
   ignore = "git log -1 --pretty=%B | grep dependabot"
@@ -9,6 +9,10 @@
 [build.environment]
   HUGO_VERSION = "0.91.2"
   HUGO_ENABLEGITINFO = "true"
+
+[functions]
+  # Specifies `esbuild` for functions bundling
+  node_bundler = "esbuild"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
@@ -34,8 +38,8 @@
   
 
 [context.deploy-preview]
-  command = "make build-preview"
+  command = "make build-preview-content"
 
 [context.branch-deploy]
   #command = "netlify-lambda build src/functions && hugo --gc --minify -b $URL"
-  command = "make build-preview"
+  command = "make build-preview-content"

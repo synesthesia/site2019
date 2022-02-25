@@ -23,11 +23,25 @@
  *  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  *  SOFTWARE.
  */
+import { Handler, Context, Callback, APIGatewayEvent } from 'aws-lambda'
 
-export function handler(event, context, callback) {
-  console.log('queryStringParameters', event.queryStringParameters)
-  callback(null, {
-    statusCode: 200,
-    body: JSON.stringify({ msg: 'Hello, World!' }),
-  })
+interface HelloResponse {
+  statusCode: number
+  body: string
 }
+
+
+const handler: Handler = (event: APIGatewayEvent, context: Context, callback: Callback) => {
+  const params = event.queryStringParameters
+  const response: HelloResponse = {
+    statusCode: 200,
+    body: JSON.stringify({
+      msg: `Hello world ${Math.floor(Math.random() * 10)}`,
+      params,
+    }),
+  }
+
+  callback(undefined, response)
+}
+
+export { handler }
