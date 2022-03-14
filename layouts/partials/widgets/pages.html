@@ -19,9 +19,14 @@
 {{ $archive_page := "" }}
 
 {{/* Filters */}}
-{{ if $st.Params.content.page_type }}
-  {{ $query = where $query "Type" $st.Params.content.page_type }}
+{{ if $st.Params.content.page_types }}
+  {{ $query = where $query "Type" "in" $st.Params.content.page_types }}
   {{ $archive_page = site.GetPage "Section" $st.Params.content.page_type }}
+{{ else }}
+    {{ if $st.Params.content.page_type }}
+    {{ $query = where $query "Type" $st.Params.content.page_type }}
+    {{ $archive_page = site.GetPage "Section" $st.Params.content.page_type }}
+    {{ end }}
 {{ end }}
 {{ if $st.Params.content.filters.folders }}
   {{ $folders := $st.Params.content.filters.folders }}
