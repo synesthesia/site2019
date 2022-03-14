@@ -53,6 +53,9 @@ build-preview-content: process-webmentions
 new-article:
 	@./scripts/site.js article:create
 
+new-reply:
+	@./scripts/site.js article:create --type reply "$(TITLE)" $(URL)
+
 # new-weeknote:
 # 	@./scripts/site.js weeknote:create
 # 

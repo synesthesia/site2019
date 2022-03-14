@@ -7,7 +7,7 @@ const createArticle = require('./lib/action/create-article');
 // Program options
 program
 	.name('site article:create')
-    .argument('title', 'the title of the article')
+    .argument('<title>', 'the title of the article')
 	.argument('[url]', 'the URL that the article replies to')
 	.option(
 		'-t, --type <type>',

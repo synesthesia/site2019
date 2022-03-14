@@ -21,6 +21,7 @@ const contentDirectory = path.resolve(__dirname, '../../../content/post');
 
 module.exports = async function createArticle(title, type, url) {
 
+	console.log(`title: ${title} url:${url} type:${type} `)
 	// Check for valid type
 	if (!validContentTypes.includes(type)) {
 		throw new Error(`note type must be one of ${validContentTypes.join(', ')}`);
