@@ -15,6 +15,13 @@
 
   <div class="article-container">
 
+    {{ $summary := "" }}
+    {{ if .Params.summary }}
+      {{ $summary = .Params.summary | markdownify | emojify }}
+      <div class="p-summary article-style" itemprop="articleSummary">
+        <p>{{ $summary }}</p>
+      </div>
+    {{end}}
     {{ if eq .Type "reply"}}
     <div>
       <p>Responding to</p>
