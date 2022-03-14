@@ -108,6 +108,7 @@ security:
     getenv:
     - ^HUGO_
     - ^WC_
+    - ^NOTE_REF_
   http:
     methods:
     - (?i)GET|POST

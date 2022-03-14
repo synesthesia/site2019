@@ -50,6 +50,9 @@ build-preview-content: process-webmentions
 # _test-theme-run-mocha:
 # 	@mocha "themes/rowanmanning/test/integration/**/*.test.js" --recursive --timeout $(INTEGRATION_TIMEOUT) --slow $(INTEGRATION_SLOW) $(INTEGRATION_TEST_MOCHA_FLAGS)
 # 
+new-article:
+	@./scripts/site.js article:create
+
 # new-weeknote:
 # 	@./scripts/site.js weeknote:create
 # 
