@@ -32,7 +32,7 @@ projects: []
 This is a very brief note for my own benefit - if you are even slightly interested I recommend following the links to find other authors who have done a much better job of explaining this!
 {{% /callout %}}
 
-I had previously displayed [WebMentions](https://indieweb.org/Webmention#History) on posts via a script that ran on each pageview, queried [webmention.io](https://webmention.io/) for mentions relevant to that page and rendered them - entriely based on the [original approach documented by Sebastian de Dyne](https://sebastiandedeyne.com/adding-webmentions-to-my-blog/).
+I had previously displayed [WebMentions](https://indieweb.org/Webmention#History) on posts via a script that ran on each pageview, queried [webmention.io](https://webmention.io/) for mentions relevant to that page and rendered them - entirely based on the [original approach documented by Sebastian de Dyne](https://sebastiandedeyne.com/adding-webmentions-to-my-blog/).
 
 In the most recent iteration of changes I have:
 
