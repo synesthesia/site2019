@@ -1,19 +1,19 @@
 ---
 # reply
-title: "Reply to {{ getenv "NOTE_REF_AUTHOR" }} '{{ getenv "NOTE_REF_TITLE" }}'"
+title: "Reply to  'strategic doing through agile sensemaking'"
 subtitle: ""
 summary: ""
 authors: ["synesthesia"]
 tags: []
 categories: []
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2022-03-14T09:00:50Z
+lastmod: 2022-03-14T09:00:50Z
 featured: false
 draft: true
 type: reply
 # Reply target
 # ------------
-inReplyTo: "{{ getenv "NOTE_REF_URL" }}"
+inReplyTo: "https://jarche.com/2022/03/strategic-doing-through-agile-sensemaking/"
 
 
 # Featured image

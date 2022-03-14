@@ -15,9 +15,16 @@
 
   <div class="article-container">
 
+    {{ if eq .Type "reply"}}
+    <div>
+      <p>Responding to</p>
+      {{ partial "content/notes/citation.html" . }}
+    </div>
+    {{end}}
     <div class="article-style e-content" itemprop="articleBody">
       {{ .Content }}
     </div>
+    
 
     {{ partial "tags.html" . }}
 

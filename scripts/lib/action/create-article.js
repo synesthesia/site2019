@@ -56,7 +56,7 @@ module.exports = async function createArticle(title, type, url) {
 	const fName = `${slug}`;
 
 	// Prepare environment variables
-	const env = Object.assign({}, process.env, {NOTE_REF_URL: url}, {NOTE_REF_TITLE: remoteTitle}, {NOTE_REF_AUTHOR: remoteAuthor.name});
+	const env = Object.assign({}, process.env, {NOTE_REF_URL: url}, {NOTE_REF_TITLE: remoteTitle}, {NOTE_REF_AUTHOR: remoteAuthor?.name});
 
 	// Create the new post file
 	await exec(`hugo new ${folder}/${fName} --kind _post/${type}`, {env});
