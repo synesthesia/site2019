@@ -16,7 +16,10 @@ program
 	.command('ref:fetch', 'fetch a URL and save information about it as JSON', {
     		executableFile: 'site-ref-fetch'
 	})
-    */
+	*/
+	.command('article:create', 'create a new article', {
+		executableFile: 'site-article-create'
+	})
 	.command('wm:fetch', 'fetch raw webmentions', {
 		executableFile: 'site-wm-fetch'
 	})
