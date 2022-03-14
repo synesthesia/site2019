@@ -5,7 +5,7 @@
             {{ range (.Site.RegularPages.GroupByDate "2006" ) }}
                 <h3 class="archive-year">{{ .Key }}</h3>
                 <ul class="archive-list">
-                    {{ range (where .Pages "Type" "in" (slice "post" "note")) }}
+                    {{ range (where .Pages "Type" "in" (slice "post" "note" "reply")) }}
                         <li>
                             {{ if .PublishDate.IsZero }}
                                 {{ .Date.Format "02 Jan"}} 

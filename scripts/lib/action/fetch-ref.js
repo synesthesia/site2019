@@ -27,7 +27,7 @@ module.exports = async function fetchRef(refUrl) {
 	await saveJSON(filePath, webPage);
 
 	// Log success
-	console.log(`Fetched URL ${canonicalUrl} and saved as JSON:`);
+	console.log(`Fetched URL ${canonicalUrl} |  '${webPage.title}' and saved as JSON:`);
 	console.log(filePath);
 
 	// Return the web page instance
