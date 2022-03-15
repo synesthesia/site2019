@@ -4,11 +4,11 @@
 type: "stream"
 subType: "bookmark"
 title: "Bookmark on 14th March 2022 @ 17:15"
-date: 2022-03-14T17:15:52Z
-lastmod: 2022-03-14T17:15:52Z
-tags: ["indieweb"]
+date: 2022-03-15T10:15:52Z
+lastmod: 2022-03-15T10:15:52Z
+tags: ["indieweb", "cloud", "serverless"]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------
@@ -31,4 +31,4 @@ image:
 #   - src: "example.jpg"
 #     title: "TODO: alt text goes here"
 ---
-I think this is useful because
+Lots of ideas here, and a great example of how, in return for committing to the services from a specific cloud vendor, you can build some really smart application architecture.
