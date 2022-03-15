@@ -39,6 +39,7 @@ outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
+  
 blackfriday:
   hrefTargetBlank: true
   angledQuotes: false
