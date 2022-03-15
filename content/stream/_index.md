@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-These are just short notes that might get tweeted
+Commentary and links
