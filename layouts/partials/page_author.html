@@ -26,7 +26,7 @@
   {{ end }}
   {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
-  <div class="media author-card content-widget-hr" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card content-widget-hr u-author h-card" itemscope itemtype="http://schema.org/Person">
     {{ if and site.Params.gravatar .Params.email }}
       <img class="avatar mr-3 u-photo {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 .Params.email }}?s=200')" itemprop="image" alt="Avatar">
     {{ else if $avatar }}
