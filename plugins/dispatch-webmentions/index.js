@@ -28,7 +28,8 @@ const oldUrlsForBuild = new Map();
 const pageRegex = new RegExp('^https://www.synesthesia.co.uk/.+');
 
 export async function onPreBuild({ utils }) {
-  const feedUrl = `${process.env.URL}/index.xml`;
+  //const feedUrl = `${process.env.URL}/index.xml`;
+  const feedUrl = `${process.env.URL}/feed-all/index.xml`;
 
   try {
     const oldUrls = await fetchOldFeedToUrls(feedUrl);

@@ -1,0 +1,99 @@
+{{- define "main" -}}
+
+{{- /* Gather together all the content information */ -}}
+{{- /* ------------------------------------------- */ -}}
+
+	{{- /* Get content webmentions */ -}}
+	{{- $webmentionConfig := partial "config/webmention" . -}}
+	{{- $webmentions := (partial "content/data/webmentions" .) -}}
+
+{{ $pageType := singularize .Type }}
+{{ $pageSubType := singularize .Params.subType }}
+
+<article class="article h-entry" itemscope itemtype="http://schema.org/Note">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+    {{ $summary := "" }}
+    {{ if .Params.summary }}
+      {{ $summary = .Params.summary | markdownify | emojify }}
+      <div class="p-summary article-style" itemprop="articleSummary">
+        <p>{{ $summary }}</p>
+      </div>
+    {{end}}
+    {{ if eq .Type "reply"}}
+    <div>
+      <p>Responding to</p>
+      {{ partial "content/notes/citation.html" . }}
+    </div>
+    {{end}}
+    {{ if eq $pageSubType "bookmark"}}
+    <div>
+      {{ partial "content/notes/citation.html" . }}
+    </div>
+    {{end}}
+    <div class="article-style e-content p-name" itemprop="articleBody">
+      {{ .Content }}
+    </div>
+    
+
+    {{ partial "tags.html" . }}
+
+    {{ if ne .Type "page" }}
+      {{ partial "page_author.html" . }}
+      {{ $related := site.RegularPages.Related . | first 5 }}
+      {{ with $related }}
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>{{ i18n "related" }}</h3>
+        <ul>
+          {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    {{ end }}
+
+    {{ if site.Params.section_pager }}
+    <div class="article-widget">
+      {{ partial "section_pager.html" . }}
+    </div>
+    {{ end }}
+
+    {{/* Webmentions */}}
+		{{ if $webmentionConfig.enabled }}
+			<aside id="responses">
+				<div class="article-widget">
+					<h3>Responses ({{ len $webmentions.all }})</h3>
+				  <form method="post" action="{{ $webmentionConfig.receiver }}" target="_blank" rel="noopener" class="webmention-form" data-component="webmention-form">
+					<input type="hidden" name="target" value="{{ .Permalink }}" />
+          {{ if ne $pageType "stream"}}
+					<p>
+						You can respond to this {{ $pageType }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
+						and any tweets about it will be picked up automatically.
+          </p>
+          {{ else }}
+          You can respond to this {{ $pageSubType }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
+						and any tweets about it will be picked up automatically.
+          {{ end }}
+          <p>
+						If you published a response to this elsewhere which does not show up below, <label for="webmention-source">let me know the URL</label>:
+					</p>
+					<div class="webmention-form__inputs">
+						<input id="webmention-source" type="url" name="source" required class="webmention-form__url" />
+						<input type="submit" value="Notify me!" class="webmention-form__submit" />
+					</div>
+				</form>
+				{{ partial "content/webmentions/list" $webmentions }}
+      </div>
+			</aside>
+		{{ end }}
+
+    {{ partial "comments.html" . }}
+
+  </div>
+</article>
+
+{{- end -}}

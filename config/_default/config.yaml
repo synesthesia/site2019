@@ -39,6 +39,7 @@ outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
+  
 blackfriday:
   hrefTargetBlank: true
   angledQuotes: false
@@ -71,6 +72,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  stream: '/stream/:slug/'
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5

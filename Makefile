@@ -59,15 +59,15 @@ new-reply:
 # new-weeknote:
 # 	@./scripts/site.js weeknote:create
 # 
-# new-bookmark:
-# 	@./scripts/site.js note:create --type bookmark $(URL)
+new-bookmark:
+	@./scripts/site.js note:create --type bookmark $(URL)
 # 
 # new-like:
 # 	@./scripts/site.js note:create --type like $(URL)
 # 
-# new-note:
-# 	@./scripts/site.js note:create --type note
-# 
+new-note:
+	@./scripts/site.js note:create --type note
+
 # new-reply:
 # 	@./scripts/site.js note:create --type reply $(URL)
 # 

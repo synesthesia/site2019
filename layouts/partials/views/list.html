@@ -26,8 +26,9 @@
 
 <div class="view-list view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
-  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-
+  {{ if ne $item.Type "stream"}}
+    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}xxxx</a>
+  {{ end }}
   {{ if eq $item.Type "event" }}
   <div class="article-metadata">
     <span>

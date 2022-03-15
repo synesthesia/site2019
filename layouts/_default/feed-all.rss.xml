@@ -1,7 +1,7 @@
 {{- /* Generate RSS v2 with full page content. */ -}}
 {{- /* Upstream Hugo bug - RSS dates can be in future: https://github.com/gohugoio/hugo/issues/3918 */ -}}
 {{- $page_context := cond .IsHome site . -}}
-{{-  $pages := where .Site.RegularPages "Section" "in" site.Params.feed.mainSections  -}}
+{{-  $pages := .Site.RegularPages  -}}
 {{- $limit := site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
   {{- $pages = $pages | first $limit -}}
@@ -9,7 +9,7 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ if ne .Title site.Title }}{{ with .Title }}{{.}} | {{ end }}{{end}}{{ site.Title }}</title>
+    <title>{{ if ne .Title site.Title }}{{ with .Title }}{{.}} | {{ end }}{{end}}{{ site.Title }} - All Content</title>
     <link>{{ .Permalink }}</link>
     {{- with .OutputFormats.Get "RSS" }}
       {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
@@ -27,13 +27,22 @@
     </image>
     {{end -}}
     {{ range $pages }}
-    <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
-    </item>
+      <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        <guid>{{ .Permalink }}</guid>
+        {{if and (eq .Params.type "stream")  (eq .Params.subtype "bookmark") }}
+          {{ $ref := partial "data/ref" . }}
+          {{ $citationContent := "" }}
+          {{ with $ref.data }}
+              {{ $citationContent = printf "<a href=\"%s\">%s</a>" .url .title | default .url }}
+          {{ end }}
+          <description>{{ .Content | html}}{{$citationContent | html}}</description>
+        {{else}}
+          <description>{{ .Content | html }}</description>
+        {{end}}
+      </item>
     {{ end }}
   </channel>
 </rss>
