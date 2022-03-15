@@ -8,6 +8,7 @@ date: 2022-03-14T17:15:52Z
 lastmod: 2022-03-14T17:15:52Z
 tags: ["indieweb"]
 authors: ["synesthesia"]
+draft: true
 
 # Bookmark target
 # ---------------

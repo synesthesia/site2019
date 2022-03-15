@@ -8,6 +8,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 tags: []
 authors: ["synesthesia"]
+draft: true
 
 # Bookmark target
 # ---------------

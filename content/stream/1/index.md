@@ -8,6 +8,7 @@ date: 2022-03-13T15:04:25Z
 lastmod: 2022-03-13T15:04:25Z
 tags: ["indieweb"]
 authors: ["synesthesia"]
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

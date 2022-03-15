@@ -8,6 +8,7 @@ date: 2022-03-14T16:04:37Z
 lastmod: 2022-03-14T16:04:37Z
 tags: []
 authors: ["synesthesia"]
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
