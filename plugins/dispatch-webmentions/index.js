@@ -42,7 +42,7 @@ export async function onPreBuild({ utils }) {
 
 export async function onSuccess({ constants }) {
   const oldUrls = oldUrlsForBuild.get(process.env.BUILD_ID);
-  const newUrls = await readNewFeedToUrls(pathJoin('.', constants.PUBLISH_DIR, 'index.xml'));
+  const newUrls = await readNewFeedToUrls(pathJoin('.', constants.PUBLISH_DIR, 'feed-all', 'index.xml'));
 
   console.log('Number of new URLs:', newUrls.size);
 
