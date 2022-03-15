@@ -10,13 +10,13 @@ program
 	.command('weeknote:create', 'create a new weeknote', {
 		executableFile: 'site-weeknote-create'
 	})
-	.command('note:create', 'create a new note', {
-		executableFile: 'site-note-create'
-	})
 	.command('ref:fetch', 'fetch a URL and save information about it as JSON', {
     		executableFile: 'site-ref-fetch'
 	})
 	*/
+	.command('note:create', 'create a new note', {
+		executableFile: 'site-note-create'
+	})
 	.command('article:create', 'create a new article', {
 		executableFile: 'site-article-create'
 	})

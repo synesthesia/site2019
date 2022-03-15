@@ -26,6 +26,15 @@
 		{{ $webmentionClass = "u-in-reply-to" }}
 	{{ end }}
 
+	{{/* Bookmarks */}}
+	{{ if and (eq .Params.subType "bookmark") .Params.bookmarkOf }}
+		{{ $data = dict "url" .Params.bookmarkOf }}
+		{{ if .Site.Data.refs }}
+			{{ $data = index .Site.Data.refs (md5 .Params.bookmarkOf) | default $data }}
+		{{ end }}
+		{{ $webmentionClass = "u-bookmark-of" }}
+	{{ end }}
+
 {{ end }}
 
 {{

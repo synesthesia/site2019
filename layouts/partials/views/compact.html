@@ -29,18 +29,34 @@
 {{ end }}
 
 <div class="media stream-item view-compact">
+
   <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-    </div>
-
+    
+    {{ if ne $item.Params.type "stream"}}
+      <div class="section-subheading article-title mb-0 mt-0">
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      </div>
+    {{ else }}  
+      {{ if eq $item.Params.subType "bookmark" }}
+        <div class="article-style">
+          Bookmarked <a href="{{$item.Params.bookmarkOf}}" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmarkTitle }}</a>
+          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+            #
+          </a>
+        </div>
+      {{ end }}
+    {{ end }}
     {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+    
       <div class="article-style">
         {{.}}
+        {{ if ne $item.Params.subType "bookmark" }}
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+          #
+        </a>
+        {{ end }}
       </div>
-    </a>
+    
     {{ end }}
 
     <div class="stream-meta article-metadata">
@@ -56,14 +72,19 @@
         {{ end }}
       </div>
       {{ end }}
-
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+      
+      {{ if ne $item.Params.type "stream"}}
+        {{ if and $show_authors_only $item.Params.authors }}
+        <div>
+          {{ partial "page_metadata_authors" $item }}
+        </div>
+        {{ else if not $show_authors_only }}
+          {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+        {{ end }}
+      {{ else }}
+      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
+
     </div>
 
     {{ if $has_attachments }}

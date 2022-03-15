@@ -71,6 +71,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  stream: '/stream/:slug/'
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
