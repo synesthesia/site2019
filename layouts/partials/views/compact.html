@@ -36,28 +36,27 @@
       <div class="section-subheading article-title mb-0 mt-0">
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
       </div>
-    {{ else }}  
-      {{ if eq $item.Params.subType "bookmark" }}
-        <div class="article-style">
-          Bookmarked <a href="{{$item.Params.bookmarkOf}}" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmarkTitle }}</a>
-          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-            #
-          </a>
-        </div>
-      {{ end }}
-    {{ end }}
+    {{ end }}  
+    
     {{ with $summary }}
     
       <div class="article-style">
+        {{ if eq $item.Params.type "stream" }}
+          {{ if eq  $item.Params.subType "bookmark" }}
+            <a href="{{$item.Params.bookmarkOf}}" class="u-bookmark-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmarkTitle }}</a> - 
+          {{ end }}
+          {{ if eq  $item.Params.subType "reply" }}
+            <a href="{{$item.Params.inReplyTo}}" class="u-reply-to" {{ $target | safeHTMLAttr }}>{{ $item.Params.inReplyToTitle }}</a> - 
+          {{ end }}
+        {{ end }}
         {{.}}
-        {{ if ne $item.Params.subType "bookmark" }}
         <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
           #
         </a>
-        {{ end }}
+        
       </div>
-    
     {{ end }}
+
 
     <div class="stream-meta article-metadata">
 

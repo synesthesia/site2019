@@ -34,7 +34,7 @@
 {{ end }}
 
 {{/* Replies */}}
-{{ if and (eq .Params.type "reply") .Params.inReplyTo }}
+{{ if and (eq .Params.subtype "reply") .Params.inReplyTo }}
 	{{ $data = dict "url" .Params.inReplyTo }}
 	{{ if .Site.Data.refs }}
 		{{ $data = index .Site.Data.refs (md5 .Params.inReplyTo) | default $data }}

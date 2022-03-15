@@ -120,6 +120,7 @@ feed:
   streamSubTypes:
     - note
     - bookmark
+    - reply
       
 cms:
   netlify_cms: true

@@ -61,15 +61,15 @@ new-reply:
 # 
 new-bookmark:
 	@./scripts/site.js note:create --type bookmark $(URL)
-# 
-# new-like:
-# 	@./scripts/site.js note:create --type like $(URL)
-# 
+ 
+#new-note-like:
+#	@./scripts/site.js note:create --type like $(URL)
+ 
 new-note:
 	@./scripts/site.js note:create --type note
 
-# new-reply:
-# 	@./scripts/site.js note:create --type reply $(URL)
-# 
+new-note-reply:
+	@./scripts/site.js note:create --type reply $(URL)
+ 
 # new-repost:
 # 	@./scripts/site.js note:create --type repost $(URL)

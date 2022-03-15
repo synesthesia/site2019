@@ -22,7 +22,7 @@
         <p>{{ $summary }}</p>
       </div>
     {{end}}
-    {{ if eq .Type "reply"}}
+    {{ if eq $pageSubType "reply"}}
     <div>
       <p>Responding to</p>
       {{ partial "content/notes/citation.html" . }}
