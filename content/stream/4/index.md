@@ -8,7 +8,7 @@ date: 2022-03-15T10:15:52Z
 lastmod: 2022-03-15T10:15:52Z
 tags: ["indieweb", "cloud", "serverless"]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------
