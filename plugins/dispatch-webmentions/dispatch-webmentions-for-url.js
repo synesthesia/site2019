@@ -30,6 +30,7 @@ const IGNORED_HOSTNAMES = [
   'github.com',
   'www.w3.org',
   'paypal.me',
+  'linkedin.com',
   'www.synesthesia.co.uk'
 ];
 const ALLOWED_PROTOCOLS = [
