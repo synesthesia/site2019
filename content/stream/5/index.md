@@ -8,7 +8,7 @@ date: 2022-03-16T14:21:19Z
 lastmod: 2022-03-16T14:21:19Z
 tags: ["micropub", "indieweb"]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------
