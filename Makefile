@@ -43,10 +43,10 @@ build-preview-content: process-webmentions
 	@hugo --gc --minify --buildFuture --environment staging -b $(DEPLOY_PRIME_URL)
 
 new-article:
-	@./scripts/site.js article:create $(TITLE)
+	@./scripts/site.js article:create "$(TITLE)"
 
 new-worknote:
-	@./scripts/site.js article:create --type worknote $(TITLE)
+	@./scripts/site.js article:create --type worknote "$(TITLE)"
 
 
 new-reply:
