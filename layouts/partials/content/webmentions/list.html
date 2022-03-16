@@ -6,6 +6,7 @@
 		{{ if len .likes }}
 			<li id="webmention-likes" class="social-feed__item social-feed__item--like">
 				<div class="social-feed__meta">
+					<i class="far fa-heart pub-icon" aria-hidden="true"></i>
 					<strong>{{ len .likes }} {{ cond (eq (len .likes) 1) "person" "people" }} liked this:</strong>
 					{{ range $key, $like := .likes -}}
 						{{- if ne $key 0 }}, {{ end }}
@@ -17,6 +18,7 @@
 		{{ if len .reposts }}
 			<li id="webmention-reposts" class="social-feed__item social-feed__item--repost">
 				<div class="social-feed__meta">
+					<i class="fas fa-retweet pub-icon" aria-hidden="true"></i>
 					<strong>{{ len .reposts }} {{ cond (eq (len .reposts) 1) "person" "people" }} reposted this:</strong>
 					{{ range $key, $repost := .reposts -}}
 						{{- if ne $key 0 }}, {{ end }}
@@ -28,6 +30,7 @@
 		{{ if len .bookmarks }}
 			<li id="webmention-bookmarks" class="social-feed__item social-feed__item--bookmark">
 				<div class="social-feed__meta">
+					<i class="far fa-bookmark pub-icon" aria-hidden="true"></i>
 					<strong>{{ len .bookmarks }} {{ cond (eq (len .bookmarks) 1) "person" "people" }} bookmarked this:</strong>
 					{{ range $key, $bookmark := .bookmarks -}}
 						{{- if ne $key 0 }}, {{ end }}
@@ -38,6 +41,7 @@
 		{{ end }}
 		{{ range .responses }}
 			{{ if eq .type "response" }}
+				<i class="fas fa-reply pub-icon" aria-hidden="true"></i>
 				<li id="webmention-{{ .md5 }}" property="comment" vocab="http://schema.org/" typeof="Comment" class="social-feed__item social-feed__item--response">
 					<div class="social-feed__meta">
 						<span property="author" vocab="http://schema.org/" typeof="Person">
