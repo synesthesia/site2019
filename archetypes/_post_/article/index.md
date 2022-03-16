@@ -1,6 +1,6 @@
 ---
 # article
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ getenv "NOTE_REF_TITLE" }}"
 subtitle: ""
 summary: ""
 authors: ["synesthesia"]

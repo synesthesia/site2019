@@ -1,20 +1,16 @@
 ---
-# reply
-title: "Reply to {{ getenv "NOTE_REF_AUTHOR" }} '{{ getenv "NOTE_REF_TITLE" }}'"
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "{{ getenv "NOTE_REF_TITLE" }}"
 subtitle: ""
 summary: ""
 authors: ["synesthesia"]
-tags: []
 categories: []
-date: {{ .Date }}
+tags: []
 lastmod: {{ .Date }}
 featured: false
 draft: true
-type: reply
-# Reply target
-# ------------
-inReplyTo: "{{ getenv "NOTE_REF_URL" }}"
-
+type: note
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

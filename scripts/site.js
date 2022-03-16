@@ -20,6 +20,9 @@ program
 	.command('article:create', 'create a new article', {
 		executableFile: 'site-article-create'
 	})
+	.command('article:create-reply', 'create a new article', {
+		executableFile: 'site-article-reply-create'
+	})
 	.command('wm:fetch', 'fetch raw webmentions', {
 		executableFile: 'site-wm-fetch'
 	})

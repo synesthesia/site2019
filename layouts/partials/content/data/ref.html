@@ -15,8 +15,8 @@
 	{{ end }}
 		
 	{{/* Reposts */}}
-	{{ if and (eq .Params.subType "repost") .Params.repostOf }}
-		{{ $data = index .Site.Data.refs (md5 .Params.repostOf) | default nil }}
+	{{ if and (eq .Params.subType "repost") .Params.repostof }}
+		{{ $data = index .Site.Data.refs (md5 .Params.repostof) | default nil }}
 		{{ $webmentionClass = "u-repost-of" }}
 	{{ end }}
 

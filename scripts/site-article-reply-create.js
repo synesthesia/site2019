@@ -2,21 +2,21 @@
 'use strict';
 
 const {program} = require('commander');
-const createArticle = require('./lib/action/create-article');
+const createArticleReply = require('./lib/action/create-article-reply');
 
 // Program options
 program
-	.name('site article:create')
-    .argument('<title>', 'the title of the article')
+	.name('site article:createreply')
+    .argument('<url>', 'the URL that the article replies to')
 	.option(
 		'-t, --type <type>',
 		'the type of article to create',
 		'article'
 	)
-	.description('create a new article')
-	.action(async (title, {type}) => {
+	.description('create a new article-based reply')
+	.action(async (url, {type}) => {
 		try {
-			await createArticle(title, type);
+			await createArticleReply(url, type);
 		} catch (error) {
 			console.error(error.message);
 			process.exitCode = 1;

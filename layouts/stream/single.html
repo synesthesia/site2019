@@ -9,7 +9,6 @@
 
 {{ $pageType := singularize .Type }}
 {{ $pageSubType := singularize .Params.subType }}
-
 <article class="article h-entry" itemscope itemtype="http://schema.org/Note">
 
   {{ partial "page_header.html" . }}
@@ -30,6 +29,18 @@
     {{end}}
     {{ if eq $pageSubType "bookmark"}}
     <div>
+      {{ partial "content/notes/citation.html" . }}
+    </div>
+    {{end}}
+    {{ if eq $pageSubType "repost"}}
+    <div>
+      <p>Repost of</p>
+      {{ partial "content/notes/citation.html" . }}
+    </div>
+    {{end}}
+    {{ if eq $pageSubType "like"}}
+    <div>
+      <p>Liked</p>
       {{ partial "content/notes/citation.html" . }}
     </div>
     {{end}}

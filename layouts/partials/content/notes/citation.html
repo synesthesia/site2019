@@ -1,7 +1,6 @@
 
 {{/* Get the URL reference */}}
 {{ $ref := partial "data/ref" . }}
-
 {{ with $ref.data }}
 	<blockquote class="citation {{ $ref.webmentionClass }} h-cite">
 		<cite><a href="{{ .url }}" class="citation__link u-url p-name">{{ .title | default .url }}</a></cite>

@@ -1,19 +1,45 @@
 {{ $item := .item }}
 
 {{/* Dynamic view adjusts to content type. */}}
+
+{{ $icon_pack := "far" }}
+{{ $icon := "fa-file-alt" }}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
+
 {{ if $item.Params.external_link }}
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
-{{ if eq $item.Type "event" }}
+{{ if eq $item.Type "post" }}
+  {{ $icon = "fa-newspaper" }}
+{{ else if eq $item.Type "event" }}
   {{ $show_authors_only = true }}
+  {{ $icon = "fa-calendar-alt" }}
 {{ else if eq $item.Type "publication" }}
   {{ $show_authors_only = true }}
 {{ else if eq $item.Type "project" }}
   {{ $show_authors_only = true }}
+  {{ $icon_pack = "fas" }}
+  {{ $icon = "fa-project-diagram" }}
+{{ else if eq $item.Type "stream"}}
+  {{ if eq $item.Params.subType "reply"}}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-reply" }}
+  {{ end }}
+  {{ if eq $item.Params.subType "bookmark"}}
+    {{ $icon_pack = "far" }}
+    {{ $icon = "fa-bookmark" }}
+  {{ end }}
+  {{ if eq $item.Params.subType "like"}}
+    {{ $icon_pack = "far" }}
+    {{ $icon = "fa-heart" }}
+  {{ end }}
+  {{ if eq $item.Params.subType "repost"}}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-retweet" }}
+  {{ end }}
 {{ end }}
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
@@ -32,30 +58,43 @@
 
   <div class="media-body">
     
-    {{ if ne $item.Params.type "stream"}}
+    {{ if eq $item.Params.type "stream"}}
+    
+    {{ else }}
       <div class="section-subheading article-title mb-0 mt-0">
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
       </div>
     {{ end }}  
     
-    {{ with $summary }}
     
-      <div class="article-style">
-        {{ if eq $item.Params.type "stream" }}
-          {{ if eq  $item.Params.subType "bookmark" }}
-            <a href="{{$item.Params.bookmarkOf}}" class="u-bookmark-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmarkTitle }}</a> - 
-          {{ end }}
-          {{ if eq  $item.Params.subType "reply" }}
-            <a href="{{$item.Params.inReplyTo}}" class="u-reply-to" {{ $target | safeHTMLAttr }}>{{ $item.Params.inReplyToTitle }}</a> - 
-          {{ end }}
+    
+    <div class="article-style">
+      {{ if in (slice "stream") $item.Type}}
+      <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
+      {{ end }}
+      {{ if eq $item.Params.type "stream" }}
+        {{ if eq  $item.Params.subType "bookmark" }}
+          <a href="{{$item.Params.bookmarkOf}}" class="u-bookmark-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmarkTitle }}</a> - 
         {{ end }}
+        {{ if eq  $item.Params.subType "reply" }}
+          Reply to <a href="{{$item.Params.inReplyTo}}" class="u-reply-to" {{ $target | safeHTMLAttr }}>{{ $item.Params.inReplyToTitle }}</a> - 
+        {{ end }}
+        {{ if eq  $item.Params.subType "like" }}
+          Liked <a href="{{$item.Params.likeOf}}" class="u-like-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.likeOfTitle }}</a> - 
+        {{ end }}
+        {{ if eq  $item.Params.subType "repost" }}
+          Reposted <a href="{{$item.Params.repostOf}}" class="u-repost-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.repostOfTitle }}</a> - 
+        {{ end }}
+      {{ end }}
+      {{ with $summary }}
         {{.}}
-        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-          #
-        </a>
-        
-      </div>
-    {{ end }}
+      {{end}}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+        #
+      </a>
+      
+    </div>
+    
 
 
     <div class="stream-meta article-metadata">

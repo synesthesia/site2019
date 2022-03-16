@@ -42,34 +42,31 @@ build-staging: process-webmentions
 build-preview-content: process-webmentions
 	@hugo --gc --minify --buildFuture --environment staging -b $(DEPLOY_PRIME_URL)
 
-# Run the theme tests using mocha
-# test-theme:
-# 	@if [ -d themes/rowanmanning/test/integration ]; then make _test-theme-run && $(TASK_DONE); fi
-# _test-theme-run:
-# 	@if [ -x $(NPM_BIN)/mocha ]; then make _test-theme-run-mocha; fi
-# _test-theme-run-mocha:
-# 	@mocha "themes/rowanmanning/test/integration/**/*.test.js" --recursive --timeout $(INTEGRATION_TIMEOUT) --slow $(INTEGRATION_SLOW) $(INTEGRATION_TEST_MOCHA_FLAGS)
-# 
 new-article:
-	@./scripts/site.js article:create
+	@./scripts/site.js article:create $(TITLE)
+
+new-worknote:
+	@./scripts/site.js article:create --type worknote $(TITLE)
+
 
 new-reply:
-	@./scripts/site.js article:create --type reply "$(TITLE)" $(URL)
+	@./scripts/site.js article:create-reply --type reply $(URL)
 
 # new-weeknote:
 # 	@./scripts/site.js weeknote:create
 # 
-new-bookmark:
-	@./scripts/site.js note:create --type bookmark $(URL)
- 
-#new-note-like:
-#	@./scripts/site.js note:create --type like $(URL)
- 
+
 new-note:
 	@./scripts/site.js note:create --type note
 
+new-bookmark:
+	@./scripts/site.js note:create --type bookmark $(URL)
+ 
+new-note-like:
+	@./scripts/site.js note:create --type like $(URL)
+ 
 new-note-reply:
 	@./scripts/site.js note:create --type reply $(URL)
  
-# new-repost:
-# 	@./scripts/site.js note:create --type repost $(URL)
+new-note-repost:
+	@./scripts/site.js note:create --type repost $(URL)
