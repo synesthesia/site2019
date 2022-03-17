@@ -12,5 +12,6 @@
     "eslint.alwaysShowStatus": true,
     "eslint.lintTask.enable": true,
     "eslint.packageManager": "yarn",
-    "eslint.useESLintClass": true
+    "eslint.useESLintClass": true,
+    "jest.jestCommandLine": "npm run test --"
 }

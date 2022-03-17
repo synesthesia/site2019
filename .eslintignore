@@ -1,3 +1,4 @@
 node_modules
 ./functions
 public
+jest.config.js

@@ -27,15 +27,15 @@ process-webmentions:
 build-functions:
 	@./node_modules/.bin/netlify-lambda build src/functions
 
-build: process-webmentions
-	@./node_modules/.bin/netlify-lambda build src/functions
+build: process-webmentions build-functions
+#	@./node_modules/.bin/netlify-lambda build src/functions
 	@hugo --gc --minify --environment production -b $(URL)
 
 build-content: process-webmentions
 	@hugo --gc --minify --environment production -b $(URL)
 
 
-build-staging: process-webmentions
+build-staging: process-webmentions build-functions
 	@./node_modules/.bin/netlify-lambda build src/functions
 	@hugo --gc --minify --buildFuture --buildDrafts --environment staging -b $(DEPLOY_PRIME_URL)
 
@@ -54,19 +54,19 @@ new-reply:
 
 # new-weeknote:
 # 	@./scripts/site.js weeknote:create
-# 
+#
 
 new-note:
 	@./scripts/site.js note:create --type note
 
 new-bookmark:
 	@./scripts/site.js note:create --type bookmark $(URL)
- 
+
 new-note-like:
 	@./scripts/site.js note:create --type like $(URL)
- 
+
 new-note-reply:
 	@./scripts/site.js note:create --type reply $(URL)
- 
+
 new-note-repost:
 	@./scripts/site.js note:create --type repost $(URL)

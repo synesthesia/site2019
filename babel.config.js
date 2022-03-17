@@ -1,4 +1,4 @@
-{
+module.exports = {
     "presets": [
       "@babel/preset-typescript",
       [
@@ -10,6 +10,11 @@
         }
       ]
     ],
+    "env" : {
+      "test": {
+      "presets": ["@babel/preset-typescript"]
+    }
+    },
     "plugins": [
       "@babel/plugin-proposal-class-properties",
       "@babel/plugin-transform-object-assign",

@@ -24,22 +24,50 @@
  *  SOFTWARE.
  */
 import { Handler, Context, Callback, APIGatewayEvent } from 'aws-lambda'
+import { checkAuth } from './lib/micropub1/auth'
 
-interface HelloResponse {
+interface MicroPubResponse {
   statusCode: number
+  headers?: any
   body: string
 }
 
-
-const handler: Handler = (event: APIGatewayEvent, context: Context, callback: Callback) => {
+const handler: Handler = async (event: APIGatewayEvent, context: Context, callback: Callback) => {
   const params = event.queryStringParameters
-  const response: HelloResponse = {
-    statusCode: 200,
+
+  console.log('GOT REQUEST:', { ...event.headers, authorization: 'XXXXX' });
+
+  try {
+    await checkAuth(event.headers, context);
+  } catch (e) {
+    console.error(e.stack);
+    return { statusCode: 401, body: 'Not authorized.' };
+  }
+
+  /*
+  const response: MicroPubResponse = {
+    statusCode: 400,
+    headers: {
+        "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      error: "invalid_request",
+      error_description : "Here is the description",
+    }),
+  }
+ */
+  const location = "/"
+  const response: MicroPubResponse = {
+    statusCode: 202,
+    headers: {
+        Location: location
+    },
     body: JSON.stringify({
       msg: `Hello world ${Math.floor(Math.random() * 10)}`,
       params,
     }),
   }
+  
 
   callback(undefined, response)
 }

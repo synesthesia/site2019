@@ -24,15 +24,38 @@
  *  SOFTWARE.
  */
 
-export async function handler(event, context) {
-  console.log('deploy-succeeded');
-  console.log('event', event);
-  console.log('context', context);
-  console.log('branch', process.env.BRANCH);
-  console.log('url', process.env.URL);
-  console.log('site-context', process.env.CONTEXT);
-  return {
-    statusCode: 200,
-    body: JSON.stringify({ message: `Hello world` })
-  };
+import { Context } from 'aws-lambda'
+import fetch from 'node-fetch';
+
+export async function checkAuth(headers,  context: Context) {
+  if (headers['x-auth']) {
+    console.debug("Looking for secret key")  
+    if (headers.authorization !== `Bearer ${process.env.MICROPUB_KEY}`) {
+      throw new Error(`Secret mismatch. Got: ${headers.authorization?.slice(0, 4)}`);
+    }
+    return;
+  }
+
+  console.debug("Checking token endpoint")
+  const res = await fetch('https://tokens.indieauth.com/token', {
+    headers: {
+      accept: 'application/json',
+      authorization: headers.authorization
+    }
+  });
+
+  if (!res.ok) {
+      console.log(`Unexpected response: ${await res.text()}`);
+      throw new Error(`Unexpected status: ${res.status}`);
+  }
+  
+  const body : any = await res.json() ;
+  console.log(body)
+  if (body.me !== 'https://www.synesthesia.co.uk/') {
+    throw new Error('Not authorized.');
+  }
+  if (!(body.scope.includes('create') || body.scope.includes('post'))) {
+      throw new Error('Not an acceptable scope.');
+  }
+  console.log('Authorized');
 }
