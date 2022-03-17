@@ -51,7 +51,7 @@
     "accessible-autocomplete": "^2.0.3",
     "babel-loader": "8.1.0",
     "commander": "^8.0.0",
-    "dompurify": "^2.2.9",
+    "dompurify": "^2.3.6",
     "got": "^11.8.2",
     "hotkeys-js": "^3.8.7",
     "jsdom": "^16.6.0",
