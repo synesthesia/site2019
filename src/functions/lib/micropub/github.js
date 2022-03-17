@@ -96,7 +96,7 @@ const GitHub = {
 			prefixUrl: `https://api.github.com/repos/${process.env.GITHUB_USER}/${process.env.GITHUB_REPO}/contents/`,
 			headers: {
 				'accept': 'application/vnd.github.v3+json',
-				'authorization': `Bearer ${process.env.GIT_TOKEN}`
+				'authorization': `Bearer ${process.env.GITHUB_TOKEN}`
 			},
 			responseType: 'json'
 		})

@@ -29,7 +29,7 @@ build_script:
 
 on_success:
   - git config --global credential.helper store
-  - ps: Add-Content "$HOME\.git-credentials" "https://$($env:GIT_TOKEN):x-oauth-basic@github.com`n"
+  - ps: Add-Content "$HOME\.git-credentials" "https://$($env:GITHUB_TOKEN):x-oauth-basic@github.com`n"
   - git config --global user.email "Julian.Elve@gmail.com"
   - git config --global user.name "Julian Elve"
   - cd public
