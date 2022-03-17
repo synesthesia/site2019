@@ -18,7 +18,7 @@ const getHandler = async query => {
 	let res
 	const syndicateTo = parseSyndicationTargets(process.env.SYNDICATE_TO) || []
 	if (query.q === 'config') {
-		return Response.send(200, {
+    return Response.send(200, {
 			'media-endpoint': process.env.MEDIA_ENDPOINT || `${process.env.URL || ''}/.netlify/functions/media`,
 			'syndicate-to': syndicateTo
 		})
@@ -45,7 +45,7 @@ const micropubFn = async event => {
 	if (!scopes || scopes.error) {
 		return Response.error(scopes)
 	}
-
+  console.log(scopes)
 	if (event.httpMethod === 'GET') {
 		return getHandler(event.queryStringParameters)
 	}

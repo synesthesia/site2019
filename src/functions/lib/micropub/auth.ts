@@ -33,6 +33,15 @@ const Auth = {
 	isAuthorized: async (headers, body) => {
 		console.log('HEADERS:', headers)
 		console.log('BODY:', JSON.stringify(body))
+
+    if (headers['x-auth']) {
+      console.debug("Looking for secret key")
+      if (headers.authorization !== `Bearer ${process.env.MICROPUB_KEY}`) {
+        throw new Error(`Secret mismatch. Got: ${headers.authorization?.slice(0, 4)}`);
+      }
+      return "create";
+    }
+
 		if (headers.authorization && headers.authorization.split(' ')[1] && body['access_token']) {
 			return Error.INVALID
 		}
