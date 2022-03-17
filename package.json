@@ -9,6 +9,8 @@
     "build": "run-p build:*",
     "build:app": "hugo --gc --minify -b $URL",
     "build:lambda": "netlify-lambda build src/functions",
+    "esbuild": "esbuild src/functions/*.ts --bundle --outdir=functions --platform=node",
+    "lint": "eslint src/**/*.ts",
     "debug": "netlify dev --inspect"
   },
   "repository": {
@@ -26,9 +28,11 @@
     "@commitlint/config-conventional": "^16.2.1",
     "@types/aws-lambda": "^8.10.93",
     "@types/node": "^17.0.21",
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0",
     "chai": "^4.3.4",
     "encoding": "^0.1.13",
-    "eslint": "^7.30.0",
+    "eslint": "^8.11.0",
     "feedme": "^2.0.2",
     "http-link-header": "^1.0.4",
     "husky": "^7.0.4",

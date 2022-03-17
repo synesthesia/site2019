@@ -56,7 +56,7 @@ const handler: Handler = async (event: APIGatewayEvent, context: Context, callba
     }),
   }
  */
-  var location = "/"
+  const location = "/"
   const response: MicroPubResponse = {
     statusCode: 202,
     headers: {

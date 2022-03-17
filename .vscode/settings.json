@@ -8,5 +8,9 @@
         "node_modules",
         "plugins",
         "assets"
-    ]
+    ],
+    "eslint.alwaysShowStatus": true,
+    "eslint.lintTask.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.useESLintClass": true
 }
