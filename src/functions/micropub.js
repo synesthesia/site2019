@@ -8,11 +8,11 @@ import jsonBodyParser from '@middy/http-json-body-parser'
 
 dotenv.config()
 
-import auth from './libs/auth'
-import source from './libs/source'
-import publish from './libs/publish'
-import { Error, Response } from './libs/response'
-import { parseSyndicationTargets } from './libs/config'
+import auth from './lib/micropub/auth'
+import source from './lib/micropub/source'
+import publish from './lib/micropub/publish'
+import { Error, Response } from './lib/micropub/response'
+import { parseSyndicationTargets } from './lib/micropub/config'
 
 const getHandler = async query => {
 	let res

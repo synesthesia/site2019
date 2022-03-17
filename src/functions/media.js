@@ -6,10 +6,10 @@ import httpMultipartBodyParser from '@middy/http-multipart-body-parser'
 
 dotenv.config()
 
-import auth from './libs/auth'
-import content from './libs/content'
-import GitHub from './libs/github'
-import { Error, Response } from './libs/response'
+import auth from './lib/micropub/auth'
+import content from './lib/micropub/content'
+import GitHub from './lib/micropub/github'
+import { Error, Response } from './lib/micropub/response'
 
 const getHandler = async query => {
 	let res
