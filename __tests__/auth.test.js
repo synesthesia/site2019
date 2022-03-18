@@ -1,8 +1,11 @@
 /// <reference types="jest" />
 /* eslint-disable no-useless-escape */
 
+import dotenv from 'dotenv'
 import nock from 'nock'
 import Auth from '../src/functions/lib/micropub/auth'
+
+dotenv.config()
 
 describe('Auth', () => {
 	beforeEach(() => {

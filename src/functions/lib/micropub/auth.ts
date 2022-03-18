@@ -35,17 +35,14 @@ const Auth = {
 		console.log('BODY:', JSON.stringify(body))
 
     if (headers['x-auth']) {
-      console.debug("Looking for secret key")
+      console.debug("Authorising with key")
       if (headers.authorization !== `Bearer ${process.env.MICROPUB_KEY}`) {
-        throw new Error(`Secret mismatch. Got: ${headers.authorization?.slice(0, 4)}`);
+        return Error.INVALID
       }
       return "create";
     }
 
-		if (headers.authorization && headers.authorization.split(' ')[1] && body['access_token']) {
-			return Error.INVALID
-		}
-		const token = Auth.getToken(headers, body)
+    const token = Auth.getToken(headers, body)
 		if (!token || token.error) {
 			return token || Error.UNAUTHORIZED
 		}

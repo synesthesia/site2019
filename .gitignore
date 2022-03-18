@@ -7,7 +7,7 @@ node_modules/
 resources/_gen
 data/webmentions/processed
 .hugo_build.lock
-
+.env
 
 # Local Netlify folder
 .netlify
