@@ -7,38 +7,38 @@
 {{ $webmentionClass := false }}
 
 {{/* Bookmarks */}}
-{{ if and (eq .Params.subType "bookmark") .Params.bookmarkOf }}
-	{{ $data = dict "url" .Params.bookmarkOf }}
+{{ if and (eq .Params.sub_type "bookmark") .Params.bookmark_of }}
+	{{ $data = dict "url" .Params.bookmark_of }}
 	{{ if .Site.Data.refs }}
-		{{ $data = index .Site.Data.refs (md5 .Params.bookmarkOf) | default $data }}
+		{{ $data = index .Site.Data.refs (md5 .Params.bookmark_of) | default $data }}
 	{{ end }}
-	{{ $webmentionClass = "u-bookmark-of" }}
+	{{ $webmentionClass = "u-bookmark_of" }}
 {{ end }}
 
 {{/* Likes */}}
-{{ if and (eq .Params.subType "like") .Params.likeof }}
-	{{ $data = dict "url" .Params.likeof }}
+{{ if and (eq .Params.sub_type "like") .Params.like_of }}
+	{{ $data = dict "url" .Params.like_of }}
 	{{ if .Site.Data.refs }}
-		{{ $data = index .Site.Data.refs (md5 .Params.likeOf) | default $data }}
+		{{ $data = index .Site.Data.refs (md5 .Params.like_of) | default $data }}
 	{{ end }}
 	{{ $webmentionClass = "u-like-of" }}
 {{ end }}
 
 
 {{/* Reposts */}}
-{{ if and (eq .Params.subType "repost") .Params.repostof }}
-	{{ $data = dict "url" .Params.repostOf }}
+{{ if and (eq .Params.sub_type "repost") .Params.repost_of }}
+	{{ $data = dict "url" .Params.repost_of }}
 	{{ if .Site.Data.refs }}
-		{{ $data = index .Site.Data.refs (md5 .Params.repostOf) | default $data }}
+		{{ $data = index .Site.Data.refs (md5 .Params.repost_of) | default $data }}
 	{{ end }}
 	{{ $webmentionClass = "u-repost-of" }}
 {{ end }}
 
 {{/* Replies */}}
-{{ if and (or (eq .Params.type "reply") (eq .Params.subtype "reply"))  .Params.inReplyTo }}
-	{{ $data = dict "url" .Params.inReplyTo }}
+{{ if and (or (eq .Params.type "reply") (eq .Params.sub_type "reply"))  .Params.in_reply_to }}
+	{{ $data = dict "url" .Params.in_reply_to }}
 	{{ if .Site.Data.refs }}
-		{{ $data = index .Site.Data.refs (md5 .Params.inReplyTo) | default $data }}
+		{{ $data = index .Site.Data.refs (md5 .Params.in_reply_to) | default $data }}
 	{{ end }}
 	{{ $webmentionClass = "u-in-reply-to" }}
 {{ end }}

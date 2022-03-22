@@ -13,7 +13,7 @@ describe('publish', () => {
 		'category': [ 'one', 'two', 'three' ],
 		'mp-slug': 'this-is-a-slug',
 		'like-of': likedURL,
-		'bookmark-of': likedURL,
+		'bookmark_of': likedURL,
 		'in-reply-to': likedURL,
 		'rsvp': 'maybe'
 	}
@@ -63,7 +63,7 @@ describe('publish', () => {
 
 		test('add bookmark', async () => {
 			entry['name'] = 'Title'
-			entry['bookmark-of'] = 'https://domain.tld'
+			entry['bookmark_of'] = 'https://domain.tld'
 			const res = await publish.addContent(entry)
 			expect(res).toHaveProperty('filename')
 			expect(res.filename).toContain('bookmarks/')

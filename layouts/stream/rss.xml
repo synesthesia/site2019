@@ -27,13 +27,13 @@
     </image>
     {{end -}}
     {{ range $pages }}
-      {{ if in site.Params.feed.streamsubtypes .Params.subtype }}
+      {{ if in site.Params.feed.stream_sub_types .Params.sub_type }}
         <item>
           <title>[No Title]</title>
           <link>{{ .Permalink }}</link>
           <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
           <guid>{{ .Permalink }}</guid>
-          {{if eq .Params.subtype "bookmark"}}
+          {{if eq .Params.sub_type "bookmark"}}
             {{ $ref := partial "data/ref" . }}
             {{ $citationContent := "" }}
             {{ with $ref.data }}

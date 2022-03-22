@@ -58,9 +58,9 @@ describe('content', () => {
 		})
 
 		test('bookmark post', () => {
-			data['bookmark-of'] = likedURL
+			data['bookmark_of'] = likedURL
 			const fm = content.output(data)
-			expect(fm).toContain('\nbookmark-of:')
+			expect(fm).toContain('\nbookmark_of:')
 		})
 
 		test('reply post', () => {
@@ -146,7 +146,7 @@ describe('content', () => {
 		})
 
 		test('is bookmark', () => {
-			expect(content.getType({ 'bookmark-of': likedURL })).toBe('bookmarks')
+			expect(content.getType({ 'bookmark_of': likedURL })).toBe('bookmarks')
 		})
 
 		test('is rsvp', () => {

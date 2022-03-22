@@ -68,7 +68,7 @@ const content = {
 		if (data['like-of']) {
 			return 'likes'
 		}
-		if (data['bookmark-of']) {
+		if (data['bookmark_of']) {
 			return 'bookmarks'
 		}
 		if (data['rsvp'] && data['in-reply-to']) {

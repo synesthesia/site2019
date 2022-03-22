@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "note"
+sub_type: "note"
 title: "Note on 14th March 2022 @ 16:13"
 date: 2022-03-14T16:13:51Z
 lastmod: 2022-03-14T16:13:51Z

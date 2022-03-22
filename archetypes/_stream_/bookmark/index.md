@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "bookmark"
+sub_type: "bookmark"
 title: "Bookmark of '{{ getenv "NOTE_REF_TITLE" }}'"
 date: {{ .Date }}
 lastmod: {{ .Date }}
@@ -12,8 +12,8 @@ draft: true
 
 # Bookmark target
 # ---------------
-bookmarkOf: "{{ getenv "NOTE_REF_URL" }}"
-bookmarkTitle: "{{ getenv "NOTE_REF_TITLE" }}"
+bookmark_of: "{{ getenv "NOTE_REF_URL" }}"
+bookmark_title: "{{ getenv "NOTE_REF_TITLE" }}"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

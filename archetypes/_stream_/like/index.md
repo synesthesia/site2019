@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "like"
+sub_type: "like"
 title: "Like of '{{ getenv "NOTE_REF_TITLE" }}'"
 date: {{ .Date }}
 lastmod: {{ .Date }}
@@ -12,8 +12,8 @@ draft: true
 
 # Bookmark target
 # ---------------
-likeOf: "{{ getenv "NOTE_REF_URL" }}"
-likeOfTitle: "{{ getenv "NOTE_REF_TITLE" }}"
+like_of: "{{ getenv "NOTE_REF_URL" }}"
+like_title: "{{ getenv "NOTE_REF_TITLE" }}"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

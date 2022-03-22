@@ -117,11 +117,11 @@ feed:
     - event
   streamSections:
     - stream
-  streamSubTypes:
+  stream_sub_types:
     - note
     - bookmark
     - reply
-      
+
 cms:
   netlify_cms: true
   branch: master
