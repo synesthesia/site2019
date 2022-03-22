@@ -3,6 +3,15 @@ import got from 'got'
 
 import { Error } from './response'
 
+interface TokenResponse {
+    'me': string,
+	'issued_by': string,
+    'client_id': string,
+	'issued_at': number,
+	'scope': string,
+	'nonce': number
+}
+
 const Auth = {
 	validateToken: async (tokenEndpoint, token) => {
 		try {
@@ -34,19 +43,19 @@ const Auth = {
 		console.log('HEADERS:', headers)
 		console.log('BODY:', JSON.stringify(body))
 
-    if (headers['x-auth']) {
-      console.debug("Authorising with key")
-      if (headers.authorization !== `Bearer ${process.env.MICROPUB_KEY}`) {
-        return Error.INVALID
-      }
-      return "create";
-    }
+		if (headers['x-auth']) {
+			console.debug("Authorising with key")
+			if (headers.authorization !== `Bearer ${process.env.MICROPUB_KEY}`) {
+				return Error.INVALID
+			}
+			return Promise.resolve("create");
+		}
 
-    const token = Auth.getToken(headers, body)
+		const token = Auth.getToken(headers, body)
 		if (!token || token.error) {
 			return token || Error.UNAUTHORIZED
 		}
-		const auth = await Auth.validateToken(process.env.TOKEN_ENDPOINT, token) as any
+		const auth = await Auth.validateToken(process.env.TOKEN_ENDPOINT, token) as TokenResponse
 		if (!auth || auth.me != process.env.ME) {
 			return Error.FORBIDDEN
 		}
