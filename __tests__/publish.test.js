@@ -1,7 +1,7 @@
 
-import publish from '../src/functions/lib/micropub/publish'
-import GitHub from '../src/functions/lib/micropub/github'
-import parse from '../src/functions/lib/micropub/parse'
+import publish from '../src/lib/micropub/publish'
+import GitHub from '../src/lib/micropub/github'
+import parse from '../src/lib/micropub/parse'
 
 describe('publish', () => {
 	const likedURL = 'https://domain.tld'
@@ -39,7 +39,7 @@ describe('publish', () => {
 			entry['content'] = form['content']
 			const res = await publish.addContent(entry)
 			expect(res).toHaveProperty('filename')
-			expect(res.filename).toContain('notes/')
+			expect(res.filename).toContain('stream/')
 		})
 
 		test('add article', async () => {
@@ -47,7 +47,7 @@ describe('publish', () => {
 			entry['content'] = form['content']
 			const res = await publish.addContent(entry)
 			expect(res).toHaveProperty('filename')
-			expect(res.filename).toContain('articles/')
+			expect(res.filename).toContain('post/')
 		})
 
 		test('add like', async () => {
@@ -58,7 +58,7 @@ describe('publish', () => {
 			const res = await publish.addContent(entry)
 			expect(getPageTitle.mock.calls.length).toBe(1)
 			expect(res).toHaveProperty('filename')
-			expect(res.filename).toContain('likes/')
+			expect(res.filename).toContain('stream/')
 		})
 
 		test('add bookmark', async () => {
@@ -66,7 +66,7 @@ describe('publish', () => {
 			entry['bookmark_of'] = 'https://domain.tld'
 			const res = await publish.addContent(entry)
 			expect(res).toHaveProperty('filename')
-			expect(res.filename).toContain('bookmarks/')
+			expect(res.filename).toContain('stream/')
 		})
 
 		test('add reply', async () => {
@@ -74,16 +74,10 @@ describe('publish', () => {
 			entry['content'] = form['content']
 			const res = await publish.addContent(entry)
 			expect(res).toHaveProperty('filename')
-			expect(res.filename).toContain('notes/')
+			expect(res.filename).toContain('stream/')
 		})
 
-		test('add RSVP', async () => {
-			entry['in-reply-to'] = 'Title'
-			entry['rsvp'] = 'yes'
-			const res = await publish.addContent(entry)
-			expect(res).toHaveProperty('filename')
-			expect(res.filename).toContain('rsvp/')
-		})
+
 	})
 
 	describe('addContent: FAIL', () => {

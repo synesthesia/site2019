@@ -9,7 +9,7 @@ const Error = {
 }
 
 const Response = {
-	send: (code: number, body: object, headers: object) => {
+	send: (code: number, body?: object, headers?: object) => {
 		return {
 			'statusCode': code,
 			'headers': {

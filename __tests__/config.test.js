@@ -1,5 +1,5 @@
 
-import { parseSyndicationTargets } from '../src/functions/lib/micropub/config'
+import { parseSyndicationTargets } from '../src/lib/micropub/config'
 
 describe('config', () => {
 	describe('parseSyndicationTargets', () => {

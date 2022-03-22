@@ -1,4 +1,4 @@
-import parse from '../src/functions/lib/micropub/parse'
+import parse from '../src/lib/micropub/parse'
 
 describe('parse', () => {
 	const likedURL = 'https://domain.tld'

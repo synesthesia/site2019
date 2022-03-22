@@ -3,7 +3,7 @@
 
 import dotenv from 'dotenv'
 import nock from 'nock'
-import Auth from '../src/functions/lib/micropub/auth'
+import Auth from '../src/lib/micropub/auth'
 
 dotenv.config()
 
