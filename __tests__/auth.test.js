@@ -17,7 +17,7 @@ describe('Auth', () => {
 	const path = '/token'
 	const token = '123456'
 	const validResponse = {
-		'me': 'https:\/\/domain.ltd\/',
+		'me': 'https:\/\/domain.tld\/',
 		'issued_by': 'https:\/\/tokens.indieauth.com\/token',
 		'client_id': 'https:\/\/example.com\/',
 		'issued_at': 1532235856,
@@ -141,4 +141,43 @@ describe('Auth', () => {
 			expect(res.statusCode).toBe(401)
 		})
 	})
+    describe ('auth_with_key', () => {
+        test('correct key returns "create" scope', async () => {
+            const token = process.env.MICROPUB_KEY;
+            const res = await Auth.isAuthorized({
+				'authorization': `Bearer ${token}`,
+                'x-auth': true
+			})
+            expect(res).toEqual('create')
+        })
+        test('incorrect key returns bad request err', async () => {
+            const token = 'BAD_TOKEN';
+            const res = await Auth.isAuthorized({
+				'authorization': `Bearer ${token}`,
+                'x-auth': true
+			})
+            expect(res).toHaveProperty('error')
+			expect(res).toHaveProperty('statusCode')
+			expect(res.statusCode).toBe(400)
+        })
+
+    })
+    describe('isAuthorised returns scopes from valid token', () => {
+        test('valid token', async () => {
+			const mock = nock(url, {
+				reqheaders: {
+					'accept': 'application/json',
+					'Authorization': `Bearer ${token}`
+				}
+			})
+				.get(path)
+				.reply(200, validResponse)
+
+            const res = await Auth.isAuthorized({
+				'authorization': `Bearer ${token}`
+			})
+            expect(res).toEqual(validResponse.scope)
+            mock.done()
+        })
+    })
 })
