@@ -6,7 +6,7 @@ date: 2022-05-21T10:10:51Z
 lastmod: 2022-05-21T10:10:51Z
 tags: [“micropub”, “PKM”]
 authors: ["synesthesia"]
-draft:false
+draft: false
 
 ---
 
