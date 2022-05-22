@@ -7,7 +7,7 @@ draft: false
 title: "Anti-library"
 subtitle: 
 summary: 
-authors: ["Julian Elve"]
+authors: ["synesthesia"]
 categories: ["quick notes"]
 tags: []
 date: 2022-05-22T20:47:00+01:00
