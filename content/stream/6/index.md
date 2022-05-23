@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "bookmark"
+sub_type: "bookmark"
 title: "Bookmark of 'Enabling Teams Chat for your Dynamics 365 Marketing records'"
 date: 2022-03-18T10:38:59Z
 lastmod: 2022-03-18T10:38:59Z
@@ -11,8 +11,8 @@ authors: ["synesthesia"]
 
 # Bookmark target
 # ---------------
-bookmarkOf: "https://lystavlenhistoric.home.blog/2021/11/24/enabling-teams-chat-for-your-dynamics-365-marketing-records/"
-bookmarkTitle: "Enabling Teams Chat for your Dynamics 365 Marketing records"
+bookmark_of: "https://lystavlenhistoric.home.blog/2021/11/24/enabling-teams-chat-for-your-dynamics-365-marketing-records/"
+bookmark_title: "Enabling Teams Chat for your Dynamics 365 Marketing records"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

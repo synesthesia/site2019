@@ -35,6 +35,7 @@ The following environment variables are required:
 |Variable|Description|
 |----|----|
 | CONTENT_DIR | Directory where micropub posts are uploaded to| 
+|FILENAME_FULL_DATE|set to `true` to prepend micropub post filenames with date|
 |	GIT_TOKEN | Personal Access Token|
 | GIT_BRANCH | Branch name to add micropub posts to (Must already exist)|
 | GITHUB_USER | Username for repo where micropub posts are added to (GitHub)| 
@@ -44,4 +45,15 @@ The following environment variables are required:
 | MICROPUB_KEY | shared secret for authorising Micropub API (for when OAuth2 is not usable) |
 | NETLIFY_BUILD_DEBUG | set to true to provide verbose build logging |
 | TOKEN_ENDPOINT | Endpoint to validate IndieAuth token| 
+
+## Micropub format mapping
+
+|Incoming format /properties|Local content type|Local content sub-type|
+|----|----|----|
+|default|stream|note|
+|has `name`|post|null|
+|has `bookmark-of`|stream|bookmark|
+|has `in-reply-to`|stream|reply|
+|has `like-of`|stream|like|
+||||
 

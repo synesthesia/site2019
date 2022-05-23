@@ -13,8 +13,8 @@ draft: true
 type: reply
 # Reply target
 # ------------
-inReplyTo: "{{ getenv "NOTE_REF_URL" }}"
-inReplyToTitle: "{{ getenv "NOTE_REF_TITLE" }}"
+in_reply_to: "{{ getenv "NOTE_REF_URL" }}"
+in_reply_to_title: "{{ getenv "NOTE_REF_TITLE" }}"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

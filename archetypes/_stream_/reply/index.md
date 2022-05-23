@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "reply"
+sub_type: "reply"
 title: "Reply to {{ getenv "NOTE_REF_AUTHOR" }} '{{ getenv "NOTE_REF_TITLE" }}'"
 date: {{ .Date }}
 lastmod: {{ .Date }}
@@ -12,8 +12,8 @@ draft: true
 
 # Bookmark target
 # ---------------
-inReplyTo: "{{ getenv "NOTE_REF_URL" }}"
-inReplyToTitle: "{{ getenv "NOTE_REF_TITLE" }}"
+in_reply_to: "{{ getenv "NOTE_REF_URL" }}"
+in_reply_to_title: "{{ getenv "NOTE_REF_TITLE" }}"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

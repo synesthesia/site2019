@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "repost"
+sub_type: "repost"
 title: "Repost of '{{ getenv "NOTE_REF_TITLE" }}'" 
 date: {{ .Date }}
 lastmod: {{ .Date }}
@@ -12,8 +12,8 @@ draft: true
 
 # Bookmark target
 # ---------------
-repostOf: "{{ getenv "NOTE_REF_URL" }}"
-repostOfTitle: "{{ getenv "NOTE_REF_TITLE" }}"
+repost_of: "{{ getenv "NOTE_REF_URL" }}"
+repost_of_title: "{{ getenv "NOTE_REF_TITLE" }}"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

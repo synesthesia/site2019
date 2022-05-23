@@ -117,7 +117,7 @@ feed:
     - event
   streamSections:
     - stream
-  streamSubTypes:
+  stream_sub_types:
     - note
     - bookmark
     - reply

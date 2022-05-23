@@ -8,7 +8,7 @@
 	{{- $webmentions := (partial "content/data/webmentions" .) -}}
 
 {{ $pageType := singularize .Type }}
-{{ $pageSubType := singularize .Params.subType }}
+{{ $pagesub_type := singularize .Params.sub_type }}
 <article class="article h-entry" itemscope itemtype="http://schema.org/Note">
 
   {{ partial "page_header.html" . }}
@@ -21,24 +21,24 @@
         <p>{{ $summary }}</p>
       </div>
     {{end}}
-    {{ if eq $pageSubType "reply"}}
+    {{ if eq $pagesub_type "reply"}}
     <div>
       <p>Responding to</p>
       {{ partial "content/notes/citation.html" . }}
     </div>
     {{end}}
-    {{ if eq $pageSubType "bookmark"}}
+    {{ if eq $pagesub_type "bookmark"}}
     <div>
       {{ partial "content/notes/citation.html" . }}
     </div>
     {{end}}
-    {{ if eq $pageSubType "repost"}}
+    {{ if eq $pagesub_type "repost"}}
     <div>
       <p>Repost of</p>
       {{ partial "content/notes/citation.html" . }}
     </div>
     {{end}}
-    {{ if eq $pageSubType "like"}}
+    {{ if eq $pagesub_type "like"}}
     <div>
       <p>Liked</p>
       {{ partial "content/notes/citation.html" . }}
@@ -47,7 +47,7 @@
     <div class="article-style e-content p-name" itemprop="articleBody">
       {{ .Content }}
     </div>
-    
+
 
     {{ partial "tags.html" . }}
 
@@ -86,7 +86,7 @@
 						and any tweets about it will be picked up automatically.
           </p>
           {{ else }}
-          You can respond to this {{ $pageSubType }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
+          You can respond to this {{ $pagesub_type }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
 						and any tweets about it will be picked up automatically.
           {{ end }}
           <p>

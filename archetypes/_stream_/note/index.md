@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "note"
+sub_type: "note"
 title: "Note on {{ dateFormat "2" .Date | humanize }} {{ dateFormat "January" .Date }} {{ dateFormat "2006 @ 15:04" .Date }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}

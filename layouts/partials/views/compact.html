@@ -24,19 +24,19 @@
   {{ $icon_pack = "fas" }}
   {{ $icon = "fa-project-diagram" }}
 {{ else if eq $item.Type "stream"}}
-  {{ if eq $item.Params.subType "reply"}}
+  {{ if eq $item.Params.sub_type "reply"}}
     {{ $icon_pack = "fas" }}
     {{ $icon = "fa-reply" }}
   {{ end }}
-  {{ if eq $item.Params.subType "bookmark"}}
+  {{ if eq $item.Params.sub_type "bookmark"}}
     {{ $icon_pack = "far" }}
     {{ $icon = "fa-bookmark" }}
   {{ end }}
-  {{ if eq $item.Params.subType "like"}}
+  {{ if eq $item.Params.sub_type "like"}}
     {{ $icon_pack = "far" }}
     {{ $icon = "fa-heart" }}
   {{ end }}
-  {{ if eq $item.Params.subType "repost"}}
+  {{ if eq $item.Params.sub_type "repost"}}
     {{ $icon_pack = "fas" }}
     {{ $icon = "fa-retweet" }}
   {{ end }}
@@ -57,33 +57,33 @@
 <div class="media stream-item view-compact">
 
   <div class="media-body">
-    
+
     {{ if eq $item.Params.type "stream"}}
-    
+
     {{ else }}
       <div class="section-subheading article-title mb-0 mt-0">
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
       </div>
-    {{ end }}  
-    
-    
-    
+    {{ end }}
+
+
+
     <div class="article-style">
       {{ if in (slice "stream") $item.Type}}
       <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
       {{ end }}
       {{ if eq $item.Params.type "stream" }}
-        {{ if eq  $item.Params.subType "bookmark" }}
-          <a href="{{$item.Params.bookmarkOf}}" class="u-bookmark-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmarkTitle }}</a> - 
+        {{ if eq  $item.Params.sub_type "bookmark" }}
+          <a href="{{$item.Params.bookmark_of}}" class="u-bookmark_of" {{ $target | safeHTMLAttr }}>{{ $item.Params.bookmark_title }}</a> -
         {{ end }}
-        {{ if eq  $item.Params.subType "reply" }}
-          Reply to <a href="{{$item.Params.inReplyTo}}" class="u-reply-to" {{ $target | safeHTMLAttr }}>{{ $item.Params.inReplyToTitle }}</a> - 
+        {{ if eq  $item.Params.sub_type "reply" }}
+          Reply to <a href="{{$item.Params.in_reply_to}}" class="u-reply-to" {{ $target | safeHTMLAttr }}>{{ $item.Params.in_reply_to_title }}</a> -
         {{ end }}
-        {{ if eq  $item.Params.subType "like" }}
-          Liked <a href="{{$item.Params.likeOf}}" class="u-like-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.likeOfTitle }}</a> - 
+        {{ if eq  $item.Params.sub_type "like" }}
+          Liked <a href="{{$item.Params.like_of}}" class="u-like-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.like_title }}</a> -
         {{ end }}
-        {{ if eq  $item.Params.subType "repost" }}
-          Reposted <a href="{{$item.Params.repostOf}}" class="u-repost-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.repostOfTitle }}</a> - 
+        {{ if eq  $item.Params.sub_type "repost" }}
+          Reposted <a href="{{$item.Params.repost_of}}" class="u-repost-of" {{ $target | safeHTMLAttr }}>{{ $item.Params.repost_of_title }}</a> -
         {{ end }}
       {{ end }}
       {{ with $summary }}
@@ -92,9 +92,9 @@
       <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
         #
       </a>
-      
+
     </div>
-    
+
 
 
     <div class="stream-meta article-metadata">
@@ -110,7 +110,7 @@
         {{ end }}
       </div>
       {{ end }}
-      
+
       {{ if ne $item.Params.type "stream"}}
         {{ if and $show_authors_only $item.Params.authors }}
         <div>

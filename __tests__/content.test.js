@@ -1,5 +1,6 @@
 
-import content from '../src/functions/lib/micropub/content'
+import content from '../src/lib/micropub/content'
+import {postType} from '../src/lib/micropub/postType'
 
 describe('content', () => {
 	const likedURL = 'https://domain.tld'
@@ -58,23 +59,15 @@ describe('content', () => {
 		})
 
 		test('bookmark post', () => {
-			data['bookmark-of'] = likedURL
+			data['bookmark_of'] = likedURL
 			const fm = content.output(data)
-			expect(fm).toContain('\nbookmark-of:')
+			expect(fm).toContain('\nbookmark_of:')
 		})
 
 		test('reply post', () => {
 			data['in-reply-to'] = likedURL
 			const fm = content.output(data)
 			expect(fm).toContain('\nin-reply-to:')
-		})
-
-		test('rsvp post', () => {
-			data['in-reply-to'] = likedURL
-			data['rsvp'] = 'maybe'
-			const fm = content.output(data)
-			expect(fm).toContain('\nin-reply-to:')
-			expect(fm).toContain('\nrsvp:')
 		})
 
 		test('null data', () => {
@@ -107,21 +100,73 @@ describe('content', () => {
 		test('is article', () => {
 			const formatted = content.format(data)
 			expect(formatted).toHaveProperty('slug')
-			expect(formatted.slug).toMatch(/^articles\/.*/)
+			expect(formatted.slug).toMatch(/^post\/.*/)
 			expect(formatted).toHaveProperty('filename')
-			expect(formatted.filename).toMatch(/^src\/articles\/.*/)
+			expect(formatted.filename).toMatch(/^src\/post\/.*/)
 			expect(formatted.filename).toBe(`src/${formatted.slug}.md`)
+            expect(formatted.data).toHaveProperty('type')
+            expect(formatted.data.type).toMatch(/^post/)
 		})
 
 		test('is note', () => {
 			delete data.name
 			const formatted = content.format(data)
 			expect(formatted).toHaveProperty('slug')
-			expect(formatted.slug).toMatch(/^notes\/.*/)
+			expect(formatted.slug).toMatch(/^stream\/.*/)
 			expect(formatted).toHaveProperty('filename')
-			expect(formatted.filename).toMatch(/^src\/notes\/.*/)
+			expect(formatted.filename).toMatch(/^src\/stream\/.*/)
 			expect(formatted.filename).toBe(`src/${formatted.slug}.md`)
+            expect(formatted.data).toHaveProperty('type')
+            expect(formatted.data.type).toMatch(/^stream/)
+            expect(formatted.data).toHaveProperty('sub_type')
+            expect(formatted.data.sub_type).toMatch(/^note/)
 		})
+
+        test('is bookmark', () => {
+			delete data.name
+            data['bookmark_of'] = likedURL
+			const formatted = content.format(data)
+			expect(formatted).toHaveProperty('slug')
+			expect(formatted.slug).toMatch(/^stream\/.*/)
+			expect(formatted).toHaveProperty('filename')
+			expect(formatted.filename).toMatch(/^src\/stream\/.*/)
+			expect(formatted.filename).toBe(`src/${formatted.slug}.md`)
+            expect(formatted.data).toHaveProperty('type')
+            expect(formatted.data.type).toMatch(/^stream/)
+            expect(formatted.data).toHaveProperty('sub_type')
+            expect(formatted.data.sub_type).toMatch(/^bookmark/)
+		})
+
+        test('is reply', () => {
+			delete data.name
+            data['in-reply-to'] = likedURL
+			const formatted = content.format(data)
+			expect(formatted).toHaveProperty('slug')
+			expect(formatted.slug).toMatch(/^stream\/.*/)
+			expect(formatted).toHaveProperty('filename')
+			expect(formatted.filename).toMatch(/^src\/stream\/.*/)
+			expect(formatted.filename).toBe(`src/${formatted.slug}.md`)
+            expect(formatted.data).toHaveProperty('type')
+            expect(formatted.data.type).toMatch(/^stream/)
+            expect(formatted.data).toHaveProperty('sub_type')
+            expect(formatted.data.sub_type).toMatch(/^reply/)
+		})
+
+        test('is like', () => {
+			delete data.name
+            data['like-of'] = likedURL
+			const formatted = content.format(data)
+			expect(formatted).toHaveProperty('slug')
+			expect(formatted.slug).toMatch(/^stream\/.*/)
+			expect(formatted).toHaveProperty('filename')
+			expect(formatted.filename).toMatch(/^src\/stream\/.*/)
+			expect(formatted.filename).toBe(`src/${formatted.slug}.md`)
+            expect(formatted.data).toHaveProperty('type')
+            expect(formatted.data.type).toMatch(/^stream/)
+            expect(formatted.data).toHaveProperty('sub_type')
+            expect(formatted.data.sub_type).toMatch(/^like/)
+		})
+
 	})
 
 	describe('mediaFilename', () => {
@@ -142,22 +187,21 @@ describe('content', () => {
 
 	describe('getType', () => {
 		test('is like', () => {
-			expect(content.getType({ 'like-of': likedURL })).toBe('likes')
+			expect(content.getType({ 'like-of': likedURL })).toBe<postType>({type: 'stream', subType: 'like'})
 		})
 
 		test('is bookmark', () => {
-			expect(content.getType({ 'bookmark-of': likedURL })).toBe('bookmarks')
+			expect(content.getType({ 'bookmark_of': likedURL })).toBe<postType>({type: 'stream', subType: 'bookmark'})
 		})
 
-		test('is rsvp', () => {
-			const data = { 'rsvp': 'yes' }
-			expect(content.getType(data)).not.toBe('rsvp')
+		test('is reply', () => {
 			data['in-reply-to'] = likedURL
-			expect(content.getType(data)).toBe('rsvp')
+			expect(content.getType(data)).toBe<postType>({type: 'stream', subType: 'reply'}
+            )
 		})
 
 		test('is article', () => {
-			expect(content.getType({ 'name': 'hello' })).toBe('articles')
+			expect(content.getType({ 'name': 'hello' })).toBe<postType>({type: 'post', subType: null})
 		})
 
 		test('is note', () => {

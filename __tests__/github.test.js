@@ -2,7 +2,7 @@
 
 import dotenv from 'dotenv'
 import nock from 'nock'
-import GitHub from '../src/functions/lib/micropub/github'
+import GitHub from '../src/lib/micropub/github'
 
 dotenv.config({ path: '.env.example' })
 

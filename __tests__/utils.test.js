@@ -1,6 +1,6 @@
 
 import dotenv from 'dotenv'
-import { Base64, utils } from '../src/functions/lib/micropub/utils'
+import { Base64, utils } from '../src/lib/micropub/utils'
 
 dotenv.config({ path: '.env.example' })
 

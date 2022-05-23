@@ -1,4 +1,4 @@
-import parse from '../src/functions/lib/micropub/parse'
+import parse from '../src/lib/micropub/parse'
 
 describe('parse', () => {
 	const likedURL = 'https://domain.tld'
@@ -12,7 +12,7 @@ describe('parse', () => {
 			'visibility': [ 'public' ],
 			'mp-slug': [ 'this-is-a-slug' ],
 			'like-of': [ likedURL ],
-			'bookmark-of': [ likedURL ],
+			'bookmark_of': [ likedURL ],
 			'in-reply-to': [ likedURL ],
 			'rsvp': [ 'maybe' ],
 			'deleted': [ true ]
@@ -26,7 +26,7 @@ describe('parse', () => {
 		'category': [ 'one', 'two', 'three' ],
 		'mp-slug': 'this-is-a-slug',
 		'like-of': likedURL,
-		'bookmark-of': likedURL,
+		'bookmark_of': likedURL,
 		'in-reply-to': likedURL,
 		'rsvp': 'maybe',
 		'deleted': true
@@ -41,7 +41,7 @@ describe('parse', () => {
 	' - three\n' +
 	'updated: 2021-10-09T12:23:34.120Z\n' +
 	`like-of: ${likedURL}\n` +
-	`bookmark-of: ${likedURL}\n` +
+	`bookmark_of: ${likedURL}\n` +
 	`in-reply-to: ${likedURL}\n` +
 	'rsvp: maybe\n' +
 	'deleted: true\n' +
@@ -93,7 +93,7 @@ describe('parse', () => {
 			expect(data.name).toBe('Title')
 			expect(data.category).toHaveLength(3)
 			expect(data['like-of']).toBe(likedURL)
-			expect(data['bookmark-of']).toBe(likedURL)
+			expect(data['bookmark_of']).toBe(likedURL)
 			expect(data['in-reply-to']).toBe(likedURL)
 			expect(data['rsvp']).toBe('maybe')
 			expect(data['deleted']).toBe(true)
@@ -124,7 +124,7 @@ describe('parse', () => {
 			expect(data.category).toHaveLength(3)
 			expect(data.name).toBe('Title')
 			expect(data['like-of']).toBe(likedURL)
-			expect(data['bookmark-of']).toBe(likedURL)
+			expect(data['bookmark_of']).toBe(likedURL)
 			expect(data['in-reply-to']).toBe(likedURL)
 			expect(data['rsvp']).toBe('maybe')
 			expect(data['deleted']).toBe(true)
@@ -163,7 +163,7 @@ describe('parse', () => {
 			expect(parsed.name).toBe('Title')
 			expect(parsed.content).toBe(form.content)
 			expect(parsed['like-of']).toBe(likedURL)
-			expect(parsed['bookmark-of']).toBe(likedURL)
+			expect(parsed['bookmark_of']).toBe(likedURL)
 			expect(parsed['in-reply-to']).toBe(likedURL)
 			expect(parsed['rsvp']).toBe('maybe')
 			expect(parsed['deleted']).toBeTruthy()

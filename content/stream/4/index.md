@@ -2,7 +2,7 @@
 # Note metadata
 # -------------
 type: "stream"
-subType: "bookmark"
+sub_type: "bookmark"
 title: "Bookmark on 14th March 2022 @ 17:15"
 date: 2022-03-15T10:15:52Z
 lastmod: 2022-03-15T10:15:52Z
@@ -12,8 +12,8 @@ draft: false
 
 # Bookmark target
 # ---------------
-bookmarkOf: "https://barryfrost.com/2021/07/vibrancy"
-bookmarkTitle: "My serverless, headless, Micropub-powered, personal website"
+bookmark_of: "https://barryfrost.com/2021/07/vibrancy"
+bookmark_title: "My serverless, headless, Micropub-powered, personal website"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
