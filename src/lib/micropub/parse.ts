@@ -34,8 +34,9 @@ export default {
 			return null
 		}
 		const parsed = {}
-		for (let [key, value] of Object.entries(json)) {
+		for (const [key, value] of Object.entries(json)) {
 			if (key == 'properties') {
+				// eslint-disable-next-line prefer-const
 				for (let [propKey, propValue] of Object.entries(value)) {
 					if (renameProperties[propKey]) {
 						propKey = renameProperties[propKey]
@@ -60,6 +61,7 @@ export default {
 			return null
 		}
 		const parsed = {}
+		// eslint-disable-next-line prefer-const
 		for (let [key, value] of Object.entries(form)) {
 			if (key == 'h') {
 				parsed['type'] = `h-${value}`
@@ -86,7 +88,7 @@ export default {
 		const attributes = fm.data
 		const parsed = {}
 
-		for (let [key, value] of Object.entries(attributes)) {
+		for (const [key, value] of Object.entries(attributes)) {
 			if (renameProperties[key]) {
 				parsed[renameProperties[key]] = value
 			} else if (['date', 'updated'].includes(key)) {

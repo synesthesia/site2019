@@ -9,7 +9,7 @@ const uploadFiles = async files => {
 		return []
 	}
 	const photos = []
-	for (let file of files) {
+	for (const file of files) {
 		if (file.filename) {
 			const filename = content.mediaFilename(file)
 			const uploaded = await GitHub.uploadImage(filename, file)
@@ -31,7 +31,7 @@ const handleUpdate = (body, parsed) => {
 		return
 	}
 	if (body.delete && Array.isArray(body.delete)) {
-		for (let key of body.delete) {
+		for (const key of body.delete) {
 			if (parsed[key]) {
 				updated = true
 				delete parsed[key]
@@ -49,21 +49,21 @@ const handleUpdate = (body, parsed) => {
 	if (body.replace) {
 		return { ...parsed, ...updates }
 	} else {
-		for (let [key, value] of Object.entries(updates)) {
+		for (const [key, value] of Object.entries(updates)) {
 			if (key == 'type' || key == 'photo') { // skip these properties
 				continue
 			}
 			if (body.add) {
 				updated = true
 				if (parsed[key]) {
-					parsed[key] = [ ...parsed[key], ...value ]
+					parsed[key] = [ ...parsed[key], ...value as string[] ]
 				} else {
 					parsed[key] = value
 				}
 			} else if (body.delete && parsed[key] && Array.isArray(parsed[key])) {
 				// Only deletes here if the original value was an array
 				// Look for the specific item to delete from a potential list of values
-				for (let item of value) {
+				for (const item of value as string[]) {
 					// Remove `item` from `parsed[key]` if it exists
 					if (parsed[key].includes(item)) {
 						updated = true
@@ -89,7 +89,7 @@ const publish = {
 			const uploaded = await uploadFiles(parsed.photo)
 			if (uploaded && uploaded.length) {
 				let imageContent = ''
-				for (let img of uploaded) {
+				for (const img of uploaded) {
 					if (img.value) {
 						imageContent += `![${img.alt || ''}](/${img.value})\n\n`
 					}
@@ -122,7 +122,7 @@ const publish = {
 		if (!exists) {
 			return { 'error': 'file does not exist' }
 		}
-		let parsed = parse.fromFrontMatter(exists.content)
+		const parsed = parse.fromFrontMatter(exists.content)
 		if (!parsed) {
 			return { 'error': 'could not parse file' }
 		}

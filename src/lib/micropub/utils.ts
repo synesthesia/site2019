@@ -7,8 +7,8 @@ const Base64 = {
 const utils = {
 	// Gets only properties from array `allow` that are in `props`
 	pick: (allow, props) => {
-		let allowed = {}
-		for (let prop in props) {
+		const allowed = {}
+		for (const prop in props) {
 			if (allow.includes(prop)) {
 				allowed[prop] = props[prop]
 			}
@@ -29,7 +29,7 @@ const utils = {
 	},
 
 	removeEmpty: data => {
-		for (let i in data) {
+		for (const i in data) {
 			if (data[i] === undefined || data[i] === null ||
 				(Array.isArray(data[i]) && !data[i].length) ||
 				(utils.isObject(data[i]) && !Object.keys(data[i]).length)) {
