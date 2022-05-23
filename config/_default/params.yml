@@ -131,12 +131,12 @@ icon:
 security:
   csp:
     policy: >-
-      default-src 'self'; frame-src utteranc.es *.youtube.com; connect-src
+      default-src 'self'; frame-src utteranc.es *.youtube.com *.hypothes.is hypothes.is; connect-src
       'self' www.google-analytics.com; script-src 'self' 'unsafe-inline'
       'unsafe-eval' cdn.jsdelivr.net utteranc.es *.google-analytics.com
-      cdnjs.cloudflare.com www.googletagmanager.com identity.netlify.com;
+      cdnjs.cloudflare.com www.googletagmanager.com identity.netlify.com *.hypothes.is hypothes.is;
       style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com
-      fonts.googleapis.com; img-src *; object-src 'self' data:; media-src *;
+      fonts.googleapis.com cdn.hypothes.is; img-src *; object-src 'self' data:; media-src *;
       font-src *
     report_only: false
   permissions:
