@@ -11,3 +11,4 @@ data/webmentions/processed
 
 # Local Netlify folder
 .netlify
+.vscode/*.log

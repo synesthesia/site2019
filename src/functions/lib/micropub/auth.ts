@@ -46,6 +46,7 @@ const Auth = {
 		if (!token || token.error) {
 			return token || Error.UNAUTHORIZED
 		}
+		// eslint-disable-next-line @typescript-eslint/no-explicit-any
 		const auth = await Auth.validateToken(process.env.TOKEN_ENDPOINT, token) as any
 		if (!auth || auth.me != process.env.ME) {
 			return Error.FORBIDDEN

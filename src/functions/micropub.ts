@@ -37,13 +37,13 @@ const getHandler = async query => {
 
 const micropubFn = async event => {
 	if (!['GET', 'POST'].includes(event.httpMethod)) {
-		return Response.error(Error.NOT_ALLOWED)
+		return Response.error(Error.NOT_ALLOWED, "Invalid method")
 	}
 
 	const { headers, body } = event
 	const scopes = await auth.isAuthorized(headers, body)
 	if (!scopes || scopes.error) {
-		return Response.error(scopes)
+		return Response.error(scopes, "Invalid scope")
 	}
   console.log(scopes)
 	if (event.httpMethod === 'GET') {
@@ -52,7 +52,7 @@ const micropubFn = async event => {
 
 	const action = (body.action || 'create').toLowerCase()
 	if (!auth.isValidScope(scopes, action)) {
-		return Response.error(Error.SCOPE)
+		return Response.error(Error.SCOPE, "Invalid scope")
 	}
 
 	let res
@@ -66,11 +66,11 @@ const micropubFn = async event => {
 		res = await publish.undeleteContent(body.url)
 	} else {
 		// unknown or unsupported action
-		return Response.error(Error.NOT_SUPPORTED)
+		return Response.error(Error.NOT_SUPPORTED, "Micropub action not supported")
 	}
 	if (res && res.filename) {
 		if (action == 'create') {
-			return Response.sendLocation(`${process.env.ME}${res.filename}`)
+			return Response.sendLocation(`${process.env.ME}${res.filename}`, true)
 		}
 		return Response.send(204)
 	}
