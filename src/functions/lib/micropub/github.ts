@@ -1,5 +1,6 @@
 
-import got from 'got'
+import  got, { OptionsOfJSONResponseBody} from 'got'
+//import { type } from 'os'
 
 import { Base64 } from './utils'
 
@@ -33,7 +34,7 @@ const GitHub = {
 	},
 
 	upload: async (method, filename, jsonBody) => {
-		const body = await GitHub.request(method, encodeURIComponent(filename), jsonBody)
+		const body = await GitHub.request(method, encodeURIComponent(filename), jsonBody) as { content: { path:string} }
 		if (body && body.content && body.content.path) {
 			return filename
 		}
@@ -43,7 +44,7 @@ const GitHub = {
 	getFile: async (filename) => {
 		const body = await GitHub.request('GET',
 			encodeURIComponent(filename) + (process.env.GIT_BRANCH ? `?ref=${process.env.GIT_BRANCH}` : '')
-		)
+		) as { content: { content: string}, sha: string }
 		if (body) {
 			return {
 				'filename': filename,
@@ -81,7 +82,7 @@ const GitHub = {
 		}
 	},
 
-	request: async (method, endpoint, json) => {
+	request: async (method: string, endpoint: string, json?: object) => {
 		console.log(`GITHUB.${method}`, endpoint)
 		if (process.env.DEBUG && method != 'GET') {
 			console.log('-- DEBUGGING')
@@ -103,7 +104,9 @@ const GitHub = {
 
 		const options = {
 			method: method.toUpperCase(),
-		}
+
+		} as OptionsOfJSONResponseBody
+
 		if (json) {
 			options['Content-Type'] = 'application/json'
 			if (process.env.GIT_BRANCH) {
@@ -118,7 +121,7 @@ const GitHub = {
 			options['json'] = json
 		}
 		try {
-			const { body } = await instance(endpoint, options)
+			const { body } = await instance(endpoint, options) as {body:object}
 			console.log('└─>', body)
 			return method == 'GET' ? body : {
 				'success': true,
@@ -130,5 +133,7 @@ const GitHub = {
 		}
 	}
 }
+
+
 
 export default GitHub
