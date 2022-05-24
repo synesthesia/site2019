@@ -52,11 +52,13 @@ module.exports = async function createArticleReply(url, type ) {
 	const y = postTime.getFullYear();
 	const m = pad(postTime.getMonth()+1);
 	const d = pad(postTime.getDate());
+    const h = pad(postTime.getUTCHours());
+    const mm = pad(postTime.getUTCMinutes());
 
 	const folder = path.join(contentDirectory,`${y}`);
 	const titleForSlug = `Reply to ${remoteAuthor?.name  || remoteTitle }`
 	const slug = slugify(titleForSlug, {lower: true});
-    const fName = `${y}-${m}-${d}-${slug}`;
+    const fName = `${y}-${m}-${d}-${h}${mm}-${slug}`;
 	//const fName = `${slug}`;
 
 	// Prepare environment variables

@@ -39,7 +39,7 @@ module.exports = async function createArticle(title, type) {
 	} else {
 		contentDirectory = path.resolve(__dirname, '../../../content/post');
 	}
-    
+
 	// Create the posts directory
 	await mkdir(contentDirectory);
 
@@ -47,17 +47,19 @@ module.exports = async function createArticle(title, type) {
 	const y = postTime.getFullYear();
 	const m = pad(postTime.getMonth()+1);
 	const d = pad(postTime.getDate());
+    const h = pad(postTime.getUTCHours());
+    const mm = pad(postTime.getUTCMinutes());
 
 	const folder = path.join(contentDirectory,`${y}`);
 	const slug = slugify(title, {lower: true});
-    const fName = `${y}-${m}-${d}-${slug}`;
+    const fName = `${y}-${m}-${d}-${h}${mm}-${slug}`;
 	//const fName = `${slug}`;
 
 	// Prepare environment variables
 	const env = Object.assign({}, process.env, {NOTE_REF_TITLE: title})
 
 	// Create the new post file
-	
+
 	await exec(`hugo new ${folder}/${fName} --kind _post_/${type}`, {env});
 
 	// Log success
