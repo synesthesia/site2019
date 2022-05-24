@@ -1,4 +1,5 @@
 node_modules
-./functions
+functions/**/*.js
 public
 jest.config.js
+scripts/**/*.js

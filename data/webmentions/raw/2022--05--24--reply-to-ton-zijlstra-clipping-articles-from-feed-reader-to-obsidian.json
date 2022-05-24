@@ -1,27 +1,5 @@
 {
-	"d5f8d67da3555e4f16c39b03eb85e013": {
-		"type": "entry",
-		"author": {
-			"type": "card",
-			"name": "Ton Zijlstra",
-			"photo": "",
-			"url": ""
-		},
-		"url": "https://www.zylstra.org/blog/2019/09/9067/",
-		"published": "2019-09-16T14:18:20+02:00",
-		"wm-received": "2019-09-16T12:19:16Z",
-		"wm-id": 692420,
-		"wm-source": "https://www.zylstra.org/blog/2019/09/9067/",
-		"wm-target": "https://www.synesthesia.co.uk",
-		"content": {
-			"html": "<p>Exactly 15 years ago today <a href=\"https://www.zylstra.org/blog/2004/09/blogwalk_iv_lon/\">I blogged the participant list of the London Blogwalk</a> that would take place the next day. I started clicking through the URLs to see who’s still using theirs. Some have disappeared, some are still live though inactive, some still active. A few I still am in regular touch with, but two <a href=\"https://www.synesthesia.co.uk\">Julian Elvé</a> and <a href=\"http://www.psybertron.org\">Ian Glendinning</a> are still active but weren’t in my feedreader again yet. So I’ve added them. A pleasant surprise that Julian is using IndieAuth and Webmention on his site, and therefore is an active part of the Indieweb.</p>",
-			"text": "Exactly 15 years ago today I blogged the participant list of the London Blogwalk that would take place the next day. I started clicking through the URLs to see who’s still using theirs. Some have disappeared, some are still live though inactive, some still active. A few I still am in regular touch with, but two Julian Elvé and Ian Glendinning are still active but weren’t in my feedreader again yet. So I’ve added them. A pleasant surprise that Julian is using IndieAuth and Webmention on his site, and therefore is an active part of the Indieweb."
-		},
-		"mention-of": "https://www.synesthesia.co.uk",
-		"wm-property": "mention-of",
-		"wm-private": false
-	},
-	"43dab5df936c9685beea0b3aba1be24e": {
+	"a4a05c7d91029916ce0908b9885b6a1c": {
 		"type": "entry",
 		"author": {
 			"type": "card",
@@ -31,16 +9,16 @@
 		},
 		"url": "https://www.zylstra.org/blog/2022/05/julians-nudge-to-explore-hypothes-is-api/",
 		"published": "2022-05-24T13:48:03+02:00",
-		"wm-received": "2022-05-24T11:48:08Z",
-		"wm-id": 1403528,
+		"wm-received": "2022-05-24T11:48:09Z",
+		"wm-id": 1403529,
 		"wm-source": "https://www.zylstra.org/blog/2022/05/julians-nudge-to-explore-hypothes-is-api/",
-		"wm-target": "https://www.synesthesia.co.uk/",
+		"wm-target": "https://www.synesthesia.co.uk/2022/05/24/reply-to-ton-zijlstra-clipping-articles-from-feed-reader-to-obsidian/",
 		"name": "Julian’s Nudge To Explore Hypothes.is API",
 		"content": {
 			"html": "<p><a href=\"https://www.synesthesia.co.uk/\">Julian Elve</a> writes about <a href=\"https://www.synesthesia.co.uk/2022/05/24/reply-to-ton-zijlstra-clipping-articles-from-feed-reader-to-obsidian/\">capturing notes from various sources</a>, in response to my new little <a href=\"https://www.zylstra.org/blog/2022/05/clipping-articles-from-feed-reader-to-obsidian/\">script to capture web articles</a> directly from my feedreader into my markdown notes. I will need to reply to it more later, but to signal I’m continuing the conversation, I want to respond to one thing immediately, specifically to this bit</p>\n<blockquote><p>Hypothes.is (only just starting to play with this, but if I can’t see how I can process what I might capture with the tool, there is no point in starting down this track)<br /><br />Julian Elve</p></blockquote>\n<p>I follow along with <a href=\"https://hypothes.is/users/chrisaldrich\">Chris Aldrich’s Hypothesis stream</a> in RSS and it’s highly informative for me to do so. Similar to Julian I have concerns starting to use it myself, if it means adding a silo next to my regular workflow. The type of interaction and annotation I have/do with a source text I normally do locally. Unless it can be a <a href=\"https://indieweb.org/PESOS\">PESOS</a> (Post Elsewhere Syndicate to Own Site) flow, exchanging that current value of processing things locally for merely the potential for interaction and conversation is likely a bad trade-off for my learning. </p>\n<p>Hypothesis does have an API, which offers a way forward perhaps. A <a href=\"https://www.zylstra.org/blog/2022/04/thoughts-on-integrating-hypothes-is/\">few weeks ago</a> I added at least tracking who <em>else</em> is annotating <em>my blogposts</em> to my list of things to create. Julian’s nudge maybe means reevaluating that starting point, and aiming higher to also fetch whatever annotation I might make myself (I do have Hypothesis running in my Firefox browser, despite not using it much).</p>\n<p>It starts I think with playing with the Hypothes.is API anyway. I have a day off later this week, hopefully I can use part of it to fire up <a href=\"https://www.postman.com/\">Postman</a> and explore the Hypothes.is API.</p>",
 			"text": "Julian Elve writes about capturing notes from various sources, in response to my new little script to capture web articles directly from my feedreader into my markdown notes. I will need to reply to it more later, but to signal I’m continuing the conversation, I want to respond to one thing immediately, specifically to this bit\nHypothes.is (only just starting to play with this, but if I can’t see how I can process what I might capture with the tool, there is no point in starting down this track)\n\nJulian Elve\nI follow along with Chris Aldrich’s Hypothesis stream in RSS and it’s highly informative for me to do so. Similar to Julian I have concerns starting to use it myself, if it means adding a silo next to my regular workflow. The type of interaction and annotation I have/do with a source text I normally do locally. Unless it can be a PESOS (Post Elsewhere Syndicate to Own Site) flow, exchanging that current value of processing things locally for merely the potential for interaction and conversation is likely a bad trade-off for my learning. \nHypothesis does have an API, which offers a way forward perhaps. A few weeks ago I added at least tracking who else is annotating my blogposts to my list of things to create. Julian’s nudge maybe means reevaluating that starting point, and aiming higher to also fetch whatever annotation I might make myself (I do have Hypothesis running in my Firefox browser, despite not using it much).\nIt starts I think with playing with the Hypothes.is API anyway. I have a day off later this week, hopefully I can use part of it to fire up Postman and explore the Hypothes.is API."
 		},
-		"mention-of": "https://www.synesthesia.co.uk/",
+		"mention-of": "https://www.synesthesia.co.uk/2022/05/24/reply-to-ton-zijlstra-clipping-articles-from-feed-reader-to-obsidian/",
 		"wm-property": "mention-of",
 		"wm-private": false,
 		"rels": {
