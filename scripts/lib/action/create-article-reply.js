@@ -32,7 +32,7 @@ module.exports = async function createArticleReply(url, type ) {
 		throw new Error(`URL is required for post type of ${type}`);
 	}
 
-	  
+
 	let remoteTitle;
 	let remoteAuthor;
 
@@ -63,7 +63,7 @@ module.exports = async function createArticleReply(url, type ) {
 	const env = Object.assign({}, process.env, {NOTE_REF_URL: url}, {NOTE_REF_TITLE: remoteTitle}, {NOTE_REF_AUTHOR: remoteAuthor?.name});
 
 	// Create the new post file
-	await exec(`hugo new ${folder}/${fName} --kind _post/${type}`, {env});
+	await exec(`hugo new ${folder}/${fName} --kind _post_/${type}`, {env});
 
 	// Log success
 	console.log('');
