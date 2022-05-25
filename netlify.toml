@@ -45,19 +45,31 @@
   command = "make build-preview-content"
 
 [[redirects]]
-https://elve.london/* https://www.synesthesia.co.uk/:splat 200
+from   = https://elve.london/*
+to     = https://www.synesthesia.co.uk/:splat
+status = 200
 
 [[redirects]]
-https://www.elve.london/* https://www.synesthesia.co.uk/:splat 200
+from   = https://www.elve.london/*
+to     = https://www.synesthesia.co.uk/:splat
+status = 200
 
 [[redirects]]
-https://elve.co.uk/* https://www.synesthesia.co.uk/:splat 200
+from   = https://elve.co.uk/*
+to     = https://www.synesthesia.co.uk/:splat
+status = 200
 
 [[redirects]]
-https://www.elve.co.uk/* https://www.synesthesia.co.uk/:splat 200
+from   = https://www.elve.co.uk/*
+to     = https://www.synesthesia.co.uk/:splat
+status = 200
 
 [[redirects]]
-https://elve.org.uk/* https://www.synesthesia.co.uk/:splat 200
+from   = https://elve.org.uk/*
+to     = https://www.synesthesia.co.uk/:splat
+status = 200
 
 [[redirects]]
-https://www.elve.org.uk/* https://www.synesthesia.co.uk/:splat 200
+from   = https://www.elve.org.uk/*
+to     = https://www.synesthesia.co.uk/:splat
+status = 200
