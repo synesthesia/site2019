@@ -43,3 +43,11 @@
 [context.branch-deploy]
   #command = "netlify-lambda build src/functions && hugo --gc --minify -b $URL"
   command = "make build-preview-content"
+
+[[redirects]]
+https://elve.london/* https://www.synesthesia.co.uk/:splat 200
+https://www.elve.london/* https://www.synesthesia.co.uk/:splat 200
+https://elve.co.uk/* https://www.synesthesia.co.uk/:splat 200
+https://www.elve.co.uk/* https://www.synesthesia.co.uk/:splat 200
+https://elve.org.uk/* https://www.synesthesia.co.uk/:splat 200
+https://www.elve.org.uk/* https://www.synesthesia.co.uk/:splat 200
