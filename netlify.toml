@@ -42,35 +42,35 @@
 
 [context.branch-deploy]
   #command = "netlify-lambda build src/functions && hugo --gc --minify -b $URL"
-#  command = "make build-preview-content"
-#
-#[[redirects]]
-#from   = "https://elve.london/*"
-#to     = "https://www.synesthesia.co.uk/:splat"
-#status = 200
-#
-#[[redirects]]
-#from   = "https://www.elve.london/*"
-#to     = "https://www.synesthesia.co.uk/:splat"
-#status = 200
-#
+  command = "make build-preview-content"
+
+[[redirects]]
+from   = "https://elve.london/*"
+to     = "https://www.synesthesia.co.uk/:splat"
+status = 301
+
+[[redirects]]
+from   = "https://www.elve.london/*"
+to     = "https://www.synesthesia.co.uk/:splat"
+status = 301
+
 [[redirects]]
 from   = "https://elve.co.uk/*"
 to     = "https://www.synesthesia.co.uk/:splat"
-status = 302
+status = 301
 
-#[[redirects]]
-#from   = "https://www.elve.co.uk/*"
-#to     = "https://www.synesthesia.co.uk/:splat"
-#status = 200
-#
-#[[redirects]]
-#from   = "https://elve.org.uk/*"
-#to     = "https://www.synesthesia.co.uk/:splat"
-#status = 200
-#
-#[[redirects]]
-#from   = "https://www.elve.org.uk/*"
-#to     = "https://www.synesthesia.co.uk/:splat"
-#status = 200
-#
+[[redirects]]
+from   = "https://www.elve.co.uk/*"
+to     = "https://www.synesthesia.co.uk/:splat"
+status = 301
+
+[[redirects]]
+from   = "https://elve.org.uk/*"
+to     = "https://www.synesthesia.co.uk/:splat"
+status = 301
+
+[[redirects]]
+from   = "https://www.elve.org.uk/*"
+to     = "https://www.synesthesia.co.uk/:splat"
+status = 301
+
