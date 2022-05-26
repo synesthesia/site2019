@@ -50,5 +50,31 @@
 		"rels": {
 			"canonical": "https://mmelcher.org/wp/uncategorized/combining-annotations/"
 		}
+	},
+	"7de305792d86169cf5c091a2ed2ebc11": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "admin",
+			"photo": "",
+			"url": "http://mmelcher.org/wp/author/admin/"
+		},
+		"url": "http://mmelcher.org/wp/uncategorized/combining-annotations/",
+		"published": "2022-05-24T19:05:54+00:00",
+		"wm-received": "2022-05-26T20:31:19Z",
+		"wm-id": 1405241,
+		"wm-source": "http://mmelcher.org/wp/uncategorized/combining-annotations/",
+		"wm-target": "https://www.synesthesia.co.uk/2022/05/24/reply-to-ton-zijlstra-clipping-articles-from-feed-reader-to-obsidian/",
+		"name": "Combining annotations",
+		"content": {
+			"html": "<p>Julian Elve <a href=\"https://www.synesthesia.co.uk/2022/05/24/reply-to-ton-zijlstra-clipping-articles-from-feed-reader-to-obsidian/\">shared</a> his process of dealing with annotations, so I’ll try to (web)mention my three descriptions of how I drop such annotations onto a single map:</p>\n\n\n\n<ol><li>Hypothes.is: <a href=\"http://condensr.de/2019/03/01/new-import-format-annotations/\">http://condensr.de/2019/03/01/new-import-format-annotations/</a>\n</li>\n<li>Zotero: <a href=\"https://www.youtube.com/watch?v=PtUeBnDk_is\">https://www.youtube.com/watch?v=PtUeBnDk_is</a>\n</li>\n<li>Kindle: <a href=\"http://condensr.de/2022/04/07/processing-kindle-annotations/\">http://condensr.de/2022/04/07/processing-kindle-annotations/</a>\n</li>\n</ol><p></p>\n\n\n\n<p></p>",
+			"text": "Julian Elve shared his process of dealing with annotations, so I’ll try to (web)mention my three descriptions of how I drop such annotations onto a single map:\n\n\n\nHypothes.is: http://condensr.de/2019/03/01/new-import-format-annotations/\n\nZotero: https://www.youtube.com/watch?v=PtUeBnDk_is\n\nKindle: http://condensr.de/2022/04/07/processing-kindle-annotations/"
+		},
+		"mention-of": "https://www.synesthesia.co.uk/2022/05/24/reply-to-ton-zijlstra-clipping-articles-from-feed-reader-to-obsidian/",
+		"wm-property": "mention-of",
+		"wm-private": false,
+		"rels": {
+			"canonical": "http://mmelcher.org/wp/uncategorized/combining-annotations/"
+		}
 	}
 }
