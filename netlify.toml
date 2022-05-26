@@ -54,11 +54,11 @@
 #to     = "https://www.synesthesia.co.uk/:splat"
 #status = 200
 #
-#[[redirects]]
-#from   = "https://elve.co.uk/*"
-#to     = "https://www.synesthesia.co.uk/:splat"
-#status = 200
-#
+[[redirects]]
+from   = "https://elve.co.uk/*"
+to     = "https://www.synesthesia.co.uk/:splat"
+status = 302
+
 #[[redirects]]
 #from   = "https://www.elve.co.uk/*"
 #to     = "https://www.synesthesia.co.uk/:splat"
