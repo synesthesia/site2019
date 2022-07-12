@@ -40,7 +40,7 @@ Are there any open source developers out there who feel inspired by this?
  [2]: https://blog.contentious.com/archives/000288.html
  [3]: https://www.mind-map.com/EN/index.html
  [4]: https://tonygoodson.typepad.com/tonygoodson/2004/04/butterfly_momen.html
- [5]: https://www.synesthesia.co.uk/blog/archives/2004/05/10/unpredictable-emergence-of-learning/
- [6]: https://www.synesthesia.co.uk/blog/archives/2004/05/28/social-origins-of-good-ideas/
+ [5]: /2004/05/10/unpredictable-emergence-of-learning/
+ [6]: /2004/05/28/social-origins-of-good-ideas/
  [7]: https://freemind.sourceforge.net/
  [8]: https://en.wikipedia.org/wiki/Bliki

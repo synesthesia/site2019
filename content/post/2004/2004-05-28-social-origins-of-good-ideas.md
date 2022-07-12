@@ -7,4 +7,4 @@ slug: social-origins-of-good-ideas
 aliases: ["/2004/05/28/social-origins-of-good-ideas"]
 
 ---
-&#8220;Social Origins of Good Ideas&#8221;:https://web.mit.edu/sorensen/www/SOGI.pdf (PDF) via &#8220;Phil Jones&#8221;:https://www.nooranch.com/synaesmedia/wiki/wiki.cgi?HomePage in earlier &#8220;comment&#8221;:https://www.synesthesia.co.uk/blog/archives/2004/05/10/unpredictable-emergence-of-learning/#comment-148
+[Social Origins of Good Ideas](https://web.mit.edu/sorensen/www/SOGI.pdf) (PDF) via [Phil Jones](https://www.nooranch.com/synaesmedia/wiki/wiki.cgi?HomePage) in earlier [comment on this post (now lost)](https://www.synesthesia.co.uk/2004/05/10/unpredictable-emergence-of-learning/#comment-148)
