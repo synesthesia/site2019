@@ -30,7 +30,7 @@ For me there are several:
 
 [bliki]Fragmentation And Wholeness[/bliki]
 
- [1]: h/knowledge_management/000372.php
+ [1]: {{< relref "./2004-05-09-polymaths.md" >}}
  [2]: https://chocnvodka.blogware.com/blog/_archives/2004/5/8/54483.html
  [3]: https://www.synesthesia.co.uk/linkblog/archives/2004_05.php#000378
  [4]: https://tonygoodson.typepad.com/tonygoodson/2004/04/butterfly_momen.html
