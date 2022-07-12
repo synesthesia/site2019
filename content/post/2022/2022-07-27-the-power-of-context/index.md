@@ -61,6 +61,7 @@ So what, is needed on top of my three points for 2004 to encourage effective net
 - expose yourself to lots of ideas - [renew your self]({{<relref "../2022-07-13-renewal-revisited/index.md">}})
 - learn stuff to support your process - more important to learn how to read, think and write in a networked context than how to use any specific technology
 - create your own process for [Seek-Sense-Share](https://jarche.com/2014/02/the-seek-sense-share-framework/) and stick to it (lightly)
+- be [intentional](https://jarche.com/2022/07/intentionality/)
 - "own your own space" on the web - although embracing [Indieweb](https://indieweb.org/) principles typically means an investment in learning some tech skills, that's a small price to pay for your ideas having a permanent home (your domain), in a format you can lift and shift to any server you like
 - engage with others and their ideas
 
