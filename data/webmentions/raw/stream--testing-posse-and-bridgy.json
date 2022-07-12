@@ -1,0 +1,24 @@
+{
+	"45fe6f950bae406e7f9db59d7b829e9e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/f9fbf88bacfaabc0cb0368571beebe1f08de0c33a5d96728e463a34f257fa40f.jpg",
+			"url": "https://twitter.com/Synesthesia"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1546756217875402753",
+		"published": "2022-07-12T07:19:54+00:00",
+		"wm-received": "2022-07-12T07:24:54Z",
+		"wm-id": 1432321,
+		"wm-source": "https://brid.gy/post/twitter/synesthesia/1546756217875402753",
+		"wm-target": "https://www.synesthesia.co.uk/stream/testing-posse-and-bridgy/",
+		"content": {
+			"html": "Testing POSSE and Bridgy: <a href=\"https://www.synesthesia.co.uk/stream/testing-posse-and-bridgy/\">synesthesia.co.uk/stream/testing…</a>",
+			"text": "Testing POSSE and Bridgy: synesthesia.co.uk/stream/testing…"
+		},
+		"mention-of": "https://www.synesthesia.co.uk/stream/testing-posse-and-bridgy/",
+		"wm-property": "mention-of",
+		"wm-private": false
+	}
+}
