@@ -41,7 +41,7 @@ outputFormats:
     rel: manifest
     
 services:
-  rss:
+  RSS:
     limitSummary: 200 
   
 blackfriday:
