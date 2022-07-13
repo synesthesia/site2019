@@ -40,8 +40,7 @@ outputFormats:
     mediaType: application/manifest+json
     rel: manifest
     
-RSS:
-  limit: 200 
+rssLimit: 50
   
 blackfriday:
   hrefTargetBlank: true
