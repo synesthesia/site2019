@@ -40,7 +40,7 @@ outputFormats:
     mediaType: application/manifest+json
     rel: manifest
     
-rss
+rss:
   limitSummary: 200 
   
 blackfriday:
