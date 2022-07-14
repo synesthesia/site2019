@@ -73,12 +73,14 @@ comments:
   provider: 3
   commentable:
     page: true
+    reply: true
     post: true
     docs: true
     project: true
     publication: true
     talk: true
     note: true
+    stream: true
   disqus:
     shortname: synesthesia-1
     show_count: true
