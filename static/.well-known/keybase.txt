@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/synesthesiauk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.synesthesia.co.uk
+  * I am synesthesiauk (https://keybase.io/synesthesiauk) on keybase.
+  * I have a public key ASCeG2yBZtz4pWo3egHwhVFDyyd0PEP-1yUqn3LJUYTMqwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e1b6c8166dcf8a56a377a01f0855143cb27743c43fed7252a9f72c95184ccab0a",
+      "host": "keybase.io",
+      "kid": "01209e1b6c8166dcf8a56a377a01f0855143cb27743c43fed7252a9f72c95184ccab0a",
+      "uid": "46706e1bbb05082e52a07ea84d5bd419",
+      "username": "synesthesiauk"
+    },
+    "merkle_root": {
+      "ctime": 1657795904,
+      "hash": "a5bd8bcc23b4343b75d4a38a6b25792426c43f242c8bf1b674bce61140cb2ba60b0de986a31b9a366233a769370343cbdfe94096240aae3b7f238b9305d71abf",
+      "hash_meta": "e9746367d410143fa16bad51d45e515f8e0d086e7db53bb2869f49bfed41739c",
+      "seqno": 22847510
+    },
+    "service": {
+      "entropy": "BE4dTYiJmDnOI0VclOzdNQl4",
+      "hostname": "www.synesthesia.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1657795951,
+  "expire_in": 504576000,
+  "prev": "75c2782e6a4736922ec2fff888eab04f638f31c8d910eb9e993f59c0c3f26e31",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnhtsgWbc+KVqN3oB8IVRQ8sndDxD/tclKp9yyVGEzKsKp3BheWxvYWTESpcCCcQgdcJ4LmpHNpIuwv/4iOqwT2OPMcjZEOuemT9ZwMPybjHEIGJ0W5+yr5g20MMY4+JcOlxoTZGYS18rti/tSEK1XOfFAgHCo3NpZ8RA0KLCKmvsaT+A8HW8bIxr6nl4X2L+MuXjSzO9UAEIHL7hyw4VDLhcuv0dw5w5B8trUaIGdKFV0ooFJrK38lFRC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGeTFXBJ71k6pLnkMOwNTTdGxy10ltkVQ3MdpGW+Dy4Co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/synesthesiauk
+
+==================================================================
