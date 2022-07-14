@@ -1,0 +1,24 @@
+{
+	"db3ca989b7ae325d4ed1a688ee8efc12": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "synesthesia",
+			"photo": "https://webmention.io/avatar/micro.blog/c3655f963b820b317de5690ea3f973681c5aac4b84082d504a40c679c8171132.jpg",
+			"url": "https://micro.blog/synesthesia"
+		},
+		"url": "https://micro.blog/synesthesia/13143938",
+		"published": "2022-07-14T06:10:31+00:00",
+		"wm-received": "2022-07-14T06:10:36Z",
+		"wm-id": 1433879,
+		"wm-source": "https://micro.blog/synesthesia/13143938",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-for-two-years-now-ive-read-all-my-previous-posts-interdependent-thoughts/",
+		"content": {
+			"html": "<p><a href=\"https://micro.blog/synesthesia\">@synesthesia</a> a test reply from micro.blog</p>",
+			"text": "@synesthesia a test reply from micro.blog"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/stream/bookmark-of-for-two-years-now-ive-read-all-my-previous-posts-interdependent-thoughts/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	}
+}
