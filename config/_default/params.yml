@@ -18,7 +18,7 @@ highlight: true
 math: false
 diagram: false
 privacy_pack: false
-email: julian@elve.london
+email: julianelve@pm.me
 phone: ''
 address: {}
 coordinates:
@@ -26,18 +26,19 @@ coordinates:
   longitude: '-122.1697'
 office_hours: []
 contact_links:
-  - icon: twitter
+  - icon: keybase
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Synesthesia'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:julianelve?call'
+    name: keybase.io/synesthesiauk
+    link: https://keybase.io/synesthesiauk
   - icon: telegram
     icon_pack: fab
     name: Telegram Me
     link: 'https://telegram.me/julianelve'
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Synesthesia'
+
 sharing_image: ''
 twitter: synesthesia
 date_format: 'Jan 2, 2006'

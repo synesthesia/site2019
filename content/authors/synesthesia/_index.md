@@ -58,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/synesthesia
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/synesthesiauk
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julianelve/
@@ -84,7 +87,7 @@ I'm proactive and pragmatic in applying innovative technology to business proble
 
 During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses.
 
-I also have experience of board-level engagement with a social enterprise delivering housing to persons in need.
+I also have 9 years experience of board-level engagement with a social enterprise delivering housing to persons in need. Right now I'm looking to take my non-executive work in a different direction, looking for a governor role in the education system.
 
 I started my professional life working as a broadcast engineer in UK regional television, and that’s where I first found my ability to think about joined-up systems while learning the nuts and bolts of keeping a small TV station on the air. Another key skill that I first practiced then, but have honed throughout my career, is the ability to work with multi-skilled teams to devise and deliver solutions to enable business ends, often against time pressure.
 
@@ -98,7 +101,7 @@ This blog is likely to meander and stutter, there's 20 years of history right he
 
 It shouldn't need saying but my opinions represent only me, and are not in any way endorsed by or associated with any organisation I work with. 
 
-This site, and the linked [wikis](https://wiki.synesthesia.co.uk) and [notes](https://garden.synesthesia.co.uk), are primarily a learning conversation with my future self conducted in public. It's very unlikely that anything you read here would be my last word on a subject, nor does it necessarily represent all that I know on the topic. 
+This site, and the linked [notes](https://garden.synesthesia.co.uk), are primarily a learning conversation with my future self conducted in public. It's very unlikely that anything you read here would be my last word on a subject, nor does it necessarily represent all that I know on the topic. 
 
 Feel free to comment, but I reserve the right to delete anything that is offensive, off track or spam.
 
