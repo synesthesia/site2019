@@ -1,5 +1,5 @@
 title: Synesthesia
-#baseURL: 
+#baseURL:
 copyright: '&copy; Julian Elve 2001 - {year}'
 disqusShortname: synesthesia-1
 enableGitInfo: true
@@ -39,8 +39,8 @@ outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
-    
-  
+
+
 blackfriday:
   hrefTargetBlank: true
   angledQuotes: false
@@ -93,10 +93,10 @@ frontmatter:
   - publishDate
   publishDate:
   - publishDate
-  - date 
+  - date
   - :git
   - :filename
-  
+
 security:
   enableInlineShortcodes: false
   exec:
@@ -117,4 +117,9 @@ security:
     - (?i)GET|POST
     urls:
     - .*
+services:
+  RSS:
+    Limit: -1
+
+
 

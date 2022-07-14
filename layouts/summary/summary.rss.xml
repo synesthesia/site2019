@@ -2,7 +2,8 @@
 {{- /* Upstream Hugo bug - RSS dates can be in future: https://github.com/gohugoio/hugo/issues/3918 */ -}}
 {{- $page_context := cond .IsHome site . -}}
 {{-  $pages := where .Site.RegularPages "Section" "in" site.Params.feed.mainSections  -}}
-{{- $limit := site.Config.services.RSS.Limit -}}
+{{- /* $limit := site.Config.Custom.RSS.Limit */ -}}
+{{- $limit := site.Params.feed.limit.summary -}}
 {{- if ge $limit 1 -}}
   {{- $pages = $pages | first $limit -}}
 {{- end -}}

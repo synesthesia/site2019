@@ -121,6 +121,10 @@ feed:
     - note
     - bookmark
     - reply
+  limit:
+    summary: 100
+
+
 
 cms:
   netlify_cms: true
