@@ -29,11 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Via this tweet from [Paul Cook](https://mobile.twitter.com/therealpaulcook)
-
-{{< tweet id="1247248933862211585" user="" >}}
-
-I was led to [Andy Matuschack](https://andymatuschak.org/)'s idea of [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes):
+Via a now-deleted tweet from [Paul Cook](https://mobile.twitter.com/therealpaulcook) I was led to [Andy Matuschack](https://andymatuschak.org/)'s idea of [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes):
 
 > Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects
 > *  Evergreen notes should be atomic
