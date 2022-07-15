@@ -49,6 +49,6 @@ In a recent [Twitter thread](https://twitter.com/chrischirp/status/1434211010529
 
 * They have issued a consultation document on [Covid Safety Codes of Practice](https://www.independentsage.org/wp-content/uploads/2021/09/Covid-codes-final-1-1.pdf)
 
-{{< tweet 1434211010529923072 >}}
+{{< tweet id="1434211010529923072" user="chrischirp" >}}
 
 A PDF of the full thread is available [here](https://1drv.ms/b/s!AlU3oK2wFhcrgrU_CtUIcvhanQI18A?e=kxfOaj)

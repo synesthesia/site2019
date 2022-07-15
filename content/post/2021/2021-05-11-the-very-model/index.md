@@ -31,7 +31,7 @@ projects: []
 ---
 I love this from [@aedwardslevey](https://twitter.com/aedwardslevy): [^1]
 
-{{< tweet 1383456663684870147 >}}
+{{< tweet id="1383456663684870147" user="aedwardslevy" >}}
 
 > I’ve information anecdotal, chemical, and clinical
 > I know the COVID experts, and I quote-tweet fights on aerosols

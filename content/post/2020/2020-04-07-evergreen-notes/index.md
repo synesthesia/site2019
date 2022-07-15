@@ -31,7 +31,7 @@ projects: []
 ---
 Via this tweet from [Paul Cook](https://mobile.twitter.com/therealpaulcook)
 
-{{< tweet 1247248933862211585 >}}
+{{< tweet id="1247248933862211585" user="" >}}
 
 I was led to [Andy Matuschack](https://andymatuschak.org/)'s idea of [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes):
 

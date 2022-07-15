@@ -31,6 +31,6 @@ projects: []
 ---
 Everything you need to know about Twitter in one Tweet:
 
-{{< tweet 1139998942077366272 >}}
+{{< tweet id="1139998942077366272" user="smithsmm" >}}
 
 via [@smithsmm](https://mobile.twitter.com/smithsmm)

@@ -38,11 +38,11 @@ If we succeed in getting sixty or seventy of our party’s agitators and organiz
 
 Among the tweeters, Otto English, who used the quote in his [article](https://bylinetimes.com/2019/07/03/defeating-democracy-with-its-own-weapons-a-warning-from-history/) for Byline Times [^2]:
 
-{{< tweet 1146408406829412352 >}}
+{{< tweet id="1146408406829412352" user="Otto_English" >}}
 
 and the academic, diplomat and author Dr Jennifer Cassidy:
 
-{{< tweet 1146112460828631040 >}}
+{{< tweet id="1146112460828631040" user="OxfordDiplomat" >}}
 
 Is this justified alarm, or is it another example of [Godwin's law](https://en.wikipedia.org/wiki/Godwin%27s_law)? [^3] _("As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1")_
 

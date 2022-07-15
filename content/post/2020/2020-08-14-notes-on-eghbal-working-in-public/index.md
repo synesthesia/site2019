@@ -101,7 +101,7 @@ As individual identity becomes more central, there are examples of people using 
 
 An extreme example is reported anecdotally in this tweet from [@kartikchow](https://twitter.com/kartikchow/):
 
-{{< tweet 1292499801100005377 >}}
+{{< tweet id="1292499801100005377" user="kartikchow" >}}
 
 Inevitably these sort of interventions reduce the available time and motivation from project maintainers.
 

@@ -31,7 +31,7 @@ Serious media are starting to ask probing questions about the lack of testing, t
 
 And finally...
 
-{{< tweet 1247616188890222592 >}}
+{{< tweet id="1247616188890222592" user="WaddellMJ" >}}
 
 
 
