@@ -1,0 +1,41 @@
+{
+	"9e8ed743f0b7feb000549753ad74e710": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Roland Tanglao 猪肉面",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/ce031670d85b2a5c1c07e79a0f68266f9280b691a9ab169f1f2149870e978a1e.jpeg",
+			"url": "https://twitter.com/rtanglao"
+		},
+		"url": "https://twitter.com/Synesthesia/status/1552101123007340545#favorited-by-685063",
+		"published": null,
+		"wm-received": "2022-07-27T02:14:23Z",
+		"wm-id": 1442629,
+		"wm-source": "https://brid.gy/like/twitter/synesthesia/1552101123007340545/685063",
+		"wm-target": "https://www.synesthesia.co.uk/2022/07/27/revisiting-the-power-of-context/",
+		"like-of": "https://www.synesthesia.co.uk/2022/07/27/revisiting-the-power-of-context/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"587c1315a6586f3318bccd6c6edc7577": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Roland Tanglao 猪肉面",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/ce031670d85b2a5c1c07e79a0f68266f9280b691a9ab169f1f2149870e978a1e.jpeg",
+			"url": "https://twitter.com/rtanglao"
+		},
+		"url": "https://twitter.com/rtanglao/status/1552105573247623168",
+		"published": "2022-07-27T01:36:20+00:00",
+		"wm-received": "2022-07-27T02:14:23Z",
+		"wm-id": 1442628,
+		"wm-source": "https://brid.gy/repost/twitter/synesthesia/1552101123007340545/1552105573247623168",
+		"wm-target": "https://www.synesthesia.co.uk/2022/07/27/revisiting-the-power-of-context/",
+		"content": {
+			"text": "Revisiting 'The Power of Context': synesthesia.co.uk/2022/07/27/rev…"
+		},
+		"repost-of": "https://www.synesthesia.co.uk/2022/07/27/revisiting-the-power-of-context/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
