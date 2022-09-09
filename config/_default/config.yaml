@@ -89,11 +89,24 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
   highlight:
-    codeFences: false
+    codeFences: true
+    noHl: false
+    lineNumbersInTable: false
+    noClasses: false
+    guessSyntax: true
   tableOfContents:
     startLevel: 2
     endLevel: 3
+minify:
+  tdewolff:
+    html:
+      keepComments: true
+
 
 blackfriday:
   hrefTargetBlank: true
