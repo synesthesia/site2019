@@ -161,13 +161,13 @@ extensions:
 security:
   csp:
     policy: >-
-      default-src 'self'; frame-src utteranc.es *.youtube.com *.hypothes.is hypothes.is; connect-src
+      default-src 'self'; frame-src utteranc.es *.youtube.com *.hypothes.is hypothes.is www.gstatic.com; connect-src
       'self' www.google-analytics.com; script-src 'self' 'unsafe-inline'
       'unsafe-eval' cdn.jsdelivr.net utteranc.es *.google-analytics.com www.google.com www.gstatic.com
       cdnjs.cloudflare.com www.googletagmanager.com identity.netlify.com *.hypothes.is hypothes.is;
       style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com cdn.jsdelivr.net
       fonts.googleapis.com cdn.hypothes.is; img-src *; object-src 'self' data:; media-src *;
-      font-src *; base-uri 'self'
+      font-src *; base-uri 'self';
     report_only: false
   permissions:
     policy: >-
