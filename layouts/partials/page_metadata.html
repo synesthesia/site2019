@@ -78,7 +78,7 @@
   {{ end }}
 
   {{ if $share }}
-    {{ partial "share.html" $page }}
+    {{ partial "components/page_sharer" $page }}
   {{ end }}
   {{ if ne $page.Params.Lastmod $page.Params.Date }}
     <div>

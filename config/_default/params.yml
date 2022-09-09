@@ -5,42 +5,51 @@ copyright_license:
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 
-theme: minimal
-day_night: true
-font: ''
-font_size: M
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
+# Appearance
+
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: M
+
+#theme: minimal
+#day_night: true
+#font: ''
+#font_size: M
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: ''
+    
+  analytics:
+    google_analytics: 'UA-417495-1'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+features:
+  privacy_pack_enable: false
+
+#site_type: Person
+#local_business_type: ''
+#org_name: ''
+#description: ''
 logo: ''
 highlight: true
 math: false
 diagram: false
 privacy_pack: false
-email: julianelve@pm.me
-phone: ''
-address: {}
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-office_hours: []
-contact_links:
-  - icon: keybase
-    icon_pack: fab
-    name: keybase.io/synesthesiauk
-    link: https://keybase.io/synesthesiauk
-  - icon: telegram
-    icon_pack: fab
-    name: Telegram Me
-    link: 'https://telegram.me/julianelve'
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Synesthesia'
+
 
 sharing_image: ''
-twitter: synesthesia
+#twitter: synesthesia
 date_format: 'Jan 2, 2006'
 time_format: '15:04'
 address_format: en-gb
@@ -132,9 +141,23 @@ feed:
 cms:
   netlify_cms: true
   branch: master
-icon:
-  pack:
-    ai: true
+#icon:
+#  pack:
+#    ai: true
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
+
+
 security:
   csp:
     policy: >-
