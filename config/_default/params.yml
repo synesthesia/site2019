@@ -26,13 +26,16 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: ''
-    twitter: 'synesthesia'
+    
   analytics:
     google_analytics: 'UA-417495-1'
     baidu_tongji: ''
   verification:
     google: ''
     baidu: ''
+
+features:
+  privacy_pack_enable: false
 
 #site_type: Person
 #local_business_type: ''
@@ -43,26 +46,7 @@ highlight: true
 math: false
 diagram: false
 privacy_pack: false
-email: julianelve@pm.me
-phone: ''
-address: {}
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-office_hours: []
-contact_links:
-  - icon: keybase
-    icon_pack: fab
-    name: keybase.io/synesthesiauk
-    link: https://keybase.io/synesthesiauk
-  - icon: telegram
-    icon_pack: fab
-    name: Telegram Me
-    link: 'https://telegram.me/julianelve'
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Synesthesia'
+
 
 sharing_image: ''
 #twitter: synesthesia
@@ -157,9 +141,9 @@ feed:
 cms:
   netlify_cms: true
   branch: master
-icon:
-  pack:
-    ai: true
+#icon:
+#  pack:
+#    ai: true
 
 # Extensions
 
