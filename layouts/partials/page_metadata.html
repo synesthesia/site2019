@@ -59,8 +59,8 @@
   </span>
   {{ end }}
 
-  {{ $comments_enabled := and site.DisqusShortname (not (or site.Params.disable_comments (eq $page.Params.comments false))) }}
-  {{ if and $comments_enabled (site.Params.comment_count | default true) }}
+  {{ $comments_enabled := and site.DisqusShortname (not (or site.Params.disable_comments (eq $page.Params.features.comments false))) }}
+  {{ if and $comments_enabled (site.Params.features.comment_count | default true) }}
   <span class="middot-divider"></span>
   <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
   {{ end}}

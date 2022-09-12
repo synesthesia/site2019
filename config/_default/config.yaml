@@ -133,6 +133,9 @@ frontmatter:
   - :git
   - :filename
 
+cascade:
+  commentable: true
+
 security:
   enableInlineShortcodes: false
   exec:

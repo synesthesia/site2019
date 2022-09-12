@@ -36,6 +36,8 @@ marketing:
 
 features:
   privacy_pack_enable: false
+  math:
+    enable: false
   search:
     provider: wowchemy
     algolia:
@@ -43,6 +45,26 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+  avatar:
+    gravatar: false
+    shape: circle
+  comments:
+    provider: utterances
+    commentable:
+      page: true
+      reply: true
+      post: true
+      docs: true
+      project: true
+      publication: true
+      talk: true
+      note: true
+      stream: true
+    disqus:
+      shortname: synesthesia-1
+      show_count: true
+      commento:
+      url: ''
 
 
 # Site header
@@ -62,11 +84,11 @@ header:
 #local_business_type: ''
 #org_name: ''
 #description: ''
-logo: ''
-highlight: true
-math: false
-diagram: false
-privacy_pack: false
+#logo: ''
+#highlight: true
+#math: false
+#diagram: false
+#privacy_pack: false
 
 
 sharing_image: ''
