@@ -36,6 +36,27 @@ marketing:
 
 features:
   privacy_pack_enable: false
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
 
 #site_type: Person
 #local_business_type: ''
@@ -95,13 +116,7 @@ comments:
     show_count: true
   commento:
     url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
+
 map:
   provider: 0
   api_key: ''
