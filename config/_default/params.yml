@@ -35,6 +35,10 @@ marketing:
     baidu: ''
 
 features:
+  repository:
+    url: 'https://github.com/synesthesia/site2019'
+    content_dir: content
+    branch: master
   privacy_pack_enable: false
   math:
     enable: false

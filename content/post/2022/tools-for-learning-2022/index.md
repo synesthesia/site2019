@@ -12,7 +12,7 @@ lastmod: 2022-09-09T14:28:14+01:00
 featured: false
 draft: false
 type: post
-
+editable: true 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
