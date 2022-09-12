@@ -85,6 +85,9 @@ Working Copy
 Microsoft Teams
 : This is a continually-growing part of my working day, and I keep finding new ways to push collaborative learning in the flow of work
 
+DuckDuckGo
+: I have switched web search on my phone to [DuckDuckGo](https://duckduckgo.com/), and it's about time I did so on my computer too, to get away from the pervasive tracking of Google search.
+
 Hugo
 : This blog remains published on Hugo, and I have no plans to migrate it
 
@@ -99,6 +102,7 @@ Another growth area is Indieweb - I already have web mentions working in and out
 Tempted to give [Dendron](https://wiki.dendron.so) a go too.
 
 [iaWriter](https://ia.net/writer) is becoming a popular tool on my phone for developing blog posts etc away from the computer
+
 
 
 ### Down and/or out
