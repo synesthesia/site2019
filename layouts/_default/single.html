@@ -3,12 +3,6 @@
 {{- /* Gather together all the content information */ -}}
 {{- /* ------------------------------------------- */ -}}
 
-	{{- /* Get content webmentions */ -}}
-	{{- $webmentionConfig := partial "config/webmention" . -}}
-	{{- $webmentions := (partial "content/data/webmentions" .) -}}
-
-{{ $pageType := singularize .Type }}
-
 <article class="article h-entry" itemscope itemtype="http://schema.org/Article">
 
   {{ partial "page_header.html" . }}
@@ -31,58 +25,7 @@
     <div class="article-style e-content" itemprop="articleBody">
       {{ .Content }}
     </div>
-
-    {{ partial "page_edit" . }}
-
-    {{ partial "tags.html" . }}
-
-    {{ if ne .Type "page" }}
-      {{ partial "page_author.html" . }}
-      {{ $related := site.RegularPages.Related . | first 5 }}
-      {{ with $related }}
-      <div class="article-widget">
-        <div class="hr-light"></div>
-        <h3>{{ i18n "related" }}</h3>
-        <ul>
-          {{ range . }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-    {{ end }}
-
-    {{ if site.Params.section_pager }}
-    <div class="article-widget">
-      {{ partial "section_pager.html" . }}
-    </div>
-    {{ end }}
-
-    {{/* Webmentions */}}
-		{{ if $webmentionConfig.enabled }}
-			<aside id="responses">
-				<div class="article-widget">
-					<h3>Responses ({{ len $webmentions.all }})</h3>
-				  <form method="post" action="{{ $webmentionConfig.receiver }}" target="_blank" rel="noopener" class="webmention-form" data-component="webmention-form">
-					<input type="hidden" name="target" value="{{ .Permalink }}" />
-					<p>
-						You can respond to this {{ $pageType }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
-						and any tweets about it will be picked up automatically.
-          </p>
-          <p>
-						If you published a response to this elsewhere which does not show up below, <label for="webmention-source">let me know the URL</label>:
-					</p>
-					<div class="webmention-form__inputs">
-						<input id="webmention-source" type="url" name="source" required class="webmention-form__url" />
-						<input type="submit" value="Notify me!" class="webmention-form__submit" />
-					</div>
-				</form>
-				{{ partial "content/webmentions/list" $webmentions }}
-      </div>
-			</aside>
-		{{ end }}
-
-    {{ partial "comments.html" . }}
+    {{ partial "page_footer" . }}
 
   </div>
 </article>

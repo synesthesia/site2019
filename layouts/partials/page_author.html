@@ -1,6 +1,7 @@
 {{/* Author profile box */}}
 
-{{ if not (or (eq site.Params.profile false) (eq .Params.profile false)) }}
+{{/* Don't show author box on normal pages or if author box disabled. */}}
+{{ if ne .Type "page" | and (not (or (eq site.Params.profile false) (eq .Params.profile false))) }}
 
 {{/* Display superuser if superuser exists and page authors are not explicitly specified. */}}
 {{/* Otherwise, display first author if a profile for them exists. */}}

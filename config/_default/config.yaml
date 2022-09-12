@@ -135,6 +135,7 @@ frontmatter:
 
 cascade:
   commentable: true
+  show_related: true
 
 security:
   enableInlineShortcodes: false
