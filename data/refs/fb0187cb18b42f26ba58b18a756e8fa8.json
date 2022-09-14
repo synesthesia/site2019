@@ -1,0 +1,10 @@
+{
+	"url": "https://arxiv.org/abs/cond-mat/0505371",
+	"title": "The origin of bursts and heavy tails in human dynamics",
+	"description": "The dynamics of many social, technological and economic phenomena are driven\nby individual human actions, turning the quantitative understanding of human\nbehavior into a central question of modern science. Current models of human\ndynamics, used from risk assessment to communications, assume that human\nactions are randomly distributed in time and thus well approximated by Poisson\nprocesses. In contrast, there is increasing evidence that the timing of many\nhuman activities, ranging from communication to entertainment and work\npatterns, follow non-Poisson statistics, characterized by bursts of rapidly\noccurring events separated by long periods of inactivity. Here we show that the\nbursty nature of human behavior is a consequence of a decision based queuing\nprocess: when individuals execute tasks based on some perceived priority, the\ntiming of the tasks will be heavy tailed, most tasks being rapidly executed,\nwhile a few experience very long waiting times. In contrast, priority blind\nexecution is well approximated by uniform interevent statistics. These findings\nhave important implications from resource management to service allocation in\nboth communications and retail.",
+	"published": null,
+	"author": {
+		"name": "arXiv.org",
+		"url": null
+	}
+}

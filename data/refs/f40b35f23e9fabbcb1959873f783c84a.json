@@ -1,0 +1,10 @@
+{
+	"url": "https://unix.stackexchange.com/questions/218557/how-to-change-ownership-of-symbolic-links/218559#218559",
+	"title": "Unix & Linux",
+	"description": "I am facing some issue with creating soft links. Following is the original file.\n\n$ ls -l /etc/init.d/jboss\n-rwxr-xr-x 1 askar admin 4972 Mar 11  2014 /etc/init.d/jboss\r\nLink creation is failing wi...",
+	"published": null,
+	"author": {
+		"name": "Unix & Linux Stack Exchange",
+		"url": null
+	}
+}
