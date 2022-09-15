@@ -90,6 +90,6 @@ Occasionally I read things which give me that "more questions than answers" ting
 Whilst reading the source papers I've referenced in this post it struck me, for far from the first time, just how much maths I have 
 lost - the referenced papers contain a moderate amount of statistical maths, and whereas I would have once read through it with relative facility, now each equation requires a fair bit of scrutiny and looking things up. Use it or lose it, as the saying goes.
 
-[^1]: Barabási, A.-L. (2005). The origin of bursts and heavy tails in human dynamics. https://doi.org/10.1038/nature03459+
+[^1]: Barabási, A.-L. (2005). The origin of bursts and heavy tails in human dynamics. https://doi.org/10.1038/nature03459
 
 [^2]: Karsai, M., Jo, H.-H., & Kaski, K. (2018). Bursty Human Dynamics. https://doi.org/10.1007/978-3-319-68540-3
