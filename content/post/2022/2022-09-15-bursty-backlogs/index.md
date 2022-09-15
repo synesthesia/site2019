@@ -71,7 +71,7 @@ This contrasts with the expected behaviour from [queueing theory](https://en.wik
 
 The writer then looks at data on [how quickly famous scientists responded to letters](https://arxiv.org/abs/physics/0510117) - a process involving choice and prioritisation - which found that this behaviour also followed a power law, albeit with an exponent of -1.5.
 
-He then references [Barabási 2005](https://arxiv.org/abs/cond-mat/0505371) ([analysis](https://static-content.springer.com/esm/art%3A10.1038%2Fnature03459/MediaObjects/41586_2005_BFnature03459_MOESM1_ESM.pdf)) [^1] which showed that if task selection was based on unique probability of selection for each task (roughly proportional to the priority) then the result was a power law with exponent -1, just as in the original [data](https://arxiv.org/abs/1901.01621).
+He then references Barabási 2005 [^1] ([my summary note](https://garden.synesthesia.co.uk/references/Barabasi2005)) which showed that if task selection was based on unique probability of selection for each task (roughly proportional to the priority) then the result was a power law with exponent -1, just as in the original [data](https://arxiv.org/abs/1901.01621).
 
 The rest of the post is some open-ended speculation on how specific real-world selection behaviour might map to this model.
 
@@ -90,5 +90,6 @@ Occasionally I read things which give me that "more questions than answers" ting
 Whilst reading the source papers I've referenced in this post it struck me, for far from the first time, just how much maths I have 
 lost - the referenced papers contain a moderate amount of statistical maths, and whereas I would have once read through it with relative facility, now each equation requires a fair bit of scrutiny and looking things up. Use it or lose it, as the saying goes.
 
-[^1]: Barabási, A.-L. (2005). The origin of bursts and heavy tails in human dynamics. https://doi.org/10.1038/nature03459
+[^1]: Barabási, A.-L. (2005). The origin of bursts and heavy tails in human dynamics. https://doi.org/10.1038/nature03459+
+
 [^2]: Karsai, M., Jo, H.-H., & Kaski, K. (2018). Bursty Human Dynamics. https://doi.org/10.1007/978-3-319-68540-3
