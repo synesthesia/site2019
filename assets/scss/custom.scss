@@ -9,3 +9,11 @@
 
 ins {text-decoration:none; background-color:yellow;}
 .dark ins {text-decoration:none; background-color:green;}
+
+.card-simple{
+    margin-top: var(--spacing-half-line);
+}
+
+.card-simple:first-of-type {
+    margin-top: var(--spacing-line);
+}

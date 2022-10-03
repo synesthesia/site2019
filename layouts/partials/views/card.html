@@ -9,6 +9,39 @@
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
+{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
+
+{{ $icon_pack := "far" }}
+{{ $icon := "fa-file-alt" }}
+{{ if eq $item.Type "post" }}
+  {{ $icon = "fa-newspaper" }}
+{{ else if eq $item.Type "event" }}
+  {{ $show_authors_only = true }}
+  {{ $icon = "fa-calendar-alt" }}
+{{ else if eq $item.Type "publication" }}
+  {{ $show_authors_only = true }}
+{{ else if eq $item.Type "project" }}
+  {{ $show_authors_only = true }}
+  {{ $icon_pack = "fas" }}
+  {{ $icon = "fa-project-diagram" }}
+{{ else if eq $item.Type "stream"}}
+  {{ if eq $item.Params.sub_type "reply"}}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-reply" }}
+  {{ end }}
+  {{ if eq $item.Params.sub_type "bookmark"}}
+    {{ $icon_pack = "far" }}
+    {{ $icon = "fa-bookmark" }}
+  {{ end }}
+  {{ if eq $item.Params.sub_type "like"}}
+    {{ $icon_pack = "far" }}
+    {{ $icon = "fa-heart" }}
+  {{ end }}
+  {{ if eq $item.Params.sub_type "repost"}}
+    {{ $icon_pack = "fas" }}
+    {{ $icon = "fa-retweet" }}
+  {{ end }}
+{{ end }}
 
 {{/* Get summary. */}}
 {{ $summary := "" }}
@@ -17,7 +50,7 @@
 {{ else if $item.Params.abstract }}
   {{ $summary = $item.Params.abstract | markdownify | emojify }}
 {{ else if $item.Summary }}
-  {{ $summary = $item.Summary }}
+  {{ $summary = $item.Summary | markdownify | emojify}}
 {{ end }}
 
 <div class="card-simple view-card">
@@ -54,10 +87,15 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+      {{ if in (slice "stream") $item.Type}}
+        <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
+      {{ end }}
+       {{ $item.Title }}
+    </a>
   </div>
 
-  {{ with $summary }}
+  {{ with $summary  }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
     <div class="article-style">
       <p>{{.}}</p>
