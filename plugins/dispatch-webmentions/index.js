@@ -52,21 +52,21 @@ export async function onSuccess({ constants }) {
     // logs more comprehensible. It will be uncommon for more than one URL to be
     // new at a time anyway.
     for (const url of newUrls) {
-        if (pageRegex.test(url) && !oldUrls.has(url)) {
-        const path = pathJoin('.', constants.PUBLISH_DIR, pathSep);
-        console.log('Dispatching webmentions for:', url, ' in:', path);
-
         try {
-            await dispatchWebmentionsForUrl(url, process.env.URL, path);
-            console.log('Done dispatching webmentions for:', url);
-        } catch (error) {
-            console.error(`Error dispatching webmentions for ${url}: ${error.stack || error.message}`);
+            if (pageRegex.test(url) && !oldUrls.has(url)) {
+                const path = pathJoin('.', constants.PUBLISH_DIR, pathSep);
+                console.log('Dispatching webmentions for:', url, ' in:', path);
+                await dispatchWebmentionsForUrl(url, process.env.URL, path);
+                console.log('Done dispatching webmentions for:', url);
+            }
         }
+        catch (error) {
+            console.error(`Error dispatching webmentions for ${url}: ${error.stack || error.message}`);
         }
     }
   }
   catch (error) {
-    utils.build.failPlugin('Error calculating and dispatching web mentions.', { error});
+    console.error('Error calculating and dispatching web mentions.', { error});
   }
 }
 
