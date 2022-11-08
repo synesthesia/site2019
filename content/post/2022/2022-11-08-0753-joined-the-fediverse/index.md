@@ -4,12 +4,12 @@ title: "Joined the Fediverse"
 subtitle: "Find me at @julian@social.synesthesia.co.uk"
 summary: "I've set up a Fediverse account on a private instance of Mastodon. Here's why."
 authors: ["synesthesia"]
-tags: ["fediverse", "social media", "indieweb", "syn-mst"]
+tags: ["fediverse", "social media", "indieweb"]
 categories: []
 date: 2022-11-08T07:53:49Z
 lastmod: 2022-11-08T07:53:49Z
 featured: false
-draft: false
+draft: true
 type: post
 
 
