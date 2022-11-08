@@ -1,0 +1,14 @@
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+<link rel="micropub" href="{{ ".netlify/functions/micropub" | absURL }}">
+{{ with site.Params.twitter }}<link rel="me" href="https://twitter.com/{{ . }}" /> {{ end }}
+{{ with site.Params.indieweb.github }}<link rel="me" href="{{ . }}" /> {{ end }}
+{{ with site.Params.indieweb.linkedin }}<link rel="me" href="{{ . }}" /> {{ end }}
+{{ with site.Params.indieweb.gitlab }}<link rel="me" href="{{ . }}" /> {{ end }}
+<a rel="me" href="https://social.synesthesia.co.uk/@julian">
+{{ with site.Params.email }}<link href="mailto:{{ . }}" rel="me" /> {{ end }}
+{{ with site.Params.indieweb.webmentionio}}
+<link rel="webmention" href="{{ . }}/webmention" />
+<link rel="pingback" href="{{ . }}/xmlrpc" />
+{{ end }}
+<script src="https://hypothes.is/embed.js" async></script>
