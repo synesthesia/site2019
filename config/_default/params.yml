@@ -155,6 +155,7 @@ indieweb:
   linkedin: 'https://www.linkedin.com/in/julianelve/'
   gitlab: 'https://gitlab.com/synesthesia1'
   webmentionio: 'https://webmention.io/www.synesthesia.co.uk'
+  fediverse: 'https://social.synesthesia.co.uk/@julian'
 
 # Webmention configuration
 webmention:

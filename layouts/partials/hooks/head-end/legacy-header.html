@@ -5,7 +5,7 @@
 {{ with site.Params.indieweb.github }}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.indieweb.linkedin }}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.indieweb.gitlab }}<link rel="me" href="{{ . }}" /> {{ end }}
-<a rel="me" href="https://social.synesthesia.co.uk/@julian">
+{{ with site.Params.indieweb.fediverse}}<link rel="me" href="{{ . }}" /> {{ end }}
 {{ with site.Params.email }}<link href="mailto:{{ . }}" rel="me" /> {{ end }}
 {{ with site.Params.indieweb.webmentionio}}
 <link rel="webmention" href="{{ . }}/webmention" />
