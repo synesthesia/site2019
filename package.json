@@ -41,7 +41,6 @@
     "husky": "^7.0.4",
     "jest": "^27.5.1",
     "jsdom": "^16.6.0",
-    "netlify-cli": "^9.8.3",
     "netlify-plugin-hugo-cache-resources": "^0.2.1",
     "nock": "^13.2.4",
     "p-retry": "^5.0.0",
