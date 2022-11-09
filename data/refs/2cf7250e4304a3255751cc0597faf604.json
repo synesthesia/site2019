@@ -1,0 +1,10 @@
+{
+	"url": "https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/",
+	"title": "Working with stacked branches in Git is easier with --update-refs",
+	"description": "In this post I discuss how to use the new Git rebasing feature, --update-refs, and how it makes working with stacked branches/PRs easier.",
+	"published": "2022-11-08T08:00:00.000Z",
+	"author": {
+		"name": "Andrew Lock | .NET Escapades",
+		"url": null
+	}
+}
