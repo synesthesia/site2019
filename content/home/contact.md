@@ -43,6 +43,10 @@ content:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
   contact_links:
+    - icon: mastodon
+      icon_pack: fab
+      name: Mastodon
+      link: https://social.synesthesia.co.uk/@julian 
     - icon: keybase
       icon_pack: fab
       name: keybase.io/synesthesiauk

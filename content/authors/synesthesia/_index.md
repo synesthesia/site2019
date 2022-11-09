@@ -52,6 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: mastodon
+  icon_pack: fab
+  link: https://social.synesthesia.co.uk/@julian 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/synesthesia
