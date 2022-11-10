@@ -1,0 +1,20 @@
+{
+	"7432bb60a8775cf50e8f7b46946d47e8": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Blueberry",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/2f32f97f2710a3ba40916e0264dd6c2f53002c6edda26eb0b9cdd29427c4aeec.png",
+			"url": "https://fosstodon.org/@blueberry"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109318456249963615#favorited-by-109318503962475222",
+		"published": null,
+		"wm-received": "2022-11-10T10:32:46Z",
+		"wm-id": 1555005,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109318456249963615/109318503962475222",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-home-invasion-mastodons-eternal-september-begins/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-home-invasion-mastodons-eternal-september-begins/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
