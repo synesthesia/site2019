@@ -8,7 +8,7 @@ date: 2022-11-10T07:49:44Z
 lastmod: 2022-11-10T07:49:44Z
 tags: []
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------
