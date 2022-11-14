@@ -1,0 +1,10 @@
+{
+	"url": "https://github.com/mastodon/mastodon/issues/12915",
+	"title": "reproducible HTTP 502 error in OAuth /oauth/authorize · Issue #12915 · mastodon/mastodon",
+	"description": "Hi all! I keep hitting a 502 in /oauth/authorize in 3.0.1. Is this a known issue? Here are the steps to reproduce: Create an app, eg: POST https://mastodon.technology/api/v1/apps client_name=Bridgy...",
+	"published": null,
+	"author": {
+		"name": "GitHub",
+		"url": null
+	}
+}
