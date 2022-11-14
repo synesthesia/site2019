@@ -3,7 +3,7 @@
 # -------------
 type: "stream"
 sub_type: "reply"
-title: "Reply to  'reproducible HTTP 502 error in OAuth /oauth/authorize · Issue #12915 · mastodon/mastodon'"
+title: "Reply to 'reproducible HTTP 502 error in OAuth /oauth/authorize · mastodon/mastodon'"
 date: 2022-11-14T06:56:31Z
 lastmod: 2022-11-14T06:56:31Z
 tags: ["indieweb", "fediverse"]
@@ -13,7 +13,7 @@ draft: false
 # Bookmark target
 # ---------------
 in_reply_to: "https://github.com/mastodon/mastodon/issues/12915"
-in_reply_to_title: "reproducible HTTP 502 error in OAuth /oauth/authorize · Issue #12915 · mastodon/mastodon"
+in_reply_to_title: "reproducible HTTP 502 error in OAuth /oauth/authorize · mastodon/mastodon"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
