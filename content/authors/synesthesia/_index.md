@@ -55,9 +55,9 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://social.synesthesia.co.uk/@julian 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/synesthesia
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/synesthesia
 - icon: github
   icon_pack: fab
   link: https://github.com/synesthesia

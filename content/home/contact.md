@@ -55,10 +55,10 @@ content:
       icon_pack: fab
       name: Telegram Me
       link: 'https://telegram.me/julianelve'
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Synesthesia'
+#    - icon: twitter
+#      icon_pack: fab
+#      name: DM Me
+#      link: 'https://twitter.com/Synesthesia'
   
 design:
   columns: '2'
