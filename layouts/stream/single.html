@@ -83,11 +83,11 @@
           {{ if ne $pageType "stream"}}
 					<p>
 						You can respond to this {{ $pageType }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
-						and any tweets about it will be picked up automatically.
+						and any fediverse posts or tweets about it will be picked up automatically.
           </p>
           {{ else }}
           You can respond to this {{ $pagesub_type }} using <a href="https://indieweb.org/Webmention">Webmentions</a>,
-						and any tweets about it will be picked up automatically.
+          any fediverse posts or tweets about it will be picked up automatically.
           {{ end }}
           <p>
 						If you published a response to this elsewhere which does not show up below, <label for="webmention-source">let me know the URL</label>:
