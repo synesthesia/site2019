@@ -13,7 +13,7 @@ main:
   - name: Working in the Open
     url: '#notes'
     weight: 30
-  - name: Commentary
+  - name: Ephemera
     url: '/stream'
     weight: 35
   - name: Projects
@@ -25,7 +25,7 @@ main:
   #- name: FedWiki
   #  url: 'https://wiki.synesthesia.co.uk/'
   #  weight: 50
-  
+
   - name: Tags
     url: '#tags'
     weight: 55

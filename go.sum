@@ -13,5 +13,13 @@ github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.1-0.2022090721
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.1-0.20220907214454-c36731acb3dc/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20220928221928-848a7c6a2adf h1:JqMtbKM+Ch6UvH9UKgtBhHe7ycR08Pk82e42c1gGfkw=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20220928221928-848a7c6a2adf/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221002163318-39a618761acc h1:csxomu21/fV2WLw1PyOf/Qfcm1WoSVGJmQ6vlSzxJ7U=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221002163318-39a618761acc/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221004182530-3349024c90f8 h1:Z/h5N9raXnekWSQGAuSngtVpUCQQfobpHaEgwZsxfT4=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221004182530-3349024c90f8/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221022211019-ed6595aae61a h1:Wcffy/ON9ALAjpeOsy8Fldbp79I22p4rjIywtD0w2qM=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221022211019-ed6595aae61a/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221025214855-5dcefaa0c593 h1:qjabfojpyyPc42An6Wcz+erUimvAX0PR7yWwqHqNHVg=
 github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221025214855-5dcefaa0c593/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221127215720-eb6b88f20ed0 h1:mRYWsMc53ELmyMkVSG6nTFg2RNTj+Mu1iHOkoQHtDsI=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221127215720-eb6b88f20ed0/go.mod h1:pxtkh2Fw4Vdwh2NvIYpCqhR0g7MgwVAxFN1lW9Rep44=

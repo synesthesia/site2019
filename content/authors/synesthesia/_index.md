@@ -2,12 +2,12 @@
 # Display name
 title: Julian Elve
 
+# Is this the primary user of the site?
+superuser: true
+
 # Username (this should match the folder name)
 authors:
 - synesthesia
-
-# Is this the primary user of the site?
-superuser: true
 
 # Role/position
 role: Proactive application of technology to business
@@ -90,22 +90,14 @@ I'm proactive and pragmatic in applying innovative technology to business proble
 
 During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses.
 
-I also have 9 years experience of board-level engagement with a social enterprise delivering housing to persons in need. Right now I'm looking to take my non-executive work in a different direction, looking for a governor role in the education system.
+I also have 8 years experience of board-level engagement with a social enterprise delivering housing to persons in need. Right now I'm looking to take my non-executive work in a different direction, looking for a governor role in the education system.
 
-I started my professional life working as a broadcast engineer in UK regional television, and that’s where I first found my ability to think about joined-up systems while learning the nuts and bolts of keeping a small TV station on the air. Another key skill that I first practiced then, but have honed throughout my career, is the ability to work with multi-skilled teams to devise and deliver solutions to enable business ends, often against time pressure.
+I started my professional life working as a broadcast engineer in UK regional television, and that’s where I first found my ability to think about joined-up systems, and work with multi-skilled teams under time pressure to devise and deliver solutions to enable business goals, all while keeping a small TV station on the air. 
 
-The linking thread is a lifelong curiosity about how things work, and how people use technology to get "the job" done.
+The linking thread is a lifelong curiosity about how things work, and how people use technology to get "the job" done. Along the way I've developed a fascination about how we develop and share knowledge, either as individuals or collectively.
 
-Along the way I've developed a fascination about how we develop and share knowledge, either as individuals or collectively.
+As far as I'm concerned, this blogging thing is entirely [Euan Semple's](http://euansemple.blog/) fault for introducing me to it back in 2001. As you can see from this site it has been an on-off-on-off-on sort of thing since then. This blog is likely to meander and stutter, there's 20+ years of history right here to prove that, but it's "not dead yet"...
 
-As far as I'm concerned, this blogging thing is entirely [Euan Semple's](http://euansemple.blog/) fault for introducing me to it back in 2001. As you can see from this site it has been an on-off-on-off-on sort of thing since then. 
-
-This blog is likely to meander and stutter, there's 20 years of history right here to prove that, but it's "not dead yet"...
-
-It shouldn't need saying but my opinions represent only me, and are not in any way endorsed by or associated with any organisation I work with. 
-
-This site, and the linked [notes](https://garden.synesthesia.co.uk), are primarily a learning conversation with my future self conducted in public. It's very unlikely that anything you read here would be my last word on a subject, nor does it necessarily represent all that I know on the topic. 
-
-Feel free to comment, but I reserve the right to delete anything that is offensive, off track or spam.
+It shouldn't need saying but my opinions represent only me, and are not in any way endorsed by or associated with any organisation I work with. This site, and the linked [notes](https://garden.synesthesia.co.uk), are primarily a learning conversation with my future self conducted in public. It's very unlikely that anything you read here would be my last word on a subject, nor does it necessarily represent all that I know on the topic. Feel free to comment, but I reserve the right to delete anything that is offensive, off track or spam.
 
 Unless otherwise stated everything is published on a CC-BY-NC-SA basis, feel free to copy and adapt for your own non-commercial uses provided you acknowledge me as the source. For commercial use please [contact me](#contact). If you believe I have used your material inappropriately please also [contact me](#contact) so the situation can be resolved.
