@@ -3,7 +3,7 @@
 
 title: "An issue combining Flow and Power Apps Custom API"
 subtitle: "Unexpected side effect from changing a custom API that was being called from a flow"
-summary: ""
+summary: "Unexpected side effect from changing a custom API that was being called from a flow"
 authors: ["synesthesia"]
 categories: []
 tags: ["Power Automate", "Power Platform", ]

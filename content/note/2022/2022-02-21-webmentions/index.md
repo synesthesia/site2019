@@ -4,7 +4,7 @@
 title: "Webmentions revisited"
 slug: "webmentions-revisited"
 subtitle: ""
-summary: ""
+summary: "Some changes to webmentions handling on this site"
 authors: ["synesthesia"]
 categories: []
 tags: []

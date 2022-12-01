@@ -82,7 +82,7 @@ sections:
       order: desc
     design:
     # Choose a layout view
-      view: list
+      view: masonry
       columns: '2'
 
   - block: collection
@@ -112,7 +112,7 @@ sections:
       order: desc
     design:
     # Choose a layout view
-      view: list
+      view:  masonry
       columns: '2'
 
   - block: portfolio

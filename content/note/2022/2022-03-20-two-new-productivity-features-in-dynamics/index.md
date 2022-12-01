@@ -5,7 +5,7 @@ featured: false
 draft: true
 title: "Two new productivity features in Dynamics"
 subtitle: 
-summary: 
+summary: "TBA"
 authors: ["Julian Elve"]
 categories: ["quick notes"]
 tags: []
