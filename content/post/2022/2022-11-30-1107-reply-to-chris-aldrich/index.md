@@ -37,7 +37,7 @@ Probably the biggest (and most useful) change I have made to the habit has been 
 
 {{< figure src="feedly-2019-09-25.png" title="My structure of folders in Feedly" lightbox="true" >}}
 
-However in the interests of widening the pool of ideas, and in the spirit of #FeedReaderFriday I am starting to make a point of randomly sampling sites in the @D500 and @E999 parts of my feeds. At the moment [Chris Aldrich](https://boffosocko.com/blog/) lives in @D500, but the whole point of this organisaiton is to move feedds up and down the list as the level of interaction changes. I'm finding more and more of interest around knowledge management and indieweb topics in Chris's feed.
+However in the interests of widening the pool of ideas, and in the spirit of #FeedReaderFriday I am starting to make a point of randomly sampling sites in the @D500 and @E999 parts of my feeds. At the moment [Chris Aldrich](https://boffosocko.com/blog/) lives in @D500, but the whole point of this organisation is to move feeds up and down the list as the level of interaction changes. I'm finding more and more of interest around knowledge management and indieweb topics in Chris's feed.
 
-A related project that is on my list is to find an easy way to export my list of feeds as OPML from Feedly so I can link them from this site. I could do it manually but no thanks!
+You can see the current contents of my reading list as OPML at [this link](/opml/synesthesia.opml). Currently this requires manual updating, it might be worth exploring how to make a call to the Feedly API from within the Hugo build process.
 
