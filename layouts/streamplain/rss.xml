@@ -39,9 +39,9 @@
             {{ with $ref.data }}
                {{ $citationContent = printf "<a href=\"%s\">%s</a>" .url .title | default .url }}
             {{ end }}
-            <description>{{ (htmlUnescape .Content) | plainify}} {{$ref.data.url}} </description>
+            <description>{{ (htmlUnescape .Content) | plainify | truncate 500}} {{$ref.data.url}} </description>
           {{else}}
-          <description>{{ (htmlUnescape .Content) | plainify }}</description>
+          <description>{{ (htmlUnescape .Content) | plainify | truncate 500}}</description>
           {{end}}
         </item>
       {{ end }}
