@@ -9,7 +9,7 @@ categories: ["notes"]
 tags: ["docsascode","antora"]
 lastmod: 2022-12-02T11:01:03Z
 featured: false
-draft: true
+draft: false
 type: note
 
 # Featured image
