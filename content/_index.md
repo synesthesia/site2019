@@ -82,7 +82,7 @@ sections:
       order: desc
     design:
     # Choose a layout view
-      view: masonry
+      view: masonry2
       columns: '2'
 
   - block: collection
