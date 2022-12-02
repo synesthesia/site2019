@@ -1,0 +1,20 @@
+{
+	"f18644d4628d2225e349d56abd3d57bf": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "John Kellden",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@johnkellden"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109442921880528508#favorited-by-109354013566500142",
+		"published": null,
+		"wm-received": "2022-12-02T12:30:56Z",
+		"wm-id": 1573287,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109442921880528508/109354013566500142",
+		"wm-target": "https://www.synesthesia.co.uk/2022/12/02/reply-to-chris-aldrich-feedreaderfriday-a-suggestion-for-changing-our-social-media-patterns/",
+		"like-of": "https://www.synesthesia.co.uk/2022/12/02/reply-to-chris-aldrich-feedreaderfriday-a-suggestion-for-changing-our-social-media-patterns/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
