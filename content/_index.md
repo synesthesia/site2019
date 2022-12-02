@@ -57,6 +57,28 @@ sections:
     design:
       columns: '2'
 
+  - block: accomplishments
+    content:
+    # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: /cv/BCS-JE-2023.pdf
+          date_end: ''
+          date_start: '2018-01-01'
+          description: 'BCS is the Chartered Institute for IT in the UK'
+          organization: British Computer Society
+          organization_url: https://www.coursera.org
+          title: Professional member
+          url: ''
+
   - block: collection
     id: posts
     content:
