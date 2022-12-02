@@ -9,7 +9,7 @@ date: 2022-12-02T11:50:55Z
 lastmod: 2022-12-02T11:50:55Z
 tags: ['bitcoin', 'banking']
 authors: ["synesthesia"]
-draft: trye
+draft: true
 
 # Bookmark target
 # ---------------
