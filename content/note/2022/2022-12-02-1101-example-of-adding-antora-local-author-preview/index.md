@@ -3,7 +3,7 @@
 
 title: "Example of adding Antora local author preview"
 subtitle: ""
-summary: ""
+summary: "Making it easier for developers to contribute to #docsascode by adding Antora local preview tools to code repos"
 authors: ["synesthesia"]
 categories: ["notes"]
 tags: ["docsascode","antora"]
