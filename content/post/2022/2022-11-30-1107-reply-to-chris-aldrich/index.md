@@ -23,6 +23,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: rss-icon-100x100.png
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
