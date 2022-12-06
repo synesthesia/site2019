@@ -1,0 +1,20 @@
+{
+	"9a1b1c32d77ef6909250a84e0edd046c": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Harry ਗਿੱਲ :ferris_gesture:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/625d01c1aacb955b82542f5f5c048ca5fa6a215f1c9443b175cda4ebe213f897.png",
+			"url": "https://hachyderm.io/@mygnu"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109465723553523700#favorited-by-109466183335529338",
+		"published": null,
+		"wm-received": "2022-12-06T11:09:42Z",
+		"wm-id": 1575730,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109465723553523700/109466183335529338",
+		"wm-target": "https://www.synesthesia.co.uk/note/2022/12/06/a-rusty-advent/",
+		"like-of": "https://www.synesthesia.co.uk/note/2022/12/06/a-rusty-advent/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
