@@ -3,7 +3,8 @@
 # -------------
 type: "stream"
 sub_type: "note"
-title: "Manual import of AWS resource to Terraform #100DaysToOffload"
+title: "Manual import of AWS resource to Terraform"
+summary: "Manual import of AWS resource to Terraform #100DaysToOffload"
 date: 2023-01-06T13:06:40Z
 lastmod: 2023-01-06T13:06:40Z
 tags: ["terraform", "100DaysToOffload", "InfrastructureAsCode"]
