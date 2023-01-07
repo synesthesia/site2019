@@ -1,0 +1,60 @@
+{
+	"a8157488f455557ceec9b71351b0769d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Olivier Leroy",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://fosstodon.org/@defuneste"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109642433106574459#favorited-by-109643999544233287",
+		"published": null,
+		"wm-received": "2023-01-07T16:52:52Z",
+		"wm-id": 1594985,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109642433106574459/109643999544233287",
+		"wm-target": "https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/",
+		"like-of": "https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"5ae866c7d0327b56c989f6a3ad174de8": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Adam",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://fosstodon.org/@adamsdesk"
+		},
+		"url": "https://fosstodon.org/@adamsdesk/109643476739157916",
+		"published": "2023-01-06T17:38:03",
+		"wm-received": "2023-01-07T16:52:52Z",
+		"wm-id": 1594984,
+		"wm-source": "https://brid.gy/comment/mastodon/@julian@social.synesthesia.co.uk/109642433106574459/109643476808155189",
+		"wm-target": "https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/",
+		"content": {
+			"html": "<p><span class=\"h-card\"><a href=\"https://social.synesthesia.co.uk/@julian\" class=\"u-url\">@<span>julian</span></a></span> Welcome to the challenge and I wish you well on this journey.</p>",
+			"text": "@julian Welcome to the challenge and I wish you well on this journey."
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	},
+	"5ae8976a71b8d5098ca3c99fa80a84d2": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Joel :void: :casio:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://fosstodon.org/@joel"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109642433106574459#favorited-by-109337920436672254",
+		"published": null,
+		"wm-received": "2023-01-07T16:52:52Z",
+		"wm-id": 1594983,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109642433106574459/109337920436672254",
+		"wm-target": "https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/",
+		"like-of": "https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
