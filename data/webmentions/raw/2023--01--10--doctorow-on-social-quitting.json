@@ -34,5 +34,41 @@
 		"like-of": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"eec2ff39b3c91e077ec133d501df356d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Christopher Mackay 🇨🇦",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/b8e53b353dd14e5378d58ccf1d99dbf95884d227cee39ee773ab4d25538dd9e1.png",
+			"url": "https://nojack.easydns.ca/@tantramar"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109665003827291382#favorited-by-109406313425478206",
+		"published": null,
+		"wm-received": "2023-01-10T14:06:42Z",
+		"wm-id": 1596817,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109665003827291382/109406313425478206",
+		"wm-target": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
+		"like-of": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"d4c4a9285d678b49e33d4d7801d06b5f": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Christopher Mackay 🇨🇦",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/b8e53b353dd14e5378d58ccf1d99dbf95884d227cee39ee773ab4d25538dd9e1.png",
+			"url": "https://nojack.easydns.ca/@tantramar"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109665003827291382#reblogged-by-109406313425478206",
+		"published": null,
+		"wm-received": "2023-01-10T14:07:13Z",
+		"wm-id": 1596818,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109665003827291382/109406313425478206",
+		"wm-target": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
+		"repost-of": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
+		"wm-property": "repost-of",
+		"wm-private": false
 	}
 }
