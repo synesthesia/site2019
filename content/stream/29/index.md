@@ -27,7 +27,7 @@ image:
 #   - src: "example.jpg"
 #     title: "TODO: alt text goes here"
 ---
-Wrote up a quick and simple note on how to [manually import an existing AWS resource into a Terrform plan](https://garden.synesthesia.co.uk/Manual%20import%20of%20AWS%20Resources%20to%20Terraform).
+Wrote up a quick and simple note on how to [manually import an existing AWS resource into a Terraform plan](https://garden.synesthesia.co.uk/Manual%20import%20of%20AWS%20Resources%20to%20Terraform).
 
 [#100DaysToOffload](https://100daystooffload.com/) 2/100
 
