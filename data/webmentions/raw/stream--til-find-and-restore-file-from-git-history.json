@@ -1,0 +1,20 @@
+{
+	"16f4b3a8a920d04417d652ab51bb6285": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Adam",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://fosstodon.org/@adamsdesk"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109663677132918235#favorited-by-109320565722664095",
+		"published": null,
+		"wm-received": "2023-01-10T07:37:21Z",
+		"wm-id": 1596715,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109663677132918235/109320565722664095",
+		"wm-target": "https://www.synesthesia.co.uk/stream/til-find-and-restore-file-from-git-history/",
+		"like-of": "https://www.synesthesia.co.uk/stream/til-find-and-restore-file-from-git-history/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
