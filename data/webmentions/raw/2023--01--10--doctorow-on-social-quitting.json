@@ -16,5 +16,23 @@
 		"repost-of": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"4f422b1d7486f8cf3d7141085e7cb3ff": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Euan Semple",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mstdn.social/@euan"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109665003827291382#favorited-by-109303641568962383",
+		"published": null,
+		"wm-received": "2023-01-10T13:33:37Z",
+		"wm-id": 1596806,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109665003827291382/109303641568962383",
+		"wm-target": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
+		"like-of": "https://www.synesthesia.co.uk/2023/01/10/doctorow-on-social-quitting/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
