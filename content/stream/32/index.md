@@ -4,11 +4,11 @@
 type: "stream"
 sub_type: "note"
 title: "Code lessons I thought we had learned before"
-date: 2023-01-13T15:00:06Z
-lastmod: 2023-01-13T15:00:06Z
+date: 2023-01-13T15:00:25Z
+lastmod: 2023-01-13T15:00:25Z
 tags: ["100DaysToOffload", "code"   ]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
