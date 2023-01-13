@@ -8,7 +8,7 @@ date: 2023-01-13T15:00:06Z
 lastmod: 2023-01-13T15:00:06Z
 tags: ["100DaysToOffload", "code"   ]
 authors: ["synesthesia"]
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
