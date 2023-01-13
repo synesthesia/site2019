@@ -29,7 +29,12 @@
     {{ range $pages }}
       {{ if in site.Params.feed.stream_sub_types .Params.sub_type }}
         <item>
-          <title>{{.Title}}</title>
+          <title>{{.Title}}
+           {{ $taxonomy := "tags" }}
+            {{ range $index, $value := (.GetTerms $taxonomy) }}
+                #{{ .LinkTitle }}
+            {{ end }}
+          </title>
           <link>{{ .Permalink }}</link>
           <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
           <guid>{{ .Permalink }}</guid>
