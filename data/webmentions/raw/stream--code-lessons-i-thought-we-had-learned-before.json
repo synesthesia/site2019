@@ -1,0 +1,24 @@
+{
+	"d25a41ec9ffa9ab6462ed9ae380d790e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/8362caad27953de83537d838ffabf46edcd08b5b94f6ba899840260e1e0f6c7c.jpg",
+			"url": "https://social.synesthesia.co.uk/@julian"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109682711554289723",
+		"published": "2023-01-13T15:55:59",
+		"wm-received": "2023-01-13T16:04:06Z",
+		"wm-id": 1598903,
+		"wm-source": "https://brid.gy/comment/mastodon/@julian@social.synesthesia.co.uk/109682707814414435/109682711554289723",
+		"wm-target": "https://www.synesthesia.co.uk/stream/code-lessons-i-thought-we-had-learned-before/",
+		"content": {
+			"html": "<p>Had to post that manually - IFTTT keeps getting 422 from my instance <a href=\"https://social.synesthesia.co.uk/tags/mastoadmin\">#<span>mastoadmin</span></a></p>\n<a class=\"p-category\" href=\"https://social.synesthesia.co.uk/tags/mastoadmin\">mastoadmin</a>",
+			"text": "Had to post that manually - IFTTT keeps getting 422 from my instance #mastoadmin\nmastoadmin"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/stream/code-lessons-i-thought-we-had-learned-before/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	}
+}
