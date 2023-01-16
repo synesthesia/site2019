@@ -38,3 +38,5 @@ constant interruptions and reprioritisations are a part of life so there is alwa
 * we need to think more about how we break functionality up into smaller chunks that have value in their own right - anything that needs more than 3-5 days work before something can be released is too big
 
 * we need to consider some of the lessons from [Trunk-Based Development](https://trunkbaseddevelopment.com/) - releasing new code into production but using things like feature-flags to disable it until it is ready - that way it should always be possible to pivot development to a new feature
+
+[#100DaysToOffload](https://100daystooffload.com/) 5/100
