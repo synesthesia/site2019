@@ -89,7 +89,7 @@ As I publish posts in this series they will be linked at the bottom of this post
 
 ## See also
 
-* [Dataverse Service protection API limits (MSFT Docs)](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/api-limits?tabs=sdk)
+* [Dataverse Service API protection limits (MSFT Docs)](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/api-limits?tabs=sdk)
 
 ## Meta
 
