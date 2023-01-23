@@ -28,7 +28,7 @@ marketing:
     description: ''
 
   analytics:
-    microsoft_clarity: 'er49ieyxog'
+    #microsoft_clarity: 'er49ieyxog'
     #google_analytics: 'UA-417495-1'
     baidu_tongji: ''
   verification:
