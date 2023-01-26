@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Dataverse Resilience"
-summary: "Announcing a forthcoming collection of notes exploring how to make applications that rely on Dataverse more resilient"
+summary: "A collection of notes exploring how to make applications that rely on Dataverse more resilient"
 authors: ["synesthesia"]
 tags: ["dataverse", "resilience", "100DaysToOffload"]
 categories: []
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/synesthesia/dataverse-resilience"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -86,6 +86,8 @@ Our experiences include: simple console apps, typically used for data manipulati
 In this series I aim to touch on all these scenarios and document the techniques we have found to work.
 
 As I publish posts in this series they will be linked at the bottom of this post.
+
+Example code can be found [here](https://github.com/synesthesia/dataverse-resilience).
 
 ## See also
 
