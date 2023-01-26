@@ -1,0 +1,38 @@
+{
+	"dcf4d3cd43911c0403f5db32124e8b24": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jim Novak :verified:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/57695d5201aa3ce179cd985a0408d2e54318989b793dc8fd3956c7c719af9191.jpg",
+			"url": "https://hachyderm.io/@jamesnovak"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109755556640444276#favorited-by-109484666239770382",
+		"published": null,
+		"wm-received": "2023-01-26T18:43:02Z",
+		"wm-id": 1606933,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109755556640444276/109484666239770382",
+		"wm-target": "https://www.synesthesia.co.uk/note/2023/01/26/dataverse-resilience-experiment-1/",
+		"like-of": "https://www.synesthesia.co.uk/note/2023/01/26/dataverse-resilience-experiment-1/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"845bb5c768fa9e9d585f20a81afaa92b": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jim Novak :verified:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/57695d5201aa3ce179cd985a0408d2e54318989b793dc8fd3956c7c719af9191.jpg",
+			"url": "https://hachyderm.io/@jamesnovak"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109755556640444276#reblogged-by-109484666239770382",
+		"published": null,
+		"wm-received": "2023-01-26T18:43:04Z",
+		"wm-id": 1606934,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109755556640444276/109484666239770382",
+		"wm-target": "https://www.synesthesia.co.uk/note/2023/01/26/dataverse-resilience-experiment-1/",
+		"repost-of": "https://www.synesthesia.co.uk/note/2023/01/26/dataverse-resilience-experiment-1/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
