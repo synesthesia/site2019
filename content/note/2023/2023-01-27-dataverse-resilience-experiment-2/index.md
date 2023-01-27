@@ -114,4 +114,9 @@ As a small tweak I ran the code again but with doubled `MaxDegreeOfParallelism` 
 - tuning the `MaxDegreeOfParallelism`  is critical
 - next steps will be to try using `HttpClient` directly, with `Polly` to implement the retry logic
 
+
+## See also
+
+- [Parallel.ForEachAsync Deep Dive (Greg Bair)](https://www.gregbair.dev/posts/parallel-foreachasync/)
+
 [#100DaysToOffload](https://100daystooffload.com/) 8/100
