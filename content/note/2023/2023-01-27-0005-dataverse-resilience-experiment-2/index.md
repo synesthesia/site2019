@@ -11,6 +11,7 @@ lastmod: 2023-01-27T00:00:02Z
 featured: false
 draft: false
 type: note
+slug: "dataverse-resilience-experiment-2"
 url_code: "https://github.com/synesthesia/dataverse-resilience/tree/899df96aca3a21b1b000808e9b33d45d75f29e57"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
