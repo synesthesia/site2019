@@ -11,7 +11,7 @@ lastmod: 2023-01-27T07:02:29Z
 featured: false
 draft: false
 type: note
-slug: "2023-01-27-dataverse-resilience-experiment-3"
+slug: "dataverse-resilience-experiment-3"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

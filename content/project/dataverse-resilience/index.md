@@ -41,10 +41,6 @@ url_video: ""
 slides: ""
 ---
 
-{{% callout note %}}
-I am publishing this header post before I complete any of the detailed content notes, firstly because it serves to pull together some useful information about working with the Dataverse API, and secondly by signalling my intention to write more I will give myself a motivation to do so!
-{{% /callout %}}
-
 ## Introduction
 
 Where I work we make extensive use of both Azure Functions and console apps, to manipulate data in Dataverse, or to integrate to/from Dataverse and other systems.
