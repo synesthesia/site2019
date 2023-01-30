@@ -62,7 +62,7 @@
     "@netlify/functions": "^1.0.0",
     "accessible-autocomplete": "^2.0.3",
     "article-title": "^4.1.0",
-    "babel-loader": "8.2.3",
+    "babel-loader": "8.3.0",
     "commander": "^8.0.0",
     "dompurify": "^2.3.6",
     "dotenv": "^16.0.0",
