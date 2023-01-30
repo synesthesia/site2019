@@ -1,0 +1,20 @@
+{
+	"b8b0607f2d74e8edbda88c8e54a38011": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jim Novak :verified:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/57695d5201aa3ce179cd985a0408d2e54318989b793dc8fd3956c7c719af9191.jpg",
+			"url": "https://hachyderm.io/@jamesnovak"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109778066917707132#reblogged-by-109484666239770382",
+		"published": null,
+		"wm-received": "2023-01-30T20:05:14Z",
+		"wm-id": 1610989,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109778066917707132/109484666239770382",
+		"wm-target": "https://www.synesthesia.co.uk/note/2023/01/27/dataverse-resilience-experiment-3/",
+		"repost-of": "https://www.synesthesia.co.uk/note/2023/01/27/dataverse-resilience-experiment-3/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
