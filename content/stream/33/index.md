@@ -8,7 +8,7 @@ date: 2023-01-31T08:01:36Z
 lastmod: 2023-01-31T08:01:36Z
 tags: ["education","100DaysToOffload"]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------
