@@ -1,0 +1,20 @@
+{
+	"2f9a09974d8e0486550d59a4cecd72c9": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jim Novak :verified:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/57695d5201aa3ce179cd985a0408d2e54318989b793dc8fd3956c7c719af9191.jpg",
+			"url": "https://hachyderm.io/@jamesnovak"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109782739897023640#reblogged-by-109484666239770382",
+		"published": null,
+		"wm-received": "2023-02-01T15:51:38Z",
+		"wm-id": 1613302,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109782739897023640/109484666239770382",
+		"wm-target": "https://www.synesthesia.co.uk/note/2023/01/31/dataverse-resilience-pause-and-reflect/",
+		"repost-of": "https://www.synesthesia.co.uk/note/2023/01/31/dataverse-resilience-pause-and-reflect/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
