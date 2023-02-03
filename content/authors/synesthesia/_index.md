@@ -88,7 +88,9 @@ email: ""
 
 I'm proactive and pragmatic in applying innovative technology to business problems. I'm experienced in working at senior management and board level to inform and co-create strategy, and just as comfortable working hands-on with marketing specialists, designers and developers in a CTO role.
 
-During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses.
+During my career I have developed substantial technology management experience with both direct and outsourced teams, in complex commercial and not-for-profit businesses, including a long stint in the UK's national broadcasting organisation. 
+
+Currently I work as the director responsible for technology, data and related things in a small company focused on supporting schools and the people who work in them in the interests of better outcomes for all students.
 
 I also have 8 years experience of board-level engagement with a social enterprise delivering housing to persons in need. Right now I'm looking to take my non-executive work in a different direction, looking for a governor role in the education system.
 
