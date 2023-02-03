@@ -1,6 +1,6 @@
 [build]
   #command = "hugo --gc --minify -b $URL"
-  #command = "yarn do-build"
+  #command = "npx do-build"
   command = "make build-content"
   publish = "public"
   functions = "functions"
