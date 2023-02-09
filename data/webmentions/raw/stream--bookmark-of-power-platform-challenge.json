@@ -16,5 +16,59 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"c1a07f4cfd329c1c878ae1fbc1d90839": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jim Novak :verified:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/57695d5201aa3ce179cd985a0408d2e54318989b793dc8fd3956c7c719af9191.jpg",
+			"url": "https://hachyderm.io/@jamesnovak"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109833665692560489#reblogged-by-109484666239770382",
+		"published": null,
+		"wm-received": "2023-02-09T17:35:13Z",
+		"wm-id": 1619262,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109833665692560489/109484666239770382",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	},
+	"9e1c543c42b7363d25e777159fecdf69": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jim Novak :verified:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/57695d5201aa3ce179cd985a0408d2e54318989b793dc8fd3956c7c719af9191.jpg",
+			"url": "https://hachyderm.io/@jamesnovak"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109833665692560489#favorited-by-109484666239770382",
+		"published": null,
+		"wm-received": "2023-02-09T17:35:13Z",
+		"wm-id": 1619261,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109833665692560489/109484666239770382",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"35929b3746ddf96b4aa5ee94f5d29e79": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109833665692560489#reblogged-by-109834905832756277",
+		"published": null,
+		"wm-received": "2023-02-09T17:35:15Z",
+		"wm-id": 1619263,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109833665692560489/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-power-platform-challenge/",
+		"wm-property": "repost-of",
+		"wm-private": false
 	}
 }

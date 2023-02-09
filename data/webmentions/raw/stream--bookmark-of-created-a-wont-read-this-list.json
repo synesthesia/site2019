@@ -1,0 +1,38 @@
+{
+	"8d7aed171a1508dceb4e62f40c8739f2": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Harold Jarche",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@harold"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109835297280202720#reblogged-by-109308602117144883",
+		"published": null,
+		"wm-received": "2023-02-09T17:34:42Z",
+		"wm-id": 1619259,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109835297280202720/109308602117144883",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	},
+	"39a8701211177d0ec151541fefa3bda3": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/0706b808472286983f1d1689753864916548d81cf0cfd33728d74788c3a69a4e.jpg",
+			"url": "https://m.tzyl.eu/@ton"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109835297280202720#favorited-by-109416050800369573",
+		"published": null,
+		"wm-received": "2023-02-09T17:34:43Z",
+		"wm-id": 1619260,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109835297280202720/109416050800369573",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
