@@ -6,7 +6,7 @@ sub_type: "bookmark"
 title: "Bookmark of 'The political, moral and intellectual bankruptcy of the current Conservative party'"
 date: 2023-01-11T07:47:46Z
 lastmod: 2023-01-11T07:47:46Z
-tags: []
+tags: ["politics"]
 authors: ["synesthesia"]
 draft: false
 
