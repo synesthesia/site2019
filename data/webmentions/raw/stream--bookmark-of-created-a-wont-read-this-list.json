@@ -34,5 +34,23 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"e21d86c8c950c9013ad72235070a9854": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Juraj Maťaše",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/afd0ae2d9ffad0b02e12384b0e3f244c3bb880adfcc57295de094e9a3e398871.jpg",
+			"url": "https://ruby.social/@juraj"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109835297280202720#favorited-by-109792030441404312",
+		"published": null,
+		"wm-received": "2023-02-10T20:50:25Z",
+		"wm-id": 1620138,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109835297280202720/109792030441404312",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-created-a-wont-read-this-list/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
