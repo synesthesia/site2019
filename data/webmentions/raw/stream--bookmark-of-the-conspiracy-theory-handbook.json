@@ -1,0 +1,20 @@
+{
+	"7b883265e29ef1ed517d792658549c5e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Harold Jarche",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@harold"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109907354828093093#reblogged-by-109308602117144883",
+		"published": null,
+		"wm-received": "2023-02-22T11:56:58Z",
+		"wm-id": 1627935,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109907354828093093/109308602117144883",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-the-conspiracy-theory-handbook/",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-the-conspiracy-theory-handbook/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
