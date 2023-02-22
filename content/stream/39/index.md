@@ -6,7 +6,7 @@ sub_type: "bookmark"
 title: "Bookmark of 'The Conspiracy Theory Handbook'"
 date: 2023-02-22T07:52:37Z
 lastmod: 2023-02-22T07:52:37Z
-tags: ["FakeNews", "DigitialLiteracy", "100DaysToOffload"]
+tags: ["FakeNews", "DigitalLiteracy", "100DaysToOffload"]
 authors: ["synesthesia"]
 draft: false
 
