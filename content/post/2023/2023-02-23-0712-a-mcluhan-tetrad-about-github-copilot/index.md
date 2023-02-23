@@ -4,7 +4,7 @@ title: "A McLuhan Tetrad about GitHub CoPilot"
 subtitle: ""
 summary: "I experiment with analysing the potential effects of CoPilot using a McLuhan tetrad"
 authors: ["synesthesia"]
-tags: ["McLuhan", "PKM", "PKMastery", "#100DaysToOffload"]
+tags: ["McLuhan", "PKM", "PKMastery", "100DaysToOffload"]
 categories: []
 date: 2023-02-23T07:12:03Z
 lastmod: 2023-02-23T07:12:03Z
