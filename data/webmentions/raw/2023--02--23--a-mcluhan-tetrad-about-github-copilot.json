@@ -1,0 +1,20 @@
+{
+	"743b81884014b496a4a80b456204ad35": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Willem Van den Ende",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@mostalive"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109913005076840574#favorited-by-109324676662630548",
+		"published": null,
+		"wm-received": "2023-02-23T09:41:54Z",
+		"wm-id": 1628639,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109913005076840574/109324676662630548",
+		"wm-target": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
+		"like-of": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
