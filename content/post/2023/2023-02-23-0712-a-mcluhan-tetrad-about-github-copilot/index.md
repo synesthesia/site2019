@@ -66,11 +66,21 @@ The hardest part of this model to apply is **RETRIEVE** - what is the earlier fo
 
 In this case I think, tentatively, that the power of these tools brings back an earlier form of software development with simpler (or no) frameworks - although you lose the support of whatever framework you are using, you also lose the "boiler plate" code needed to "feed" the framework. Not sure this sticks yet, but in the spirit of "share your half-baked ideas" I put it out there.
 
+*UPDATE - after I published this post, I found [this](https://newsletter.goodtechthings.com/p/when-programming-is-gone-will-we) by [Forrest Brazeal](https://hachyderm.io/@forrestbrazeal) that explores some of those factors more deeply.*
+
 I suspect that the more general challenge with the **RETRIEVE** stage is having enough historical perspective and the ability to zoom out from the specific and everyday, to see the echos of the past.
 
 As a thinking exercise I can see the power of the tool - although I have seen these examples on Harold's site for some time, I have never before tried to use the model to structure thought about some technology or medium, and it is definitely both a guide to, and provoker of, a deeper analysis.
 
 Harold has asked us *"Does this allow you to see the technology with new eyes? Would this kind of perspective be helpful in making business decisions or where to invest your energy?"* - to which I would say that the focus on both the benefits and potential negative effects of a technology is a great place to start thinking about how it might affect the wider human / technical / management system it is operating within.
+
+## Afterthought
+
+(Update)
+
+After I I saw this and had to add it (from []())
+
+![A cartoon about sad engineers looking at the additional complexity from AI](brazeal-ai-code-sad.png)
 
 
 [#100DaysToOffload](https://100daystooffload.com/) 20/100
