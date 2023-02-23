@@ -76,11 +76,10 @@ Harold has asked us *"Does this allow you to see the technology with new eyes? W
 
 ## Afterthought
 
-(Update)
+Update - after I saw [Forrest Brazeal](https://hachyderm.io/@forrestbrazeal)'s blog post I also found this cartoon by him:
 
-After I I saw this and had to add it (from []())
+{{< figure src="brazeal-ai-code-sad.png" alt="A cartoon about sad engineers looking at the additional complexity from AI"  width="60%" >}}
 
-![A cartoon about sad engineers looking at the additional complexity from AI](brazeal-ai-code-sad.png)
-
+[image source](https://www.goodtechthings.com/pile-of-complexity/), used with permission.
 
 [#100DaysToOffload](https://100daystooffload.com/) 20/100
