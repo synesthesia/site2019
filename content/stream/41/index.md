@@ -8,7 +8,7 @@ date: 2023-02-24T08:47:07Z
 lastmod: 2023-02-24T08:47:07Z
 tags: ["computerHistory", "100daystooffload"]
 authors: ["synesthesia"]
-draft: false
+draft: true
 
 # Bookmark target
 # ---------------
