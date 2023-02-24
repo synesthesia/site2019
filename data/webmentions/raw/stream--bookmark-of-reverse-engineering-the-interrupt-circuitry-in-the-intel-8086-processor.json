@@ -1,0 +1,20 @@
+{
+	"1c233f0f8c81949ae90d03a9b5d5329a": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109919001330565896#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2023-02-24T12:59:53Z",
+		"wm-id": 1629415,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109919001330565896/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-reverse-engineering-the-interrupt-circuitry-in-the-intel-8086-processor/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-reverse-engineering-the-interrupt-circuitry-in-the-intel-8086-processor/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
