@@ -70,5 +70,41 @@
 		"repost-of": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"92384c2499892cfe45b876858e1cb72a": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/0706b808472286983f1d1689753864916548d81cf0cfd33728d74788c3a69a4e.jpg",
+			"url": "https://m.tzyl.eu/@ton"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109913005076840574#reblogged-by-109416050800369573",
+		"published": null,
+		"wm-received": "2023-02-24T06:40:50Z",
+		"wm-id": 1629302,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109913005076840574/109416050800369573",
+		"wm-target": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
+		"repost-of": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	},
+	"555936b503c917147286bbfd75dcd893": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/0706b808472286983f1d1689753864916548d81cf0cfd33728d74788c3a69a4e.jpg",
+			"url": "https://m.tzyl.eu/@ton"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109913005076840574#favorited-by-109416050800369573",
+		"published": null,
+		"wm-received": "2023-02-24T06:40:50Z",
+		"wm-id": 1629301,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109913005076840574/109416050800369573",
+		"wm-target": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
+		"like-of": "https://www.synesthesia.co.uk/2023/02/23/a-mcluhan-tetrad-about-github-copilot/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
