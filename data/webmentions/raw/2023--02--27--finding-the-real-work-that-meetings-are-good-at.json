@@ -1,0 +1,20 @@
+{
+	"68fba5feeb4ae87a931d9a63fb56f071": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Vic",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mstdn.social/@vic"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109937756408141450#reblogged-by-109313486257144613",
+		"published": null,
+		"wm-received": "2023-02-27T18:03:20Z",
+		"wm-id": 1631363,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/109937756408141450/109313486257144613",
+		"wm-target": "https://www.synesthesia.co.uk/2023/02/27/finding-the-real-work-that-meetings-are-good-at/",
+		"repost-of": "https://www.synesthesia.co.uk/2023/02/27/finding-the-real-work-that-meetings-are-good-at/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
