@@ -44,7 +44,7 @@ Reading between the lines of Elizabeth's post and profile, I think the experienc
 
 To fully realise the value of collective learning to the benefit of both the individuals *and* the company we need to augment the learning with community and network layers. Large companies may support communities of practice where professionals of different skill sets can exchange ideas, but how much is that in tension with a tightly-managed Tayloristic division of work? 
 
-Moving on towards the top-right of the diagram how much do large companies permit or facilitate their professionals to spend time in wider knowledge networks? In the tech sphere a useful proxy indicator might be the [numbers of staff who are allowed to particpate in open source initiatives](https://www.mend.io/resources/blog/the-top-10-companies-contributing-to-open-source/)? In so far as those companies make such policies public it might be interesting to survey the IP policies they impose on staff before permitting them to engage with open source projects.
+Moving on towards the top-right of the diagram how much do large companies permit or facilitate their professionals to spend time in wider knowledge networks? In the tech sphere a useful proxy indicator might be the [numbers of staff who are allowed to particpate in open source initiatives](https://www.mend.io/resources/blog/the-top-10-companies-contributing-to-open-source/)? *(caveat, 2018 figures)* In so far as those companies make such policies public it might be interesting to survey the IP policies they impose on staff before permitting them to engage with open source projects.
 
 
 
