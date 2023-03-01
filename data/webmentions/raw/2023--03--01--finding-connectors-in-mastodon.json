@@ -88,5 +88,59 @@
 		"repost-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"e5fa1a52af697ebefba7641001b62951": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Dr. Angus Andrea Grieve-Smith",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/3e36c13bf9b22123d0dd9debbcdfcba30b40e02568c8b52f2d08c3cb5676d2e1.png",
+			"url": "https://lingo.lol/@grvsmth"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109949071296072470#favorited-by-109440832862572300",
+		"published": null,
+		"wm-received": "2023-03-01T19:37:41Z",
+		"wm-id": 1632381,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109949071296072470/109440832862572300",
+		"wm-target": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"1dd4391afd07357cad7dc8494e1cb0ed": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Hana Lee | 이하나",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/f42c73f51a21caa255c06c779412c85a1f49f324bef08db913ed7f0996f34495.jpg",
+			"url": "https://hachyderm.io/@hana"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109949071296072470#favorited-by-109949616362143910",
+		"published": null,
+		"wm-received": "2023-03-01T19:38:10Z",
+		"wm-id": 1632382,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109949071296072470/109949616362143910",
+		"wm-target": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"0d796e2422f9a5c03e22e0e8b23218f5": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Technodon :verified_gold:",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/d3532e1d4d50629c10130cad99dd38ca9d3c78b831c570af7084deb58e0236a4.png",
+			"url": "https://technodon.org/@technodon"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109949071296072470#favorited-by-109949604843608390",
+		"published": null,
+		"wm-received": "2023-03-01T19:38:11Z",
+		"wm-id": 1632383,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109949071296072470/109949604843608390",
+		"wm-target": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
