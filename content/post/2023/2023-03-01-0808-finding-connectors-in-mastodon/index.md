@@ -2,14 +2,14 @@
 # article
 title: "Finding 'connectors' in Mastodon"
 subtitle: ""
-summary: "Exploring the behaviour of people who act as connectors, steered by @harold@mastodon.social, with some tools by @judell@mastodon.social"
+summary: "Exploring the behaviour of people who act as 'connectors', steered by @harold@mastodon.social, with some tools by @judell@mastodon.social"
 authors: ["synesthesia"]
 tags: ["PKMastery", "Mastodon", "Steampipe", "SocialNetworks","100DaysToOffload"]
 categories: []
 date: 2023-03-01T08:08:31Z
 lastmod: 2023-03-01T08:08:31Z
 featured: false
-draft: true
+draft: false
 type: post
 
 
@@ -31,7 +31,7 @@ projects: []
 
 ## Introduction
 
-This week as part of the [Personal Knowledge Mastery](https://jarche.com/pkm/) course Harold challenged us to identify some 'connectors' on Mastodon and consider their posting habits.
+This week as part of the [Personal Knowledge Mastery](https://jarche.com/pkm/) course Harold challenged us to identify some 'Connectors' on Mastodon and consider their posting habits.
 
 Although connectors are defined by their behaviour, in that they join up those who seek knowledge with those who share it, it was suggested that we look at individuals who had a high ratio of follwers to followed as a starting point.
 
@@ -90,6 +90,8 @@ I suggest that the accounts in this list fall into two main groups:
 
 You can start to see some numbers that make more sense, for example if I filter for the entirely arbitrary range of 2 < `followratio` < 700 and `toots` > 100 you get this somewhat longer list:
 
+([*Jump over this long list*](#exploring-content))
+
 {{< table path="followed-middle-followerratio-20230301.csv" header="true" caption="Table 3: Follwed with 2 < followratio , 700 and toots > 100" >}}
 
 This, together with the earlier list of followers looks much more fruitful ground to explore for "Connectors"
@@ -100,8 +102,12 @@ I don't have the time or tools to do an exhaustive examination of content from t
 
 Sampling at random though, I noticed the following:
 
+- a fair amount of boosting (re-posting someone's tweet into your timeline and to your followers)
+- a fair amount of tagging other people
+- a fair amount of linking to web content
+- yet still a reasonable amount of their own content
 
-
+In other words, it "just looks balanced".
 
 ## Reflection
 
@@ -112,9 +118,14 @@ I think that is born out by what I found at the top of my Follows list, accounts
 
 In the world of technical analysis of social networks, [Valdis Krebs](https://en.wikipedia.org/wiki/Valdis_Krebs) pioneered this work 15+ years ago, and if we were able to do that type of analysis what we might be looking for are people with high [*Betweenness Centrality*](http://orgnet.com/sna.html), i.e. people who sit between otherwise-disconnected groups in the network.
 
-Regardless of these network topologies, the key point is the behaviour, a connector is someone who joins up others, who [closes the triangle](https://bethkanter.org/close-the-triangle/). So perhaps the next level of analysis would be to look at the content of what they post, to see who references other people in their posts. This might be an area to explore more  with Steampipe, although I suspect it may be a bit of stretch in terms of my SQL skills :-(
+Regardless of these network topologies, the key point is the behaviour, a connector is someone who joins up others, who [closes the triangle](https://bethkanter.org/close-the-triangle/). 
 
-At a pragmatic level....
+Although someone with more skills and time might pull off some amazing semantic or topological study, in pragmatic terms I am pretty happy with my ad hoc observation that Connectors seem to be "balanced", reflected by posts that show a good mixture of:
 
+- boosts
+- tagging others
+- sharing links
+
+What do *you* think?
 
 [#100DaysToOffload](https://100daystooffload.com/) 24/100
