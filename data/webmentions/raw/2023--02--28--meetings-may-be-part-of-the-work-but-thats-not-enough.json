@@ -34,5 +34,27 @@
 		"repost-of": "https://www.synesthesia.co.uk/2023/02/28/meetings-may-be-part-of-the-work-but-thats-not-enough/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"b9e5c5fe8a7476dfd58a0f685e1a9f2b": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Harold Jarche",
+			"photo": "https://webmention.io/avatar/pbs.twimg.com/8de410cdeaba76628edfec369b33a482cd94755517ce80fa500dc517eb45f3a5.jpg",
+			"url": "https://twitter.com/hjarche"
+		},
+		"url": "https://twitter.com/hjarche/status/1630558900230422528",
+		"published": "2023-02-28T13:21:50+00:00",
+		"wm-received": "2023-03-01T03:59:44Z",
+		"wm-id": 1632079,
+		"wm-source": "https://brid.gy/post/twitter/synesthesia/1630558900230422528",
+		"wm-target": "https://www.synesthesia.co.uk/2023/02/28/meetings-may-be-part-of-the-work-but-thats-not-enough/",
+		"content": {
+			"html": "“Large companies may support communities of practice where professionals of different skill sets can exchange ideas, but how much is that in tension with a tightly-managed Tayloristic division of work?”\n<a href=\"https://www.synesthesia.co.uk/2023/02/28/meetings-may-be-part-of-the-work-but-thats-not-enough/\">synesthesia.co.uk/2023/02/28/mee…</a>",
+			"text": "“Large companies may support communities of practice where professionals of different skill sets can exchange ideas, but how much is that in tension with a tightly-managed Tayloristic division of work?”\nsynesthesia.co.uk/2023/02/28/mee…"
+		},
+		"mention-of": "https://www.synesthesia.co.uk/2023/02/28/meetings-may-be-part-of-the-work-but-thats-not-enough/",
+		"wm-property": "mention-of",
+		"wm-private": false
 	}
 }
