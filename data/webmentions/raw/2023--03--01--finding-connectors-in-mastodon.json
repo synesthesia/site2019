@@ -142,5 +142,31 @@
 		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"4d848a0831d01799aedcbad73b544e98": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "",
+			"url": ""
+		},
+		"url": "https://www.zylstra.org/blog/2023/03/conversational-symmetry-redux/",
+		"published": "2023-03-02T10:52:57+01:00",
+		"wm-received": "2023-03-02T09:53:02Z",
+		"wm-id": 1632617,
+		"wm-source": "https://www.zylstra.org/blog/2023/03/conversational-symmetry-redux/",
+		"wm-target": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"name": "Conversational Symmetry Redux",
+		"content": {
+			"html": "<p><em>In reply to <a href=\"https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/\" class=\"p-name u-in-reply-to\">Finding Connectors in Mastodon</a> by Julian Elve</em></p>\n<p>This reminds me of years ago when birdsite was young I did <a href=\"https://www.zylstra.org/blog/2008/05/conversational_1/\">a similar comparison for Twitter</a>. I looked at profiles to see if they seemed in it for the conversation, in it to actually connect. Those would have a balanced ratio of followed/followers. As in contrast with profiles that were ‘large antenna arrays’ (many more followed than followers), ‘A-listers’ (many more followers than followed). Dubbed it conversational symmetry back then in that post. And yes, Valdis Krebs comes to mind too.</p>\n<blockquote><p>Although connectors are defined by their behaviour, in that they join up those who seek knowledge with those who share it, it was suggested that we look at individuals who had a high ratio of follwers to followed as a starting point. …. there’s part of me that’s not convinced that follower ratio is a good measure for who is a ‘Connector’ – perhaps a good Connector would tend to show a more balanced ratio of followers / follows? … in pragmatic terms I am pretty happy with my ad hoc observation that Connectors seem to be “balanced”…</p>\n<p>auteur</p></blockquote>",
+			"text": "In reply to Finding Connectors in Mastodon by Julian Elve\nThis reminds me of years ago when birdsite was young I did a similar comparison for Twitter. I looked at profiles to see if they seemed in it for the conversation, in it to actually connect. Those would have a balanced ratio of followed/followers. As in contrast with profiles that were ‘large antenna arrays’ (many more followed than followers), ‘A-listers’ (many more followers than followed). Dubbed it conversational symmetry back then in that post. And yes, Valdis Krebs comes to mind too.\nAlthough connectors are defined by their behaviour, in that they join up those who seek knowledge with those who share it, it was suggested that we look at individuals who had a high ratio of follwers to followed as a starting point. …. there’s part of me that’s not convinced that follower ratio is a good measure for who is a ‘Connector’ – perhaps a good Connector would tend to show a more balanced ratio of followers / follows? … in pragmatic terms I am pretty happy with my ad hoc observation that Connectors seem to be “balanced”…\nauteur"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"wm-property": "in-reply-to",
+		"wm-private": false,
+		"rels": {
+			"canonical": "https://www.zylstra.org/blog/2023/03/conversational-symmetry-redux/"
+		}
 	}
 }
