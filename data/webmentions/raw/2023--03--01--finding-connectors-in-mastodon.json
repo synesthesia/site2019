@@ -168,5 +168,23 @@
 		"rels": {
 			"canonical": "https://www.zylstra.org/blog/2023/03/conversational-symmetry-redux/"
 		}
+	},
+	"4744dbffc4da2d82074907b60e841706": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "⛧Satanist⛧",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/0b3ddbcf0cb6690869132f95fb1b336290e26f817b2bbebda3d72cc932a8a4d0.png",
+			"url": "https://aethy.com/@Satanist"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109949071296072470#favorited-by-109954012589270355",
+		"published": null,
+		"wm-received": "2023-03-02T14:12:45Z",
+		"wm-id": 1632667,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109949071296072470/109954012589270355",
+		"wm-target": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
