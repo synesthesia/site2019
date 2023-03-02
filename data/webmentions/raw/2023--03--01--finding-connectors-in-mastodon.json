@@ -186,5 +186,23 @@
 		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"7fa8e41d5a61bad6213ed2e5ffb9937d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Pete Prodoehl 🍕",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@rasterweb"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109949071296072470#favorited-by-109320570016545898",
+		"published": null,
+		"wm-received": "2023-03-02T19:41:41Z",
+		"wm-id": 1632873,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109949071296072470/109320570016545898",
+		"wm-target": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"like-of": "https://www.synesthesia.co.uk/2023/03/01/finding-connectors-in-mastodon/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
