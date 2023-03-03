@@ -2,7 +2,7 @@
 # article
 title: "A heuristic for choosing people to follow on Mastodon"
 subtitle: ""
-summary: ""
+summary: "An experimental guide to make the Mastodon timeline both rewarding and useful"
 authors: ["synesthesia"]
 tags: ["PKMastery", "Mastodon", "SocialNetworks", "100DaysToOffload"]
 categories: []
