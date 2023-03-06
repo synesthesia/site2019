@@ -32,7 +32,9 @@ projects: []
 
 As previously mentioned, I am currently re-experiencing Harold Jarche’s [Personal Knowledge Mastery](https://jarche.com/pkm/) course.
 
-The latest challenge from Harold is to explore narrating our work either to ourselves or in a shared form.
+The latest challenge from Harold is to explore narrating our work either to ourselves or in a shared form, as this can form a key stimulus in networked learning
+
+>*Narrating one’s work does not get knowledge transferred, but it provides a better medium to gain more understanding* - [Harold Jarche](https://jarche.com/2014/02/the-seek-sense-share-framework/).
 
 This is something I have iterated over a few times, so I thought it would be useful to capture my current practice.
 
