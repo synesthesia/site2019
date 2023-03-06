@@ -40,7 +40,7 @@ This is something I have iterated over a few times, so I thought it would be use
 
 The two hurdles I have always felt with this process have been:
 
-- to be able to seperate the things which really can only be discussed inside my employer's organisation, and the things which potentially can be made public
+- to be able to separate the things which really can only be discussed inside my employer's organisation, and the things which potentially can be made public
 - accepting that what I write in my web spaces doesn't have to fit into any particular pattern, i.e. it is perfectly acceptable to mix professional things with personal interests, or comments on things that I have noticed.
 
 ## My approach in brief
