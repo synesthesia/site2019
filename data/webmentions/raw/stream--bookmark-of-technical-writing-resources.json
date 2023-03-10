@@ -1,0 +1,20 @@
+{
+	"bad3f5766165f7cb861c02e82bd07847": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Adam",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/69cde822332c750dd3773fd9ac6aea9feadbd8bcf81c1e6c84b183d234967cc8.jpg",
+			"url": "https://fosstodon.org/@adamsdesk"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/109992209561037365#favorited-by-109320565722664095",
+		"published": null,
+		"wm-received": "2023-03-10T06:03:18Z",
+		"wm-id": 1637682,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/109992209561037365/109320565722664095",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-technical-writing-resources/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-technical-writing-resources/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
