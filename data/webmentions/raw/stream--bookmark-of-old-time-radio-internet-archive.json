@@ -1,0 +1,20 @@
+{
+	"a687d292fe845f530f59239887a84800": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Adam",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/69cde822332c750dd3773fd9ac6aea9feadbd8bcf81c1e6c84b183d234967cc8.jpg",
+			"url": "https://fosstodon.org/@adamsdesk"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110038648964768578#favorited-by-109320565722664095",
+		"published": null,
+		"wm-received": "2023-03-17T14:54:56Z",
+		"wm-id": 1643247,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/110038648964768578/109320565722664095",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-old-time-radio-internet-archive/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-old-time-radio-internet-archive/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
