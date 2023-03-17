@@ -16,5 +16,23 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-old-time-radio-internet-archive/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"eb2d23fd2b6abbf0f3a7f7d666f6bf2d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110038648964768578#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2023-03-17T20:49:45Z",
+		"wm-id": 1643495,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/110038648964768578/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-old-time-radio-internet-archive/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-old-time-radio-internet-archive/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
