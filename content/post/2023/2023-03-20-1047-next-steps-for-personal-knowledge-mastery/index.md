@@ -2,7 +2,7 @@
 # article
 title: "Next steps for Personal Knowledge Mastery"
 subtitle: ""
-summary: "A summary of my experience with the Personal Knowlege Mastery course from @harold@mastodon.social, and my next steps"
+summary: "A summary of my experience with the Personal Knowledge Mastery course from @harold@mastodon.social, and my next steps"
 authors: ["synesthesia"]
 tags: ["PKMastery", "PKM", "100DaysToOffload"]
 categories: []
