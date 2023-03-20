@@ -72,7 +72,7 @@ The first time I took this course, I [reflected at the halfway point](https://ww
 - better ability to split out the non-confidential parts of my work and use them in public sense-making and sharing - that one is still a significant challenge, but I feel more comfortable in doing so now, and it is helped by [rigorous daily note-taking](http://localhost:1313/2023/03/06/how-i-narrate-my-work/), a practice I didn't have back then
 - getting slicker at writing in public (hence [100DaysToOffload](https://www.synesthesia.co.uk/2023/01/06/a-new-year-and-100-days-to-offload/) as a driver to keep doing it)
 
-A hard comparison of what I have written there with what I have written today would suggest not a lot of progress in all of that time, and for many of those intervening years I would say that was correct. The difference now is how confident I feel about internalising these processes, and a sense if "readiness" for this challenge - after all, *"if not now, when?"*
+A hard comparison of what I have written there with what I have written today would suggest not a lot of progress in all of that time, and for many of those intervening years I would say that was correct. The difference now is how confident I feel about internalising these processes, and a sense of "readiness" for this challenge - after all, *"if not now, when?"*
 
 
 ## Would I recommend this course? 
