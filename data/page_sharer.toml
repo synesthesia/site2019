@@ -9,6 +9,15 @@
 #  icon = "twitter"
 #  enable = true
 
+
+[[buttons]]
+  id = "mastodon"
+  url = "/tootpick/index.html#text=Synesthesia:%20{title}%20{url}"
+  title = "Mastodon"
+  icon_pack = "fab"
+  icon = "mastodon"
+  enable = true
+
 [[buttons]]
   id = "facebook"
   url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
@@ -58,3 +67,5 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = true
+
+
