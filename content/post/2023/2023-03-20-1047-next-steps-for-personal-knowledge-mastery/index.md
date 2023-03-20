@@ -62,7 +62,7 @@ New media literacy
 Cognitive load management
 : ability to discriminate and filter information for importance, and to understand how to maximize cognitive functioning using a variety of tools and techniques
 
-Where do I want to improve? The slick answer would be ["Everything EveryWhere All at Once"](https://www.imdb.com/title/tt6710474/). A more considered answer would be to say that of the four my priorites are around Sense-making and Social intelligence, so my next step is to develop some guides and metrics around those to steer my practice.  For new media literacy and cognitive load management, again I think I have plenty of source material from which I could create some practice guides for myself.
+Where do I want to improve? The slick answer would be ["Everything EveryWhere All at Once"](https://www.imdb.com/title/tt6710474/). A more considered answer would be to say that of the four my priorities are around Sense-making and Social intelligence, so my next step is to develop some guides and metrics around those to steer my practice.  For new media literacy and cognitive load management, again I think I have plenty of source material from which I could create some practice guides for myself.
 
 ## Have I moved on at all in 8 years?
 
