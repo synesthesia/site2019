@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I've reached the end of Harold Jarche's Personal Knowledge Mastery course, it's time to review, reflect and set myself some next steps.
+I've reached the end of Harold Jarche's [Personal Knowledge Mastery](https://jarche.com/pkm/) course, it's time to review, reflect and set myself some next steps.
 
 This post is largely structured around the last two exercises in the course.
 
