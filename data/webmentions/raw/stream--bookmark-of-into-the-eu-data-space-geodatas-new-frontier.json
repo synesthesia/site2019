@@ -1,0 +1,42 @@
+{
+	"cacffbb14d3b63c2023b5bd734d17377": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/493d4440f1acf791ee1f8865e2f3d8c08267cc5caf7d414809f9c65e53a02011.png",
+			"url": "https://m.tgl.eu/@ton"
+		},
+		"url": "https://m.tgl.eu/@ton/110072221748972319",
+		"published": "2023-03-23T10:53:33",
+		"wm-received": "2023-03-23T10:54:05Z",
+		"wm-id": 1647114,
+		"wm-source": "https://brid.gy/comment/mastodon/@julian@social.synesthesia.co.uk/110071854723107615/110072221783650961",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-into-the-eu-data-space-geodatas-new-frontier/",
+		"content": {
+			"html": "<p><span class=\"h-card\"><a href=\"https://social.synesthesia.co.uk/@julian\" class=\"u-url\">@<span>julian</span></a></span> Thank you Julian!</p>\n<a class=\"u-mention\" href=\"https://cloud.tgl.eu/s/nG4sNLjBwCMwZs2\"></a>",
+			"text": "@julian Thank you Julian!"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/stream/bookmark-of-into-the-eu-data-space-geodatas-new-frontier/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	},
+	"1970a348cb3a5b0509ccad66fc4c2214": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/493d4440f1acf791ee1f8865e2f3d8c08267cc5caf7d414809f9c65e53a02011.png",
+			"url": "https://m.tgl.eu/@ton"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110071854723107615#favorited-by-109308020325669290",
+		"published": null,
+		"wm-received": "2023-03-23T10:54:29Z",
+		"wm-id": 1647115,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/110071854723107615/109308020325669290",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-into-the-eu-data-space-geodatas-new-frontier/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-into-the-eu-data-space-geodatas-new-frontier/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
