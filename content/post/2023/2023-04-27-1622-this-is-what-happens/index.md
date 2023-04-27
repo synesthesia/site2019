@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-When you combine a couple of weeks wheere you are mostly away from the keyboard, followed by a couple of weeks of totally heads-down work delivery, mixed in with some highly significant news away from work, and a bit of minor surgery:
+When you combine a couple of weeks where you are mostly away from the keyboard, followed by a couple of weeks of totally heads-down work delivery, mixed in with some highly significant news away from work, and a bit of minor surgery:
 
 - no time to read interesting threads
 - no time to keep up with feeds
