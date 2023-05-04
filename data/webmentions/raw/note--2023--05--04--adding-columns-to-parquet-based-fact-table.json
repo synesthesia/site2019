@@ -1,0 +1,20 @@
+{
+	"f2b54583cb594ce1570c9434e03a04a7": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110310016229562910#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2023-05-04T13:14:48Z",
+		"wm-id": 1670257,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/110310016229562910/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/note/2023/05/04/adding-columns-to-parquet-based-fact-table/",
+		"like-of": "https://www.synesthesia.co.uk/note/2023/05/04/adding-columns-to-parquet-based-fact-table/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
