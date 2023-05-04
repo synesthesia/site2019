@@ -55,7 +55,10 @@ However, it is not a format that can be trivially updated. Many data lake requir
 
 ## Adding columns
 
-The business requirement was to carry some new columns added to Dynamics through into our reporting data. If the fact and dimension tables were maintained in a database such as SQL server this would be a matter of adding the columns to the relevant tables and running a script to populate the rows.
+The business requirement was to carry some new columns added to Dynamics through into our reporting data. Previously I have added these columns into our daily cleaned data snapshots, and also 
+to the new daily snapshots of the fact table (this was done by editing and publishing the relevant notebooks). However this means that all previous snapshots are missing the columns, and this gives problems when trying to run views across the whole dataset.
+
+If the fact and dimension tables were maintained in a database such as SQL server this would be a matter of adding the columns to the relevant tables and running a script to populate the rows.
 
 However for the reasons above we have chosen to store this data in Parquet files, partitioned by the processing date of each daily snapshot.
 
