@@ -50,7 +50,7 @@ Apache Parquet is an open source, column-oriented data file format designed for 
 
 The advantages of this format over CSV are that it is good for storing big data of any kind, saves on cloud storage space by using highly efficient column-wise compression, and flexible encoding schemes for columns with different data types, and offers increased data throughput and performance using techniques like data skipping, whereby queries that fetch specific column values need not read the entire row of data.
 
-However, it is not a format that can be trivially updated. Many data lake requirements never need to process updates, but on the occasions when it is needed, the common practice with parquet is to copy and transfrom, then replace the original.
+However, it is not a format that can be trivially updated. Many data lake requirements never need to process updates, but on the occasions when it is needed, the common practice with parquet is to copy and transform, then replace the original.
 
 
 ## Adding columns
