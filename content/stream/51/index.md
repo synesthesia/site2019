@@ -34,7 +34,7 @@ image:
 ---
 Hank van Ess writes about how he influenced the output of Google Bard with just three tweets, to make the point that a search engine that combines ChatGPT with online search is potentially very vulnerable to fake information.
 
-via [@ton@m.tzyl.eu](https://m.tzyl.eu/@ton/110377709600665354)
+via [@ton@m.tzyl.eu](https://www.zylstra.org/blog/2023/05/bing-bombing-through-twitter/)
 
 It's notable that his article about it has, in turn, influenced the answer  Bard gives to the prompt "Is Henk von Ess a famous banjo player?":
 
@@ -43,5 +43,7 @@ It's notable that his article about it has, in turn, influenced the answer  Bard
 >The claim that Henk van Ess is a famous banjo player appears to have originated from a Twitter conversation in which he asked Google Bard to generate a bio for him. Bard responded with a bio that included the claim that van Ess was a famous banjo player. Van Ess later clarified that this was not the case and that he was simply trying to highlight the fact that Bard can sometimes generate inaccurate information.
 >
 >It is important to note that Bard is still under development and is not always accurate. It is always best to verify information from multiple sources before taking it as fact.
+
+via [@ton@m.tzyl.eu](https://www.zylstra.org/blog/2023/05/bing-bombing-through-twitter/)
 
 [#100DaysToOffload](https://100daystooffload.com/)33/100
