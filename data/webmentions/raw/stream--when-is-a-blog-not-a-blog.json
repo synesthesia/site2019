@@ -1,0 +1,38 @@
+{
+	"48ca5a48841eb73b760037ea4d3d2b75": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110376894398191351#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2023-05-16T15:16:23Z",
+		"wm-id": 1675785,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/110376894398191351/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/when-is-a-blog-not-a-blog/",
+		"like-of": "https://www.synesthesia.co.uk/stream/when-is-a-blog-not-a-blog/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"8bfb254f8d0d658f748b187ddac4e771": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Bill Seitz",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/454158eb005fe0acaebc780c7ff241dad6cdd2712bda0537edbae9e6024d1d43.jpg",
+			"url": "https://toolsforthought.rocks/@billseitz"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110376894398191351#reblogged-by-109359510995894046",
+		"published": null,
+		"wm-received": "2023-05-16T15:16:38Z",
+		"wm-id": 1675786,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/110376894398191351/109359510995894046",
+		"wm-target": "https://www.synesthesia.co.uk/stream/when-is-a-blog-not-a-blog/",
+		"repost-of": "https://www.synesthesia.co.uk/stream/when-is-a-blog-not-a-blog/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
