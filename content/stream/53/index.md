@@ -31,6 +31,6 @@ image:
 #   - src: "example.jpg"
 #     title: "TODO: alt text goes here"
 ---
-Finally got around to reading this useful lobbying paper covering some of the things we should be looking to our governmentsd to do around AI.
+Finally got around to reading this useful lobbying paper covering some of the things we should be looking to our governments to do around AI.
 
 My summary is [here](https://garden.synesthesia.co.uk/references/Policymaking%20in%20the%20Pause). 
