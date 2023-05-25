@@ -1,0 +1,20 @@
+{
+	"8fc3033cca68a7fa778a8893ef368dfa": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Adam",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/69cde822332c750dd3773fd9ac6aea9feadbd8bcf81c1e6c84b183d234967cc8.jpg",
+			"url": "https://fosstodon.org/@adamsdesk"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110423450368906649#favorited-by-109320565722664095",
+		"published": null,
+		"wm-received": "2023-05-25T09:15:55Z",
+		"wm-id": 1678961,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/110423450368906649/109320565722664095",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-history-of-qr-code/",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-history-of-qr-code/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
