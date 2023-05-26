@@ -58,7 +58,7 @@
     "@middy/http-error-handler": "^2.5.1",
     "@middy/http-json-body-parser": "^2.5.1",
     "@middy/http-multipart-body-parser": "^2.5.1",
-    "@middy/http-urlencode-body-parser": "^2.5.1",
+    "@middy/http-urlencode-body-parser": "^3.0.0",
     "@netlify/functions": "^1.0.0",
     "accessible-autocomplete": "^2.0.3",
     "article-title": "^4.1.0",
