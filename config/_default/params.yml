@@ -9,7 +9,7 @@ copyright_license:
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  #theme_night: minimal
   font: minimal
   font_size: M
 
