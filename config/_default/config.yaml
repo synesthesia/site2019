@@ -127,8 +127,8 @@ frontmatter:
   expiryDate:
   - expiryDate
   lastmod:
-  - :git
   - lastmod
+  - :git
   - date
   - publishDate
   publishDate:
