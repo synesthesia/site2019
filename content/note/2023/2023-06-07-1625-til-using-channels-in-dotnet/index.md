@@ -3,7 +3,7 @@
 
 title: "TIL - using Channels in dotnet"
 subtitle: ""
-summary: "Using System.Threading.Channels to build async console tools"
+summary: "Using System.Threading.Channels to build async console tools."
 authors: ["synesthesia"]
 categories: []
 tags: ["TIL","dotnet", "100DaysToOffload"]
