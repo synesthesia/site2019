@@ -31,12 +31,12 @@ projects: []
 ---
 ## A soup of views
 
-There's a lot of talk around the net at the moment about the perils of uncontrolled AI (by which most people currently mean [Large Language Models](https://garden.synesthesia.co.uk/Large%20Language%20Model)), e.g.:
+There's a lot of talk around the net at the moment about the perils of uncontrolled AI (which for the context of this post mean [Large Language Models](https://garden.synesthesia.co.uk/Large%20Language%20Model)), for example a large group of experts have signed an [open letter calling for a pause in development whilst risks and regulation are explored](https://futureoflife.org/open-letter/pause-giant-ai-experiments).
 
-- a large group of experts have signed an [open letter calling for a pause in development whilst risks and regulation are explored](https://futureoflife.org/open-letter/pause-giant-ai-experiments)
-- AI researchers such as [Bender and Gebru](https://dl.acm.org/doi/10.1145/3442188.3445922) have highlighted the the danger that GPT tools which are trained on *"the internet"* tend to *"risk perpetuating dominant viewpoints, increasing power imbalances and further reifying inequality"*.
-- [Émile P. Torres](https://www.xriskology.com/) and [Timnit Gebru](
--https://dair-community.social/@timnitGebru)  have [coined](https://twitter.com/xriskology/status/1635313845400113153) the acronym [TESCREAL](https://twitter.com/xriskology/status/1635313838508883968?s=20) to describe a [set of right-wing ideologies](https://washingtonspectator.org/understanding-tescreal-silicon-valleys-rightward-turn/) that they see [underlying the motivations of many of the people and companies driving AI research]((https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/))
+Another line of warning relates to implicit biases in the content used to train the models (e.g. researchers such as [Bender and Gebru](https://dl.acm.org/doi/10.1145/3442188.3445922) have highlighted the the danger that GPT tools which are trained on *"the internet"* tend to *"risk perpetuating dominant viewpoints, increasing power imbalances and further reifying inequality"*).
+
+Even further, the dominant world-view of the companies and big-tech leaders who are driving the research comes into focus for criticism, for example [Émile P. Torres](https://www.xriskology.com/) and [Timnit Gebru](
+-https://dair-community.social/@timnitGebru)  have [coined](https://twitter.com/xriskology/status/1635313845400113153) the acronym [TESCREAL](https://twitter.com/xriskology/status/1635313838508883968?s=20) to describe a [set of right-wing ideologies](https://washingtonspectator.org/understanding-tescreal-silicon-valleys-rightward-turn/) that they see [underlying the motivations of many of the people and companies involved]((https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/)).
 
 Balancing this are views that all the statements about AI being an 'extinction risk' are too vague (with the exception of possible weaponisation) for effective action to be taken: 
 >"I am strongly in favour of being as careful as we possibly can be, and have been saying so publicly for the past ten years, it is important to maintain a sense of proportion – particularly when discussing the extinction of a species of eight billion individuals. AI can create social problems that must really be averted. As scientists, we have a duty to understand them and then do our best to solve them. But the first step is to name and describe them – and to be specific." 
@@ -47,9 +47,7 @@ For a complete contrast, Cory Doctorow [sees all of this](https://doctorow.mediu
 
 >If AI is an existential threat to the human race, it is powerful and therefore valuable. The problems with a powerful AI are merely “shakedown” bugs, not showstoppers. Bosses can use AI to replace human workers, even though the AI does a much worse job — just give it a little time and those infelicities will be smoothed over by the wizards who created these incredibly dangerous and therefore powerful tools.
 
-Doctorow thinks that in reality AI is just one more step on the road to the ['enshittificaiton'](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) at the heart of many big-tech business models.
-
-In [other words](https://aus.social/@PaulWay/110496947991359261) this is just one more example of how late-stage capitalism works, *'the corporations that use AI try to take over the world'*.
+Doctorow thinks that in reality AI is just one more step on the road to the ['enshittificaiton'](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) at the heart of many big-tech business models, or in [other words](https://aus.social/@PaulWay/110496947991359261) this is just one more example of how late-stage capitalism works, *'the corporations that use AI try to take over the world'*.
 
 To borrow from [Harold Jarche](https://mastodon.social/@harold/110499816999861929): 
 
@@ -75,10 +73,12 @@ The following areas seem useful to me at the moment:
 
 ## A tentative conclusion, for now
 
-Overall my sense is it's too soon to say.
+Overall my sense is it's too soon to say (in terms specifically of the LLM tools - there are plenty of other examples in the wider sphere of AI which are already proven sources of benefit).
 
-Unlike other hypes such as blockchain, this one looks like it might be genuinely useful in certain scenarios.
+Unlike other over-hyped technologies such as blockchain and crypto, this one looks like it might be genuinely useful in certain scenarios.
 
 As always, **caveat emptor**.
 
 [#100DaysToOffload](https://100daystooffload.com/) 37/100
+
+<ins datetime="2023-06-08T06:27:00TZD">08/06/2023 Minor edit for style</ins>
