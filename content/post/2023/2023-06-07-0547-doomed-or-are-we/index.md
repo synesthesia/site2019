@@ -8,7 +8,7 @@ authors: ["synesthesia"]
 tags: ["AI", "100DaysToOffload"]
 categories: []
 date: 2023-06-07T06:47:47+01:00
-lastmod: 2023-06-07T06:47:47+01:00
+#lastmod: 2023-06-07T06:47:47+01:00
 featured: false
 draft: false
 type: post
