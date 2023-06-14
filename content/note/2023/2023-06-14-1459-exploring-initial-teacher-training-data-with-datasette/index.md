@@ -42,7 +42,7 @@ Each month a zip file is published containing a number of CSV files.
 
 Further information on the statistics can be found [here](https://www.apply-for-teacher-training.service.gov.uk/publications/monthly-statistics), and it's worth a read, not least to understand the complications caused by each candidate being allowed multiple applications.
 
-This background is also very relevant, espceially where it speaks about the incompleteness of these statistics:
+This background is also very relevant, especially where it speaks about the incompleteness of these statistics:
 >Applications for courses starting in the 2023 to 2024 academic year are submitted in the October 2022 to September 2023 recruitment cycle (ITT2023) or deferred from the previous cycle for a 2023 to 2024 course start date.
 >
 >**Teacher training applications made directly to providers or Teach First are not included. Undergraduate teacher training is also not included.**
