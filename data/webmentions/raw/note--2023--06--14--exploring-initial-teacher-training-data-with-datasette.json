@@ -1,0 +1,24 @@
+{
+	"3515a89b9612ba219723ce5c4b0cff32": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/d27c07bf3e55b9c1033f7f555311f7ca820890bbf9432b73f925c85bc3b625ab.jpg",
+			"url": "https://social.synesthesia.co.uk/@julian"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/110543317105051824",
+		"published": "2023-06-14T15:39:17",
+		"wm-received": "2023-06-14T15:49:15Z",
+		"wm-id": 1686364,
+		"wm-source": "https://brid.gy/comment/mastodon/@julian@social.synesthesia.co.uk/110543313211431284/110543317105051824",
+		"wm-target": "https://www.synesthesia.co.uk/note/2023/06/14/exploring-initial-teacher-training-data-with-datasette/",
+		"content": {
+			"html": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url\">@<span>simon</span></a></span> I documented a very small initial experiment with Datasette - I can definitely see the power, especially from the plugin architecture...</p>",
+			"text": "@simon I documented a very small initial experiment with Datasette - I can definitely see the power, especially from the plugin architecture..."
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/note/2023/06/14/exploring-initial-teacher-training-data-with-datasette/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	}
+}
