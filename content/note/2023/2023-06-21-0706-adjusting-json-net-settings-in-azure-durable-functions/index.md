@@ -177,7 +177,7 @@ I can't change the model structure without abandoning the library, which I am re
 
 After a bit of searching I found the documentation for [JsonSerializerSettings.TypeNameHandling](https://www.newtonsoft.com/json/help/html/T_Newtonsoft_Json_TypeNameHandling.htm) in the Json.Net docs.
 
-With further search I found [Data persistence and serialization in Durable Functions (Azure Functions)](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-serialization-and-persistence?tabs=csharp-inproc), which documents that the default settings for serialisation of inputs, outpiuts and state are:
+With further search I found [Data persistence and serialization in Durable Functions (Azure Functions)](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-serialization-and-persistence?tabs=csharp-inproc), which documents that the default settings for serialisation of inputs, outputs and state are:
 
 ```csharp
 JsonSerializerSettings
