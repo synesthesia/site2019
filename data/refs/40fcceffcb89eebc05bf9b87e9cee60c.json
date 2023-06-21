@@ -1,0 +1,10 @@
+{
+	"url": "https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule/18799234#18799234",
+	"title": "How can I specify a branch/tag when adding a Git submodule?",
+	"description": "How does git submodule add -b work?\n\nAfter adding a submodule with a specific branch, a new cloned repository (after git submodule update --init) will be at a specific commit, not the branch itself...",
+	"published": null,
+	"author": {
+		"name": "VonC",
+		"url": "https://stackoverflow.com/users/6309/vonc"
+	}
+}
