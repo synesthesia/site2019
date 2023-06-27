@@ -12,7 +12,7 @@
       "console": "integratedTerminal",
       "env": { "BROWSER": "none" },
       "serverReadyAction": {
-        "pattern": "Server now ready on (https?://[\w:.-]+)",
+        "pattern": "Server now ready on (https?://[w:.-]+)",
         "uriFormat": "%s",
         "action": "debugWithChrome"
       }
