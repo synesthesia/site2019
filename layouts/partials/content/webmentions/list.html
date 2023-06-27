@@ -1,8 +1,7 @@
 {{- /* Render the webmentions list */ -}}
 {{- /* --------------------------- */ -}}
 
-{{with .all}}
-{{ if len . }}
+{{ if len .all }}
 	<ol class="social-feed">
 		{{ if len .likes }}
 			<li id="webmention-likes" class="social-feed__item social-feed__item--like">
@@ -72,5 +71,4 @@
 			{{ end }}
 		{{ end }}
 	</ol>
-{{ end }}
 {{ end }}
