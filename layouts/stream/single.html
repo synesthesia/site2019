@@ -78,7 +78,6 @@
 			<aside id="responses">
 				<div class="article-widget">
           <h3>Responses {{ with $webmentions.all}}({{ len . }}){{end}}</h3>
-          {{}}
 				  <form method="post" action="{{ $webmentionConfig.receiver }}" target="_blank" rel="noopener" class="webmention-form" data-component="webmention-form">
 					<input type="hidden" name="target" value="{{ .Permalink }}" />
           {{ if ne $pageType "stream"}}
