@@ -41,16 +41,27 @@
                 "editor.tabCompletion": "on",
                 "eslint.alwaysShowStatus": true,
                 "eslint.lintTask.enable": true,
-                "eslint.packageManager": "yarn",
                 "eslint.useESLintClass": true,
                 "jest.jestCommandLine": "npm run test --"
 			},
 
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
+				"bierner.markdown-footnotes",
+				"budparr.language-hugo-vscode",
 				"bungcip.better-toml",
 				"davidanson.vscode-markdownlint",
-                "streetsidesoftware.code-spell-checker"
+				"dbaeumer.vscode-eslint",
+                "eamodio.gitlens",
+				"GitHub.vscode-pull-request-github",
+				"hediet.vscode-drawio",
+				"mushan.vscode-paste-image",
+				"sdras.night-owl",
+				"stevensona.character-count",
+				"streetsidesoftware.code-spell-checker",
+				"Tyriar.lorem-ipsum",
+				"yzhang.markdown-all-in-one"
+				
 			]
 		}
 	},
@@ -61,12 +72,11 @@
 	],
 
 	// Use `updateContentCommand` to run commands in the prebuild
-    // for codespaces - won't work if using local devcontainers
-	//"updateContentCommand": "npm install",
+    "updateContentCommand": "npm install",
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "uname -a",
-    "postCreateCommand": "npm install",
+    //"postCreateCommand": "npm install",
 
 
 	// Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
