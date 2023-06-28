@@ -1,5 +1,10 @@
 {
 	"name": "Hugo (Community)",
+    "hostRequirements": {
+        "cpus": 4,
+        "memory": "12gb",
+        "storage": "32gb"
+     },
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": {
@@ -61,7 +66,7 @@
 				"streetsidesoftware.code-spell-checker",
 				"Tyriar.lorem-ipsum",
 				"yzhang.markdown-all-in-one"
-				
+
 			]
 		}
 	},
