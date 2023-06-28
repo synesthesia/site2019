@@ -60,12 +60,14 @@
 		1313
 	],
 
-	// Use `updateContentCommand` to run commands in the prebuild	
-	"updateContentCommand": "npm install",
-		
+	// Use `updateContentCommand` to run commands in the prebuild
+    // for codespaces - won't work if using local devcontainers
+	//"updateContentCommand": "npm install",
+
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "uname -a",
-	
+    "postCreateCommand": "npm install",
+
 
 	// Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "node"
