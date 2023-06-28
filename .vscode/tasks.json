@@ -6,9 +6,9 @@
         {
             "label": "Serve Drafts",
             "type": "shell",
-            "command": "hugo server -D",
+            "command": "hugo server -D  -F --printMemoryUsage",
             "group": {
-                "kind": "test",
+                "kind": "build",
                 "isDefault": true
             },
             "isBackground": true,
@@ -18,10 +18,7 @@
             "label": "Build",
             "type": "shell",
             "command": "hugo",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
+            "group": "build",
             "problemMatcher": []
         }
     ]
