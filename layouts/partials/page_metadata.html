@@ -39,6 +39,13 @@
     {{ end }}
     <time class="dt-published" datetime="{{ $date4 }}">{{ $date3 }}</time>
     </span>
+    {{ if ne $page.Params.Lastmod $page.Params.Date }}
+    <div>
+      <span class="article-date">
+        Updated <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
+      </span>
+    </div>
+  {{ end }}
   {{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
@@ -80,12 +87,6 @@
   {{ if $share }}
     {{ partial "components/page_sharer" $page }}
   {{ end }}
-  {{ if ne $page.Params.Lastmod $page.Params.Date }}
-    <div>
-      <span class="article-date">
-        Updated <time class="dt-updated" datetime="{{ $date2 }}">{{ $date }}</time>
-      </span>
-    </div>
-  {{ end }}
+
 
 </div>
