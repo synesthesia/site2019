@@ -8,7 +8,8 @@ slug: "working-with-this-hugo-site-in-github-codespaces"
 authors: ["synesthesia"]
 categories: []
 tags: ["TIL", "devcontainers", "codespaces", "Hugo", "SSG", "100DaysToOffload"]
-lastmod: 2023-06-28T05:43:35+01:00
+publishDate: 2023-06-28T05:43:35+01:00
+lastmod: 2023-06-29T08:46:35+01:00
 featured: false
 draft: false
 type: note
@@ -82,6 +83,10 @@ There is plenty of [documentation on how to set this up](https://docs.github.com
 I had a vague feeling this might be to do with memory (I had heard that `hugo serve` could be memory-hungry) so re-ran the command with the `--printMemoryUsage` flag. Sure enough it peaked just below the maximum memory of the VM (default codespace VM is 2 cores / 8GB RAM) before it fell over. To increase the RAM available you need to jump up to 8 cores / 16GB RAM, and at this configuration the command worked, with a maximum allocation on this site of 8.6GB.
 
 Although this size of machine does eat up the compute allotment, even on the free tier you get 120/8 = 15 hours per month. I already pay for a Github Pro subscription, so within that $4 price you get 180/8 = 22.5 hours per month. For the few times I need to edit the blog in a browser this seems a very reasonable compromise.
+
+## Update
+
+By setting the container user to `root` the process will work from a windows directory too.
 
 ## Final version of the configuration
 
