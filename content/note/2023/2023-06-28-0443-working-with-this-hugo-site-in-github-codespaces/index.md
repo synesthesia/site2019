@@ -8,7 +8,7 @@ slug: "working-with-this-hugo-site-in-github-codespaces"
 authors: ["synesthesia"]
 categories: []
 tags: ["TIL", "devcontainers", "codespaces", "Hugo", "SSG", "100DaysToOffload"]
-publishDate: 2023-06-28T05:43:35+01:00
+date: 2023-06-28T05:43:35+01:00
 lastmod: 2023-06-29T08:46:35+01:00
 featured: false
 draft: false
