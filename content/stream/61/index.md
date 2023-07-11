@@ -8,7 +8,7 @@ date: 2023-07-11T07:03:35+01:00
 lastmod: 2023-07-11T07:03:35+01:00
 tags: ["git", "HOWTO", "100DaysToOffload"]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------

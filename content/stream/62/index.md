@@ -8,7 +8,7 @@ date: 2023-07-11T07:14:53+01:00
 lastmod: 2023-07-11T07:14:53+01:00
 tags: ["dataprotection", "GDPR"]
 authors: ["synesthesia"]
-draft: true
+draft: false
 
 # Bookmark target
 # ---------------
