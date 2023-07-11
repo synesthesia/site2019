@@ -1,0 +1,11 @@
+{
+	"url": "https://til.simonwillison.net/git/rewrite-repo-remove-secrets",
+	"title": "Rewriting a Git repo to remove secrets from the history",
+	"description": "I decided to make a GitHub repository public today that had previously been private. Unfortunately the revision history of that repository included some secret values, one of which I could not figure out a way to revoke.",
+	"published": "2023-01-24",
+	"author": {
+        "name": "Simon Willison",
+        "url": "https://til.simonwillison.net/"
+
+    }
+}
