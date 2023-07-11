@@ -1,0 +1,10 @@
+{
+	"url": "https://tommorris.org/posts/2022/writing-better-api-documentation/",
+	"title": "Writing better API documentation: a few lessons from enterprise integration",
+	"description": "Over many years working on API integrations, I’ve seen a whole lot of ways that the experience could be less frustrating. This isn’t a definitive list but a personal collection of a few recurring problems with documentation I’ve seen in different REST APIs that could be avoided.\nExplain what a field does\nConsider API documentation like this:\n String[] tags - “This field contains tags for the post.”\n This is not helpful.",
+	"published": "2022-06-29T16:35:00.000Z",
+	"author": {
+        "name": "Tom Morris",
+        "url": "https://tommorris.org/"
+    }
+}
