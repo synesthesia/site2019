@@ -6,7 +6,7 @@ sub_type: "bookmark"
 title: "Bookmark of 'Change DNS settings on Mac'"
 date: 2023-07-14T07:06:20+01:00
 lastmod: 2023-07-14T07:06:20+01:00
-tags: ["Mac", "100DaysToOffload]
+tags: ["Mac", "100DaysToOffload"]
 authors: ["synesthesia"]
 draft: false
 
