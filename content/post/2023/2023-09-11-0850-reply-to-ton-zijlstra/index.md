@@ -1,7 +1,7 @@
 ---
 # reply
 title: "Reply to Ton Zijlstra 'The Enshittification of LinkedIn As DSA Takes Effect'"
-subtitle: "I agree with @ton@m.tzyl.eu, LinkedIn has been getting shittier for years. "
+subtitle: "I agree with @ton, LinkedIn has been getting shittier for years."
 summary: ""
 authors: ["synesthesia"]
 tags: ["100DaysToOffload", "enshittification"]
@@ -9,7 +9,7 @@ categories: []
 date: 2023-09-11T09:51:05+01:00
 lastmod: 2023-09-11T09:51:05+01:00
 featured: false
-draft: true
+draft: false
 type: reply
 # Reply target
 # ------------
