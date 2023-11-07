@@ -79,6 +79,8 @@ sections:
           organization_url: https://www.coursera.org
           title: Professional member
           url: ''
+    design:
+      columns: '2'
 
   - block: collection
     id: posts
