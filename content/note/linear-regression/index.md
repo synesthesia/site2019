@@ -1,11 +1,11 @@
 ---
 title: Linear Regression basics - course note
 date: '2023-11-07'
+slug: linear-regression
+summary: A second notebook test with some course notes on Linear Regression
 tags:
 - machinelearning
 - datascience
-slug: linear-regression
-summary: A second notebook test with some course notes on Linear Regression
 ---
 
 
@@ -39,7 +39,7 @@ This module covered:
 
 ML often splits into two tasks - **regression** (predict quantity) and **classification** (predict a category)
 
-E.g $y = mx+b$
+E.g {{< math >}}$y = mx+b${{< /math >}}
 
 Challenge is to define `m` and `b` for "best fit"
 
@@ -47,9 +47,9 @@ Challenge is to define `m` and `b` for "best fit"
 
 With multiple independent variables
 
-e.g. $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \epsilon$
+e.g. {{< math >}}$y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \epsilon${{< /math >}}
 
-$\epsilon $ is error due to noise
+{{< math >}}$\epsilon ${{< /math >}} is error due to noise
 
 Multiple variables can get complex, important to use tools to help select only input variables correlated with the output variables.
 
@@ -74,9 +74,9 @@ When ML model works well with training data but fails to predict correctly with 
 
 Common technique to mitigate overfitting is the use of train/test splits. Training data is used to fit the model, then test data is used to test it with previously-unseen data, if necessary the model can then be tweaked.
 
-### Evaluating the model with $R^2$
+### Evaluating the model with {{< math >}}$R^2${{< /math >}}
 
-$R^2$ (the **coefficient of determination**) ratios the average y-value to the average of the residuals. 
+{{< math >}}$R^2${{< /math >}} (the **coefficient of determination**) ratios the average y-value to the average of the residuals. 
 
 It measures how well the independent variables explain a dependent variable, with **0.0** meaning no connection and **1.0** meaning a perfect explanation.
 
@@ -253,7 +253,7 @@ Next:
 - we train the standard [`LinearRegression`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression) model provided by `scikit-learn` against our training data
 - then we use the trained model to fit a regression to our test data
 
-The utility allows us to easily score the model using $R^2$.
+The utility allows us to easily score the model using {{< math >}}$R^2$.{{< /math >}}
 
 ```python
 model = LinearRegression()
