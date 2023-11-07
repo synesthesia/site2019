@@ -32,6 +32,7 @@ jobs:
       - name: Run Academic Converter Tool
         run: academic import 'notebooks/*.ipynb' content/note/ --verbose --overwrite
         # Set ID for `Check outputs` stage
+      - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
