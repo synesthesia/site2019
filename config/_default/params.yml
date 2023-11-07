@@ -42,7 +42,7 @@ features:
     branch: master
   privacy_pack_enable: false
   math:
-    enable: false
+    enable: true
   search:
     provider: wowchemy
     algolia:
