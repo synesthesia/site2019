@@ -76,7 +76,7 @@ sections:
           date_start: '2018-01-01'
           description: 'BCS is the Chartered Institute for IT in the UK'
           organization: British Computer Society
-          organization_url: https://www.coursera.org
+          organization_url: https://www.bcs.org/
           title: Professional member
           url: ''
     design:
