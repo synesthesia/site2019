@@ -4,18 +4,19 @@
 
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
-		"ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-containers",
         "hediet.vscode-drawio",
         "budparr.language-hugo-vscode",
         "sdras.night-owl",
         "stevensona.character-count",
-        "GitHub.vscode-pull-request-github",
+        "github.vscode-pull-request-github",
         "eamodio.gitlens",
-        "Tyriar.lorem-ipsum",
+        "tyriar.lorem-ipsum",
         "yzhang.markdown-all-in-one",
         "mushan.vscode-paste-image",
         "bierner.markdown-footnotes",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "github.vscode-github-actions"
     ],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [

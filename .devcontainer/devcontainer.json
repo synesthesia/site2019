@@ -57,7 +57,7 @@
 				"bungcip.better-toml",
 				"davidanson.vscode-markdownlint",
 				"dbaeumer.vscode-eslint",
-                "eamodio.gitlens",
+				"eamodio.gitlens",
 				"GitHub.vscode-pull-request-github",
 				"hediet.vscode-drawio",
 				"mushan.vscode-paste-image",
@@ -65,8 +65,8 @@
 				"stevensona.character-count",
 				"streetsidesoftware.code-spell-checker",
 				"Tyriar.lorem-ipsum",
-				"yzhang.markdown-all-in-one"
-
+				"yzhang.markdown-all-in-one",
+				"github.vscode-github-actions"
 			]
 		}
 	},
