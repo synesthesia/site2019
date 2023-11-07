@@ -7,7 +7,7 @@
   ignore = "git log -1 --pretty=%B | grep dependabot"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.120.3"
   HUGO_ENABLEGITINFO = "true"
 
 [functions]
