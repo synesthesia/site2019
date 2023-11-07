@@ -12,3 +12,4 @@ data/webmentions/processed
 # Local Netlify folder
 .netlify
 .vscode/*.log
+notebooks/.ipynb_checkpoints/
