@@ -207,5 +207,24 @@
 		"repost-of": "https://www.synesthesia.co.uk/stream/digital-garden-moves-to-11ty/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"16f8a90cdc55885cd894c28a2ae2cc7d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Lene Saile",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/7b11bce21a15d560ac99e575696be482d744f10237abefd30f3e7f6b0861f476.png",
+			"url": "https://front-end.social/@lene"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111374800037543691#favorited-by-109375873098470084",
+		"published": null,
+		"wm-received": "2023-11-09T20:13:08Z",
+		"wm-id": 1736632,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111374800037543691/109375873098470084",
+		"wm-target": "https://www.synesthesia.co.uk/stream/digital-garden-moves-to-11ty/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/digital-garden-moves-to-11ty/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
