@@ -1,0 +1,67 @@
+{
+	"9997aaed2203de706e01d1ac693f10e8": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/d27c07bf3e55b9c1033f7f555311f7ca820890bbf9432b73f925c85bc3b625ab.jpg",
+			"url": "https://social.synesthesia.co.uk/@julian"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111386250138519847",
+		"published": "2023-11-10T12:28:15+00:00",
+		"wm-received": "2023-11-10T12:36:25Z",
+		"wm-id": 1736908,
+		"wm-source": "https://brid.gy/comment/mastodon/@julian@social.synesthesia.co.uk/111386181767484036/111386250138519847",
+		"wm-target": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-protocol": "webmention",
+		"content": {
+			"html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@stevefenton\" class=\"u-url\">@<span>stevefenton</span></a></span> I feel slightly comforted by that ????</p>",
+			"text": "@stevefenton I feel slightly comforted by that ????"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	},
+	"0e56883771c21fd97b0745653fbd125a": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Steve Fenton ♾️",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/112ca2d25e21258951a08d1f9e966ae8d6cf27d13a2be216c992f3cf1836e296.png",
+			"url": "https://mastodon.social/@stevefenton"
+		},
+		"url": "https://mastodon.social/@stevefenton/111386245771962932",
+		"published": "2023-11-10T12:27:08+00:00",
+		"wm-received": "2023-11-10T12:36:25Z",
+		"wm-id": 1736907,
+		"wm-source": "https://brid.gy/comment/mastodon/@julian@social.synesthesia.co.uk/111386181767484036/111386245922527155",
+		"wm-target": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-protocol": "webmention",
+		"content": {
+			"html": "<p><span class=\"h-card\"><a href=\"https://social.synesthesia.co.uk/@julian\" class=\"u-url\">@<span>julian</span></a></span> This happened on mastodon.social once, too. They have a few more users on their instance :)</p>",
+			"text": "@julian This happened on mastodon.social once, too. They have a few more users on their instance :)"
+		},
+		"in-reply-to": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-property": "in-reply-to",
+		"wm-private": false
+	},
+	"49b193d3f1e1a68cc14497d2422e6094": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Steve Fenton ♾️",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/112ca2d25e21258951a08d1f9e966ae8d6cf27d13a2be216c992f3cf1836e296.png",
+			"url": "https://mastodon.social/@stevefenton"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111386181767484036#reblogged-by-109313000103421204",
+		"published": null,
+		"wm-received": "2023-11-10T12:36:28Z",
+		"wm-id": 1736909,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/111386181767484036/109313000103421204",
+		"wm-target": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
