@@ -3,7 +3,7 @@
 # -------------
 type: "stream"
 sub_type: "note"
-title: "Note to0 self - when Mastodon stops serving avatars"
+title: "Note to self - when Mastodon stops serving avatars"
 date: 2023-11-10T12:02:26Z
 lastmod: 2023-11-10T12:02:26Z
 tags: ["100DaysToOffload", "Mastodon"]
