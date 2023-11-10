@@ -63,5 +63,24 @@
 		"repost-of": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"4b65ca423b8fc7e8433c7228acaadf38": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Celine warns of Idiocracy",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@cihi1970"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111386181767484036#favorited-by-110907441262571272",
+		"published": null,
+		"wm-received": "2023-11-10T13:11:14Z",
+		"wm-id": 1736924,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111386181767484036/110907441262571272",
+		"wm-target": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
