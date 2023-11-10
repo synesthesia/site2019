@@ -3,10 +3,10 @@
 # -------------
 type: "stream"
 sub_type: "note"
-title: "Digital Garden moves to 11ty"
-date: 2023-11-08T11:32:14Z
-lastmod: 2023-11-08T11:32:14Z
-tags: ["PKM", "ToolsForThought", "IndieWeb", "11ty","100DaysToOffload"]
+title: "Note to0 self - when Mastodon stops serving avatars"
+date: 2023-11-10T12:02:26Z
+lastmod: 2023-11-10T12:02:26Z
+tags: ["100DaysToOffload", "Mastodon"]
 authors: ["synesthesia"]
 draft: false
 
@@ -26,4 +26,4 @@ image:
 #   - src: "example.jpg"
 #     title: "TODO: alt text goes here"
 ---
-Migrated my [Digital garden](https://garden.synesthesia.co.uk/) from Gatsby to Eleventy, using a modified fork of the excellent [rothsandro/eleventy-notes](https://github.com/rothsandro/eleventy-notes)
+Note to self - when my single-person Mastodon instance stops serving avatars, check the SSL cert on the media subdomain...
