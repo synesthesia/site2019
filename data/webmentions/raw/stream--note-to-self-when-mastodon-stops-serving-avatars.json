@@ -82,5 +82,24 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"bb496fded0f4e74b18ea2e93df36aa84": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ewen Bell",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/f1e055fa7b5749d299051665201dc9d7cc2694a52e5cf33fee0ebf43f05b9423.jpg",
+			"url": "https://photog.social/@ewen"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111386181767484036#favorited-by-109380427032801356",
+		"published": null,
+		"wm-received": "2023-11-11T00:48:24Z",
+		"wm-id": 1737110,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111386181767484036/109380427032801356",
+		"wm-target": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/note-to-self-when-mastodon-stops-serving-avatars/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
