@@ -1,0 +1,21 @@
+{
+	"bda6fb033c4c6bf6013d08bfeef2e2b2": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111413272943656978#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2023-11-15T13:13:39Z",
+		"wm-id": 1738601,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111413272943656978/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/how-did-i-not-know-this-about-excel/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/how-did-i-not-know-this-about-excel/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
