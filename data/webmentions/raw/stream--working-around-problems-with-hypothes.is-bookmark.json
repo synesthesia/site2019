@@ -1,0 +1,21 @@
+{
+	"8658751cd231b3819e80d4724d42b572": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "jon r",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/b5617cf38d5e13346e4178e22ccfcb2d2d01d98169aab06d46314cafdd228a6d.png",
+			"url": "https://degrowth.social/@yala"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111691453209532044#favorited-by-110985600575630872",
+		"published": null,
+		"wm-received": "2024-01-03T20:42:04Z",
+		"wm-id": 1762458,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111691453209532044/110985600575630872",
+		"wm-target": "https://www.synesthesia.co.uk/stream/working-around-problems-with-hypothes.is-bookmark/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/working-around-problems-with-hypothes.is-bookmark/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
