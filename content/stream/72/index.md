@@ -26,4 +26,6 @@ image:
 #   - src: "example.jpg"
 #     title: "TODO: alt text goes here"
 ---
-Stumbled upon [Not a Designer](https://notadesigner.io/), could usefully review some of these posts - shame it has no RSS
+Stumbled upon [Not a Designer](https://notadesigner.io/), could usefully review some of these posts. 
+
+UPDATE - RSS feed is [here](https://rss.beehiiv.com/feeds/uyO6uKaqK0.xml) (via [Scott Hanselman](https://hachyderm.io/@shanselman/111687827146791880)))
