@@ -7,7 +7,7 @@ subtitle: "From web annotations to local notes"
 summary: "Digger is a command-line tool to extract annotations from web-based services into local Markdown notes"
 authors: ["synesthesia"]
 categories: []
-tags: ["small tech", "notemaking", "PKM", "dotnet", "open source", "Digger"]
+tags: ["small tech", "notemaking", "PKM", "dotnet", "open source", "Digger", "diigo"]
 created: 2022-07-15T08:15:58+01:00
 lastmod: 2022-07-15T08:15:58+01:00
 featured: false
