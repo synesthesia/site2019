@@ -1,0 +1,40 @@
+{
+	"4a85e42cea752febeffa47200f894bc0": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111721240556971095#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2024-01-08T16:57:11Z",
+		"wm-id": 1764841,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111721240556971095/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"c55783ad0b149c47e7cdbbe40c0c315e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "sass",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@sass"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111721240556971095#favorited-by-110542867233438372",
+		"published": null,
+		"wm-received": "2024-01-08T16:57:11Z",
+		"wm-id": 1764840,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111721240556971095/110542867233438372",
+		"wm-target": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
