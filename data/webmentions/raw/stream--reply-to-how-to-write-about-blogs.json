@@ -36,5 +36,24 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"43bdeb962c47bb5faf1299883d287856": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "jon r",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/b5617cf38d5e13346e4178e22ccfcb2d2d01d98169aab06d46314cafdd228a6d.png",
+			"url": "https://degrowth.social/@yala"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111721240556971095#favorited-by-110985600575630872",
+		"published": null,
+		"wm-received": "2024-01-08T17:23:24Z",
+		"wm-id": 1764870,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111721240556971095/110985600575630872",
+		"wm-target": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/reply-to-how-to-write-about-blogs/",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
