@@ -6,7 +6,7 @@ sub_type: "reply"
 title: "Reply to  'How to write about blogs'"
 date: 2024-01-08T16:05:56Z
 lastmod: 2024-01-08T16:05:56Z
-tags: ["metabloggiong", "indieweb"]
+tags: ["metablogging", "indieweb"]
 authors: ["synesthesia"]
 draft: false
 
