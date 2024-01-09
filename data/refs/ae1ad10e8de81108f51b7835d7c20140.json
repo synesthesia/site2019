@@ -1,0 +1,7 @@
+{
+	"url": "https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/",
+	"title": "Git is my buddy: Effective Git as a solo developer - Mikkel Paulson",
+	"description": "At this point, most developers use Git as a tool for collaboration. We have our\nrote-learned commands to pull, commit, and push. And of course, there's that\none coworker who knows a bit more about Git than\neveryone else, who helps get us back on track whenever our local repos end up in\na strange state.\nBut what if I told you that Git can be a valuable tool without ever setting up a\nremote repository? I'm not just talking about having a working version of your\ncode base to roll back to if you mess something up, although there's that too.\nUsed correctly, Git can help to structure your work, identifying gaps in your\ntest coverage and minimizing dead code.\n",
+	"published": null,
+	"author": null
+}
