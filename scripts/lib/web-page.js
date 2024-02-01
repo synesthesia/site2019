@@ -131,7 +131,10 @@ module.exports = class WebPage {
 		return new this(await got.get(url, {
 			headers: {
 				'User-Agent': `${manifest.author.name} (${manifest.author.url})`
-			}
+			},
+            https: {
+                rejectUnauthorized: false
+            }
 		}));
 	}
 
