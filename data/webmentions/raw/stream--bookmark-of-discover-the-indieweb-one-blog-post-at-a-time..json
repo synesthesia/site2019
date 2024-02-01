@@ -1,0 +1,21 @@
+{
+	"aacf7badde6abd6c1c590289fc2a2df3": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "killer of px.mathias777.com",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/66a3069ac9f2dfccbf42e2bb1808dfcb23f9803e4ae5e130a8428a3bc542d4fd.png",
+			"url": "https://px.mathias777.com/criiii"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111855268395571208#favorited-by-111855272333001091",
+		"published": null,
+		"wm-received": "2024-02-01T10:17:40Z",
+		"wm-id": 1775538,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111855268395571208/111855272333001091",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
