@@ -17,5 +17,24 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"233489f72a6e228350162bebff3e8aac": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Dee-Yell (Dave)",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/057b044aed34a4e7f606c5d9009d8d4b06e70018c93c85628012a69e47257bba.jpg",
+			"url": "https://pkm.social/@dropcase"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111855268395571208#favorited-by-110770879030254546",
+		"published": null,
+		"wm-received": "2024-02-01T14:52:08Z",
+		"wm-id": 1775693,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111855268395571208/110770879030254546",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
