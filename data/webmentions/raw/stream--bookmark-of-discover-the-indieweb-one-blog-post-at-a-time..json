@@ -36,5 +36,24 @@
 		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
 		"wm-property": "like-of",
 		"wm-private": false
+	},
+	"60694825afd619416c9e95b319234743": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Mike",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@sass"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111855268395571208#favorited-by-110542867233438372",
+		"published": null,
+		"wm-received": "2024-02-04T21:12:17Z",
+		"wm-id": 1777161,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111855268395571208/110542867233438372",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-discover-the-indieweb-one-blog-post-at-a-time./",
+		"wm-property": "like-of",
+		"wm-private": false
 	}
 }
