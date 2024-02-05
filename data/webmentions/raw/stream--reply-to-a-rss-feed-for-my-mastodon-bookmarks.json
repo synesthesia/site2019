@@ -1,0 +1,21 @@
+{
+	"763167322cd57e56c25aa489c9c24131": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ton Zijlstra",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/0706b808472286983f1d1689753864916548d81cf0cfd33728d74788c3a69a4e.jpg",
+			"url": "https://m.tzyl.eu/@ton"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111878232258249515#favorited-by-109416050800369573",
+		"published": null,
+		"wm-received": "2024-02-05T10:35:02Z",
+		"wm-id": 1777344,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111878232258249515/109416050800369573",
+		"wm-target": "https://www.synesthesia.co.uk/stream/reply-to-a-rss-feed-for-my-mastodon-bookmarks/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/reply-to-a-rss-feed-for-my-mastodon-bookmarks/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
