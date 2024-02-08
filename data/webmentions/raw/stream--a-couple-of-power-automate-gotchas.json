@@ -1,0 +1,40 @@
+{
+	"52d5b52db14908ce62bd0d794682881a": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Andy Napper",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mas.to/@QuantumDot2"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111897046910539438#favorited-by-109834905832756277",
+		"published": null,
+		"wm-received": "2024-02-08T17:59:59Z",
+		"wm-id": 1778854,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111897046910539438/109834905832756277",
+		"wm-target": "https://www.synesthesia.co.uk/stream/a-couple-of-power-automate-gotchas/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/a-couple-of-power-automate-gotchas/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"b3c953793b160d2cb356a9cc8f8c1a2d": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Molly B",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@mjibrower"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111897046910539438#favorited-by-109321125042863020",
+		"published": null,
+		"wm-received": "2024-02-08T17:59:59Z",
+		"wm-id": 1778853,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111897046910539438/109321125042863020",
+		"wm-target": "https://www.synesthesia.co.uk/stream/a-couple-of-power-automate-gotchas/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/a-couple-of-power-automate-gotchas/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
