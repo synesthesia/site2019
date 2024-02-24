@@ -35,6 +35,16 @@ As our needs have changed and many of the endpoints are now irrelevant, obviousl
 
 So far the answer is "very much easier", to the point where I'm now looking for how to drop this into our longer term roadmap for this year. The other lesson I've learned from last time is bring the team along with me, so they don't have to bounce issues to me...
 
+## Things that caught my eye
+
+
+
+## Tool of the week
+
+[danielmiessler/fabric](https://github.com/danielmiessler/fabric) is a toolset that combines a set of tested prompts (“Patterns”) and a CLI that lets you easily route text to. ChatGPT via one of the prompts.
+
+I’ve only done some basic testing so far, enough to make it interesting, especially for the extension possibilities. I’ve written up how I got it [working on WSL2](https://garden.synesthesia.co.uk/fabric-ai-prompter/).
+
 
 
 
