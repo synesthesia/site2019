@@ -1,0 +1,21 @@
+{
+	"fb4f154beb3fcdaa5c942cc4c272fdea": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": ".NET Bot :dotnet:",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/47f2d4ee6bc99ecbdde10d418b83c9727a635d5f6dda2c16d9fdfa4bf9a4cf64.png",
+			"url": "https://dotnet.social/@bot"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111996616562828678#reblogged-by-109365891070127826",
+		"published": null,
+		"wm-received": "2024-02-26T10:05:42Z",
+		"wm-id": 1785654,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/111996616562828678/109365891070127826",
+		"wm-target": "https://www.synesthesia.co.uk/note/2024/02/23/weeknote-2024-w08/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/note/2024/02/23/weeknote-2024-w08/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
