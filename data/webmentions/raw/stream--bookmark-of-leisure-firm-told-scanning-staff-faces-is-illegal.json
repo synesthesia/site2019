@@ -74,5 +74,24 @@
 		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"542c0a422dd2fa05060d8d2a1db67875": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Diamond_AaronXG",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/1518d910f77727b4e0bab76dac72a1b2c12cfce43fd96707399eee8497e58a2c.png",
+			"url": "https://mstdn.party/@Diamond_AaronXG"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111997258995397494#reblogged-by-110646109270116768",
+		"published": null,
+		"wm-received": "2024-02-26T16:41:42Z",
+		"wm-id": 1785761,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/111997258995397494/110646109270116768",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-property": "repost-of",
+		"wm-private": false
 	}
 }
