@@ -1,0 +1,78 @@
+{
+	"13f54b04e45fe373c995fe47b57b0a78": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Helen Graham",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/866f4ed446afb1569abcee6d5df17b86600181ab6706e12728ac8af8858729ef.jpg",
+			"url": "https://ieji.de/@Helengraham"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111997258995397494#favorited-by-110581935968571938",
+		"published": null,
+		"wm-received": "2024-02-26T14:11:40Z",
+		"wm-id": 1785706,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111997258995397494/110581935968571938",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"3d0cc53e8ec28b97cf7274d384d9c3c9": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Nic Climate Action Mom",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@ExponentialGPs"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111997258995397494#favorited-by-110582013405809029",
+		"published": null,
+		"wm-received": "2024-02-26T14:11:41Z",
+		"wm-id": 1785707,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/111997258995397494/110582013405809029",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"b5df11a4832ff23a8c629782583da1cd": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Epistatacadam",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/cacf8c7728036ce6db6fff572e8a6343c192e7d517aa12444f3be26d7fbdcab8.jpg",
+			"url": "https://toot.wales/@epistatacadam"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111997258995397494#reblogged-by-109327021767667089",
+		"published": null,
+		"wm-received": "2024-02-26T14:11:44Z",
+		"wm-id": 1785709,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/111997258995397494/109327021767667089",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	},
+	"328113aa8faedd87559a524a7bb17fcd": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Jayne:baner:????????:flag_rainbow:",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/794cee4d20ed466ce4b92469ed940addcfaf7e2646a01c1eb8c58d9264488165.jpg",
+			"url": "https://toot.wales/@TCMuffin"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/111997258995397494#reblogged-by-109341996459043544",
+		"published": null,
+		"wm-received": "2024-02-26T14:11:44Z",
+		"wm-id": 1785708,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/111997258995397494/109341996459043544",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-leisure-firm-told-scanning-staff-faces-is-illegal/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
