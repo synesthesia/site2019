@@ -36,8 +36,6 @@ The reason I set up a new server for wiki was to enable me to take advantage of 
 
 This second post documents how to move the wiki.
 
-{{% toc %}} 
-
 The approach I am taking does involve a period of outage for the service, but as it's a personal server that's acceptable. If you wanted to do the swap without an outage you would need a more complex architecture including a load balancer so you could set up the new server while the old one still served requests, then swap when the new one is ready. That would be total overkill for this site!
 
 ## Reviewing what sites we are moving

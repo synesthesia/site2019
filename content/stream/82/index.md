@@ -31,4 +31,4 @@ image:
 #   - src: "example.jpg"
 #     title: "TODO: alt text goes here"
 ---
-@majkp@hostux.social shows how to hHide large data files from your diffs with `.gitattributes`
+@majkp@hostux.social shows how to hide large data files from your diffs with `.gitattributes`

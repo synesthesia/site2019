@@ -30,8 +30,6 @@ projects: []
 ---
 I recently had to migrate my wiki to a 64 bit server in order to deploy the most recent updates. These instructions relate to Ubuntu 18.04 64 bit on Digital Ocean.
 
-{{% toc %}} 
-
 ## Backup old wiki files
 
 As this was to support a migration, before setting up anything new I took a local copy of the `/home/wiki/.wiki` directory on my existing server.

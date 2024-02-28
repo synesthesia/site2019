@@ -28,8 +28,6 @@ image:
 projects: ["antora"]
 ---
 
-{{% toc %}} 
-
 ## Context
 
 One of the many tools that has emerged in the [documents as code]({{< relref "../2020-09-03-documents-as-code/index.md" >}}) space is [Antora](https://antora.org). Antora is aimed squarely at the production of technical documentation websites with the following features:

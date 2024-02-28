@@ -31,8 +31,6 @@ If you work in any way with systems or data, you will know the situation, where 
 
 As we have fully adopted Office 365 at work, Microsoft Flow is rapidly becoming my favourite tool for basic low-volume data manipulation. A case in point came up today...
 
-{{% toc %}}
-
 ## Scenario
 We run a federated identity system for our customer-facing sites to provide a single login (SSO) across all services. When a new user registers we fire some external logic that looks them up in our CRM (Dynamics 365), and then sends some key data back to the identity server where it is added as claims. These claims are then available to downstream systems that use the SSO, so (for example) can be used to retrieve further data from the CRM - a good example would be a website retrieving a list of content groups for a user in order to control what they can see.
 
