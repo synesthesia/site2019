@@ -1,0 +1,10 @@
+{
+	"url": "https://blog.michal.pawlik.dev/posts/til/cleaner-pr-diffs/",
+	"title": "Hide irrelevant data in your PRs - Dev notes",
+	"description": "TL;DR Today I learned that you can hide irrelevant changes from Github PRs. The syntax for .gitattributes can be tricky though.\nIn my current project, it’s sometimes necessary to re-generate and commit a bunch of files to the repository. This can happen when you store some IaC or test data in the repository.\nSample repository To demonstrate the problem, here’s an example repository: https://github.com/majk-p/nice-pr-diffs that features two PRs:\nThe first one is hard to read https://github.",
+	"published": "2024-01-05T00:00:00.000Z",
+	"author": {
+		"name": "Dev notes",
+		"url": "https://blog.michal.pawlik.dev/
+    }
+}
