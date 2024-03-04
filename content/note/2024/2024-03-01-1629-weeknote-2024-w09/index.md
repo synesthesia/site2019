@@ -42,12 +42,12 @@ Other highlights:
 - [The Theoretical Minimum](https://theoreticalminimum.com/) - a series of lectures by Stanford professor [Leonard Susskind](https://theoreticalminimum.com/biography) that cover physics from classical mechanics to quantum field theory 
 >  specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners
 
-    I used to know a fair bit of calculus (engineering degrees are like that), but I’ve forgotten a lot. I’ve watched two of the 10 lectures in the first module (Classical Mechanics), and so far although I’ve had to concentrate, nothing too hard. Let’s see how far it holds my interest!
+   I used to know a fair bit of calculus (engineering degrees are like that), but I’ve forgotten a lot. I’ve watched two of the 10 lectures in the first module (Classical Mechanics), and so far although I’ve had to concentrate, nothing too hard. Let’s see how far it holds my interest!
     
 - [Losing the imitation game](https://jenniferplusplus.com/losing-the-imitation-game/) &mdash; an insightful post from Jennifer++ in which she expresses a clear view that the limits of LLMs in writing code are around the truly skilled parts of software engineering:
 > The fundamental task of software development [...] is to [build a mental model of that complex system](https://pablo.rauzy.name/dev/naur1985programming.pdf), make sense of it, and manage that over time
 
-    and those are not things a Large Language Model is a fit for. Where she does agree LLMs can be useful is the concept of “LLM as code intern” that many have advocated.
+   and those are not things a Large Language Model is a fit for. Where she does agree LLMs can be useful is the concept of “LLM as code intern” that many have advocated.
 
 
 
