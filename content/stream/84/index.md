@@ -28,4 +28,6 @@ image:
 ---
 This is a hard watch, but essential viewing for anyone who cares about what happens when a dictator in all but name unleashes their army on civilians.
 
+[Direct link](https://archive.org/details/youtube-gvAyykRvPBo)
+
 <iframe src="https://archive.org/embed/youtube-gvAyykRvPBo" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen title="20 Days in Mariupol"></iframe>
