@@ -1,0 +1,21 @@
+{
+	"f530390d712c97e9bb341dec412d2992": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Ukraine Invasion Feed",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/2a355e8ebe7968eff2c0f472b2ddf0e673bb20294c43adc29145fbe2c2a358e9.png",
+			"url": "https://newsmast.community/@ukraineinvasion"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/112115301182698876#reblogged-by-111823995573872274",
+		"published": null,
+		"wm-received": "2024-03-18T09:09:08Z",
+		"wm-id": 1794605,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/112115301182698876/111823995573872274",
+		"wm-target": "https://www.synesthesia.co.uk/stream/20-days-in-mariupol/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/20-days-in-mariupol/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
