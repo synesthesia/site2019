@@ -54,7 +54,6 @@ So this is a combination of two weeks.
 ## Reading
 
 - thoroughly enjoying Cal Newport's latest, [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://amzn.eu/d/ey2UvhW)
-- 
 
 ## Listening
 
