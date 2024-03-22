@@ -13,96 +13,12 @@ I&#8217;ve been enjoying a free trial from Lovefilm.com, but as it draws to a cl
 
 Nothing very exciting there you might think, until you compare the prices for similar services. **Bear in mind these services are being offered by the same company**:
 
-<table border="1">
-  <tr>
-    <td>
-      <strong>Service</strong>
-    </td>
-    
-    <td>
-      <strong>Lovefilm.com</strong>
-    </td>
-    
-    <div align="center">
-      <td>
-        <strong>Sainsbury&#8217;s DVD Rental</strong>
-      </td>
-    </div>
-  </tr>
-  
-  <tr>
-    <td>
-      1 DVD at a time
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;9.99 / mth
-      </div>
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;7.97 / mth
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      2 DVDs at a time
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;12.99 / mth
-      </div>
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;11.47 / mth
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      3 DVDs at a time
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;14.99 / mth
-      </div>
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;13.97 / mth
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      4 DVDs at a time
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;19.99 / mth
-      </div>
-    </td>
-    
-    <td>
-      <div align="center">
-        &pound;19.99 / mth
-      </div>
-    </td>
-  </tr>
-</table>
-
+|Service|Lovefilm.com|Sainsbury&#8217;s DVD Rental|
+|-----|-----|-----|
+|1 DVD at a time|&pound;9.99 / mth|&pound;7.97 / mth|
+|2 DVDs at a time|&pound;12.99 / mth|&pound;11.47 / mth|
+|3 DVDs at a time|&pound;14.99 / mth|&pound;13.97 / mth|
+|4 DVDs at a time|&pound;19.99 / mth|&pound;19.99 / mth|
 Presumably Sainsbury&#8217;s buying market share by discounting their part of the revenue?
 
 <ins datetime="2005-03-10T13:07:0200:00">Update: Found a <a href="https://www.dvd-rental-guide.co.uk/">DVD Rental Service comparison</a></ins>
