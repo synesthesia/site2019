@@ -1,0 +1,21 @@
+{
+	"4189d858a4a3d1bf6f85ff6482a3556f": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Luis Suarez",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@elsua"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/112138412138098025#favorited-by-109395758825621579",
+		"published": null,
+		"wm-received": "2024-03-22T11:54:30Z",
+		"wm-id": 1796458,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/112138412138098025/109395758825621579",
+		"wm-target": "https://www.synesthesia.co.uk/note/2024/03/22/weeknote-2024-w11-12/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/note/2024/03/22/weeknote-2024-w11-12/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
