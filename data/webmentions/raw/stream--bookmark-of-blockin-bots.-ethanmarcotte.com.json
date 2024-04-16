@@ -1,0 +1,21 @@
+{
+	"20570d649a64e2d898a5cd20b2e5e180": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Molly B",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@mjibrower"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/112279392239802521#favorited-by-109321125042863020",
+		"published": null,
+		"wm-received": "2024-04-16T11:38:17Z",
+		"wm-id": 1809607,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/112279392239802521/109321125042863020",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-blockin-bots.-ethanmarcotte.com/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/stream/bookmark-of-blockin-bots.-ethanmarcotte.com/",
+		"wm-property": "like-of",
+		"wm-private": false
+	}
+}
