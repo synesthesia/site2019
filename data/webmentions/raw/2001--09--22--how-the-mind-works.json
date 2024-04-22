@@ -1,0 +1,40 @@
+{
+	"4ebbf916d33a5284a8ac9045abcc5fa5": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Tom Casavant",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/96e6f33aca9c9d847e9069fce6096d3430ac48893309a3b73a61da3733cbe24c.jpg",
+			"url": "https://tomkahe.com/@tom"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/112316636768636082#favorited-by-111598457976911125",
+		"published": null,
+		"wm-received": "2024-04-22T20:26:45Z",
+		"wm-id": 1811604,
+		"wm-source": "https://brid.gy/like/mastodon/@julian@social.synesthesia.co.uk/112316636768636082/111598457976911125",
+		"wm-target": "https://www.synesthesia.co.uk/2001/09/22/how-the-mind-works/",
+		"wm-protocol": "webmention",
+		"like-of": "https://www.synesthesia.co.uk/2001/09/22/how-the-mind-works/",
+		"wm-property": "like-of",
+		"wm-private": false
+	},
+	"66787459d0ff34b1941af79dd97832bb": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Sampath Pāṇini ®",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/4ee2062370ba0698016b51d1c3a16fd08c8f2f92f931ef09f265e1636fc098e8.jpg",
+			"url": "https://mastodon.world/@paninid"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/112316636768636082#reblogged-by-109315017329670940",
+		"published": null,
+		"wm-received": "2024-04-22T20:26:45Z",
+		"wm-id": 1811603,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/112316636768636082/109315017329670940",
+		"wm-target": "https://www.synesthesia.co.uk/2001/09/22/how-the-mind-works/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/2001/09/22/how-the-mind-works/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
