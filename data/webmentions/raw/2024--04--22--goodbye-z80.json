@@ -1,0 +1,21 @@
+{
+	"c8af3eeb96d4948ba1db3129e5545477": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Technology Feed",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/c121f04350aa259e38cc8223af7077c5c8071e12e7bcbeefbd932b6c8707f20e.png",
+			"url": "https://newsmast.community/@technology"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/112314591625567514#reblogged-by-111823997633451414",
+		"published": null,
+		"wm-received": "2024-04-22T11:24:11Z",
+		"wm-id": 1811457,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/112314591625567514/111823997633451414",
+		"wm-target": "https://www.synesthesia.co.uk/2024/04/22/goodbye-z80/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/2024/04/22/goodbye-z80/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
