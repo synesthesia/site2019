@@ -1,0 +1,25 @@
+{
+	"0a776c4584e9178edc5631a3748bbfac": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://webmention.io/avatar/agaric.us-west.host.bsky.network/d217e43f631200e47ea8a1f13e96adc95cb4f3b95dcf10711a254be1cefa6041.jpg",
+			"url": "https://bsky.app/profile/synesthesia.co.uk"
+		},
+		"url": "https://bsky.app/profile/did:plc:yzmsi4mlkg335syuxizvkgqe/post/3l25kdaulfe25",
+		"published": "2024-08-20T11:53:20+00:00",
+		"wm-received": "2024-08-20T11:53:28Z",
+		"wm-id": 1843833,
+		"wm-source": "https://bsky.brid.gy/convert/web/at://did:plc:yzmsi4mlkg335syuxizvkgqe/app.bsky.feed.post/3l25kdaulfe25%23bridgy-fed-create",
+		"wm-target": "https://www.synesthesia.co.uk/stream/tsundoku/",
+		"wm-protocol": "webmention",
+		"content": {
+			"html": "Tsundoku\n#words\nOnly just found out about this word. Moving to e-readers doesn’t eliminate the Tsundoku, it just makes it harder to see…\n<a href=\"https://en.wikipedia.org/wiki/Tsundoku\">en.wikipedia.org/wiki/Tsundoku</a>\n<a href=\"https://www.synesthesia.co.uk/stream/tsundoku/\">www.synesthesia.co.uk/stream/tsund...</a>",
+			"text": "Tsundoku\n#words\nOnly just found out about this word. Moving to e-readers doesn’t eliminate the Tsundoku, it just makes it harder to see…\nen.wikipedia.org/wiki/Tsundoku\nwww.synesthesia.co.uk/stream/tsund..."
+		},
+		"mention-of": "https://www.synesthesia.co.uk/stream/tsundoku/",
+		"wm-property": "mention-of",
+		"wm-private": false
+	}
+}
