@@ -1,0 +1,21 @@
+{
+	"d18ddbe58d15095be64e459d9ab3b000": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/9bfb8092b6ed9fb9c19a1e0dd581a4f5b27f5798c911d217691012a5af6e363a.jpg",
+			"url": "https://bsky.brid.gy/r/https://bsky.app/profile/synesthesia.co.uk"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/113072406380226366#reblogged-by-112993872440526669",
+		"published": null,
+		"wm-received": "2024-09-06T10:13:36Z",
+		"wm-id": 1846088,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/113072406380226366/112993872440526669",
+		"wm-target": "https://www.synesthesia.co.uk/stream/bookmark-of-sql-4-cds-xrmtoolbox-tool-mark-carrington/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/bookmark-of-sql-4-cds-xrmtoolbox-tool-mark-carrington/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
