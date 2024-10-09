@@ -1,0 +1,59 @@
+{
+	"4fdb9dc1046fbd3730f3d564de5dc59f": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Programming Feed",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://newsmast.community/@programming"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/113277950942488649#reblogged-by-111823997767748305",
+		"published": null,
+		"wm-received": "2024-10-09T19:21:26Z",
+		"wm-id": 1851246,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/113277950942488649/111823997767748305",
+		"wm-target": "https://www.synesthesia.co.uk/note/2024/10/09/transcribing-meeting-recordings-with-openai/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/note/2024/10/09/transcribing-meeting-recordings-with-openai/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	},
+	"4653ff0107e84b7c01a8858f0c8e0e0f": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Tech Cyborg",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@CyborgHT"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/113277950942488649#reblogged-by-112722319410136110",
+		"published": null,
+		"wm-received": "2024-10-09T19:21:26Z",
+		"wm-id": 1851245,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/113277950942488649/112722319410136110",
+		"wm-target": "https://www.synesthesia.co.uk/note/2024/10/09/transcribing-meeting-recordings-with-openai/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/note/2024/10/09/transcribing-meeting-recordings-with-openai/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	},
+	"fcfd6e6b91739c73af2c4bb97d8b162e": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "AI Feed",
+			"photo": "https://webmention.io/avatar/media.social.synesthesia.co.uk/2a355e8ebe7968eff2c0f472b2ddf0e673bb20294c43adc29145fbe2c2a358e9.png",
+			"url": "https://newsmast.community/@ai"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/113277950942488649#reblogged-by-111823997680455276",
+		"published": null,
+		"wm-received": "2024-10-09T19:21:28Z",
+		"wm-id": 1851247,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/113277950942488649/111823997680455276",
+		"wm-target": "https://www.synesthesia.co.uk/note/2024/10/09/transcribing-meeting-recordings-with-openai/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/note/2024/10/09/transcribing-meeting-recordings-with-openai/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
