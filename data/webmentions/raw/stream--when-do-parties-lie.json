@@ -1,0 +1,21 @@
+{
+	"6c6fd0c29709bd3714f1feea59683e46": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Social Media Feed",
+			"photo": "https://webmention.io/avatar/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://newsmast.community/@socialmedia"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/113990667652454574#reblogged-by-111823995509685786",
+		"published": null,
+		"wm-received": "2025-02-12T11:51:02Z",
+		"wm-id": 1884382,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/113990667652454574/111823995509685786",
+		"wm-target": "https://www.synesthesia.co.uk/stream/when-do-parties-lie/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/when-do-parties-lie/",
+		"wm-property": "repost-of",
+		"wm-private": false
+	}
+}
