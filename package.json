@@ -64,7 +64,7 @@
     "article-title": "^4.1.0",
     "babel-loader": "8.3.0",
     "commander": "^8.0.0",
-    "dompurify": "^2.3.6",
+    "dompurify": "^3.0.0",
     "dotenv": "^16.0.0",
     "got": "^11.8.5",
     "gray-matter": "^4.0.3",
