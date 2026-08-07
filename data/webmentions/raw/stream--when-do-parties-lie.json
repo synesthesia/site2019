@@ -36,5 +36,24 @@
 		"repost-of": "https://www.synesthesia.co.uk/stream/when-do-parties-lie/",
 		"wm-property": "repost-of",
 		"wm-private": false
+	},
+	"c23f9c8bf135e9ecea3990b344f4bc49": {
+		"type": "entry",
+		"author": {
+			"type": "card",
+			"name": "Julian Elve",
+			"photo": "https://avatars.webmention.io/social.synesthesia.co.uk/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+			"url": "https://mastodon.social/@Julianelve"
+		},
+		"url": "https://social.synesthesia.co.uk/@julian/113990667652454574#reblogged-by-117055486012202855",
+		"published": null,
+		"wm-received": "2026-08-07T18:19:48Z",
+		"wm-id": 2016825,
+		"wm-source": "https://brid.gy/repost/mastodon/@julian@social.synesthesia.co.uk/113990667652454574/117055486012202855",
+		"wm-target": "https://www.synesthesia.co.uk/stream/when-do-parties-lie/",
+		"wm-protocol": "webmention",
+		"repost-of": "https://www.synesthesia.co.uk/stream/when-do-parties-lie/",
+		"wm-property": "repost-of",
+		"wm-private": false
 	}
 }
